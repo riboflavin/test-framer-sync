@@ -35,6 +35,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Real-time Q&A and assistance during meetings (ask the AI on the fly).
 - Unique whiteboard AI for creating mind-maps/diagrams in meeting.
 - Included with paid Zoom (no extra fee for existing Zoom subscribers).  
+## Comparison table    
 | Feature                           | Krisp             | Zoom AI           |
 |-----------------------------------|-------------------|-------------------|
 | Trial/Free Plan                   | ✅ Free plan      | ❌ Requires paid Zoom |
@@ -47,9 +48,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages | ❌ English only |
 | Desktop App                       | ✅ Yes (Mac & Windows) | ✅ Yes (Mac & Windows) |
 | iPhone & Android Apps             | ✅ Yes (Both)     | ✅ Yes (Both)     |  
-- **Krisp**: People or companies looking for a free plan and an easy-to-use tool might consider Krisp. However, it lacks integrations with popular platforms like HubSpot and Notion, limiting its usefulness in streamlining meeting workflows.
+Some individuals or organizations may find Krisp appealing for its free plan and ease of use, particularly those who prioritize simplicity and cost-effectiveness. However, both tools lack deep integrations with popular platforms like HubSpot and Notion, limiting their utility for users who heavily rely on such software for productivity and organization. Additionally, while Krisp is suitable for in-person meetings and local recording, it may not fully meet the needs of users seeking comprehensive meeting solutions.
 
-- **Zoom AI**: Users who prioritize Zoom and calendar integration may find Zoom AI appealing. Nevertheless, its lack of support for in-person meetings and local recording could hinder its effectiveness in facilitating productive discussions. Additionally, the absence of deep integrations with other tools may limit its ability to enhance meeting outcomes.  
+On the other hand, Zoom AI's native integration with Zoom and calendars could benefit users who heavily utilize these tools for scheduling and hosting meetings. Nevertheless, the tool's lack of integrations with other platforms and absence of an automation engine may hinder its ability to streamline meeting processes for users with diverse software needs. Despite offering support for multiple languages and availability across various devices, both tools fall short in providing a comprehensive solution for users looking to enhance their meeting productivity and efficiency.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
