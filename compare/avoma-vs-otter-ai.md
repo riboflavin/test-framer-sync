@@ -42,6 +42,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Only supports English.
 - Speaker ID can be hit-or-miss, requiring manual fixes in notes.  
 ## Comparison table    
+Some people or companies might prefer Avoma for its integrations with tools like HubSpot and Notion, as well as its automation engine. However, both tools lack depth in integrations and may not fully assist users in meeting productivity.
+
+On the other hand, Otter.ai's free plan and ease of use could appeal to individuals or organizations looking for a straightforward solution. Yet, users may find limitations in both tools when it comes to integrating with a variety of platforms and maximizing meeting efficiency.  
 | Feature                           | Avoma               | Otter.ai           |
 |-----------------------------------|---------------------|--------------------|
 | Trial/Free Plan                   | ❌ Trial only       | ✅ Free plan       |
@@ -54,7 +57,24 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ❌ English only     | ❌ English only    |
 | Desktop App                       | ❌ No (Web-based)   | ❌ No (Web-based)  |
 | iPhone & Android Apps             | ✅ Yes (Both)       | ✅ Yes (Both)      |  
-Avoma might appeal to companies looking for a tool with integrations to Zoom and calendar apps, as well as HubSpot and Notion, and an automation engine. However, it lacks support for in-person meetings and local recording, and has a learning curve. Otter.ai, on the other hand, offers a free plan, easy usability, and mobile apps for both iPhone and Android. Yet, it falls short on integrations beyond Zoom and calendar, and lacks an automation engine, limiting its ability to assist users effectively in meeting tasks.  
+Some people or companies might prefer Avoma for its integrations with tools like HubSpot and Notion, as well as its automation engine. However, both tools lack depth in integrations and may not fully assist users in meeting productivity.
+
+On the other hand, Otter.ai's free plan and ease of use could appeal to individuals or organizations looking for a straightforward solution. Yet, users may find limitations in both tools when it comes to integrating with a variety of platforms and maximizing meeting efficiency.  
+| Feature                           | Avoma               | Otter.ai           |
+|-----------------------------------|---------------------|--------------------|
+| Trial/Free Plan                   | ❌ Trial only       | ✅ Free plan       |
+| Zoom & Calendar Integration       | ✅ Yes              | ✅ Yes             |
+| Easy to Use?                      | ❌ Learning curve   | ✅ Yes             |
+| Good for In-Person Meetings?      | ❌ No               | ❌ No              |
+| Good for Local Recording?         | ❌ No               | ❌ No              |
+| Integrates with HubSpot, Notion, etc.? | ✅ Yes           | ❌ Limited         |
+| Automation Engine?                | ✅ Yes              | ❌ No              |
+| Language Support                  | ❌ English only     | ❌ English only    |
+| Desktop App                       | ❌ No (Web-based)   | ❌ No (Web-based)  |
+| iPhone & Android Apps             | ✅ Yes (Both)       | ✅ Yes (Both)      |  
+Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
+Avoma: ❌ Trial only,✅ Yes,❌ Learning curve,❌ No,❌ No,✅ Yes,✅ Yes,❌ English only,❌ No (Web-based),✅ Yes (Both)  
+Otter.ai: ✅ Free plan,✅ Yes,✅ Yes,❌ No,❌ No,❌ Limited,❌ No,❌ English only,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
