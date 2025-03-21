@@ -43,6 +43,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Free plan limits on noise removal and summaries
 - Concise summaries but not as in-depth as competitors
 - No real-time collaboration or multi-user features  
+## Comparison table    
 | Feature                           | Fireflies.ai               | Krisp                      |
 |-----------------------------------|----------------------------|----------------------------|
 | Trial/Free Plan                   | ✅ Free plan (limited)     | ✅ Free plan               |
@@ -55,9 +56,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages      | ✅ Multiple languages      |
 | Desktop App                       | ❌ No (Web-based)          | ✅ Yes (Mac & Windows)     |
 | iPhone & Android Apps             | ✅ Yes (Both)              | ✅ Yes (Both)              |  
-- Fireflies.ai might appeal to individuals or businesses looking for a tool with Zoom and calendar integration, as well as support for multiple languages. However, it lacks features for in-person meetings and local recording, and falls short on integrations with popular platforms like HubSpot and Notion.
+Both Fireflies.ai and Krisp offer free plans, making them attractive to individuals and small businesses looking to save on costs. However, Fireflies.ai's integration with Zoom and calendars may appeal more to users who heavily rely on these tools for scheduling and communication, despite lacking depth in integrations with other platforms like HubSpot and Notion. On the other hand, Krisp's focus on in-person meeting support and local recording capabilities could benefit users who prioritize face-to-face interactions and need to store meeting recordings locally, even though it falls short in terms of integrations and automation features.
 
-- On the other hand, Krisp could be suitable for those seeking an easy-to-use solution with desktop and mobile apps available. Despite its strengths, Krisp lacks deep integrations and an automation engine, limiting its ability to truly enhance meeting productivity.  
+Overall, both tools have their strengths and weaknesses, with Fireflies.ai excelling in automation and language support, while Krisp offers a more user-friendly experience with desktop and mobile apps. However, users may find limitations in the depth of integrations provided by both tools, potentially hindering their ability to streamline meeting processes effectively and efficiently.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
