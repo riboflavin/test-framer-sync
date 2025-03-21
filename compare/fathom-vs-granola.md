@@ -1,7 +1,7 @@
 ---
 type: comparison
-title:  Avoma vs. Otter.ai  Which should you choose?
-description: Comparing Avoma and Otter.ai to help you choose the best transcription tool. Explore features, pricing, and an alternative option, Circleback.
+title:  Fathom vs. Granola  Which should you choose?
+description: Comparing Fathom and Granola to help you decide which analytics tool is best for your needs. Explore Circleback as an alternative option.
 ---
 
 # Fathom vs. Granola – Which should you choose?  
