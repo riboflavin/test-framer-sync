@@ -40,6 +40,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Transcription errors with accents or fast speech.
 - English language support only.
 - Speaker ID accuracy may vary.  
+## Comparison table    
 | Feature                        | Zoom AI               | Otter.ai              |
 |-------------------------------|-----------------------|-----------------------|
 | Trial/Free Plan               | ❌ Requires paid Zoom  | ✅ Free plan           |
@@ -52,9 +53,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support               | ❌ English only        | ❌ English only       |
 | Desktop App                   | ✅ Yes (Mac & Windows) | ❌ No (Web-based)     |
 | iPhone & Android Apps         | ✅ Yes (Both)          | ✅ Yes (Both)         |  
-- Companies or individuals looking for a free option may prefer Otter.ai due to its availability of a free plan, while those seeking seamless Zoom integration might lean towards Zoom AI. However, both tools lack deep integrations with popular platforms like HubSpot and Notion, potentially limiting their usefulness in certain workflows.
+Both Zoom AI and Otter.ai may appeal to individuals or businesses seeking a tool with Zoom and calendar integration, as well as a user-friendly interface. However, those looking for deeper integrations with platforms like HubSpot or Notion may find both tools lacking in this aspect. Additionally, users may find limitations in the tools' ability to enhance productivity during meetings due to the absence of an automation engine and support for in-person meetings or local recording.
 
-- Despite their ease of use and cross-platform availability, both Zoom AI and Otter.ai fall short in supporting in-person meetings and local recording. Additionally, the absence of an automation engine in either tool may hinder users looking to streamline their meeting processes and maximize productivity.  
+Overall, while Zoom AI and Otter.ai offer basic functionalities and ease of use, users who require more extensive integrations and features to streamline their meeting processes may need to explore alternative solutions that provide a more comprehensive suite of tools.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
