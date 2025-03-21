@@ -36,6 +36,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Speaker separation and labeling is very clear in notes
 - Workflow integrations (CRM sync, calendar, etc.) streamline follow-ups  
 ## Comparison table    
+Some people or companies might prefer Fathom for its free plan and integrations with Zoom and calendars, but may find its lack of in-person meeting support and limited integrations a drawback. Avoma, on the other hand, offers a free trial and automation engine, but its learning curve and English-only language support may deter some users seeking a more comprehensive solution.
+
+Both tools may fall short in terms of depth of integrations and practicality in helping users effectively manage their meetings. While Fathom and Avoma offer some useful features like Zoom integration and mobile apps, their limitations in areas such as in-person meeting support and language options may hinder users looking for a more robust solution to streamline their meeting processes.  
 | Feature                           | Fathom               | Avoma                |
 |-----------------------------------|----------------------|----------------------|
 | Trial/Free Plan                   | ✅ Free unlimited plan | ❌ Trial only         |
@@ -48,9 +51,24 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages | ❌ English only      |
 | Desktop App                       | ❌ No (Web-based)    | ❌ No (Web-based)    |
 | iPhone & Android Apps             | ✅ Yes (Both)        | ✅ Yes (Both)        |  
-Fathom might appeal to individuals or businesses looking for a straightforward tool with Zoom and calendar integration, as well as compatibility with popular platforms like HubSpot and Notion. However, its lack of an automation engine and limited language support could hinder its effectiveness in streamlining meeting processes.
+Some people or companies might prefer Fathom for its free plan and integrations with Zoom and calendars, but may find its lack of in-person meeting support and limited integrations a drawback. Avoma, on the other hand, offers a free trial and automation engine, but its learning curve and English-only language support may deter some users seeking a more comprehensive solution.
 
-Avoma could attract users seeking a more advanced solution with automation capabilities and support for multiple languages. Yet, its learning curve and absence of features for in-person meetings and local recording may limit its utility in enhancing meeting productivity.  
+Both tools may fall short in terms of depth of integrations and practicality in helping users effectively manage their meetings. While Fathom and Avoma offer some useful features like Zoom integration and mobile apps, their limitations in areas such as in-person meeting support and language options may hinder users looking for a more robust solution to streamline their meeting processes.  
+| Feature                           | Fathom               | Avoma                |
+|-----------------------------------|----------------------|----------------------|
+| Trial/Free Plan                   | ✅ Free unlimited plan | ❌ Trial only         |
+| Zoom & Calendar Integration       | ✅ Yes               | ✅ Yes               |
+| Easy to Use?                      | ✅ Yes               | ❌ Learning curve     |
+| Good for In-Person Meetings?      | ❌ No                | ❌ No                |
+| Good for Local Recording?         | ❌ No                | ❌ No                |
+| Integrates with HubSpot, Notion, etc.? | ✅ Yes           | ✅ Yes               |
+| Automation Engine?                | ❌ No                | ✅ Yes               |
+| Language Support                  | ✅ Multiple languages | ❌ English only      |
+| Desktop App                       | ❌ No (Web-based)    | ❌ No (Web-based)    |
+| iPhone & Android Apps             | ✅ Yes (Both)        | ✅ Yes (Both)        |  
+Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
+$competitor1: ✅ Free unlimited plan,✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,❌ No,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
+$competitor2: ❌ Trial only,✅ Yes,❌ Learning curve,❌ No,❌ No,✅ Yes,✅ Yes,❌ English only,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
