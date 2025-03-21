@@ -1,7 +1,7 @@
 ---
 type: alternatives
-title:  Alternatives to Otter.ai  
-description: Discover top alternatives to Otter.ai and compare features with Circleback. Make an informed choice for your transcription needs.
+title:  Alternatives to Granola  
+description: Discover alternative breakfast options to granola. Explore the differences between granola and Circleback for a healthier morning meal.
 ---
 
 # Alternatives to Granola    
