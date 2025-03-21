@@ -60,24 +60,6 @@ Both Fathom and Krisp fall short in terms of integration depth and practical mee
 | Language Support                  | ✅ Multiple languages| ✅ Multiple languages|
 | Desktop App                       | ❌ No (Web-based)    | ✅ Yes (Mac & Windows)|
 | iPhone & Android Apps             | ✅ Yes (Both)        | ✅ Yes (Both)        |  
-Some individuals or businesses may find Fathom appealing for its free plan and integration with Zoom and calendars, making it suitable for those looking for a straightforward tool. However, its lack of features like in-person meeting support and local recording may limit its usefulness for more complex meeting needs. Similarly, Krisp's free plan and ease of use could attract users seeking a simple solution, but its limited integrations with popular platforms like HubSpot and Notion may hinder its ability to streamline meeting workflows effectively.
-
-Both Fathom and Krisp fall short in terms of integration depth and practical meeting assistance, as neither tool offers a robust automation engine or comprehensive language support. Additionally, Fathom's web-based nature and Krisp's lack of desktop app versatility may pose challenges for users looking for a seamless meeting experience across different devices and platforms.  
-| Feature                           | Fathom               | Krisp                |
-|-----------------------------------|----------------------|----------------------|
-| Trial/Free Plan                   | ✅ Free unlimited plan| ✅ Free plan         |
-| Zoom & Calendar Integration       | ✅ Yes               | ❌ No                |
-| Easy to Use?                      | ✅ Yes               | ✅ Yes               |
-| Good for In-Person Meetings?      | ❌ No                | ✅ Yes               |
-| Good for Local Recording?         | ❌ No                | ✅ Yes               |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes           | ❌ No                |
-| Automation Engine?                | ❌ No                | ❌ No                |
-| Language Support                  | ✅ Multiple languages| ✅ Multiple languages|
-| Desktop App                       | ❌ No (Web-based)    | ✅ Yes (Mac & Windows)|
-| iPhone & Android Apps             | ✅ Yes (Both)        | ✅ Yes (Both)        |  
-Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
-$competitor1: ✅ Free unlimited plan,✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,❌ No,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
-$competitor2: ✅ Free plan,❌ No,✅ Yes,✅ Yes,✅ Yes,❌ No,❌ No,✅ Multiple languages,✅ Yes (Mac & Windows),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
