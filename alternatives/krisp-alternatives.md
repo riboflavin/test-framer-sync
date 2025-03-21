@@ -23,6 +23,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?  
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
+## Krisp quick pros and cons    
 Pros of Krisp:
 - Excellent noise cancellation for microphone and speaker audio.
 - Platform-agnostic, compatible with any meeting software and phone calls.
@@ -30,21 +31,23 @@ Pros of Krisp:
 Cons of Krisp:
 - Free plan limits noise removal to 60 minutes per day and 2 summaries per day.
 - Lacks real-time collaboration and multi-user features, designed as a personal tool.  
-| Attribute          | Krisp               |
+## Krisp features    
+| Feature            | Krisp               |
 |--------------------|---------------------|
 | Free Plan          | ✅                  |
-| Noise Cancellation | ❌                  |
+| Noise Cancellation | ✅                  |
 | Echo Cancellation  | ✅                  |
-| AI-Powered         | ✅                  |
+| AI Technology      | ✅                  |
 | Multiple Devices   | ✅                  |
-| Mobile Support     | ❌                  |
 | Browser Support    | ❌                  |
-| Languages          | ✅ Multiple         |
-| OS Support         | ✅ Mac & Windows    |
-| Platform Support   | ✅ Both             |  
-- Otter.ai: AI transcription and note-taking service with live transcription during meetings and cross-platform access. Great for capturing meeting notes in real time and searching conversations. Pricing starts at free for basic features.
-- Avoma: AI meeting assistant ideal for sales and customer success teams, offering detailed summaries, topic tracking, and CRM integrations. Pricing starts at $19 per user per month for the starter plan.
-- Fireflies.ai: AI meeting bot "Fred" for recording, transcribing, and summarizing discussions with sentiment analysis and topic tracking. Pricing starts at $10 per user per month for the Pro plan.  
+| Mobile App         | ❌                  |
+| Language Support   | ✅ Multiple         |
+| Platform Support   | ✅ Mac & Windows    |
+| Compatibility      | ✅ Both             |  
+## Closest Krisp competitors    
+- Otter.ai: AI transcription and note-taking service with live transcription during meetings and cross-platform access. Offers seamless integration with Zoom and calendar for auto-recording meetings. Pricing starts at free for basic features.
+- Avoma: AI meeting assistant with conversation intelligence, ideal for sales and customer success teams. Offers highly accurate transcriptions, excellent AI summaries, and workflow integrations. Pricing starts at $19 per user per month for the Starter plan.
+- Fathom: AI notetaker initially for Zoom, now offering team features. Excels in accuracy and multi-language support, with free unlimited usage for core features. Pricing starts at $15 per month for the Premium plan.  
 ## Krisp vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -53,6 +56,7 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Automations with 100+ app integrations  
 * Industry-leading security with SOC 2 Type II, EU-U.S. Data Privacy Framework, and HIPAA compliance  
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
+### Comparison table  
 | Feature                           | Krisp               | Circleback          |
 |-----------------------------------|---------------------|---------------------|
 | Easy to Use?                       | ✅                   | ❌                   |
