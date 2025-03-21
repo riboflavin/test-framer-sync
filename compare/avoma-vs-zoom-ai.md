@@ -36,6 +36,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Zoom-only, no free access, speaker ID limits.
 - No custom vocabulary, may transcribe industry jargon poorly.  
 ## Comparison table    
+Some users or companies might prefer Avoma for its integrations with various tools like HubSpot and Notion, as well as its automation engine. However, both tools lack depth in integrations and may not fully assist users in meeting productivity.
+
+On the other hand, Zoom AI could be favored by those looking for a simple and easy-to-use solution, with native Zoom integration and availability on multiple platforms. Nevertheless, users may find limitations in both tools when it comes to integrating with a wider range of applications and maximizing meeting efficiency.  
 | Feature                           | Avoma       | Zoom AI     |
 |-----------------------------------|-------------|-------------|
 | Trial/Free Plan                   | ❌ Trial only | ❌ Requires paid Zoom |
@@ -48,9 +51,24 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ❌ English only | ❌ English only |
 | Desktop App                       | ❌ No (Web-based) | ✅ Yes (Mac & Windows) |
 | iPhone & Android Apps             | ✅ Yes (Both) | ✅ Yes (Both) |  
-Avoma might appeal to individuals or companies looking for a tool with integrations to popular platforms like HubSpot and Notion, as well as an automation engine. However, both tools lack depth in integrations and may not fully assist users in meeting productivity.
+Some users or companies might prefer Avoma for its integrations with various tools like HubSpot and Notion, as well as its automation engine. However, both tools lack depth in integrations and may not fully assist users in meeting productivity.
 
-Zoom AI could be suitable for those seeking a straightforward solution with native Zoom integration and ease of use on various devices. Nevertheless, the tools fall short in providing comprehensive integrations and may not effectively enhance meeting efficiency for users.  
+On the other hand, Zoom AI could be favored by those looking for a simple and easy-to-use solution, with native Zoom integration and availability on multiple platforms. Nevertheless, users may find limitations in both tools when it comes to integrating with a wider range of applications and maximizing meeting efficiency.  
+| Feature                           | Avoma       | Zoom AI     |
+|-----------------------------------|-------------|-------------|
+| Trial/Free Plan                   | ❌ Trial only | ❌ Requires paid Zoom |
+| Zoom & Calendar Integration       | ✅ Yes       | ✅ Zoom native |
+| Easy to Use?                      | ❌ Learning curve | ✅ Yes |
+| Good for In-Person Meetings?      | ❌ No        | ❌ No        |
+| Good for Local Recording?         | ❌ No        | ❌ No        |
+| Integrates with HubSpot, Notion, etc.? | ✅ Yes | ❌ No        |
+| Automation Engine?                | ✅ Yes       | ❌ No        |
+| Language Support                  | ❌ English only | ❌ English only |
+| Desktop App                       | ❌ No (Web-based) | ✅ Yes (Mac & Windows) |
+| iPhone & Android Apps             | ✅ Yes (Both) | ✅ Yes (Both) |  
+Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
+$competitor1: ❌ Trial only,✅ Yes,❌ Learning curve,❌ No,❌ No,✅ Yes,✅ Yes,❌ English only,❌ No (Web-based),✅ Yes (Both)  
+$competitor2: ❌ Requires paid Zoom,✅ Zoom native,✅ Yes,❌ No,❌ No,❌ No,❌ No,❌ English only,✅ Yes (Mac & Windows),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
