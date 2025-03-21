@@ -43,6 +43,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Few integrations currently; mostly a standalone tool.
 - Lacks multi-user features.
 - New product – still adding features.  
+## Comparison table    
 | Feature                           | Avoma       | Granola     |
 |-----------------------------------|-------------|-------------|
 | Trial/Free Plan                   | ❌ Trial only | ✅ Free plan (limited) |
@@ -55,9 +56,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ❌ English only | ❌ English only |
 | Desktop App                       | ❌ No (Web-based) | ✅ Yes (Mac-only) |
 | iPhone & Android Apps             | ✅ Yes (Both) | ❌ No        |  
-- Avoma might appeal to companies looking for a tool with integrations to Zoom and calendars, as well as automation capabilities. However, it falls short in terms of ease of use and support for in-person meetings and local recording.
-
-- On the other hand, Granola could be suitable for individuals or businesses seeking a free plan with easy-to-use features and local recording capabilities. Nevertheless, its lack of integrations with popular platforms like HubSpot and Notion, as well as the absence of a desktop app for Windows users, may limit its usefulness in certain scenarios.  
+Avoma might appeal to companies looking for a tool with integrations to Zoom and calendar, as well as HubSpot and Notion, and an automation engine. However, it lacks support for in-person meetings and local recording, and has a learning curve. Granola, on the other hand, offers a free plan with easy usability, good for in-person meetings and local recording, but falls short on integrations and automation, and is Mac-only with no mobile apps. Both tools may not fully meet user needs in terms of integrations and practical meeting assistance.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
