@@ -44,6 +44,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Summaries are concise but not as in-depth as some competitors’ (geared toward quick recap)
 - No real-time collab or multi-user features – it’s a personal tool (teams would each use their own instance)
 - Can tax system resources during long meetings (CPU usage for AI processing)  
+## Comparison table    
 | Feature                           | Fathom               | Krisp                |
 |-----------------------------------|----------------------|----------------------|
 | Trial/Free Plan                   | ✅ Free unlimited plan| ✅ Free plan         |
@@ -56,9 +57,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages| ✅ Multiple languages|
 | Desktop App                       | ❌ No (Web-based)    | ✅ Yes (Mac & Windows)|
 | iPhone & Android Apps             | ✅ Yes (Both)        | ✅ Yes (Both)        |  
-- Fathom may appeal to individuals or businesses seeking a free tool with Zoom and calendar integration, as well as support for multiple languages. However, it lacks depth in integrations with popular platforms like HubSpot and Notion, limiting its usefulness in streamlining meeting workflows.
+Some individuals or organizations may find Fathom appealing due to its free unlimited plan and integration with Zoom and calendars. However, those seeking deeper integrations with tools like HubSpot and Notion may be disappointed. Additionally, Fathom lacks features for in-person meetings and local recording, limiting its practicality for certain users.
 
-- Krisp, on the other hand, could be preferred by those looking for a free and easy-to-use solution with local recording capabilities. While it offers desktop and mobile apps for convenience, its lack of integrations with key business tools and absence of an automation engine may hinder its ability to truly enhance meeting productivity.  
+On the other hand, Krisp offers a free plan and is user-friendly, making it suitable for various users. Nevertheless, its integration options are limited, lacking connections with popular tools like HubSpot and Notion. Users may also find Krisp lacking in features to enhance meeting productivity, such as an automation engine.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
