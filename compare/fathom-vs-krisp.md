@@ -1,7 +1,7 @@
 ---
 type: comparison
-title:  Avoma vs. Otter.ai  Which should you choose?
-description: Comparing Avoma and Otter.ai to help you choose the best transcription tool. Explore features, pricing, and an alternative option, Circleback.
+title:  Fathom vs. Krisp  Which should you choose?
+description: Comparing Fathom and Krisp for your needs? Dive into this article to weigh the options and explore an alternative with Circleback.
 ---
 
 # Fathom vs. Krisp – Which should you choose?  
