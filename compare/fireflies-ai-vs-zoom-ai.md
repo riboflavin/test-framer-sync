@@ -49,22 +49,6 @@ Some individuals or organizations may find Fireflies.ai appealing for its free p
 | Language Support                  | ✅ Multiple languages      | ❌ English only             |
 | Desktop App                       | ❌ No (Web-based)          | ✅ Yes (Mac & Windows)      |
 | iPhone & Android Apps             | ✅ Yes (Both)              | ✅ Yes (Both)               |  
-Some individuals or organizations may find Fireflies.ai appealing for its free plan and integration with various tools like HubSpot and Notion. However, both Fireflies.ai and Zoom AI lack depth in integrations and may not fully assist users in maximizing productivity during meetings. Fireflies.ai offers an automation engine and supports multiple languages, but falls short in in-person meeting capabilities and local recording. On the other hand, Zoom AI, despite its native Zoom integration and ease of use, lacks integrations with popular platforms and is limited to English language support. Additionally, Zoom AI's desktop app availability may be a deciding factor for some users, as Fireflies.ai is solely web-based.  
-| Feature                           | Fireflies.ai               | Zoom AI                    |
-|-----------------------------------|----------------------------|----------------------------|
-| Trial/Free Plan                   | ✅ Free plan (limited)      | ❌ Requires paid Zoom       |
-| Zoom & Calendar Integration       | ✅ Yes                     | ✅ Zoom native              |
-| Easy to Use?                      | ✅ Yes                     | ✅ Yes                      |
-| Good for In-Person Meetings?      | ❌ No                      | ❌ No                       |
-| Good for Local Recording?         | ❌ No                      | ❌ No                       |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes                | ❌ No                       |
-| Automation Engine?                | ✅ Yes                     | ❌ No                       |
-| Language Support                  | ✅ Multiple languages      | ❌ English only             |
-| Desktop App                       | ❌ No (Web-based)          | ✅ Yes (Mac & Windows)      |
-| iPhone & Android Apps             | ✅ Yes (Both)              | ✅ Yes (Both)               |  
-Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
-$competitor1: ✅ Free plan (limited),✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,✅ Yes,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
-$competitor2: ❌ Requires paid Zoom,✅ Zoom native,✅ Yes,❌ No,❌ No,❌ No,❌ No,❌ English only,✅ Yes (Mac & Windows),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
