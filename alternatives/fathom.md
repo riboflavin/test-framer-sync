@@ -1,7 +1,7 @@
 ---
 type: alternatives
-title:  Alternatives to Otter.ai  
-description: Discover top alternatives to Otter.ai and compare features with Circleback. Make an informed choice for your transcription needs.
+title:  Alternatives to Fathom  
+description: Discover top alternatives to Fathom and compare Fathom with Circleback in this insightful article. Make an informed decision for your analytics needs.
 ---
 
 # Alternatives to Fathom    
