@@ -36,6 +36,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Seamless integration with Zoom & calendar for auto-recording meetings
 - Transcription errors with accents or fast speech (not as accurate as human)  
 ## Comparison table    
+Some individuals or organizations may prefer Granola for its ease of use and compatibility with in-person meetings and local recording. However, both tools lack deep integrations with popular platforms like HubSpot and Notion, limiting their overall utility in enhancing productivity during meetings.
+
+On the other hand, Otter.ai offers integration with Zoom and calendars, making it suitable for users who heavily rely on these tools for scheduling and communication. Nevertheless, its limited integrations and lack of an automation engine may hinder users looking for a comprehensive solution to streamline their meeting processes effectively.  
 | Feature                           | Granola               | Otter.ai              |
 |-----------------------------------|-----------------------|-----------------------|
 | Trial/Free Plan                   | ✅ Free plan (limited) | ✅ Free plan          |
@@ -48,9 +51,24 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ❌ English only        | ❌ English only       |
 | Desktop App                       | ✅ Yes (Mac-only)      | ❌ No (Web-based)     |
 | iPhone & Android Apps             | ❌ No                  | ✅ Yes (Both)         |  
-Granola might appeal to individuals or small businesses looking for a simple and user-friendly tool for managing meetings, especially if they prioritize in-person interactions and local recording. However, its lack of integrations with popular platforms like HubSpot and limited language support could be limiting for those seeking a more comprehensive solution.
+Some individuals or organizations may prefer Granola for its ease of use and compatibility with in-person meetings and local recording. However, both tools lack deep integrations with popular platforms like HubSpot and Notion, limiting their overall utility in enhancing productivity during meetings.
 
-On the other hand, Otter.ai could be suitable for users who value Zoom and calendar integration, as well as the ability to access the tool on both desktop and mobile devices. Nevertheless, its shortcomings in terms of integrations with other tools and the absence of an automation engine may hinder its effectiveness in helping users streamline their meeting processes and tasks.  
+On the other hand, Otter.ai offers integration with Zoom and calendars, making it suitable for users who heavily rely on these tools for scheduling and communication. Nevertheless, its limited integrations and lack of an automation engine may hinder users looking for a comprehensive solution to streamline their meeting processes effectively.  
+| Feature                           | Granola               | Otter.ai              |
+|-----------------------------------|-----------------------|-----------------------|
+| Trial/Free Plan                   | ✅ Free plan (limited) | ✅ Free plan          |
+| Zoom & Calendar Integration       | ❌ No                  | ✅ Yes                |
+| Easy to Use?                      | ✅ Yes                 | ✅ Yes                |
+| Good for In-Person Meetings?      | ✅ Yes                 | ❌ No                 |
+| Good for Local Recording?         | ✅ Yes                 | ❌ No                 |
+| Integrates with HubSpot, Notion, etc.? | ❌ No            | ❌ Limited            |
+| Automation Engine?                | ❌ No                  | ❌ No                 |
+| Language Support                  | ❌ English only        | ❌ English only       |
+| Desktop App                       | ✅ Yes (Mac-only)      | ❌ No (Web-based)     |
+| iPhone & Android Apps             | ❌ No                  | ✅ Yes (Both)         |  
+Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
+$competitor1: ✅ Free plan (limited),❌ No,✅ Yes,✅ Yes,✅ Yes,❌ No,❌ No,❌ English only,✅ Yes (Mac-only),❌ No  
+$competitor2: ✅ Free plan,✅ Yes,✅ Yes,❌ No,❌ No,❌ Limited,❌ No,❌ English only,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
