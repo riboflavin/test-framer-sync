@@ -47,24 +47,6 @@ While Zoom AI and Fathom offer ease of use and support for multiple devices, the
 | Language Support                  | ❌ English only        | ✅ Multiple languages|
 | Desktop App                       | ✅ Yes (Mac & Windows) | ❌ No (Web-based)    |
 | iPhone & Android Apps             | ✅ Yes (Both)          | ✅ Yes (Both)        |  
-Some individuals or organizations may prefer Zoom AI for its native integration with Zoom and calendar, making it suitable for those heavily reliant on these platforms. Fathom, on the other hand, might appeal to users seeking a free plan with unlimited access and integration with various tools like HubSpot and Notion. However, both tools lack depth in integrations and may not fully support users in maximizing productivity during meetings.
-
-While Zoom AI and Fathom offer ease of use and support for multiple devices, they fall short in providing comprehensive integrations and automation capabilities. Users looking for a tool to streamline meeting processes and enhance collaboration may find these limitations hindering their ability to effectively utilize the software for optimal productivity.  
-| Feature                           | Zoom AI               | Fathom               |
-|-----------------------------------|-----------------------|----------------------|
-| Trial/Free Plan                   | ❌ Requires paid Zoom  | ✅ Free unlimited plan|
-| Zoom & Calendar Integration       | ✅ Zoom native         | ✅ Yes               |
-| Easy to Use?                      | ✅ Yes                 | ✅ Yes               |
-| Good for In-Person Meetings?      | ❌ No                  | ❌ No                |
-| Good for Local Recording?         | ❌ No                  | ❌ No                |
-| Integrates with HubSpot, Notion, etc.? | ❌ No              | ✅ Yes               |
-| Automation Engine?                | ❌ No                  | ❌ No                |
-| Language Support                  | ❌ English only        | ✅ Multiple languages|
-| Desktop App                       | ✅ Yes (Mac & Windows) | ❌ No (Web-based)    |
-| iPhone & Android Apps             | ✅ Yes (Both)          | ✅ Yes (Both)        |  
-Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
-$competitor1: ❌ Requires paid Zoom,✅ Zoom native,✅ Yes,❌ No,❌ No,❌ No,❌ No,❌ English only,✅ Yes (Mac & Windows),✅ Yes (Both)  
-$competitor2: ✅ Free unlimited plan,✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,❌ No,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
