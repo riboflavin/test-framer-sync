@@ -1,7 +1,7 @@
 ---
 type: comparison
-title:  Avoma vs. Otter.ai  Which should you choose?
-description: Comparing Avoma and Otter.ai to help you choose the best transcription tool. Explore features, pricing, and an alternative option, Circleback.
+title:  Otter.ai vs. Granola  Which should you choose?
+description: Comparing Otter.ai and Granola for your needs. Evaluating features, pricing, and performance. Explore Circleback as an alternative option.
 ---
 
 # Otter.ai vs. Granola – Which should you choose?  
