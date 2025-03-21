@@ -55,24 +55,6 @@ While Fathom offers a free unlimited plan, Zoom and calendar integration, and su
 | Language Support                  | ❌ English only         | ✅ Multiple languages |
 | Desktop App                       | ❌ No (Web-based)       | ❌ No (Web-based)      |
 | iPhone & Android Apps             | ✅ Yes (Both)           | ✅ Yes (Both)          |  
-Some individuals or organizations may find Otter.ai appealing for its free plan, Zoom and calendar integration, and ease of use. However, both Otter.ai and Fathom lack deep integrations with popular tools like HubSpot and Notion, limiting their ability to enhance meeting productivity effectively.
-
-While Fathom offers a free unlimited plan, Zoom and calendar integration, and support for multiple languages, its lack of integrations with key tools and absence of an automation engine may hinder its usefulness for users seeking comprehensive meeting solutions. Both tools fall short in providing users with the depth of integrations needed to streamline meeting processes effectively.  
-| Feature                           | Otter.ai               | Fathom                |
-|-----------------------------------|------------------------|-----------------------|
-| Trial/Free Plan                   | ✅ Free plan            | ✅ Free unlimited plan |
-| Zoom & Calendar Integration       | ✅ Yes                  | ✅ Yes                 |
-| Easy to Use?                      | ✅ Yes                  | ✅ Yes                 |
-| Good for In-Person Meetings?      | ❌ No                   | ❌ No                  |
-| Good for Local Recording?         | ❌ No                   | ❌ No                  |
-| Integrates with HubSpot, Notion, etc.? | ❌ Limited          | ✅ Yes                 |
-| Automation Engine?                | ❌ No                   | ❌ No                  |
-| Language Support                  | ❌ English only         | ✅ Multiple languages |
-| Desktop App                       | ❌ No (Web-based)       | ❌ No (Web-based)      |
-| iPhone & Android Apps             | ✅ Yes (Both)           | ✅ Yes (Both)          |  
-Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
-$competitor1: ✅ Free plan,✅ Yes,✅ Yes,❌ No,❌ No,❌ Limited,❌ No,❌ English only,❌ No (Web-based),✅ Yes (Both)  
-$competitor2: ✅ Free unlimited plan,✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,❌ No,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
