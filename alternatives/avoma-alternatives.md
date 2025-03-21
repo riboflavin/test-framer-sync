@@ -23,15 +23,13 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?  
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
-* Highly accurate transcriptions, ensuring no detail is lost.
-* Excellent AI summaries and highlights for easy review.
-* Clear speaker separation and labeling in notes.
-* Workflow integrations streamline follow-ups.
+Pros:
+- Highly accurate transcriptions with no detail lost.
+- Excellent AI summaries and highlights for easy review.
 
-* No free tier, only a trial; requires paid plan from the start.
-* Expensive for full features, with advanced plans around $59-79 per user per month.
-* Complex for new users due to many features, leading to a learning curve.
-* Meeting bot may join late or miss speaker names.  
+Cons:
+- No free tier, requires paid plan from the start.
+- Expensive for full features, with advanced plans priced around $59-79 per user per month.  
 | Attribute | Avoma |
 | --- | --- |
 | Trial | ✅ Yes |
@@ -42,17 +40,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Zoom native | ✅ Yes |
 | Multiple languages | ✅ Yes |
 | Platform | ✅ Yes (Both) |  
-- Otter.ai
-- Business: ~$30/month; Enterprise ~$40.
-- Pro: ~$17/month per user
-
-- Fireflies.ai
-- Pro: $10/mo per user (annual)
-- Business: $19/mo user (annual) ($29 monthly)
-
-- Fathom
-- Free: Yes, unlimited recordings & basic summaries
-- Premium: ~$15/mo  
+- Otter.ai: Easy-to-use AI transcription service with strong free plan and seamless Zoom integration.
+- Fireflies.ai: Feature-rich AI meeting bot with wide compatibility and detailed summaries, but can feel cluttered and overwhelming with email notifications.
+- Fathom: AI notetaker excelling in accuracy and multi-language support, offering free unlimited usage for core features and supporting many languages.  
 ## Avoma vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
