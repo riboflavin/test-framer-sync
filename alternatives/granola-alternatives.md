@@ -23,12 +23,13 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?  
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
-* Pros:
-  * Minimal, user-friendly app with a regular notepad feel.
-  * Works on any platform without needing a meeting bot, offering more discreet usage.
-* Cons:
-  * MacOS only with a Windows version on waitlist and no mobile app yet.
-  * Primarily a standalone tool with few integrations, lacking multi-user features.  
+**Pros:**
+- Minimal, user-friendly app with a regular notepad feel.
+- Accurate transcription quality helps fill in missed details.
+
+**Cons:**
+- MacOS only with no mobile app yet.
+- Lacks multi-user features and limited integrations.  
 | Attribute          | Granola               |
 |--------------------|-----------------------|
 | Free Plan          | ✅ Limited             |
@@ -41,17 +42,11 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Cross-platform     | ✅ Yes (Mac & Windows)|
 | Offline Access     | ❌ No                 |
 | Collaboration      | ✅ Yes (Both)         |  
-- **Otter.ai**
-  - Pros: Easy to use with an intuitive interface, strong free plan with generous transcription limits, seamless integration with Zoom & calendar for auto-recording meetings.
-  - Cons: Transcription errors with accents or fast speech, only supports English, speaker ID can be hit-or-miss.
+- **Otter.ai**: AI transcription and note-taking service with live transcription during meetings and cross-platform access. Great for capturing meeting notes in real time and searching conversations. Pros include easy-to-use interface, strong free plan, and seamless integration with Zoom & calendar. Cons include transcription errors with accents, English language limitation, and hit-or-miss speaker ID.
 
-- **Avoma**
-  - Pros: Highly accurate transcriptions, excellent AI summaries and highlights, clear speaker separation and labeling in notes.
-  - Cons: No free tier, expensive for full features, complex for new users.
+- **Avoma**: AI meeting assistant with conversation intelligence, ideal for sales and customer success teams. Offers highly accurate transcriptions, excellent AI summaries, and clear speaker separation. Pros include accurate transcriptions, excellent AI summaries, and clear speaker separation. Cons include no free tier, complexity for new users, and occasional issues with meeting bot.
 
-- **Fathom**
-  - Pros: Top-notch accuracy in transcripts, quick, high-quality summaries, free unlimited usage for core features.
-  - Cons: Historically Zoom-only, some duplicate note issues, lacks a bit in live collaboration.  
+- **Zoom AI**: Zoom’s built-in AI Companion for live transcription, summaries, and sentiment analysis during meetings. Suited for teams already on Zoom. Pros include native integration, real-time Q&A, and unique whiteboard AI. Cons include Zoom-only compatibility, no free access, speaker ID limits, and lack of custom vocabulary.  
 ## Granola vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
