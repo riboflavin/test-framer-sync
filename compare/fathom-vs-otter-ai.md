@@ -38,6 +38,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Only supports English, which is limiting.
 - Speaker ID can be hit-or-miss, requiring manual fixes in notes.  
 ## Comparison table    
+Some individuals or organizations may find Fathom appealing for its free plan and integrations with popular tools like Zoom and HubSpot, despite its limitations in supporting in-person meetings and local recording. Otter.ai, on the other hand, offers a free plan and ease of use, but falls short in integrations and language support, which may deter users seeking a more comprehensive solution for their meeting needs.
+
+Both Fathom and Otter.ai lack depth in integrations with various platforms and fail to provide an automation engine, potentially hindering users from maximizing productivity during meetings. While Fathom integrates with a wider range of tools compared to Otter.ai, both tools may not fully meet the needs of users looking for seamless integration and efficient meeting management capabilities.  
 | Feature                           | Fathom               | Otter.ai            |
 |-----------------------------------|----------------------|---------------------|
 | Trial/Free Plan                   | ✅ Free unlimited    | ✅ Free             |
@@ -50,9 +53,24 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages| ❌ English only     |
 | Desktop App                       | ❌ No (Web-based)    | ❌ No (Web-based)   |
 | iPhone & Android Apps             | ✅ Yes (Both)        | ✅ Yes (Both)       |  
-Some people or companies might prefer Fathom over Otter.ai if they heavily rely on tools like HubSpot or Notion due to Fathom's wider range of integrations. However, both tools lack depth in their integrations and may not fully support users in getting the most out of their meetings.
+Some individuals or organizations may find Fathom appealing for its free plan and integrations with popular tools like Zoom and HubSpot, despite its limitations in supporting in-person meetings and local recording. Otter.ai, on the other hand, offers a free plan and ease of use, but falls short in integrations and language support, which may deter users seeking a more comprehensive solution for their meeting needs.
 
-While Otter.ai offers free plans and supports Zoom and calendar integration like Fathom, its limited integrations and lack of an automation engine may deter users looking for a more comprehensive solution. Ultimately, both tools may fall short in providing users with the necessary depth of integrations and functionalities to effectively enhance their meeting experiences.  
+Both Fathom and Otter.ai lack depth in integrations with various platforms and fail to provide an automation engine, potentially hindering users from maximizing productivity during meetings. While Fathom integrates with a wider range of tools compared to Otter.ai, both tools may not fully meet the needs of users looking for seamless integration and efficient meeting management capabilities.  
+| Feature                           | Fathom               | Otter.ai            |
+|-----------------------------------|----------------------|---------------------|
+| Trial/Free Plan                   | ✅ Free unlimited    | ✅ Free             |
+| Zoom & Calendar Integration       | ✅ Yes               | ✅ Yes              |
+| Easy to Use?                      | ✅ Yes               | ✅ Yes              |
+| Good for In-Person Meetings?      | ❌ No                | ❌ No               |
+| Good for Local Recording?         | ❌ No                | ❌ No               |
+| Integrates with HubSpot, Notion, etc.? | ✅ Yes           | ❌ Limited          |
+| Automation Engine?                | ❌ No                | ❌ No               |
+| Language Support                  | ✅ Multiple languages| ❌ English only     |
+| Desktop App                       | ❌ No (Web-based)    | ❌ No (Web-based)   |
+| iPhone & Android Apps             | ✅ Yes (Both)        | ✅ Yes (Both)       |  
+Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
+$competitor1: ✅ Free unlimited plan,✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,❌ No,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
+$competitor2: ✅ Free plan,✅ Yes,✅ Yes,❌ No,❌ No,❌ Limited,❌ No,❌ English only,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
