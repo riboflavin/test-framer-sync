@@ -1,7 +1,7 @@
 ---
 type: alternatives
-title:  Alternatives to Otter.ai  
-description: Discover top alternatives to Otter.ai and compare features with Circleback. Make an informed choice for your transcription needs.
+title:  Alternatives to Fireflies.ai  
+description: Discover top alternatives to Fireflies.ai and compare Fireflies.ai with Circleback to find the best transcription tool for your needs.
 ---
 
 # Alternatives to Fireflies.ai    
