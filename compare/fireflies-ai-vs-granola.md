@@ -51,24 +51,6 @@ Both Fireflies.ai and Granola offer free plans with certain limitations, making 
 | Language Support                  | ✅ Multiple languages      | ❌ English only            |
 | Desktop App                       | ❌ No (Web-based)          | ✅ Yes (Mac-only)          |
 | iPhone & Android Apps             | ✅ Yes (Both)              | ❌ No                      |  
-Some individuals or organizations may find Fireflies.ai appealing due to its integration with Zoom and calendars, as well as its automation engine. However, it lacks depth in integrations with other tools and may not be the most effective in facilitating in-person meetings or local recordings. On the other hand, Granola could be suitable for those looking for an easy-to-use tool with desktop app support, but its limited integrations and lack of an automation engine might hinder its ability to enhance meeting productivity.
-
-Both Fireflies.ai and Granola offer free plans with certain limitations, making them accessible options for users to try out. However, users seeking comprehensive integrations and features to streamline their meeting processes may find these tools falling short in providing the depth needed to truly enhance their meeting experiences and productivity.  
-| Feature                           | Fireflies.ai               | Granola                    |
-|-----------------------------------|----------------------------|----------------------------|
-| Trial/Free Plan                   | ✅ Free plan (limited)      | ✅ Free plan (limited)      |
-| Zoom & Calendar Integration       | ✅ Yes                     | ❌ No                      |
-| Easy to Use?                      | ✅ Yes                     | ✅ Yes                     |
-| Good for In-Person Meetings?      | ❌ No                      | ✅ Yes                     |
-| Good for Local Recording?         | ❌ No                      | ✅ Yes                     |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes               | ❌ No                      |
-| Automation Engine?                | ✅ Yes                     | ❌ No                      |
-| Language Support                  | ✅ Multiple languages      | ❌ English only            |
-| Desktop App                       | ❌ No (Web-based)          | ✅ Yes (Mac-only)          |
-| iPhone & Android Apps             | ✅ Yes (Both)              | ❌ No                      |  
-Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
-$competitor1: ✅ Free plan (limited),✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,✅ Yes,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
-$competitor2: ✅ Free plan (limited),❌ No,✅ Yes,✅ Yes,✅ Yes,❌ No,❌ No,❌ English only,✅ Yes (Mac-only),❌ No  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
