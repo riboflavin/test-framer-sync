@@ -51,24 +51,6 @@ Both Granola and Zoom AI may fall short for users seeking deeper integrations an
 | Language Support                  | ❌ English only       | ❌ English only      |
 | Desktop App                       | ✅ Yes (Mac-only)     | ✅ Yes (Mac & Windows) |
 | iPhone & Android Apps             | ❌ No                 | ✅ Yes (Both)        |  
-Some individuals or organizations may find Granola appealing for its free plan and ease of use, but may be disappointed by its lack of integrations and limited support for virtual meetings. Similarly, Zoom AI's native integration with Zoom and calendars may attract users, but its shortcomings in supporting in-person meetings and local recording could hinder its usefulness for certain users or businesses.
-
-Both Granola and Zoom AI may fall short for users seeking deeper integrations and features to enhance their meeting productivity. While Granola offers a free plan and ease of use, its lack of integrations and limited support for virtual meetings may limit its utility. On the other hand, Zoom AI's native integration with Zoom and calendars may be convenient, but its deficiencies in supporting in-person meetings and local recording could hinder users looking for a more comprehensive solution.  
-| Feature                           | Granola               | Zoom AI              |
-|-----------------------------------|-----------------------|----------------------|
-| Trial/Free Plan                   | ✅ Free plan (limited) | ❌ Requires paid Zoom |
-| Zoom & Calendar Integration       | ❌ No                 | ✅ Zoom native        |
-| Easy to Use?                      | ✅ Yes                | ✅ Yes               |
-| Good for In-Person Meetings?      | ✅ Yes                | ❌ No                |
-| Good for Local Recording?         | ✅ Yes                | ❌ No                |
-| Integrates with HubSpot, Notion, etc.? | ❌ No              | ❌ No                |
-| Automation Engine?                | ❌ No                 | ❌ No                |
-| Language Support                  | ❌ English only       | ❌ English only      |
-| Desktop App                       | ✅ Yes (Mac-only)     | ✅ Yes (Mac & Windows) |
-| iPhone & Android Apps             | ❌ No                 | ✅ Yes (Both)        |  
-Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
-$competitor1: ✅ Free plan (limited),❌ No,✅ Yes,✅ Yes,✅ Yes,❌ No,❌ No,❌ English only,✅ Yes (Mac-only),❌ No  
-$competitor2: ❌ Requires paid Zoom,✅ Zoom native,✅ Yes,❌ No,❌ No,❌ No,❌ No,❌ English only,✅ Yes (Mac & Windows),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
