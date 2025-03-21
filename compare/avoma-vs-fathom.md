@@ -1,7 +1,7 @@
 ---
 type: comparison
-title:  Avoma vs. Fathom  Which should you choose?
-description: Comparing Avoma and Fathom to help you decide which one suits your needs better. Also, explore an alternative option: Circleback.
+title:  Avoma vs. Fathom – Which should you choose?
+description: Comparing Avoma and Fathom to help you decide which one suits your needs better.
 ---
 
 # Avoma vs. Fathom – Which should you choose?  
