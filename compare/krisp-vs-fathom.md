@@ -4,7 +4,7 @@ title:  Avoma vs. Otter.ai: Which should you choose?
 description: Comparing Avoma and Otter.ai for your needs? Dive into this article to evaluate both tools and discover an alternative, Circleback.
 ---
 
-# Krisp vs. Fathom: Which should you choose?
+# Krisp vs. Fathom: Which should you choose?  
 AI meeting notes platforms provide four primary deliverables:  
   
 * Transcripts create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.  
@@ -18,46 +18,19 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?  
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?  
 * Security and privacy: how is customer data handled on the platform?  
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-• Functionality: does it go beyond transcriptions and actually help you take action?
-• Languages: can it transcribe and summarize meetings in different languages?
-• Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meeitngs?
-• Recordings: is there support for saving and playing back audio and video recordings of meetings?
-## Evaluating Krisp and Fathom
+* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?  
+* Functionality: does it go beyond transcriptions and actually help you take action?  
+* Languages: can it transcribe and summarize meetings in different languages?  
+* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
+* Recordings: is there support for saving and playing back audio and video recordings of meetings?    
+## Evaluating Krisp and Fathom  
 Krisp:
 - Pros: Excellent noise cancellation, platform-agnostic, unlimited transcription, generous free plan with custom vocabulary.
 - Cons: Free plan limits, concise summaries, no real-time collaboration, high CPU usage during long meetings.
 
 Fathom:
 - Pros: Top-notch accuracy in transcripts, quick summaries, free core features, supports many languages.
-- Cons: Historically Zoom-only, duplicate note issues, lacks live collaboration, advanced features require paid plan.
-In general, users say that Krisp: - Excellent noise cancellation for both microphone and speaker audio​ddiy.co
-.
-- Platform-agnostic – use with any meeting software, even phone calls​ddiy.co
-.
-- Unlimited transcription on all plans (no minute caps)​ddiy.co
-.
-- Generous free plan (includes noise reduction and a couple summaries/day)​ddiy.co
-.
-- Custom vocabulary improves accuracy for industry terms​ddiy.co
-.. However, they also say: - Free plan limits: 60 min/day noise removal, 2 summaries/day​ddiy.co
-.
-- Summaries are concise but not as in-depth as some competitors’ (geared toward quick recap).
-- No real-time collab or multi-user features – it’s a personal tool (teams would each use their own instance).
-- Can tax system resources during long meetings (CPU usage for AI processing)..
-In general, users say that Fathom: - Top-notch accuracy in transcripts, even with multiple speakers​capterra.com
-.
-- Quick, high-quality summaries that capture key points and decisions​capterra.com
-.
-- Free unlimited usage for core features (rare in this space)​thebusinessdive.com
-.
-- Supports many languages (users report better results for non-English than competitors)​capterra.com
-.. However, they also say: - Historically Zoom-only (new support for other platforms is recent and in beta)​marketplace.zoom.us
-.
-- Some duplicate note issues if multiple team members use it simultaneously on a call​capterra.com
-.
-- Lacks a bit in live collaboration; mainly focused on post-meeting output (notes are viewable after, not edited in real-time by multiple people).
-- Advanced features like custom integrations or extended analytics require paid plan (free covers basics)..
+- Cons: Historically Zoom-only, duplicate note issues, lacks live collaboration, advanced features require paid plan.  
 | Feature                           | Krisp       | Fathom      |
 |-----------------------------------|-------------|-------------|
 | Trial/Free Plan                   | ✅ Free plan | ✅ Free unlimited plan |
@@ -69,11 +42,11 @@ In general, users say that Fathom: - Top-notch accuracy in transcripts, even wit
 | Automation Engine?                 | ❌ No        | ❌ No       |
 | Language Support                   | ✅ Multiple languages | ✅ Multiple languages |
 | Desktop App                       | ✅ Yes (Mac & Windows) | ❌ No (Web-based) |
-| iPhone & Android Apps              | ✅ Yes (Both) | ✅ Yes (Both) |
+| iPhone & Android Apps              | ✅ Yes (Both) | ✅ Yes (Both) |  
 **Krisp**: Krisp is suitable for individuals or small businesses looking for a straightforward and user-friendly tool for remote meetings. However, it lacks deep integrations with popular platforms like Zoom and HubSpot, limiting its ability to streamline meeting workflows effectively.
 
-**Fathom**: Fathom appeals to users who prioritize seamless integration with their existing tools, such as Zoom and HubSpot, to enhance meeting productivity. Despite its user-friendly interface, Fathom falls short in supporting in-person meetings and local recording, which may hinder its usefulness for certain users.
-## Another alternative: Circleback
+**Fathom**: Fathom appeals to users who prioritize seamless integration with their existing tools, such as Zoom and HubSpot, to enhance meeting productivity. Despite its user-friendly interface, Fathom falls short in supporting in-person meetings and local recording, which may hinder its usefulness for certain users.  
+## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
 * Automatically-identified and assigned action items  
