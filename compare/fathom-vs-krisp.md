@@ -45,6 +45,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - No real-time collab or multi-user features – it’s a personal tool (teams would each use their own instance)
 - Can tax system resources during long meetings (CPU usage for AI processing)  
 ## Comparison table    
+Some individuals or businesses may find Fathom appealing for its free plan and integration with Zoom and calendars, making it suitable for those looking for a straightforward tool. However, its lack of features like in-person meeting support and local recording may limit its usefulness for more complex meeting needs. Similarly, Krisp's free plan and ease of use could attract users seeking a simple solution, but its limited integrations with popular platforms like HubSpot and Notion may hinder its ability to streamline meeting workflows effectively.
+
+Both Fathom and Krisp fall short in terms of integration depth and practical meeting assistance, as neither tool offers a robust automation engine or comprehensive language support. Additionally, Fathom's web-based nature and Krisp's lack of desktop app versatility may pose challenges for users looking for a seamless meeting experience across different devices and platforms.  
 | Feature                           | Fathom               | Krisp                |
 |-----------------------------------|----------------------|----------------------|
 | Trial/Free Plan                   | ✅ Free unlimited plan| ✅ Free plan         |
@@ -57,9 +60,24 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages| ✅ Multiple languages|
 | Desktop App                       | ❌ No (Web-based)    | ✅ Yes (Mac & Windows)|
 | iPhone & Android Apps             | ✅ Yes (Both)        | ✅ Yes (Both)        |  
-Some individuals or organizations may find Fathom appealing due to its free unlimited plan and integration with Zoom and calendars. However, those seeking deeper integrations with tools like HubSpot and Notion may be disappointed. Additionally, Fathom lacks features for in-person meetings and local recording, limiting its practicality for certain users.
+Some individuals or businesses may find Fathom appealing for its free plan and integration with Zoom and calendars, making it suitable for those looking for a straightforward tool. However, its lack of features like in-person meeting support and local recording may limit its usefulness for more complex meeting needs. Similarly, Krisp's free plan and ease of use could attract users seeking a simple solution, but its limited integrations with popular platforms like HubSpot and Notion may hinder its ability to streamline meeting workflows effectively.
 
-On the other hand, Krisp offers a free plan and is user-friendly, making it suitable for various users. Nevertheless, its integration options are limited, lacking connections with popular tools like HubSpot and Notion. Users may also find Krisp lacking in features to enhance meeting productivity, such as an automation engine.  
+Both Fathom and Krisp fall short in terms of integration depth and practical meeting assistance, as neither tool offers a robust automation engine or comprehensive language support. Additionally, Fathom's web-based nature and Krisp's lack of desktop app versatility may pose challenges for users looking for a seamless meeting experience across different devices and platforms.  
+| Feature                           | Fathom               | Krisp                |
+|-----------------------------------|----------------------|----------------------|
+| Trial/Free Plan                   | ✅ Free unlimited plan| ✅ Free plan         |
+| Zoom & Calendar Integration       | ✅ Yes               | ❌ No                |
+| Easy to Use?                      | ✅ Yes               | ✅ Yes               |
+| Good for In-Person Meetings?      | ❌ No                | ✅ Yes               |
+| Good for Local Recording?         | ❌ No                | ✅ Yes               |
+| Integrates with HubSpot, Notion, etc.? | ✅ Yes           | ❌ No                |
+| Automation Engine?                | ❌ No                | ❌ No                |
+| Language Support                  | ✅ Multiple languages| ✅ Multiple languages|
+| Desktop App                       | ❌ No (Web-based)    | ✅ Yes (Mac & Windows)|
+| iPhone & Android Apps             | ✅ Yes (Both)        | ✅ Yes (Both)        |  
+Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
+$competitor1: ✅ Free unlimited plan,✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,❌ No,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
+$competitor2: ✅ Free plan,❌ No,✅ Yes,✅ Yes,✅ Yes,❌ No,❌ No,✅ Multiple languages,✅ Yes (Mac & Windows),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
