@@ -41,6 +41,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Expensive for full features (advanced plans ~$59–79 user/mo).
 - Complex for new users – many features mean a learning curve (setup & onboarding effort).
 - Meeting bot sometimes joins a bit late or misses a speaker name.  
+## Comparison table    
 | Feature                        | Otter.ai       | Avoma          |
 |-------------------------------|----------------|----------------|
 | Trial/Free Plan               | ✅ Free plan   | ❌ Trial only  |
@@ -53,9 +54,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support              | ❌ English only| ❌ English only|
 | Desktop App                   | ❌ No (Web-based)| ❌ No (Web-based)|
 | iPhone & Android Apps         | ✅ Yes (Both)  | ✅ Yes (Both)  |  
-**Otter.ai**: Companies or individuals looking for a free plan with Zoom and calendar integration may find Otter.ai appealing. However, its limited integrations and lack of automation may hinder productivity for users seeking more comprehensive meeting solutions.
+Some individuals or organizations may find Otter.ai appealing due to its free plan and integration with Zoom and calendars. However, both tools lack deep integrations with popular platforms like HubSpot and Notion, limiting their usefulness for certain users. Additionally, while Avoma offers an automation engine, both tools may fall short in actually aiding users in conducting and managing their meetings effectively.
 
-**Avoma**: Users interested in a tool with a learning curve, but offering automation and integrations with HubSpot and Notion, may consider Avoma. Despite its strengths, both tools fall short in providing depth of integrations and practical meeting assistance, potentially limiting their effectiveness for users.  
+Users looking for a tool with a low learning curve and support for in-person meetings may prefer Otter.ai, while those seeking more advanced automation capabilities might lean towards Avoma. However, both tools may not fully meet the needs of users looking for comprehensive integrations and features to streamline their meeting workflows.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
