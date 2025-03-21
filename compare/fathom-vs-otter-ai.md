@@ -37,6 +37,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Transcription errors with accents or fast speech.
 - Only supports English, which is limiting.
 - Speaker ID can be hit-or-miss, requiring manual fixes in notes.  
+## Comparison table    
 | Feature                           | Fathom               | Otter.ai            |
 |-----------------------------------|----------------------|---------------------|
 | Trial/Free Plan                   | ✅ Free unlimited    | ✅ Free             |
@@ -49,9 +50,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages| ❌ English only     |
 | Desktop App                       | ❌ No (Web-based)    | ❌ No (Web-based)   |
 | iPhone & Android Apps             | ✅ Yes (Both)        | ✅ Yes (Both)       |  
-**Fathom**: Companies looking for a free tool with Zoom and calendar integration might find Fathom appealing. However, its lack of support for in-person meetings and local recording could limit its usefulness for some users, especially those seeking deeper integrations with tools like HubSpot and Notion.
+Some people or companies might prefer Fathom over Otter.ai if they heavily rely on tools like HubSpot or Notion due to Fathom's wider range of integrations. However, both tools lack depth in their integrations and may not fully support users in getting the most out of their meetings.
 
-**Otter.ai**: Otter.ai offers a free plan and integration with Zoom and calendars, making it a viable option for individuals and businesses. Nevertheless, its limited integrations with other platforms and absence of an automation engine may hinder its ability to fully assist users in maximizing productivity during meetings.  
+While Otter.ai offers free plans and supports Zoom and calendar integration like Fathom, its limited integrations and lack of an automation engine may deter users looking for a more comprehensive solution. Ultimately, both tools may fall short in providing users with the necessary depth of integrations and functionalities to effectively enhance their meeting experiences.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
