@@ -23,6 +23,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?  
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
+## Zoom AI quick pros and cons    
 **Pros of Zoom AI:**
 - Native integration with Zoom, no setup required for Zoom users, and outputs appear directly in Zoom Chat.
 - Real-time Q&A and assistance available during meetings, along with a unique whiteboard AI for creating mind-maps and diagrams.
@@ -30,21 +31,18 @@ In addition to the quality of these deliverables, we'll want to look at a number
 **Cons of Zoom AI:**
 - Limited to Zoom platform only, not compatible with Google Meet, Teams, etc.
 - Requires a paid Zoom plan (approximately $15+ monthly), with no free access available.  
-| Attribute                | Zoom AI               |
-|--------------------------|-----------------------|
-| Requires paid Zoom       | ❌                    |
-| Free plan (limited)      | ✅                    |
-| Free unlimited plan      | ✅                    |
-| Zoom native              | ✅                    |
-| Available in English     | ❌                    |
-| Available in multiple languages | ✅            |
-| Available on Mac & Windows | ✅                |
-| Web-based availability   | ❌                    |
-| Mac-only availability    | ✅                    |
-| Available on both Mac & Windows | ✅            |  
-- **Avoma**: AI meeting assistant for sales and customer success teams. Offers accurate transcriptions, detailed summaries, and CRM integrations. However, lacks a free tier and can be complex for new users.
-- **Fireflies.ai**: AI meeting bot for recording and summarizing discussions. Features wide compatibility, detailed summaries, and easy setup. Downsides include limited free plan and cluttered UI.
-- **Fathom**: AI notetaker with unlimited recording and transcription. Excels in accuracy and multi-language support. Offers free core features but lacks live collaboration and may have duplicate note issues.  
+## Zoom AI features    
+| Feature                | Zoom AI               |
+|------------------------|-----------------------|
+| Free Plan              | ✅ Free unlimited plan |
+| Zoom Native            | ✅ Yes                |
+| Free Plan (Limited)    | ✅ Yes                |
+| Multiple Languages     | ✅ Multiple languages |
+| Platform Availability  | ✅ Mac & Windows      |  
+## Closest Zoom AI competitors    
+- **Otter.ai**: AI transcription and note-taking service with live transcription during meetings and cross-platform access. Pros include an intuitive interface and strong free plan, but cons include transcription errors with accents and limited language support.
+- **Fireflies.ai**: AI meeting bot for recording, transcribing, and summarizing discussions with detailed summaries and sentiment analysis. Pros include wide compatibility and feature-rich insights, but cons include limited free plan and cluttered UI.
+- **Fathom**: AI notetaker with unlimited recording and transcription, excelling in accuracy and multi-language support. Pros include top-notch accuracy and free unlimited usage for core features, but cons include some duplicate note issues and a focus on post-meeting output.  
 ## Zoom AI vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -53,6 +51,7 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Automations with 100+ app integrations  
 * Industry-leading security with SOC 2 Type II, EU-U.S. Data Privacy Framework, and HIPAA compliance  
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
+### Comparison table  
 | Feature                           | Zoom AI               | Circleback           |
 |-----------------------------------|-----------------------|----------------------|
 | Easy to Use?                       | ❌ Requires paid Zoom  | ❌ Trial only        |
