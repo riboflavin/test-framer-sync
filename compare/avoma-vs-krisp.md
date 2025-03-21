@@ -51,24 +51,6 @@ On the other hand, Krisp could be suitable for those looking for an easy-to-use 
 | Language Support                   | ❌ English only | ✅ Multiple languages |
 | Desktop App                       | ❌ No (Web-based) | ✅ Yes (Mac & Windows) |
 | iPhone & Android Apps             | ✅ Yes (Both) | ✅ Yes (Both) |  
-Some users or companies might prefer Avoma for its Zoom and calendar integration, automation engine, and availability on both iPhone and Android. However, both tools lack depth in integrations with other platforms and may not fully assist users in meeting productivity.
-
-On the other hand, Krisp could be suitable for those looking for an easy-to-use tool with good support for in-person meetings and local recording. Despite its multiple language support and availability on desktop and mobile devices, Krisp, like Avoma, may not offer the depth of integrations needed for users to maximize their meeting efficiency.  
-| Feature                           | Avoma       | Krisp       |
-|-----------------------------------|-------------|-------------|
-| Trial/Free Plan                   | ❌ Trial only | ✅ Free plan |
-| Zoom & Calendar Integration        | ✅ Yes       | ❌ No        |
-| Easy to Use?                       | ❌ Learning curve | ✅ Yes |
-| Good for In-Person Meetings?       | ❌ No        | ✅ Yes       |
-| Good for Local Recording?          | ❌ No        | ✅ Yes       |
-| Integrates with HubSpot, Notion, etc.? | ❌ No    | ❌ No        |
-| Automation Engine?                 | ✅ Yes       | ❌ No        |
-| Language Support                   | ❌ English only | ✅ Multiple languages |
-| Desktop App                       | ❌ No (Web-based) | ✅ Yes (Mac & Windows) |
-| iPhone & Android Apps             | ✅ Yes (Both) | ✅ Yes (Both) |  
-Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
-$competitor1: ❌ Trial only,✅ Yes,❌ Learning curve,❌ No,❌ No,✅ Yes,✅ Yes,❌ English only,❌ No (Web-based),✅ Yes (Both)  
-$competitor2: ✅ Free plan,❌ No,✅ Yes,✅ Yes,✅ Yes,❌ No,❌ No,✅ Multiple languages,✅ Yes (Mac & Windows),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
