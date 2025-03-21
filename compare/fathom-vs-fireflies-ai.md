@@ -35,6 +35,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Detailed summaries & action items emailed after each meeting.
 - Feature-rich (keywords, sentiment, task assignments) for deeper insights.
 - Easy setup; “just invite the bot and it works” feedback from users.  
+## Comparison table    
 | Feature                           | Fathom               | Fireflies.ai         |
 |-----------------------------------|----------------------|----------------------|
 | Trial/Free Plan                   | ✅ Free unlimited plan| ✅ Free plan (limited)|
@@ -47,9 +48,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages| ✅ Multiple languages|
 | Desktop App                       | ❌ No (Web-based)    | ❌ No (Web-based)    |
 | iPhone & Android Apps             | ✅ Yes (Both)        | ✅ Yes (Both)        |  
-**Fathom**: Companies or individuals looking for a free tool with Zoom and calendar integration, as well as support for multiple languages, might find Fathom appealing. However, its lack of automation engine and limited integrations beyond HubSpot and Notion may hinder its usefulness in maximizing meeting productivity.
+Some people or companies might find Fathom appealing due to its free unlimited plan and integration with Zoom and calendars. However, both tools lack depth in integrations and may not fully assist users in meeting productivity. Fireflies.ai also offers a free plan with similar features, making it suitable for those looking for basic meeting support.
 
-**Fireflies.ai**: Users interested in a free plan with Zoom and calendar integration, along with iPhone and Android apps, could consider Fireflies.ai. Despite its user-friendly interface and language support, the tool falls short in terms of integration depth and actual meeting facilitation, as it lacks an automation engine and support for in-person meetings or local recording.  
+Those interested in tools that integrate with HubSpot, Notion, and other platforms may prefer Fireflies.ai for its wider range of integrations. Despite both tools being easy to use and supporting multiple languages, users might find limitations in their ability to enhance meeting efficiency and productivity.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
