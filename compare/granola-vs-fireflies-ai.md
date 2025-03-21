@@ -49,22 +49,6 @@ Some individuals or organizations may prefer Granola for its ease of use and sup
 | Language Support                  | ❌ English only       | ✅ Multiple languages |
 | Desktop App                       | ✅ Yes (Mac-only)     | ❌ No (Web-based)     |
 | iPhone & Android Apps             | ❌ No                 | ✅ Yes (Both)         |  
-Some individuals or organizations may prefer Granola for its ease of use and support for in-person meetings and local recording. However, those looking for deeper integrations with tools like HubSpot and Notion, as well as an automation engine, may find Fireflies.ai more suitable. Both tools offer limited free plans but fall short in terms of integrations and practical meeting assistance.  
-| Feature                           | Granola               | Fireflies.ai          |
-|-----------------------------------|-----------------------|-----------------------|
-| Trial/Free Plan                   | ✅ Free plan (limited) | ✅ Free plan (limited) |
-| Zoom & Calendar Integration       | ❌ No                  | ✅ Yes                |
-| Easy to Use?                      | ✅ Yes                | ✅ Yes                |
-| Good for In-Person Meetings?      | ✅ Yes                | ❌ No                 |
-| Good for Local Recording?         | ✅ Yes                | ❌ No                 |
-| Integrates with HubSpot, Notion, etc.? | ❌ No           | ✅ Yes                |
-| Automation Engine?                | ❌ No                 | ✅ Yes                |
-| Language Support                  | ❌ English only       | ✅ Multiple languages |
-| Desktop App                       | ✅ Yes (Mac-only)     | ❌ No (Web-based)     |
-| iPhone & Android Apps             | ❌ No                 | ✅ Yes (Both)         |  
-Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
-$competitor1: ✅ Free plan (limited),❌ No,✅ Yes,✅ Yes,✅ Yes,❌ No,❌ No,❌ English only,✅ Yes (Mac-only),❌ No  
-$competitor2: ✅ Free plan (limited),✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,✅ Yes,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
