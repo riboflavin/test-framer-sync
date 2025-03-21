@@ -41,6 +41,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Transcription errors with accents or fast speech
 - Only supports English language
 - Speaker ID accuracy can be inconsistent  
+## Comparison table    
 | Feature                           | Fireflies.ai               | Otter.ai                   |
 |-----------------------------------|----------------------------|----------------------------|
 | Trial/Free Plan                   | ✅ Free plan (limited)      | ✅ Free plan               |
@@ -53,9 +54,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages      | ❌ English only            |
 | Desktop App                       | ❌ No (Web-based)          | ❌ No (Web-based)          |
 | iPhone & Android Apps             | ✅ Yes (Both)              | ✅ Yes (Both)              |  
-**Fireflies.ai**: Companies or individuals looking for a free tool with Zoom and calendar integration, as well as support for multiple languages, might find Fireflies.ai useful. However, its limitations in in-person meeting support and local recording capabilities may hinder its effectiveness in certain scenarios.
+Some people or companies might prefer Fireflies.ai for its integration with a wider range of tools like HubSpot and Notion, as well as its automation engine. However, both tools lack depth in integrations and may not fully assist users in meeting productivity needs. Fireflies.ai offers a free plan with limitations, while Otter.ai provides a completely free plan, making them accessible options for those looking to try out meeting transcription tools.
 
-**Otter.ai**: Users seeking a free plan with easy-to-use features and availability on both iPhone and Android devices could consider Otter.ai. Despite its strengths, such as Zoom and calendar integration, the tool falls short in terms of integrations with platforms like HubSpot and Notion, as well as lacking an automation engine for enhanced productivity during meetings.  
+While Fireflies.ai and Otter.ai are user-friendly and offer Zoom and calendar integration, they both fall short in supporting in-person meetings and local recording. Additionally, Fireflies.ai supports multiple languages, whereas Otter.ai is limited to English only. Both tools are web-based without desktop apps, but they do offer mobile apps for iPhone and Android users.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
