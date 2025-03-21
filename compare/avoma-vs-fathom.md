@@ -47,24 +47,6 @@ On the other hand, Fathom could be appealing to those looking for an easy-to-use
 | Language Support                   | ❌ English only | ✅ Multiple languages |
 | Desktop App                       | ❌ No (Web-based) | ❌ No (Web-based) |
 | iPhone & Android Apps              | ✅ Yes (Both) | ✅ Yes (Both) |  
-Some people or companies might prefer Avoma for its integration with Zoom and calendars, as well as its ability to integrate with tools like HubSpot and Notion. However, both tools lack depth in integrations and may not fully assist users in meeting productivity.
-
-On the other hand, Fathom could be appealing to those looking for an easy-to-use tool with support for multiple languages and availability on both iPhone and Android. Nevertheless, users may find limitations in both tools when it comes to depth of integrations and actual productivity enhancement during meetings.  
-| Feature                           | Avoma       | Fathom      |
-|-----------------------------------|-------------|-------------|
-| Trial/Free Plan                   | ❌ Trial only | ✅ Free unlimited plan |
-| Zoom & Calendar Integration        | ✅ Yes       | ✅ Yes       |
-| Easy to Use?                       | ❌ Learning curve | ✅ Yes       |
-| Good for In-Person Meetings?       | ❌ No        | ❌ No        |
-| Good for Local Recording?          | ❌ No        | ❌ No        |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes       | ✅ Yes       |
-| Automation Engine?                 | ✅ Yes       | ❌ No        |
-| Language Support                   | ❌ English only | ✅ Multiple languages |
-| Desktop App                       | ❌ No (Web-based) | ❌ No (Web-based) |
-| iPhone & Android Apps              | ✅ Yes (Both) | ✅ Yes (Both) |  
-Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
-$competitor1: ❌ Trial only,✅ Yes,❌ Learning curve,❌ No,❌ No,✅ Yes,✅ Yes,❌ English only,❌ No (Web-based),✅ Yes (Both)  
-$competitor2: ✅ Free unlimited plan,✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,❌ No,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
