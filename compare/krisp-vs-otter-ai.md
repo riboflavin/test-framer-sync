@@ -37,6 +37,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Seamless integration with Zoom & calendar for auto-recording meetings.
 - Transcription errors with accents or fast speech (not as accurate as human).
 - Only supports English, which is limiting.  
+## Comparison table    
 | Feature                           | Krisp               | Otter.ai            |
 |-----------------------------------|---------------------|---------------------|
 | Trial/Free Plan                   | ✅ Free plan        | ✅ Free plan        |
@@ -49,9 +50,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages | ❌ English only  |
 | Desktop App                       | ✅ Yes (Mac & Windows) | ❌ No (Web-based) |
 | iPhone & Android Apps             | ✅ Yes (Both)       | ✅ Yes (Both)       |  
-**Krisp**: Ideal for individuals or companies seeking a straightforward tool for remote meetings, especially those looking for a free option. However, lacking deep integrations with popular platforms like Zoom and limited in its ability to enhance productivity during meetings.
+Some individuals or organizations may prefer Krisp for its ease of use and compatibility with in-person meetings and local recording. However, both tools lack deep integrations with popular platforms like HubSpot and Notion, limiting their usefulness in streamlining workflows and productivity during meetings. Additionally, neither tool offers an automation engine to assist users in efficiently managing their meeting tasks.
 
-**Otter.ai**: Suited for users valuing seamless integration with Zoom and calendar apps, but falls short in providing extensive integrations with other commonly used tools. While offering language support and mobile apps, its web-based nature may limit its effectiveness in aiding users during meetings.  
+While Otter.ai offers integration with Zoom and calendars, making it suitable for users who heavily rely on these platforms, its limited language support and lack of desktop application may deter those seeking a more comprehensive solution for meeting management. Both tools fall short in providing a robust set of features to help users effectively accomplish tasks during meetings, highlighting the need for more advanced integrations and automation capabilities in meeting tools.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
