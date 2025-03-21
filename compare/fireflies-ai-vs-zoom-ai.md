@@ -35,6 +35,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Real-time Q&A and assistance during meetings
 - Unique whiteboard AI feature
 - Included with paid Zoom subscription  
+## Comparison table    
 | Feature                           | Fireflies.ai               | Zoom AI                    |
 |-----------------------------------|----------------------------|----------------------------|
 | Trial/Free Plan                   | ✅ Free plan (limited)      | ❌ Requires paid Zoom       |
@@ -47,9 +48,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages      | ❌ English only             |
 | Desktop App                       | ❌ No (Web-based)          | ✅ Yes (Mac & Windows)      |
 | iPhone & Android Apps             | ✅ Yes (Both)              | ✅ Yes (Both)               |  
-**Fireflies.ai**: Companies or individuals looking for a free tool with basic Zoom and calendar integration, as well as support for multiple languages, might find Fireflies.ai useful. However, its lack of in-person meeting support and limited integrations with popular platforms like HubSpot and Notion may hinder its effectiveness in helping users manage their meetings efficiently.
+Some individuals or organizations may find Fireflies.ai appealing due to its free plan and integration with various tools like HubSpot and Notion. However, both Fireflies.ai and Zoom AI lack depth in integrations and may not fully support users in maximizing productivity during meetings. While Fireflies.ai offers an automation engine and supports multiple languages, it falls short in local recording capabilities and in-person meeting support.
 
-**Zoom AI**: Users who already have a paid Zoom subscription and prioritize native Zoom integration might opt for Zoom AI. While it offers ease of use and availability on various devices, its English-only language support and absence of an automation engine could limit its utility for users seeking a more comprehensive solution for meeting management.  
+On the other hand, Zoom AI, despite being a paid service, provides native integration with Zoom and offers desktop and mobile apps for both Mac and Windows users. Nevertheless, Zoom AI also lacks in-depth integrations with other tools and may not fully assist users in achieving their meeting objectives. Both tools have their strengths and weaknesses, and users should carefully consider their specific needs before choosing one over the other.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
