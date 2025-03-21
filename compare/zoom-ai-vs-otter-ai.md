@@ -41,6 +41,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - English language support only.
 - Speaker ID accuracy may vary.  
 ## Comparison table    
+Some individuals or organizations may find Zoom AI appealing due to its native integration with Zoom and calendar, making it suitable for those heavily reliant on these platforms. However, both tools lack depth in integrations with other popular tools like HubSpot and Notion, potentially limiting their usefulness for users seeking a more comprehensive solution. Additionally, the tools may fall short in facilitating productive meetings, as they do not offer features tailored for in-person meetings or local recording.
+
+While Otter.ai offers a free plan and ease of use, its limited integrations with third-party tools like HubSpot and Notion may deter users looking for a more interconnected solution. Similarly, Zoom AI, despite its desktop and mobile app availability, lacks an automation engine and language support beyond English, potentially hindering its ability to assist users in achieving their meeting objectives effectively. Ultimately, both tools may not fully meet the needs of users seeking a robust meeting solution with extensive integrations and productivity features.  
 | Feature                        | Zoom AI               | Otter.ai              |
 |-------------------------------|-----------------------|-----------------------|
 | Trial/Free Plan               | ❌ Requires paid Zoom  | ✅ Free plan           |
@@ -53,9 +56,24 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support               | ❌ English only        | ❌ English only       |
 | Desktop App                   | ✅ Yes (Mac & Windows) | ❌ No (Web-based)     |
 | iPhone & Android Apps         | ✅ Yes (Both)          | ✅ Yes (Both)         |  
-Both Zoom AI and Otter.ai may appeal to individuals or businesses seeking a tool with Zoom and calendar integration, as well as a user-friendly interface. However, those looking for deeper integrations with platforms like HubSpot or Notion may find both tools lacking in this aspect. Additionally, users may find limitations in the tools' ability to enhance productivity during meetings due to the absence of an automation engine and support for in-person meetings or local recording.
+Some individuals or organizations may find Zoom AI appealing due to its native integration with Zoom and calendar, making it suitable for those heavily reliant on these platforms. However, both tools lack depth in integrations with other popular tools like HubSpot and Notion, potentially limiting their usefulness for users seeking a more comprehensive solution. Additionally, the tools may fall short in facilitating productive meetings, as they do not offer features tailored for in-person meetings or local recording.
 
-Overall, while Zoom AI and Otter.ai offer basic functionalities and ease of use, users who require more extensive integrations and features to streamline their meeting processes may need to explore alternative solutions that provide a more comprehensive suite of tools.  
+While Otter.ai offers a free plan and ease of use, its limited integrations with third-party tools like HubSpot and Notion may deter users looking for a more interconnected solution. Similarly, Zoom AI, despite its desktop and mobile app availability, lacks an automation engine and language support beyond English, potentially hindering its ability to assist users in achieving their meeting objectives effectively. Ultimately, both tools may not fully meet the needs of users seeking a robust meeting solution with extensive integrations and productivity features.  
+| Feature                        | Zoom AI               | Otter.ai              |
+|-------------------------------|-----------------------|-----------------------|
+| Trial/Free Plan               | ❌ Requires paid Zoom  | ✅ Free plan           |
+| Zoom & Calendar Integration    | ✅ Zoom native         | ✅ Yes                |
+| Easy to Use?                   | ✅ Yes                 | ✅ Yes                |
+| Good for In-Person Meetings?   | ❌ No                  | ❌ No                 |
+| Good for Local Recording?      | ❌ No                  | ❌ No                 |
+| Integrates with HubSpot, Notion, etc.? | ❌ No           | ❌ Limited            |
+| Automation Engine?             | ❌ No                  | ❌ No                 |
+| Language Support               | ❌ English only        | ❌ English only       |
+| Desktop App                   | ✅ Yes (Mac & Windows) | ❌ No (Web-based)     |
+| iPhone & Android Apps         | ✅ Yes (Both)          | ✅ Yes (Both)         |  
+Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
+$competitor1: ❌ Requires paid Zoom,✅ Zoom native,✅ Yes,❌ No,❌ No,❌ No,❌ No,❌ English only,✅ Yes (Mac & Windows),✅ Yes (Both)  
+$competitor2: ✅ Free plan,✅ Yes,✅ Yes,❌ No,❌ No,❌ Limited,❌ No,❌ English only,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
