@@ -36,6 +36,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Detailed summaries & action items emailed after each meeting.
 - Feature-rich (keywords, sentiment, task assignments) for deeper insights.
 - Easy setup; “just invite the bot and it works” feedback from users.  
+## Comparison table    
 | Feature                           | Krisp               | Fireflies.ai        |
 |-----------------------------------|---------------------|---------------------|
 | Trial/Free Plan                   | ✅ Free plan        | ✅ Free plan (limited) |
@@ -48,9 +49,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages | ✅ Multiple languages |
 | Desktop App                       | ✅ Yes (Mac & Windows) | ❌ No (Web-based) |
 | iPhone & Android Apps             | ✅ Yes (Both)       | ✅ Yes (Both)       |  
-- **Krisp**: People or companies looking for a straightforward and user-friendly tool for remote meetings might find Krisp appealing. However, those seeking deep integrations with other platforms like HubSpot or Notion may find Krisp lacking in this aspect.
+**Krisp**: Krisp is a good fit for individuals or companies looking for a straightforward tool with a free plan, easy usability, and support for in-person meetings and local recording. However, it lacks deep integrations with popular platforms like HubSpot and Notion, limiting its ability to streamline meeting workflows effectively.
 
-- **Fireflies.ai**: Users who prioritize seamless integration with Zoom and calendar apps, as well as an automation engine, may gravitate towards Fireflies.ai. Nevertheless, individuals or businesses looking for tools that excel in facilitating in-person meetings or local recording may need to explore other options beyond Fireflies.ai.  
+**Fireflies.ai**: Fireflies.ai appeals to users seeking a free plan with Zoom and calendar integration, automation capabilities, and support for multiple languages across desktop and mobile devices. Despite these strengths, its web-based nature and lack of in-person meeting support may hinder users looking for a more comprehensive solution to enhance their meeting productivity.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
