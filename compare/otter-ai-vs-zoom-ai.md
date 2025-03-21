@@ -1,7 +1,7 @@
 ---
 type: comparison
-title:  Avoma vs. Otter.ai  Which should you choose?
-description: Comparing Avoma and Otter.ai to help you choose the best transcription tool. Explore features, pricing, and an alternative option, Circleback.
+title:  Otter.ai vs. Zoom AI  Which should you choose?
+description: Comparing #Otter.ai and #Zoom AI to help you decide. Evaluation of both tools and an alternative option: Circleback.
 ---
 
 # Otter.ai vs. Zoom AI – Which should you choose?  
