@@ -23,17 +23,13 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?  
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
-* Top-notch accuracy in transcripts, even with multiple speakers.
-* Quick, high-quality summaries that capture key points and decisions.
+**Pros of Fathom:**
+- Top-notch accuracy in transcripts, even with multiple speakers.
+- Quick, high-quality summaries that capture key points and decisions.
 
-* Free unlimited usage for core features.
-* Supports many languages, with better results for non-English than competitors.
-
-* Historically Zoom-only, new support for other platforms is recent and in beta.
-* Some duplicate note issues if multiple team members use it simultaneously on a call.
-
-* Lacks a bit in live collaboration, mainly focused on post-meeting output.
-* Advanced features like custom integrations or extended analytics require paid plan.  
+**Cons of Fathom:**
+- Historically Zoom-only, new support for other platforms is recent and in beta.
+- Some duplicate note issues if multiple team members use it simultaneously on a call.  
 | Attribute               | Fathom               |
 |-------------------------|----------------------|
 | Free Plan               | ✅ Unlimited         |
@@ -52,17 +48,11 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Customer Support        | ✅ Yes               |
 | Data Security           | ✅ Yes               |
 | Cross-Platform Support  | ✅ Both (Mac & Win)  |  
-- **Otter.ai**
-  - Pros: Easy to use with an intuitive interface, strong free plan with generous transcription limits, seamless integration with Zoom & calendar for auto-recording meetings.
-  - Cons: Transcription errors with accents or fast speech, only supports English, hit-or-miss speaker ID.
+- **Otter.ai**: AI transcription and note-taking service with live transcription during meetings and cross-platform access. Great for capturing meeting notes in real time and searching conversations. Pricing starts at free for basic features and goes up to around $40 per user for enterprise plans.
 
-- **Avoma**
-  - Pros: Highly accurate transcriptions, excellent AI summaries and highlights, clear speaker separation and labeling in notes.
-  - Cons: No free tier, expensive for full features, complex for new users.
+- **Avoma**: AI meeting assistant ideal for sales and customer success teams, offering accurate transcriptions, detailed summaries, and workflow integrations. Pricing ranges from a free trial to around $79 per user per month for advanced plans.
 
-- **Fireflies.ai**
-  - Pros: Wide compatibility with major platforms, detailed summaries & action items emailed after each meeting, feature-rich for deeper insights.
-  - Cons: Free plan limits encourage upgrade, transcription accuracy around 90%, UI can feel cluttered.  
+- **Fireflies.ai**: AI meeting bot "Fred" for notes with wide compatibility, detailed summaries, and feature-rich insights. Pricing starts at free with limited storage and goes up to around $29 per user per month for unlimited recordings.  
 ## Fathom vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
