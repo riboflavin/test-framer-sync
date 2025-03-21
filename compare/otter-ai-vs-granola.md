@@ -41,6 +41,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Few integrations currently; mostly a standalone tool.
 - Lacks multi-user features – designed for individual note-taking (you manually share notes after).
 - New product – still adding features, so some capabilities (editing transcripts, etc.) are basic.  
+## Comparison table    
 | Feature                        | Otter.ai               | Granola                |
 |-------------------------------|------------------------|------------------------|
 | Trial/Free Plan               | ✅ Free plan            | ✅ Free plan (limited)  |
@@ -53,9 +54,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support               | ❌ English only         | ❌ English only         |
 | Desktop App                   | ❌ No (Web-based)       | ✅ Yes (Mac-only)       |
 | iPhone & Android Apps         | ✅ Yes (Both)           | ❌ No                   |  
-- Otter.ai might be suitable for individuals or companies looking for a free and easy-to-use tool with Zoom and calendar integration, but falls short in terms of integrations with other platforms and its ability to support in-person meetings and local recording. Granola, on the other hand, could be preferred by those who prioritize local recording and Mac desktop app availability, but lacks integrations with popular tools like HubSpot and Notion, as well as an automation engine to enhance meeting productivity.
+Otter.ai might appeal to individuals or companies looking for a free and easy-to-use tool with Zoom and calendar integration, but may fall short for those seeking deeper integrations with platforms like HubSpot and Notion, as well as for in-person meeting support and local recording capabilities. Granola, on the other hand, could be suitable for users desiring a straightforward tool with Mac desktop app support and local recording features, but may not meet the needs of those looking for broader integrations and automation capabilities, as well as support for in-person meetings.
 
-- Both Otter.ai and Granola have limitations in their depth of integrations and may not fully meet the needs of users seeking comprehensive solutions to enhance meeting efficiency. While Otter.ai offers Zoom and calendar integration and mobile apps, it lacks support for in-person meetings and local recording. Similarly, Granola provides a Mac desktop app and local recording capabilities, but falls short in terms of integrations with popular platforms and an automation engine to streamline meeting processes.  
+Both Otter.ai and Granola offer free plans with limited features, making them accessible options for users seeking basic meeting assistance. However, users looking for more comprehensive integrations and functionalities to enhance their meeting productivity may find both tools lacking in depth and practicality.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
