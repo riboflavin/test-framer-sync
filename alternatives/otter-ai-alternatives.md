@@ -23,6 +23,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?  
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
+## Otter.ai quick pros and cons    
 Pros:
 - Easy to use with an intuitive interface and live editing of transcripts.
 - Strong free plan with generous transcription limits.
@@ -30,23 +31,25 @@ Pros:
 Cons:
 - Transcription errors with accents or fast speech, not as accurate as human.
 - Only supports English, which is limiting.  
-| Attribute | Otter.ai |
-|-----------|----------|
-| Free Plan | ✅ |
-| Trial | ❌ |
+## Otter.ai features    
+| Feature | Otter.ai |
+|---------|----------|
+| Free plan | ✅ |
+| Trial only | ❌ |
 | Requires paid Zoom | ❌ |
-| Free Plan (limited) | ✅ |
-| Free Unlimited Plan | ✅ |
-| Zoom Native | ✅ |
-| Learning Curve | ❌ |
-| Multiple Languages | ✅ |
+| Free plan (limited) | ✅ |
+| Free unlimited plan | ✅ |
+| Zoom native | ✅ |
+| Learning curve | ❌ |
+| Multiple languages | ✅ |
 | Web-based | ❌ |
 | Mac & Windows | ✅ |
 | Mac-only | ✅ |
 | Both Mac & Windows | ✅ |  
-- **Avoma**: AI meeting assistant for sales and customer success teams. Offers accurate transcriptions, detailed summaries, and CRM integrations. Pricing starts at $19 per user monthly.
-- **Fathom**: AI notetaker with top-notch accuracy and multi-language support. Provides instant post-call summaries and free unlimited usage for core features. Pricing ranges from free to $29 per user monthly for team features.
-- **Krisp**: AI noise canceller and meeting assistant for better call quality and automatic notes. Platform-agnostic with unlimited transcription on all plans. Pricing starts at $8 per user monthly for the Pro plan.  
+## Closest Otter.ai competitors    
+- **Avoma**: AI meeting assistant for sales and customer success teams. Offers accurate transcriptions, detailed summaries, and CRM integrations. However, it lacks a free tier and can be complex for new users.
+- **Fathom**: AI notetaker with top-notch accuracy and multi-language support. Provides quick summaries and free unlimited usage for core features. Some users report duplicate note issues and a focus on post-meeting output rather than real-time collaboration.
+- **Krisp**: AI noise canceller and meeting assistant for better call quality and automatic notes. Features excellent noise cancellation, platform-agnostic use, and unlimited transcription. However, it lacks real-time collaboration and can tax system resources during long meetings.  
 ## Otter.ai vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -55,6 +58,7 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Automations with 100+ app integrations  
 * Industry-leading security with SOC 2 Type II, EU-U.S. Data Privacy Framework, and HIPAA compliance  
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
+### Comparison table  
 | Feature                                | Otter.ai               | Circleback            |
 |----------------------------------------|------------------------|-----------------------|
 | Easy to Use?                           | ✅ Free plan           | ❌ Trial only         |
