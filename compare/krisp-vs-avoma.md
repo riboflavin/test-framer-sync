@@ -36,6 +36,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Excellent AI summaries and highlights make review easy.
 - Speaker separation and labeling is very clear in notes.
 - Workflow integrations (CRM sync, calendar, etc.) streamline follow-ups.  
+## Comparison table    
 | Feature                           | Krisp               | Avoma              |
 |-----------------------------------|---------------------|--------------------|
 | Trial/Free Plan                   | ✅ Free plan        | ❌ Trial only       |
@@ -48,9 +49,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages | ❌ English only  |
 | Desktop App                       | ✅ Yes (Mac & Windows) | ❌ No (Web-based) |
 | iPhone & Android Apps             | ✅ Yes (Both)       | ✅ Yes (Both)      |  
-- Krisp may appeal to individuals or companies looking for a free plan and an easy-to-use tool for in-person meetings and local recording. However, it lacks integrations with popular platforms like Zoom and Calendar, as well as automation capabilities, potentially limiting its usefulness in streamlining meeting workflows.
+Some users or companies may prefer Krisp for its free plan, ease of use, and support for in-person meetings and local recording. However, both tools lack deep integrations with popular platforms like HubSpot and Notion, limiting their ability to streamline workflows effectively.
 
-- Avoma, on the other hand, might be preferred by users seeking a tool with Zoom and Calendar integration, support for various languages, and an automation engine. Despite these advantages, its web-based nature and lack of depth in integrations with platforms like HubSpot and Notion could hinder its ability to fully assist users in maximizing productivity during meetings.  
+On the other hand, Avoma might appeal to users or companies looking for Zoom and calendar integration, automation capabilities, and support for multiple languages. Despite these strengths, both tools have room for improvement in terms of integration depth and practicality in helping users accomplish tasks efficiently during meetings.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
