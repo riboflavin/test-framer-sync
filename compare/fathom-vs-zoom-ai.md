@@ -35,6 +35,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Real-time Q&A and assistance during meetings.
 - Unique whiteboard AI for creating mind-maps/diagrams in meetings.
 - Included with paid Zoom subscription.  
+## Comparison table    
 | Feature                           | Fathom               | Zoom AI              |
 |-----------------------------------|----------------------|----------------------|
 | Trial/Free Plan                   | ✅ Free unlimited plan| ❌ Requires paid Zoom |
@@ -47,9 +48,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages| ❌ English only       |
 | Desktop App                       | ❌ No (Web-based)    | ✅ Yes (Mac & Windows)|
 | iPhone & Android Apps             | ✅ Yes (Both)        | ✅ Yes (Both)         |  
-- Fathom may appeal to individuals or businesses looking for a free tool with Zoom and calendar integration, as well as compatibility with various platforms like HubSpot and Notion. However, it lacks depth in integrations and may not provide substantial assistance in meeting management.
+Some individuals or organizations may find Fathom appealing due to its free plan and integration with various tools like HubSpot and Notion. However, both Fathom and Zoom AI lack deep integrations and may not fully support users in managing their meetings effectively. While Fathom offers multiple language support, it falls short in features like automation and local recording.
 
-- Zoom AI, on the other hand, could be suitable for users seeking a native Zoom integration and support for multiple devices. Despite these features, it falls short in terms of integrations with other tools and may not offer significant help in improving meeting productivity.  
+On the other hand, Zoom AI, with its native Zoom integration and availability on desktop and mobile platforms, might attract users seeking a seamless meeting experience. Nevertheless, the tool's limited integrations and lack of support for in-person meetings and local recording could hinder its ability to truly enhance users' meeting productivity.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
