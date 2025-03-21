@@ -51,24 +51,6 @@ On the other hand, Zoom AI's native integration with Zoom and calendars could be
 | Language Support                  | ✅ Multiple languages | ❌ English only |
 | Desktop App                       | ✅ Yes (Mac & Windows) | ✅ Yes (Mac & Windows) |
 | iPhone & Android Apps             | ✅ Yes (Both)     | ✅ Yes (Both)     |  
-Some individuals or organizations may find Krisp appealing for its free plan and ease of use, particularly those who prioritize simplicity and cost-efficiency. However, both tools lack deep integrations with popular platforms like HubSpot and Notion, limiting their utility in streamlining meeting workflows effectively.
-
-On the other hand, Zoom AI's native integration with Zoom and calendars could be attractive to users heavily reliant on these tools for scheduling and hosting meetings. Nevertheless, the tool's lack of support for in-person meetings and local recording may deter those seeking comprehensive solutions for their meeting needs.  
-| Feature                           | Krisp             | Zoom AI           |
-|-----------------------------------|-------------------|-------------------|
-| Trial/Free Plan                   | ✅ Free plan      | ❌ Requires paid Zoom |
-| Zoom & Calendar Integration       | ❌ No             | ✅ Zoom native     |
-| Easy to Use?                      | ✅ Yes            | ✅ Yes            |
-| Good for In-Person Meetings?      | ✅ Yes            | ❌ No             |
-| Good for Local Recording?         | ✅ Yes            | ❌ No             |
-| Integrates with HubSpot, Notion, etc.? | ❌ No         | ❌ No             |
-| Automation Engine?                | ❌ No             | ❌ No             |
-| Language Support                  | ✅ Multiple languages | ❌ English only |
-| Desktop App                       | ✅ Yes (Mac & Windows) | ✅ Yes (Mac & Windows) |
-| iPhone & Android Apps             | ✅ Yes (Both)     | ✅ Yes (Both)     |  
-Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
-$competitor1: ✅ Free plan,❌ No,✅ Yes,✅ Yes,✅ Yes,❌ No,❌ No,✅ Multiple languages,✅ Yes (Mac & Windows),✅ Yes (Both)  
-$competitor2: ❌ Requires paid Zoom,✅ Zoom native,✅ Yes,❌ No,❌ No,❌ No,❌ No,❌ English only,✅ Yes (Mac & Windows),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
