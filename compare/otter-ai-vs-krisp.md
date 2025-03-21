@@ -42,6 +42,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Summaries are concise but not as in-depth as some competitors’ (geared toward quick recap).
 - No real-time collab or multi-user features – it’s a personal tool (teams would each use their own instance).
 - Can tax system resources during long meetings (CPU usage for AI processing).  
+## Comparison table    
 | Feature                        | Otter.ai               | Krisp                  |
 |-------------------------------|------------------------|------------------------|
 | Trial/Free Plan                | ✅ Free plan            | ✅ Free plan            |
@@ -54,9 +55,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support               | ❌ English only         | ✅ Multiple languages  |
 | Desktop App                    | ❌ No (Web-based)       | ✅ Yes (Mac & Windows)  |
 | iPhone & Android Apps          | ✅ Yes (Both)           | ✅ Yes (Both)           |  
-**Otter.ai**: Companies or individuals looking for a free and easy-to-use tool with Zoom and calendar integration might find Otter.ai appealing. However, its limitations in integrations with other platforms and lack of support for in-person meetings and local recording could hinder its effectiveness in helping users manage their meetings efficiently.
+Some individuals or organizations may find Otter.ai appealing for its free plan, Zoom and calendar integration, and ease of use. However, Otter.ai lacks depth in integrations with other tools like HubSpot and Notion, limiting its usefulness in streamlining meeting workflows. Additionally, its inability to support in-person meetings and local recording may hinder its practicality for certain users.
 
-**Krisp**: Users seeking a free and user-friendly tool with desktop and mobile apps, as well as support for multiple languages, may consider Krisp. Nevertheless, its lack of integrations with popular platforms like HubSpot and Notion, along with the absence of an automation engine, may limit its ability to fully assist users in optimizing their meeting experiences.  
+On the other hand, Krisp offers a free plan, ease of use, and support for local recording, making it suitable for those prioritizing simplicity and offline capabilities. Nevertheless, Krisp falls short in terms of integrations with popular tools like HubSpot and Notion, as well as lacking an automation engine, potentially limiting its effectiveness in enhancing meeting productivity.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
