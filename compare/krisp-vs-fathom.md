@@ -7,45 +7,51 @@ description: Comparing Avoma and Otter.ai for your needs? Dive into this article
 # Krisp vs. Fathom: Which should you choose?  
 AI meeting notes platforms provide four primary deliverables:  
   
-* Transcripts create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.  
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.  
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.  
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."  
+* Transcripts create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.  
+* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.  
+* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.  
+* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."  
   
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:  
   
-* Free trial: can you test it for free before committing?  
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?  
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?  
-* Security and privacy: how is customer data handled on the platform?  
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?  
-* Functionality: does it go beyond transcriptions and actually help you take action?  
-* Languages: can it transcribe and summarize meetings in different languages?  
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
-* Recordings: is there support for saving and playing back audio and video recordings of meetings?    
+* Free trial: can you test it for free before committing?  
+* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?  
+* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?  
+* Security and privacy: how is customer data handled on the platform?  
+* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?  
+* Functionality: does it go beyond transcriptions and actually help you take action?  
+* Languages: can it transcribe and summarize meetings in different languages?  
+* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
+* Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Evaluating Krisp and Fathom  
-Krisp:
-- Pros: Excellent noise cancellation, platform-agnostic, unlimited transcription, generous free plan with custom vocabulary.
-- Cons: Free plan limits, concise summaries, no real-time collaboration, high CPU usage during long meetings.
+### Krisp
+- Excellent noise cancellation for both microphone and speaker audio.
+- Platform-agnostic – use with any meeting software, even phone calls.
+- Unlimited transcription on all plans (no minute caps).
+- Generous free plan (includes noise reduction and a couple summaries/day).
+- Custom vocabulary improves accuracy for industry terms.
 
-Fathom:
-- Pros: Top-notch accuracy in transcripts, quick summaries, free core features, supports many languages.
-- Cons: Historically Zoom-only, duplicate note issues, lacks live collaboration, advanced features require paid plan.  
-| Feature                           | Krisp       | Fathom      |
-|-----------------------------------|-------------|-------------|
-| Trial/Free Plan                   | ✅ Free plan | ✅ Free unlimited plan |
-| Zoom & Calendar Integration        | ❌ No        | ✅ Yes       |
-| Easy to Use?                       | ✅ Yes       | ✅ Very easy |
-| Good for In-Person Meetings?       | ✅ Yes       | ❌ No       |
-| Good for Local Recording?          | ✅ Yes       | ❌ No       |
-| Integrates with HubSpot, Notion, etc.? | ❌ No        | ✅ Yes       |
-| Automation Engine?                 | ❌ No        | ❌ No       |
-| Language Support                   | ✅ Multiple languages | ✅ Multiple languages |
+### Fathom
+- Top-notch accuracy in transcripts, even with multiple speakers.
+- Quick, high-quality summaries that capture key points and decisions.
+- Free unlimited usage for core features (rare in this space).
+- Supports many languages (users report better results for non-English than competitors).
+- Historically Zoom-only (new support for other platforms is recent and in beta).  
+| Feature                           | Krisp          | Fathom        |
+|-----------------------------------|----------------|---------------|
+| Trial/Free Plan                   | ✅ Free plan   | ✅ Free unlimited plan |
+| Zoom & Calendar Integration       | ❌ No          | ✅ Yes        |
+| Easy to Use?                      | ✅ Yes         | ✅ Yes        |
+| Good for In-Person Meetings?      | ✅ Yes         | ❌ No         |
+| Good for Local Recording?         | ✅ Yes         | ❌ No         |
+| Integrates with HubSpot, Notion, etc.? | ❌ No       | ✅ Yes        |
+| Automation Engine?                | ❌ No          | ❌ No         |
+| Language Support                  | ✅ Multiple languages | ✅ Multiple languages |
 | Desktop App                       | ✅ Yes (Mac & Windows) | ❌ No (Web-based) |
-| iPhone & Android Apps              | ✅ Yes (Both) | ✅ Yes (Both) |  
-**Krisp**: Krisp is suitable for individuals or small businesses looking for a straightforward and user-friendly tool for remote meetings. However, it lacks deep integrations with popular platforms like Zoom and HubSpot, limiting its ability to streamline meeting workflows effectively.
+| iPhone & Android Apps             | ✅ Yes (Both)  | ✅ Yes (Both) |  
+**Krisp**: Krisp is suitable for individuals or companies looking for a free and easy-to-use tool for virtual meetings, with the ability to record locally. However, it lacks integrations with popular platforms like Zoom and Calendar, limiting its usefulness for those who rely on these tools for scheduling and communication.
 
-**Fathom**: Fathom appeals to users who prioritize seamless integration with their existing tools, such as Zoom and HubSpot, to enhance meeting productivity. Despite its user-friendly interface, Fathom falls short in supporting in-person meetings and local recording, which may hinder its usefulness for certain users.  
+**Fathom**: Fathom is a good choice for users who prioritize integrations with platforms like Zoom and Calendar, as well as tools like HubSpot and Notion. While it offers multiple language support and mobile apps, its lack of in-person meeting support and limited depth of integrations may hinder its ability to truly streamline meeting processes for users.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
