@@ -35,6 +35,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Real-time Q&A and assistance during meetings (ask the AI on the fly)
 - Unique whiteboard AI for creating mind-maps/diagrams in meeting
 - Included with paid Zoom (no extra fee for existing Zoom subscribers)  
+## Comparison table    
 | Feature                           | Granola               | Zoom AI              |
 |-----------------------------------|-----------------------|----------------------|
 | Trial/Free Plan                   | ✅ Free plan (limited) | ❌ Requires paid Zoom |
@@ -47,9 +48,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ❌ English only       | ❌ English only      |
 | Desktop App                       | ✅ Yes (Mac-only)     | ✅ Yes (Mac & Windows) |
 | iPhone & Android Apps             | ❌ No                 | ✅ Yes (Both)        |  
-- Granola may appeal to individuals or small businesses looking for a free plan with basic features, but may not be suitable for those needing deep integrations with other tools or advanced automation capabilities. While it is easy to use and supports local recording, it lacks integration with popular platforms like HubSpot and Notion.
+Granola might appeal to individuals or small businesses looking for a free tool that is easy to use and allows for local recording. However, it lacks integrations with popular platforms like HubSpot and Notion, limiting its usefulness for those who rely on these tools for productivity. Additionally, its focus on in-person meetings may not suit users who conduct most of their meetings remotely.
 
-- Zoom AI, on the other hand, could be preferred by users who prioritize seamless integration with Zoom and calendar apps, as well as the availability of desktop and mobile apps. However, it falls short in terms of integrations with other tools and lacks an automation engine, limiting its ability to assist users in maximizing productivity during meetings.  
+Zoom AI, on the other hand, could be attractive to Zoom users seeking a seamless integration with their calendar and a wider range of language support. Nevertheless, its lack of integrations with other key platforms and absence of an automation engine may hinder its ability to truly streamline meeting processes for users who require more comprehensive tools. Both tools may fall short in providing users with the depth of integrations needed to enhance their meeting productivity effectively.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
