@@ -35,6 +35,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Excellent AI summaries and highlights make review easy
 - Speaker separation and labeling is very clear in notes
 - Workflow integrations (CRM sync, calendar, etc.) streamline follow-ups  
+## Comparison table    
 | Feature                           | Fathom               | Avoma                |
 |-----------------------------------|----------------------|----------------------|
 | Trial/Free Plan                   | ✅ Free unlimited plan | ❌ Trial only         |
@@ -47,9 +48,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages | ❌ English only      |
 | Desktop App                       | ❌ No (Web-based)    | ❌ No (Web-based)    |
 | iPhone & Android Apps             | ✅ Yes (Both)        | ✅ Yes (Both)        |  
-- Fathom may appeal to individuals or companies looking for a free tool with Zoom and calendar integration, as well as integration with platforms like HubSpot and Notion. However, its lack of an automation engine and limited language support may hinder its ability to streamline meeting processes effectively.
+Fathom might appeal to individuals or businesses looking for a straightforward tool with Zoom and calendar integration, as well as compatibility with popular platforms like HubSpot and Notion. However, its lack of an automation engine and limited language support could hinder its effectiveness in streamlining meeting processes.
 
-- Avoma, on the other hand, could be suitable for users seeking a tool with a more advanced automation engine and support for multiple languages. Despite its ease of use and availability on mobile devices, both Fathom and Avoma fall short in terms of depth of integrations and practicality in facilitating productive meetings.  
+Avoma could attract users seeking a more advanced solution with automation capabilities and support for multiple languages. Yet, its learning curve and absence of features for in-person meetings and local recording may limit its utility in enhancing meeting productivity.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
