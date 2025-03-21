@@ -35,6 +35,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Detailed summaries and feature-rich insights.
 - Easy setup with bot invitation.
 - Free plan limitations and transcription accuracy issues.  
+## Comparison table    
 | Feature                        | Zoom AI               | Fireflies.ai         |
 |-------------------------------|-----------------------|----------------------|
 | Trial/Free Plan               | ❌ Requires paid Zoom  | ✅ Free plan (limited)|
@@ -47,9 +48,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support              | ❌ English only        | ✅ Multiple languages|
 | Desktop App                   | ✅ Yes (Mac & Windows) | ❌ No (Web-based)    |
 | iPhone & Android Apps         | ✅ Yes (Both)          | ✅ Yes (Both)        |  
-- Companies looking for a tool with Zoom integration might prefer Fireflies.ai due to its free plan and compatibility with various calendars. However, both tools lack deep integrations with popular platforms like HubSpot and Notion, limiting their usefulness in streamlining meeting workflows.
+Both Zoom AI and Fireflies.ai offer some useful features, such as Zoom and calendar integration, ease of use, and availability on multiple devices. However, both tools lack deep integrations with popular platforms like HubSpot and Notion, limiting their usefulness for users who heavily rely on those tools. Additionally, their inability to support in-person meetings and local recording may be a drawback for certain users or companies looking for a more comprehensive solution.
 
-- Individuals or businesses seeking an automation engine to enhance meeting productivity may find Fireflies.ai more suitable, despite both tools falling short in providing features for in-person meetings and local recording. Additionally, the limited language support and lack of a desktop app in Fireflies.ai may pose challenges for users looking for a comprehensive meeting solution.  
+While Fireflies.ai does offer a free plan with limited features, Zoom AI requires a paid Zoom account to access its functionalities. Despite both tools having some strengths, their lack of advanced integrations and limited capabilities in supporting various meeting needs may leave users searching for more robust solutions to enhance their productivity and workflow efficiency.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
