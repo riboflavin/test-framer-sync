@@ -23,6 +23,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?  
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
+## Avoma quick pros and cons    
 Pros:
 - Highly accurate transcriptions with no detail lost.
 - Excellent AI summaries and highlights for easy review.
@@ -30,19 +31,19 @@ Pros:
 Cons:
 - No free tier, requires paid plan from the start.
 - Expensive for full features, with advanced plans priced around $59-79 per user per month.  
-| Attribute | Avoma |
-| --- | --- |
-| Trial | ✅ Yes |
-| Requires paid Zoom | ❌ No |
-| Free plan (limited) | ✅ Yes |
-| Free unlimited plan | ✅ Yes |
-| Learning curve | ❌ No |
-| Zoom native | ✅ Yes |
-| Multiple languages | ✅ Yes |
-| Platform | ✅ Yes (Both) |  
-- Otter.ai: Easy-to-use AI transcription service with strong free plan and seamless Zoom integration.
-- Fireflies.ai: Feature-rich AI meeting bot with wide compatibility and detailed summaries, but can feel cluttered and overwhelming with email notifications.
-- Fathom: AI notetaker excelling in accuracy and multi-language support, offering free unlimited usage for core features and supporting many languages.  
+## Avoma features    
+| Feature                | Avoma               |
+|------------------------|---------------------|
+| Trial Version          | ✅ Yes              |
+| Integration with Zoom  | ✅ Zoom native      |
+| Free Plan              | ✅ Free unlimited plan |
+| Learning Curve         | ✅ Yes              |
+| Language Options       | ✅ Multiple languages |
+| Platform Availability  | ✅ Yes (Both)       |  
+## Closest Avoma competitors    
+- Otter.ai: AI transcription and note-taking service with live transcription during meetings and cross-platform access. Strong free plan with generous transcription limits but limited language support and occasional transcription errors.
+- Fireflies.ai: AI meeting bot for recording, transcribing, and summarizing discussions with detailed summaries and action items. Wide compatibility with major platforms but cluttered UI and occasional transcription errors.
+- Fathom: AI notetaker with unlimited recording/transcription of meetings and high accuracy in transcripts. Free unlimited usage for core features but some duplicate note issues and lacks live collaboration features.  
 ## Avoma vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -51,6 +52,7 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Automations with 100+ app integrations  
 * Industry-leading security with SOC 2 Type II, EU-U.S. Data Privacy Framework, and HIPAA compliance  
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
+### Comparison table  
 | Feature             | Avoma         | Circleback    |
 |---------------------|---------------|---------------|
 | Trial               | ❌            | ❌            |
