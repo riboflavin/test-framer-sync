@@ -44,6 +44,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Lacks live collaboration focus
 - Advanced features require a paid plan  
 ## Comparison table    
+Some people or companies might prefer Fireflies.ai for its integration with Zoom and calendars, as well as its automation engine. However, both tools lack depth in integrations and may not fully assist users in meeting productivity.
+
+Others may opt for Fathom due to its free unlimited plan and integration with various platforms like HubSpot and Notion. Nevertheless, users might find limitations in both tools when it comes to facilitating in-person meetings and local recording, potentially hindering their meeting efficiency.  
 | Feature                           | Fireflies.ai               | Fathom                    |
 |-----------------------------------|----------------------------|---------------------------|
 | Trial/Free Plan                   | ✅ Free plan (limited)     | ✅ Free unlimited plan    |
@@ -56,9 +59,24 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages      | ✅ Multiple languages     |
 | Desktop App                       | ❌ No (Web-based)          | ❌ No (Web-based)         |
 | iPhone & Android Apps             | ✅ Yes (Both)              | ✅ Yes (Both)             |  
-Some people or companies might prefer Fireflies.ai for its integration with Zoom and calendars, as well as its automation engine. However, both tools lack depth in integrations and may not be very helpful in facilitating meetings effectively. Fathom, on the other hand, offers a free unlimited plan and integrates with popular platforms like HubSpot and Notion, making it suitable for users looking for a cost-effective solution with broader integration options.
+Some people or companies might prefer Fireflies.ai for its integration with Zoom and calendars, as well as its automation engine. However, both tools lack depth in integrations and may not fully assist users in meeting productivity.
 
-While Fireflies.ai and Fathom are user-friendly and support multiple languages, they both fall short in providing features for in-person meetings and local recording. Additionally, the lack of a desktop app for both tools may limit their usability for some users. Despite their strengths, users should consider the limitations of these tools in terms of integrations and practical meeting support.  
+Others may opt for Fathom due to its free unlimited plan and integration with various platforms like HubSpot and Notion. Nevertheless, users might find limitations in both tools when it comes to facilitating in-person meetings and local recording, potentially hindering their meeting efficiency.  
+| Feature                           | Fireflies.ai               | Fathom                    |
+|-----------------------------------|----------------------------|---------------------------|
+| Trial/Free Plan                   | ✅ Free plan (limited)     | ✅ Free unlimited plan    |
+| Zoom & Calendar Integration       | ✅ Yes                     | ✅ Yes                    |
+| Easy to Use?                      | ✅ Yes                     | ✅ Yes                    |
+| Good for In-Person Meetings?      | ❌ No                      | ❌ No                     |
+| Good for Local Recording?         | ❌ No                      | ❌ No                     |
+| Integrates with HubSpot, Notion, etc.? | ✅ Yes                | ✅ Yes                    |
+| Automation Engine?                | ✅ Yes                     | ❌ No                     |
+| Language Support                  | ✅ Multiple languages      | ✅ Multiple languages     |
+| Desktop App                       | ❌ No (Web-based)          | ❌ No (Web-based)         |
+| iPhone & Android Apps             | ✅ Yes (Both)              | ✅ Yes (Both)             |  
+Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
+$competitor1: ✅ Free plan (limited),✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,✅ Yes,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
+$competitor2: ✅ Free unlimited plan,✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,❌ No,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
