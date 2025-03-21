@@ -32,6 +32,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Top-notch accuracy in transcripts, quick summaries, free core features, supports many languages.
 - Historically Zoom-only, some duplicate note issues, lacks live collaboration, advanced features require paid plan.  
 ## Comparison table    
+Some people or companies might prefer Avoma for its integration with Zoom and calendars, as well as its ability to integrate with tools like HubSpot and Notion. However, both tools lack depth in integrations and may not fully assist users in meeting productivity.
+
+On the other hand, Fathom could be appealing to those looking for an easy-to-use tool with support for multiple languages and availability on both iPhone and Android. Nevertheless, users may find limitations in both tools when it comes to depth of integrations and actual productivity enhancement during meetings.  
 | Feature                           | Avoma       | Fathom      |
 |-----------------------------------|-------------|-------------|
 | Trial/Free Plan                   | ❌ Trial only | ✅ Free unlimited plan |
@@ -44,7 +47,24 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                   | ❌ English only | ✅ Multiple languages |
 | Desktop App                       | ❌ No (Web-based) | ❌ No (Web-based) |
 | iPhone & Android Apps              | ✅ Yes (Both) | ✅ Yes (Both) |  
-Avoma might appeal to individuals or businesses looking for a tool with integrations to Zoom, Calendar, HubSpot, and Notion, as well as an automation engine. However, it lacks support for in-person meetings and local recording, and has a learning curve. Fathom, on the other hand, offers a free unlimited plan, ease of use, and support for multiple languages, but falls short on integrations and lacks an automation engine. Both tools are web-based with mobile apps, but may not fully meet users' needs in terms of integration depth and practical meeting assistance.  
+Some people or companies might prefer Avoma for its integration with Zoom and calendars, as well as its ability to integrate with tools like HubSpot and Notion. However, both tools lack depth in integrations and may not fully assist users in meeting productivity.
+
+On the other hand, Fathom could be appealing to those looking for an easy-to-use tool with support for multiple languages and availability on both iPhone and Android. Nevertheless, users may find limitations in both tools when it comes to depth of integrations and actual productivity enhancement during meetings.  
+| Feature                           | Avoma       | Fathom      |
+|-----------------------------------|-------------|-------------|
+| Trial/Free Plan                   | ❌ Trial only | ✅ Free unlimited plan |
+| Zoom & Calendar Integration        | ✅ Yes       | ✅ Yes       |
+| Easy to Use?                       | ❌ Learning curve | ✅ Yes       |
+| Good for In-Person Meetings?       | ❌ No        | ❌ No        |
+| Good for Local Recording?          | ❌ No        | ❌ No        |
+| Integrates with HubSpot, Notion, etc.? | ✅ Yes       | ✅ Yes       |
+| Automation Engine?                 | ✅ Yes       | ❌ No        |
+| Language Support                   | ❌ English only | ✅ Multiple languages |
+| Desktop App                       | ❌ No (Web-based) | ❌ No (Web-based) |
+| iPhone & Android Apps              | ✅ Yes (Both) | ✅ Yes (Both) |  
+Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
+$competitor1: ❌ Trial only,✅ Yes,❌ Learning curve,❌ No,❌ No,✅ Yes,✅ Yes,❌ English only,❌ No (Web-based),✅ Yes (Both)  
+$competitor2: ✅ Free unlimited plan,✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,❌ No,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
