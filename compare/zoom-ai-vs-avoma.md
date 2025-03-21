@@ -41,6 +41,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Expensive advanced plans.
 - Complex for new users.
 - Meeting bot may join late or miss speaker names.  
+## Comparison table    
 | Feature                           | Zoom AI               | Avoma                |
 |-----------------------------------|-----------------------|----------------------|
 | Trial/Free Plan                   | ❌ Requires paid Zoom  | ❌ Trial only        |
@@ -53,9 +54,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ❌ English only        | ❌ English only      |
 | Desktop App                       | ✅ Yes (Mac & Windows) | ❌ No (Web-based)    |
 | iPhone & Android Apps             | ✅ Yes (Both)          | ✅ Yes (Both)        |  
-- Companies or individuals looking for a tool with native Zoom integration and a user-friendly interface may prefer Zoom AI over Avoma. However, both tools lack deep integrations with popular platforms like HubSpot and Notion, limiting their ability to streamline meeting workflows effectively.
-
-- Users seeking a tool with advanced automation capabilities may find Avoma more suitable despite its learning curve. Both Zoom AI and Avoma fall short in supporting in-person meetings and local recording, which may hinder users looking to maximize productivity during meetings.  
+Some users or companies might prefer Zoom AI for its ease of use and native Zoom integration, while others might opt for Avoma due to its integration with various platforms like HubSpot and Notion, as well as its automation engine. However, both tools lack depth in integrations and may not fully assist users in effectively managing their meetings. Zoom AI is limited in its support for in-person meetings and local recording, while Avoma has a learning curve and lacks a desktop app, being solely web-based.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
