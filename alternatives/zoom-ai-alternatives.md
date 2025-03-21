@@ -23,12 +23,13 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?  
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
-* **Pros of Zoom AI:**
-  * Native integration with Zoom, no setup required
-  * Real-time Q&A and assistance during meetings
-* **Cons of Zoom AI:**
-  * Limited to Zoom platform only
-  * Requires a paid Zoom plan, no free access  
+**Pros of Zoom AI:**
+- Native integration with Zoom, no setup required for Zoom users, and outputs appear directly in Zoom Chat.
+- Real-time Q&A and assistance available during meetings, along with a unique whiteboard AI for creating mind-maps and diagrams.
+
+**Cons of Zoom AI:**
+- Limited to Zoom platform only, not compatible with Google Meet, Teams, etc.
+- Requires a paid Zoom plan (approximately $15+ monthly), with no free access available.  
 | Attribute                | Zoom AI               |
 |--------------------------|-----------------------|
 | Requires paid Zoom       | ❌                    |
@@ -41,9 +42,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Web-based availability   | ❌                    |
 | Mac-only availability    | ✅                    |
 | Available on both Mac & Windows | ✅            |  
-- **Avoma**: Ideal for sales and customer success teams, Avoma offers highly accurate transcriptions and excellent AI summaries, but can be complex for new users and lacks a free tier.
-- **Fireflies.ai**: With wide compatibility and detailed summaries, Fireflies.ai is praised for its feature-rich insights, but its cluttered UI and email notifications can be overwhelming.
-- **Fathom**: Fathom excels in accuracy and multi-language support, offering free unlimited usage for core features, but may have duplicate note issues and lacks live collaboration capabilities.  
+- **Avoma**: AI meeting assistant for sales and customer success teams. Offers accurate transcriptions, detailed summaries, and CRM integrations. However, lacks a free tier and can be complex for new users.
+- **Fireflies.ai**: AI meeting bot for recording and summarizing discussions. Features wide compatibility, detailed summaries, and easy setup. Downsides include limited free plan and cluttered UI.
+- **Fathom**: AI notetaker with unlimited recording and transcription. Excels in accuracy and multi-language support. Offers free core features but lacks live collaboration and may have duplicate note issues.  
 ## Zoom AI vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
