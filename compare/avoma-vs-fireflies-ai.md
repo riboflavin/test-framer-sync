@@ -34,6 +34,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Wide compatibility, detailed summaries, feature-rich insights.
 - Easy setup, but free plan limits, transcription inaccuracies.
 - Cluttered UI, many email notifications.  
+## Comparison table    
 | Feature                           | Avoma       | Fireflies.ai |
 |-----------------------------------|-------------|--------------|
 | Trial/Free Plan                   | ❌ Trial only | ✅ Free plan (limited) |
@@ -46,9 +47,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ❌ English only | ✅ Multiple languages |
 | Desktop App                       | ❌ No (Web-based) | ❌ No (Web-based) |
 | iPhone & Android Apps             | ✅ Yes (Both) | ✅ Yes (Both) |  
-- Avoma might appeal to individuals or businesses looking for a tool with strong integrations with Zoom and calendar apps, as well as automation capabilities. However, it may not be the best choice for those seeking support for in-person meetings or local recording, and its language support is limited to English only.
+Avoma might appeal to individuals or businesses looking for a tool with integrations with Zoom, calendars, and platforms like HubSpot and Notion. However, it lacks support for in-person meetings and local recording, potentially limiting its usefulness in certain scenarios. The tool also only supports English, which may be a drawback for non-English speakers.
 
-- Fireflies.ai could be suitable for users who prioritize ease of use and multi-language support, as well as integration with popular platforms like HubSpot and Notion. Nevertheless, it lacks depth in integrations and may not fully assist users in effectively managing their meetings due to its web-based nature and limited capabilities for in-person interactions.  
+Fireflies.ai, on the other hand, offers a free plan with multiple language support and ease of use, making it suitable for a wider range of users. Despite its integrations with Zoom, calendars, and platforms like HubSpot and Notion, both tools may fall short in terms of depth of integrations and actual utility in helping users effectively manage their meetings.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
