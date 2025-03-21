@@ -23,6 +23,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?  
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
+## Granola quick pros and cons    
 **Pros:**
 - Minimal, user-friendly app with a regular notepad feel.
 - Accurate transcription quality helps fill in missed details.
@@ -30,23 +31,23 @@ In addition to the quality of these deliverables, we'll want to look at a number
 **Cons:**
 - MacOS only with no mobile app yet.
 - Lacks multi-user features and limited integrations.  
-| Attribute          | Granola               |
-|--------------------|-----------------------|
-| Free Plan          | ✅ Limited             |
-| Free Plan          | ✅ Yes                |
-| Mobile App         | ❌ No                 |
-| Web App            | ❌ No                 |
-| Dark Mode          | ✅ Yes                |
-| Customization      | ✅ Yes                |
-| Cross-platform     | ✅ Yes (Mac-only)     |
-| Cross-platform     | ✅ Yes (Mac & Windows)|
-| Offline Access     | ❌ No                 |
-| Collaboration      | ✅ Yes (Both)         |  
-- **Otter.ai**: AI transcription and note-taking service with live transcription during meetings and cross-platform access. Great for capturing meeting notes in real time and searching conversations. Pros include easy-to-use interface, strong free plan, and seamless integration with Zoom & calendar. Cons include transcription errors with accents, English language limitation, and hit-or-miss speaker ID.
-
-- **Avoma**: AI meeting assistant with conversation intelligence, ideal for sales and customer success teams. Offers highly accurate transcriptions, excellent AI summaries, and clear speaker separation. Pros include accurate transcriptions, excellent AI summaries, and clear speaker separation. Cons include no free tier, complexity for new users, and occasional issues with meeting bot.
-
-- **Zoom AI**: Zoom’s built-in AI Companion for live transcription, summaries, and sentiment analysis during meetings. Suited for teams already on Zoom. Pros include native integration, real-time Q&A, and unique whiteboard AI. Cons include Zoom-only compatibility, no free access, speaker ID limits, and lack of custom vocabulary.  
+## Granola features    
+| Feature               | Granola               | Competitor 1          |
+|-----------------------|-----------------------|-----------------------|
+| Free Plan             | ✅ Yes                | ✅ Free plan (limited)|
+| Cross-platform        | ✅ Yes                | ❌ No                 |
+| Offline Access        | ✅ Yes                | ❌ No                 |
+| Cloud Sync            | ✅ Yes                | ✅ Yes                |
+| Collaboration         | ✅ Yes                | ✅ Yes                |
+| Mobile App            | ✅ Yes                | ❌ No                 |
+| Dark Mode             | ✅ Yes                | ❌ No                 |
+| Language Support      | ✅ Multiple languages | ❌ English only       |
+| Mac Support           | ✅ Yes (Mac & Windows)| ✅ Yes (Mac-only)     |
+| Windows Support       | ✅ Yes (Both)         | ❌ No                 |  
+## Closest Granola competitors    
+- Otter.ai: AI transcription and note-taking service with live transcription during meetings and cross-platform access. Strong free plan with generous transcription limits but limited language support and accuracy issues with accents.
+- Avoma: AI meeting assistant for sales and customer success teams, offering accurate transcriptions, detailed summaries, and workflow integrations. No free tier, expensive advanced plans, and complex for new users.
+- Zoom AI: Zoom's built-in AI Companion for live meeting transcriptions and summaries, real-time Q&A, and whiteboard AI. Included with paid Zoom subscriptions, but limited to Zoom platform and lacks custom vocabulary support.  
 ## Granola vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -55,6 +56,7 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Automations with 100+ app integrations  
 * Industry-leading security with SOC 2 Type II, EU-U.S. Data Privacy Framework, and HIPAA compliance  
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
+### Comparison table  
 | Feature             | Granola | Circleback |
 |---------------------|---------|------------|
 | Free Plan           | ✅       | ❌         |
