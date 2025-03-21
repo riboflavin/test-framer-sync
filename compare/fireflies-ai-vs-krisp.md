@@ -44,6 +44,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Concise summaries but not as in-depth as competitors
 - No real-time collaboration or multi-user features  
 ## Comparison table    
+Some people or companies might find Fireflies.ai useful due to its integration with Zoom and calendars, as well as its automation engine. However, both tools lack depth in integrations and may not fully assist users in meeting productivity.
+
+On the other hand, Krisp could be appealing to those who prioritize in-person meetings and local recording capabilities. Nevertheless, the limited integrations of Krisp may hinder users looking for a comprehensive solution to enhance their meeting efficiency.  
 | Feature                           | Fireflies.ai               | Krisp                      |
 |-----------------------------------|----------------------------|----------------------------|
 | Trial/Free Plan                   | ✅ Free plan (limited)     | ✅ Free plan               |
@@ -56,9 +59,24 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages      | ✅ Multiple languages      |
 | Desktop App                       | ❌ No (Web-based)          | ✅ Yes (Mac & Windows)     |
 | iPhone & Android Apps             | ✅ Yes (Both)              | ✅ Yes (Both)              |  
-Both Fireflies.ai and Krisp offer free plans, making them attractive to individuals and small businesses looking to save on costs. However, Fireflies.ai's integration with Zoom and calendars may appeal more to users who heavily rely on these tools for scheduling and communication, despite lacking depth in integrations with other platforms like HubSpot and Notion. On the other hand, Krisp's focus on in-person meeting support and local recording capabilities could benefit users who prioritize face-to-face interactions and need to store meeting recordings locally, even though it falls short in terms of integrations and automation features.
+Some people or companies might find Fireflies.ai useful due to its integration with Zoom and calendars, as well as its automation engine. However, both tools lack depth in integrations and may not fully assist users in meeting productivity.
 
-Overall, both tools have their strengths and weaknesses, with Fireflies.ai excelling in automation and language support, while Krisp offers a more user-friendly experience with desktop and mobile apps. However, users may find limitations in the depth of integrations provided by both tools, potentially hindering their ability to streamline meeting processes effectively and efficiently.  
+On the other hand, Krisp could be appealing to those who prioritize in-person meetings and local recording capabilities. Nevertheless, the limited integrations of Krisp may hinder users looking for a comprehensive solution to enhance their meeting efficiency.  
+| Feature                           | Fireflies.ai               | Krisp                      |
+|-----------------------------------|----------------------------|----------------------------|
+| Trial/Free Plan                   | ✅ Free plan (limited)     | ✅ Free plan               |
+| Zoom & Calendar Integration       | ✅ Yes                     | ❌ No                      |
+| Easy to Use?                      | ✅ Yes                     | ✅ Yes                     |
+| Good for In-Person Meetings?      | ❌ No                      | ✅ Yes                     |
+| Good for Local Recording?         | ❌ No                      | ✅ Yes                     |
+| Integrates with HubSpot, Notion, etc.? | ✅ Yes                | ❌ No                      |
+| Automation Engine?                | ✅ Yes                     | ❌ No                      |
+| Language Support                  | ✅ Multiple languages      | ✅ Multiple languages      |
+| Desktop App                       | ❌ No (Web-based)          | ✅ Yes (Mac & Windows)     |
+| iPhone & Android Apps             | ✅ Yes (Both)              | ✅ Yes (Both)              |  
+Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
+$competitor1: ✅ Free plan (limited),✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,✅ Yes,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
+$competitor2: ✅ Free plan,❌ No,✅ Yes,✅ Yes,✅ Yes,❌ No,❌ No,✅ Multiple languages,✅ Yes (Mac & Windows),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
