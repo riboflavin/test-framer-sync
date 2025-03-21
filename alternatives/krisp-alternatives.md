@@ -23,12 +23,13 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?  
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
-* Pros of Krisp:
-  * Excellent noise cancellation for microphone and speaker audio.
-  * Platform-agnostic, usable with any meeting software, even phone calls.
-* Cons of Krisp:
-  * Free plan limits: 60 min/day noise removal, 2 summaries/day.
-  * No real-time collaboration or multi-user features, designed as a personal tool.  
+Pros of Krisp:
+- Excellent noise cancellation for microphone and speaker audio.
+- Platform-agnostic, compatible with any meeting software and phone calls.
+
+Cons of Krisp:
+- Free plan limits noise removal to 60 minutes per day and 2 summaries per day.
+- Lacks real-time collaboration and multi-user features, designed as a personal tool.  
 | Attribute          | Krisp               |
 |--------------------|---------------------|
 | Free Plan          | ✅                  |
@@ -41,9 +42,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Languages          | ✅ Multiple         |
 | OS Support         | ✅ Mac & Windows    |
 | Platform Support   | ✅ Both             |  
-- Otter.ai
-- Avoma
-- Fireflies.ai  
+- Otter.ai: AI transcription and note-taking service with live transcription during meetings and cross-platform access. Great for capturing meeting notes in real time and searching conversations. Pricing starts at free for basic features.
+- Avoma: AI meeting assistant ideal for sales and customer success teams, offering detailed summaries, topic tracking, and CRM integrations. Pricing starts at $19 per user per month for the starter plan.
+- Fireflies.ai: AI meeting bot "Fred" for recording, transcribing, and summarizing discussions with sentiment analysis and topic tracking. Pricing starts at $10 per user per month for the Pro plan.  
 ## Krisp vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
