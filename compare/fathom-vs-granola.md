@@ -35,6 +35,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - No meeting bot needed, works on any platform by listening on device (more discreet).
 - Custom templates for notes yield tailored summaries.
 - Accurate transcription quality helps fill in details you miss.  
+## Comparison table    
 | Feature                           | Fathom               | Granola              |
 |-----------------------------------|----------------------|----------------------|
 | Trial/Free Plan                   | ✅ Free unlimited plan| ✅ Free plan (limited)|
@@ -47,9 +48,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages| ❌ English only      |
 | Desktop App                       | ❌ No (Web-based)    | ✅ Yes (Mac-only)    |
 | iPhone & Android Apps             | ✅ Yes (Both)        | ❌ No                |  
-**Fathom**: Companies looking for a free tool with Zoom and calendar integration might find Fathom appealing. However, its limitations in supporting in-person meetings and local recording could hinder its usefulness in certain scenarios.
+Fathom may appeal to individuals or businesses seeking a free tool with Zoom and calendar integration, multi-language support, and compatibility with platforms like HubSpot and Notion. However, it lacks features for in-person meetings and local recording, limiting its practicality for users looking to enhance their meeting experiences.
 
-**Granola**: Individuals or businesses seeking a free plan and easy-to-use tool may consider Granola. While it lacks deep integrations with popular platforms like HubSpot and Notion, its Mac desktop app and local recording feature could be beneficial.  
+On the other hand, Granola could be suitable for those desiring a straightforward and free solution with easy usability, Mac desktop app support, and a focus on in-person meetings and local recording. Nevertheless, its lack of integrations with popular platforms and absence of an automation engine may hinder users looking for a more comprehensive tool to streamline their meeting processes.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
