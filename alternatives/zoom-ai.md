@@ -1,7 +1,7 @@
 ---
 type: alternatives
-title:  Alternatives to Otter.ai  
-description: Discover top alternatives to Otter.ai and compare features with Circleback. Make an informed choice for your transcription needs.
+title:  Alternatives to Zoom AI  
+description: Discover top alternatives to Zoom AI and compare Zoom AI with Circleback to find the best video conferencing solution for your needs.
 ---
 
 # Alternatives to Zoom AI    
