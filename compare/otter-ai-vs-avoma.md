@@ -42,6 +42,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Complex for new users – many features mean a learning curve (setup & onboarding effort).
 - Meeting bot sometimes joins a bit late or misses a speaker name.  
 ## Comparison table    
+Some individuals or organizations may find Otter.ai appealing due to its free plan and integration with Zoom and calendars. However, both tools lack deep integrations with popular platforms like HubSpot and Notion, limiting their usefulness in streamlining meeting workflows. Additionally, Otter.ai and Avoma may not fully meet the needs of users looking for tools that facilitate productivity during meetings, as they both lack advanced automation features.
+
+While Avoma offers an automation engine and Otter.ai is praised for its ease of use, neither tool caters well to users seeking comprehensive integrations and practical meeting support. The limited integrations with key platforms and the absence of features to enhance meeting productivity may leave some users feeling that both tools fall short in providing a holistic solution for their meeting needs.  
 | Feature                        | Otter.ai       | Avoma          |
 |-------------------------------|----------------|----------------|
 | Trial/Free Plan               | ✅ Free plan   | ❌ Trial only  |
@@ -54,9 +57,24 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support              | ❌ English only| ❌ English only|
 | Desktop App                   | ❌ No (Web-based)| ❌ No (Web-based)|
 | iPhone & Android Apps         | ✅ Yes (Both)  | ✅ Yes (Both)  |  
-Some individuals or organizations may find Otter.ai appealing due to its free plan and integration with Zoom and calendars. However, both tools lack deep integrations with popular platforms like HubSpot and Notion, limiting their usefulness for certain users. Additionally, while Avoma offers an automation engine, both tools may fall short in actually aiding users in conducting and managing their meetings effectively.
+Some individuals or organizations may find Otter.ai appealing due to its free plan and integration with Zoom and calendars. However, both tools lack deep integrations with popular platforms like HubSpot and Notion, limiting their usefulness in streamlining meeting workflows. Additionally, Otter.ai and Avoma may not fully meet the needs of users looking for tools that facilitate productivity during meetings, as they both lack advanced automation features.
 
-Users looking for a tool with a low learning curve and support for in-person meetings may prefer Otter.ai, while those seeking more advanced automation capabilities might lean towards Avoma. However, both tools may not fully meet the needs of users looking for comprehensive integrations and features to streamline their meeting workflows.  
+While Avoma offers an automation engine and Otter.ai is praised for its ease of use, neither tool caters well to users seeking comprehensive integrations and practical meeting support. The limited integrations with key platforms and the absence of features to enhance meeting productivity may leave some users feeling that both tools fall short in providing a holistic solution for their meeting needs.  
+| Feature                        | Otter.ai       | Avoma          |
+|-------------------------------|----------------|----------------|
+| Trial/Free Plan               | ✅ Free plan   | ❌ Trial only  |
+| Zoom & Calendar Integration   | ✅ Yes         | ✅ Yes         |
+| Easy to Use?                  | ✅ Yes         | ❌ Learning curve |
+| Good for In-Person Meetings?  | ❌ No          | ❌ No          |
+| Good for Local Recording?     | ❌ No          | ❌ No          |
+| Integrates with HubSpot, Notion, etc.? | ❌ Limited | ✅ Yes         |
+| Automation Engine?            | ❌ No          | ✅ Yes         |
+| Language Support              | ❌ English only| ❌ English only|
+| Desktop App                   | ❌ No (Web-based)| ❌ No (Web-based)|
+| iPhone & Android Apps         | ✅ Yes (Both)  | ✅ Yes (Both)  |  
+Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
+$competitor1: ✅ Free plan,✅ Yes,✅ Yes,❌ No,❌ No,❌ Limited,❌ No,❌ English only,❌ No (Web-based),✅ Yes (Both)  
+$competitor2: ❌ Trial only,✅ Yes,❌ Learning curve,❌ No,❌ No,✅ Yes,✅ Yes,❌ English only,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
