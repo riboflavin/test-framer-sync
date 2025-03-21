@@ -35,6 +35,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - No meeting bot required, works on any platform
 - Custom templates for tailored summaries
 - Accurate transcription quality  
+## Comparison table    
 | Feature                           | Fireflies.ai               | Granola                    |
 |-----------------------------------|----------------------------|----------------------------|
 | Trial/Free Plan                   | ✅ Free plan (limited)      | ✅ Free plan (limited)      |
@@ -47,9 +48,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages      | ❌ English only            |
 | Desktop App                       | ❌ No (Web-based)          | ✅ Yes (Mac-only)          |
 | iPhone & Android Apps             | ✅ Yes (Both)              | ❌ No                      |  
-- Fireflies.ai might be preferred by individuals or companies looking for a tool with Zoom and calendar integration, as well as support for multiple languages. However, it falls short in terms of in-person meeting capabilities and local recording, which may limit its usefulness in certain scenarios.
-
-- On the other hand, Granola could be suitable for those who prioritize ease of use and local recording for their meetings. Despite its limitations in integrations and language support, its desktop app for Mac users and focus on in-person meetings might appeal to a specific set of users.  
+Fireflies.ai might be preferred by individuals or companies looking for a tool with Zoom and calendar integration, as well as the ability to integrate with platforms like HubSpot and Notion. However, it falls short in supporting in-person meetings and local recording, which could be limiting for some users. Granola, on the other hand, is suitable for those who prioritize ease of use and local recording capabilities, but lacks integrations with popular platforms and an automation engine, potentially hindering productivity for certain users. Both tools have limitations in terms of depth of integrations and may not fully meet the needs of users seeking comprehensive meeting solutions.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
