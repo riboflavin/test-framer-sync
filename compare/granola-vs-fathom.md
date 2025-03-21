@@ -7,45 +7,49 @@ description: Comparing Avoma and Otter.ai for your needs? Dive into this article
 # Granola vs. Fathom: Which should you choose?  
 AI meeting notes platforms provide four primary deliverables:  
   
-* Transcripts create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.  
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.  
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.  
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."  
+* Transcripts create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.  
+* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.  
+* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.  
+* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."  
   
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:  
   
-* Free trial: can you test it for free before committing?  
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?  
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?  
-* Security and privacy: how is customer data handled on the platform?  
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?  
-* Functionality: does it go beyond transcriptions and actually help you take action?  
-* Languages: can it transcribe and summarize meetings in different languages?  
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
-* Recordings: is there support for saving and playing back audio and video recordings of meetings?    
+* Free trial: can you test it for free before committing?  
+* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?  
+* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?  
+* Security and privacy: how is customer data handled on the platform?  
+* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?  
+* Functionality: does it go beyond transcriptions and actually help you take action?  
+* Languages: can it transcribe and summarize meetings in different languages?  
+* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
+* Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Evaluating Granola and Fathom  
-Granola:
-- Pros: Minimal, user-friendly app with custom templates for notes and accurate transcription quality.
-- Cons: MacOS only, few integrations, lacks multi-user features, and some basic capabilities due to being a new product.
+### Granola
+- Minimal, user-friendly app – feels like a regular notepad
+- No meeting bot needed, works on any platform by listening on device (more discreet)
+- Custom templates for notes yield tailored summaries
+- Accurate transcription quality helps fill in details you miss
 
-Fathom:
-- Pros: Top-notch accuracy in transcripts, quick high-quality summaries, free unlimited core features, and support for many languages.
-- Cons: Historically Zoom-only, some duplicate note issues, lacks live collaboration, and advanced features require a paid plan.  
-| Feature                           | Granola               | Fathom              |
-|-----------------------------------|-----------------------|---------------------|
-| Trial/Free Plan                   | ✅ Free trial (25 meetings) | ✅ Free unlimited plan |
-| Zoom & Calendar Integration       | ❌ No                  | ✅ Yes              |
-| Easy to Use?                      | ✅ Super easy         | ✅ Very easy        |
-| Good for In-Person Meetings?      | ✅ Yes                 | ❌ No               |
-| Good for Local Recording?         | ✅ Yes                 | ❌ No               |
-| Integrates with HubSpot, Notion, etc.? | ❌ No           | ✅ Yes              |
-| Automation Engine?                | ❌ No                  | ❌ No               |
-| Language Support                  | ❌ English only       | ✅ Multiple languages |
-| Desktop App                       | ✅ Yes (Mac-only)     | ❌ No (Web-based)   |
-| iPhone & Android Apps             | ❌ No                  | ✅ Yes (Both)       |  
-**Granola**: Companies or individuals looking for a simple and free tool for managing a limited number of meetings may find Granola appealing. However, those seeking deep integrations with popular platforms like Zoom and Calendar may be disappointed by its lack of features in this area.
+### Fathom
+- Top-notch accuracy in transcripts, even with multiple speakers
+- Quick, high-quality summaries that capture key points and decisions
+- Free unlimited usage for core features (rare in this space)
+- Supports many languages (users report better results for non-English than competitors)  
+| Feature                                | Granola               | Fathom                |
+|----------------------------------------|-----------------------|-----------------------|
+| Trial/Free Plan                        | ✅ Free (limited)     | ✅ Free unlimited     |
+| Zoom & Calendar Integration            | ❌ No                 | ✅ Yes                |
+| Easy to Use?                           | ✅ Yes                | ✅ Yes                |
+| Good for In-Person Meetings?           | ✅ Yes                | ❌ No                 |
+| Good for Local Recording?              | ✅ Yes                | ❌ No                 |
+| Integrates with HubSpot, Notion, etc.? | ❌ No                 | ✅ Yes                |
+| Automation Engine?                     | ❌ No                 | ❌ No                 |
+| Language Support                       | ❌ English only       | ✅ Multiple languages |
+| Desktop App                            | ✅ Yes (Mac-only)     | ❌ No (Web-based)     |
+| iPhone & Android Apps                  | ❌ No                 | ✅ Yes (Both)         |  
+- Granola may appeal to individuals or small businesses looking for a free tool with basic features, but may not be suitable for those needing deep integrations with other platforms or assistance in managing meetings effectively. Fathom, on the other hand, could be preferred by users seeking a free tool with broader integrations and language support, despite lacking in-person meeting capabilities and local recording options.
 
-**Fathom**: Users who prioritize ease of use and require integration with a variety of tools such as HubSpot and Notion may opt for Fathom. Nevertheless, both Granola and Fathom fall short in terms of providing extensive integrations and functionalities that truly enhance the meeting experience and productivity for their users.  
+- Both Granola and Fathom have limitations in terms of integrations and practical meeting support, with Granola lacking in-depth integrations and Fathom falling short in facilitating meeting productivity. Users should consider these factors when choosing a tool that aligns with their specific needs and preferences.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
