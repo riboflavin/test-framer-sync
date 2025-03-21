@@ -51,24 +51,6 @@ While Granola may appeal to users seeking simplicity and convenience with its de
 | Language Support                  | ✅ Multiple languages| ❌ English only      |
 | Desktop App                       | ❌ No (Web-based)    | ✅ Yes (Mac-only)    |
 | iPhone & Android Apps             | ✅ Yes (Both)        | ❌ No                |  
-Some individuals or organizations may prefer Fathom for its Zoom and calendar integration, as well as its support for multiple languages. However, both tools lack depth in integrations and may not fully assist users in maximizing productivity during meetings. Granola, on the other hand, could be favored by those looking for an easy-to-use solution with desktop and mobile apps available, despite its limitations in integrations and language support.
-
-While Granola may appeal to users seeking simplicity and convenience with its desktop and mobile apps, Fathom's integration with popular tools like HubSpot and Notion could be attractive to those looking for a more comprehensive solution. Nevertheless, both tools may fall short in providing users with the necessary depth of integrations and functionalities to effectively enhance their meeting experiences.  
-| Feature                           | Fathom               | Granola              |
-|-----------------------------------|----------------------|----------------------|
-| Trial/Free Plan                   | ✅ Free unlimited plan| ✅ Free plan (limited)|
-| Zoom & Calendar Integration       | ✅ Yes               | ❌ No                |
-| Easy to Use?                      | ✅ Yes               | ✅ Yes               |
-| Good for In-Person Meetings?      | ❌ No                | ✅ Yes               |
-| Good for Local Recording?         | ❌ No                | ✅ Yes               |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes           | ❌ No                |
-| Automation Engine?                | ❌ No                | ❌ No                |
-| Language Support                  | ✅ Multiple languages| ❌ English only      |
-| Desktop App                       | ❌ No (Web-based)    | ✅ Yes (Mac-only)    |
-| iPhone & Android Apps             | ✅ Yes (Both)        | ❌ No                |  
-Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
-$competitor1: ✅ Free unlimited plan,✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,❌ No,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
-$competitor2: ✅ Free plan (limited),❌ No,✅ Yes,✅ Yes,✅ Yes,❌ No,❌ No,❌ English only,✅ Yes (Mac-only),❌ No  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
