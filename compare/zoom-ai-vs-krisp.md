@@ -39,6 +39,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Generous free plan with custom vocabulary.
 - Limits on free plan.
 - Concise summaries, no real-time collab, and potential CPU usage.  
+## Comparison table    
 | Feature                           | Zoom AI               | Krisp                |
 |-----------------------------------|-----------------------|----------------------|
 | Trial/Free Plan                   | ❌ Requires paid Zoom  | ✅ Free plan         |
@@ -51,9 +52,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ❌ English only       | ✅ Multiple languages|
 | Desktop App                       | ✅ Yes (Mac & Windows)| ✅ Yes (Mac & Windows)|
 | iPhone & Android Apps             | ✅ Yes (Both)         | ✅ Yes (Both)        |  
-- Companies or individuals looking for a free option may prefer Krisp due to its availability of a free plan, while those seeking Zoom integration may lean towards Zoom AI. However, both tools lack depth in integrations with other platforms like HubSpot and Notion, potentially limiting their usefulness in streamlining meeting workflows.
+Some individuals or businesses may prefer Zoom AI for its native integration with Zoom and ease of use, making it suitable for those who prioritize seamless video conferencing experiences. However, both tools lack depth in integrations with other platforms like HubSpot and Notion, limiting their ability to enhance productivity during meetings. Additionally, Zoom AI falls short in supporting in-person meetings and local recording, which may deter users seeking versatility in their meeting solutions.
 
-- While Zoom AI and Krisp are both easy to use, Krisp may be more suitable for in-person meetings and local recording needs. Nevertheless, users may find shortcomings in the tools' lack of an automation engine and limited language support, as Zoom AI only supports English and neither tool offers comprehensive integration capabilities beyond Zoom and basic calendar functions.  
+On the other hand, Krisp's appeal lies in its availability of a free plan and support for multiple languages, catering to a broader user base. While Krisp is user-friendly and compatible across various devices, its lack of integrations with popular business tools and absence of an automation engine may hinder users looking for comprehensive meeting solutions. Ultimately, both tools may not fully meet the needs of users seeking robust integrations and features to facilitate efficient meeting management.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
