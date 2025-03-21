@@ -37,6 +37,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Free unlimited usage for core features (rare in this space).
 - Supports many languages (users report better results for non-English than competitors).
 - Historically Zoom-only (new support for other platforms is recent and in beta).  
+## Comparison table    
 | Feature                           | Krisp          | Fathom        |
 |-----------------------------------|----------------|---------------|
 | Trial/Free Plan                   | ✅ Free plan   | ✅ Free unlimited plan |
@@ -49,9 +50,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages | ✅ Multiple languages |
 | Desktop App                       | ✅ Yes (Mac & Windows) | ❌ No (Web-based) |
 | iPhone & Android Apps             | ✅ Yes (Both)  | ✅ Yes (Both) |  
-**Krisp**: Krisp is suitable for individuals or companies looking for a free and easy-to-use tool for virtual meetings, with the ability to record locally. However, it lacks integrations with popular platforms like Zoom and Calendar, limiting its usefulness for those who rely on these tools for scheduling and communication.
+Some people or companies might prefer Krisp for its ease of use and compatibility with various devices, making it suitable for quick and simple virtual meetings. However, those looking for deeper integrations with tools like HubSpot and Notion might lean towards Fathom, despite both tools lacking extensive integration options. Additionally, while Krisp supports local recording and in-person meetings, Fathom falls short in these areas, potentially limiting its usefulness for certain users.
 
-**Fathom**: Fathom is a good choice for users who prioritize integrations with platforms like Zoom and Calendar, as well as tools like HubSpot and Notion. While it offers multiple language support and mobile apps, its lack of in-person meeting support and limited depth of integrations may hinder its ability to truly streamline meeting processes for users.  
+Overall, both Krisp and Fathom offer basic functionalities for virtual meetings, with Fathom providing an edge in terms of integrations with popular tools. However, users may find limitations in both tools when it comes to advanced features like automation engines and comprehensive integrations, which could hinder their ability to effectively manage and conduct meetings.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
