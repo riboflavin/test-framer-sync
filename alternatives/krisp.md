@@ -1,7 +1,7 @@
 ---
 type: alternatives
-title:  Alternatives to Otter.ai  
-description: Discover top alternatives to Otter.ai and compare features with Circleback. Make an informed choice for your transcription needs.
+title:  Alternatives to Krisp  
+description: Discover top alternatives to Krisp and compare Krisp with Circleback to find the best noise-cancellation solution for your needs.
 ---
 
 # Alternatives to Krisp    
