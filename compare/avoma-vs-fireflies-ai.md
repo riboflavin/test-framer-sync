@@ -35,6 +35,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Easy setup, but free plan limits, transcription inaccuracies.
 - Cluttered UI, many email notifications.  
 ## Comparison table    
+Some people or companies might prefer Avoma for its integration with Zoom and calendars, as well as its ability to integrate with tools like HubSpot and Notion. However, both tools lack depth in integrations and may not fully assist users in meeting productivity.
+
+On the other hand, Fireflies.ai could be appealing to those looking for an easy-to-use tool with support for multiple languages and availability on both iPhone and Android. Nevertheless, users may find that both tools fall short in providing comprehensive solutions for meeting management and productivity.  
 | Feature                           | Avoma       | Fireflies.ai |
 |-----------------------------------|-------------|--------------|
 | Trial/Free Plan                   | ❌ Trial only | ✅ Free plan (limited) |
@@ -47,9 +50,24 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ❌ English only | ✅ Multiple languages |
 | Desktop App                       | ❌ No (Web-based) | ❌ No (Web-based) |
 | iPhone & Android Apps             | ✅ Yes (Both) | ✅ Yes (Both) |  
-Avoma might appeal to individuals or businesses looking for a tool with integrations with Zoom, calendars, and platforms like HubSpot and Notion. However, it lacks support for in-person meetings and local recording, potentially limiting its usefulness in certain scenarios. The tool also only supports English, which may be a drawback for non-English speakers.
+Some people or companies might prefer Avoma for its integration with Zoom and calendars, as well as its ability to integrate with tools like HubSpot and Notion. However, both tools lack depth in integrations and may not fully assist users in meeting productivity.
 
-Fireflies.ai, on the other hand, offers a free plan with multiple language support and ease of use, making it suitable for a wider range of users. Despite its integrations with Zoom, calendars, and platforms like HubSpot and Notion, both tools may fall short in terms of depth of integrations and actual utility in helping users effectively manage their meetings.  
+On the other hand, Fireflies.ai could be appealing to those looking for an easy-to-use tool with support for multiple languages and availability on both iPhone and Android. Nevertheless, users may find that both tools fall short in providing comprehensive solutions for meeting management and productivity.  
+| Feature                           | Avoma       | Fireflies.ai |
+|-----------------------------------|-------------|--------------|
+| Trial/Free Plan                   | ❌ Trial only | ✅ Free plan (limited) |
+| Zoom & Calendar Integration       | ✅ Yes       | ✅ Yes        |
+| Easy to Use?                      | ❌ Learning curve | ✅ Yes        |
+| Good for In-Person Meetings?      | ❌ No        | ❌ No         |
+| Good for Local Recording?         | ❌ No        | ❌ No         |
+| Integrates with HubSpot, Notion, etc.? | ✅ Yes       | ✅ Yes        |
+| Automation Engine?                | ✅ Yes       | ✅ Yes        |
+| Language Support                  | ❌ English only | ✅ Multiple languages |
+| Desktop App                       | ❌ No (Web-based) | ❌ No (Web-based) |
+| iPhone & Android Apps             | ✅ Yes (Both) | ✅ Yes (Both) |  
+Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
+$competitor1: ❌ Trial only,✅ Yes,❌ Learning curve,❌ No,❌ No,✅ Yes,✅ Yes,❌ English only,❌ No (Web-based),✅ Yes (Both)  
+$competitor2: ✅ Free plan (limited),✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,✅ Yes,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
