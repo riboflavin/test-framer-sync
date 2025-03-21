@@ -35,6 +35,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Unlimited transcription, generous free plan.
 - Custom vocabulary, but limited free plan.
 - Concise summaries, no real-time collab.  
+## Comparison table    
 | Feature                           | Avoma       | Krisp       |
 |-----------------------------------|-------------|-------------|
 | Trial/Free Plan                   | ❌ Trial only | ✅ Free plan |
@@ -47,9 +48,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                   | ❌ English only | ✅ Multiple languages |
 | Desktop App                       | ❌ No (Web-based) | ✅ Yes (Mac & Windows) |
 | iPhone & Android Apps             | ✅ Yes (Both) | ✅ Yes (Both) |  
-- Avoma might appeal to users or companies looking for a tool with a trial option and Zoom integration, but may fall short for those seeking easy usability and support for in-person meetings and local recording. However, it does offer an automation engine, which could be beneficial for some users.
+Avoma might appeal to users or companies looking for a tool with a trial option and Zoom & Calendar integration, but may fall short for those seeking deep integrations with platforms like HubSpot and Notion, or for those wanting help with in-person meetings. Krisp, on the other hand, could be attractive to individuals or businesses desiring a free plan, ease of use, and local recording capabilities, but may lack depth in integrations and automation support, limiting its ability to assist users in getting things done effectively during meetings.
 
-- Krisp, on the other hand, could be attractive to individuals or businesses in need of a free plan, user-friendly interface, and support for local recording. Yet, it lacks depth in integrations with other platforms and may not fully meet the needs of users looking for a comprehensive solution to enhance their meeting productivity.  
+Both Avoma and Krisp have their strengths and weaknesses, with Avoma offering an automation engine and Krisp providing support for multiple languages. However, users of both tools may find themselves wanting more in terms of integrations with other platforms and features that truly enhance productivity during meetings. Additionally, Avoma's web-based nature and Avoma's English-only language support may be limiting factors for some potential users seeking a more comprehensive solution.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
