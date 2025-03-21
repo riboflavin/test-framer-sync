@@ -35,6 +35,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Unique whiteboard AI, included with paid Zoom.
 - Zoom-only, no free access, speaker ID limits.
 - No custom vocabulary, may transcribe industry jargon poorly.  
+## Comparison table    
 | Feature                           | Avoma       | Zoom AI     |
 |-----------------------------------|-------------|-------------|
 | Trial/Free Plan                   | ❌ Trial only | ❌ Requires paid Zoom |
@@ -47,9 +48,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ❌ English only | ❌ English only |
 | Desktop App                       | ❌ No (Web-based) | ✅ Yes (Mac & Windows) |
 | iPhone & Android Apps             | ✅ Yes (Both) | ✅ Yes (Both) |  
-- Avoma might appeal to individuals or companies looking for a tool that integrates with a variety of platforms like HubSpot and Notion, and offers an automation engine. However, it falls short in terms of ease of use and support for in-person meetings and local recording.
+Avoma might appeal to individuals or companies looking for a tool with integrations to popular platforms like HubSpot and Notion, as well as an automation engine. However, both tools lack depth in integrations and may not fully assist users in meeting productivity.
 
-- On the other hand, Zoom AI could be preferred by users who prioritize simplicity and accessibility, with desktop and mobile apps available. Nevertheless, it lacks depth in integrations and may not fully support users in achieving their meeting objectives.  
+Zoom AI could be suitable for those seeking a straightforward solution with native Zoom integration and ease of use on various devices. Nevertheless, the tools fall short in providing comprehensive integrations and may not effectively enhance meeting efficiency for users.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
