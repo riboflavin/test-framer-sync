@@ -57,24 +57,6 @@ While Fireflies.ai offers features like automation engine and multi-language sup
 | Language Support               | ❌ English only         | ✅ Multiple languages   |
 | Desktop App                   | ❌ No (Web-based)       | ❌ No (Web-based)       |
 | iPhone & Android Apps         | ✅ Yes (Both)           | ✅ Yes (Both)           |  
-Some individuals or organizations may find Otter.ai appealing due to its free plan, Zoom and calendar integration, and ease of use. However, both tools lack deep integrations with popular platforms like HubSpot and Notion, limiting their ability to enhance meeting productivity. Additionally, Otter.ai and Fireflies.ai fall short in supporting in-person meetings and local recording, which may deter users seeking comprehensive meeting solutions.
-
-While Fireflies.ai offers features like automation engine and multi-language support, its limitations in integration depth and meeting functionality may hinder its effectiveness for certain users or businesses. Both tools lack desktop applications and rely solely on web-based platforms, potentially limiting their accessibility and usability for individuals who prefer desktop interfaces. Despite offering mobile apps for both iPhone and Android, Otter.ai and Fireflies.ai may not fully meet the needs of users looking for comprehensive meeting solutions that seamlessly integrate with their existing workflows.  
-| Feature                        | Otter.ai               | Fireflies.ai           |
-|-------------------------------|------------------------|------------------------|
-| Trial/Free Plan               | ✅ Free plan            | ✅ Free plan (limited)  |
-| Zoom & Calendar Integration    | ✅ Yes                  | ✅ Yes                  |
-| Easy to Use?                   | ✅ Yes                  | ✅ Yes                  |
-| Good for In-Person Meetings?   | ❌ No                   | ❌ No                   |
-| Good for Local Recording?      | ❌ No                   | ❌ No                   |
-| Integrates with HubSpot, Notion, etc.? | ❌ Limited         | ✅ Yes                  |
-| Automation Engine?             | ❌ No                   | ✅ Yes                  |
-| Language Support               | ❌ English only         | ✅ Multiple languages   |
-| Desktop App                   | ❌ No (Web-based)       | ❌ No (Web-based)       |
-| iPhone & Android Apps         | ✅ Yes (Both)           | ✅ Yes (Both)           |  
-Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
-$competitor1: ✅ Free plan,✅ Yes,✅ Yes,❌ No,❌ No,❌ Limited,❌ No,❌ English only,❌ No (Web-based),✅ Yes (Both)  
-$competitor2: ✅ Free plan (limited),✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,✅ Yes,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
