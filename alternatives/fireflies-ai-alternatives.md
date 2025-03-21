@@ -23,12 +23,12 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?  
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
-* **Pros:**
-  * Wide compatibility with various platforms
-  * Detailed summaries and action items provided after each meeting
-* **Cons:**
-  * Free plan limitations may push users to upgrade
-  * Transcription accuracy around 90%, with errors for accents or jargon  
+Pros:
+- Wide compatibility with popular platforms like Zoom, Teams, and Meet.
+- Detailed meeting summaries and action items sent via email.
+Cons:
+- Free plan has limitations that may push users to upgrade.
+- Transcription accuracy around 90%, with occasional errors for accents or jargon.  
 | Feature                | Fireflies.ai       |
 |------------------------|--------------------|
 | Free Plan              | ✅ Limited          |
@@ -51,9 +51,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Security Features      | ✅ Yes              |
 | Language Support       | ✅ Multiple        |
 | Platform               | ✅ Mac & Windows   |  
-- **Otter.ai**: Great for capturing meeting notes in real time with live transcription during meetings and cross-platform access. Offers strong free plan with generous transcription limits but only supports English and may have transcription errors with accents or fast speech.
-- **Avoma**: Ideal for sales and customer success teams with highly accurate transcriptions, excellent AI summaries, and workflow integrations. However, it lacks a free tier, can be expensive for full features, and has a complex interface for new users.
-- **Fathom**: Excels in accuracy and multi-language support, offering free unlimited usage for core features. It may have some duplicate note issues and lacks live collaboration features, mainly focusing on post-meeting output.  
+- **Otter.ai**: AI transcription and note-taking service with live transcription during meetings and cross-platform access. Great for capturing meeting notes in real time and searching conversations. Pros include easy to use interface and strong free plan, but cons include transcription errors with accents and limited language support.
+- **Avoma**: AI meeting assistant with conversation intelligence, ideal for sales and customer success teams. Offers accurate transcriptions, excellent AI summaries, and workflow integrations. However, it lacks a free tier, can be complex for new users, and the meeting bot may join late at times.
+- **Fathom**: AI notetaker initially for Zoom, now offering team features. Excels in accuracy and multi-language support, with free unlimited usage for core features. Some drawbacks include historical Zoom-only support and a focus on post-meeting output rather than live collaboration.  
 ## Fireflies.ai vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
