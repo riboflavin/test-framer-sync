@@ -23,12 +23,14 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?  
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
+## Fireflies.ai quick pros and cons    
 Pros:
 - Wide compatibility with popular platforms like Zoom, Teams, and Meet.
 - Detailed meeting summaries and action items sent via email.
 Cons:
 - Free plan has limitations that may push users to upgrade.
 - Transcription accuracy around 90%, with occasional errors for accents or jargon.  
+## Fireflies.ai features    
 | Feature                | Fireflies.ai       |
 |------------------------|--------------------|
 | Free Plan              | ✅ Limited          |
@@ -37,23 +39,14 @@ Cons:
 | Collaboration          | ❌ No               |
 | Integrations           | ✅ Yes              |
 | Mobile App             | ✅ Yes              |
-| Offline Access         | ❌ No               |
-| Custom Vocabulary      | ❌ No               |
-| Speaker Diarization    | ✅ Yes              |
-| Multiple Speakers      | ✅ Yes              |
-| Real-time Transcription| ✅ Yes              |
-| Voice Commands         | ✅ Yes              |
-| Translation            | ❌ No               |
-| Editing Tools          | ❌ No               |
-| Export Options         | ✅ Yes              |
-| Search Functionality   | ✅ Yes              |
-| Analytics              | ❌ No               |
-| Security Features      | ✅ Yes              |
-| Language Support       | ✅ Multiple        |
-| Platform               | ✅ Mac & Windows   |  
-- **Otter.ai**: AI transcription and note-taking service with live transcription during meetings and cross-platform access. Great for capturing meeting notes in real time and searching conversations. Pros include easy to use interface and strong free plan, but cons include transcription errors with accents and limited language support.
-- **Avoma**: AI meeting assistant with conversation intelligence, ideal for sales and customer success teams. Offers accurate transcriptions, excellent AI summaries, and workflow integrations. However, it lacks a free tier, can be complex for new users, and the meeting bot may join late at times.
-- **Fathom**: AI notetaker initially for Zoom, now offering team features. Excels in accuracy and multi-language support, with free unlimited usage for core features. Some drawbacks include historical Zoom-only support and a focus on post-meeting output rather than live collaboration.  
+| Offline Recording      | ❌ No               |
+| AI Summarization       | ✅ Yes              |
+| Multiple Languages     | ✅ Yes              |
+| Platform               | ✅ Mac & Windows    |  
+## Closest Fireflies.ai competitors    
+- **Otter.ai**: AI transcription and note-taking service with live transcription during meetings and cross-platform access. Great for capturing meeting notes in real time and searching conversations. Pricing: Free (basic), Pro: ~$17/month per user, Business: ~$30/month; Enterprise ~$40.
+- **Avoma**: AI meeting assistant with conversation intelligence, ideal for sales and customer success teams. Offers detailed summaries, tracks topics, and integrates with CRM/work tools. Pricing: Free trial 14 days, Starter: ~$19/mo per user (annual), Business: $59–79/mo per user (annual), depending on features.
+- **Zoom AI**: Zoom’s built-in AI Companion for live transcription, summaries, sentiment analysis, and AI whiteboard. Suited for teams on Zoom. Pricing: Included with Zoom Pro/One subscriptions (≈$15+/month per user).  
 ## Fireflies.ai vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -62,6 +55,7 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Automations with 100+ app integrations  
 * Industry-leading security with SOC 2 Type II, EU-U.S. Data Privacy Framework, and HIPAA compliance  
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
+### Comparison table  
 | Feature            | Fireflies.ai       | Circleback         |
 |--------------------|--------------------|--------------------|
 | Free Plan          | ✅ Limited          | ❌ Trial only      |
