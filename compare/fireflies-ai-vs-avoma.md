@@ -1,7 +1,7 @@
 ---
 type: comparison
-title:  Avoma vs. Otter.ai  Which should you choose?
-description: Comparing Avoma and Otter.ai to help you choose the best transcription tool. Explore features, pricing, and an alternative option, Circleback.
+title:  Fireflies.ai vs. Avoma  Which should you choose?
+description: Comparing Fireflies.ai and Avoma to help you choose the best AI transcription tool. Explore Circleback as an alternative option.
 ---
 
 # Fireflies.ai vs. Avoma – Which should you choose?  
