@@ -38,6 +38,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Transcription errors with accents or fast speech (not as accurate as human).
 - Only supports English, which is limiting.  
 ## Comparison table    
+Some individuals or organizations may find Krisp appealing for its free plan, ease of use, and compatibility with Zoom and calendars. However, its lack of integrations with popular tools like HubSpot and limited automation capabilities may hinder its usefulness in enhancing meeting productivity. Similarly, Otter.ai's free plan, ease of use, and integration with Zoom and calendars could attract users, but its inability to support in-person meetings and local recording, as well as its limited integrations with other platforms, may limit its effectiveness in facilitating efficient meeting outcomes.  
 | Feature                           | Krisp               | Otter.ai            |
 |-----------------------------------|---------------------|---------------------|
 | Trial/Free Plan                   | ✅ Free plan        | ✅ Free plan        |
@@ -50,9 +51,22 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ✅ Multiple languages | ❌ English only  |
 | Desktop App                       | ✅ Yes (Mac & Windows) | ❌ No (Web-based) |
 | iPhone & Android Apps             | ✅ Yes (Both)       | ✅ Yes (Both)       |  
-Some individuals or organizations may prefer Krisp for its ease of use and compatibility with in-person meetings and local recording. However, both tools lack deep integrations with popular platforms like HubSpot and Notion, limiting their usefulness in streamlining workflows and productivity during meetings. Additionally, neither tool offers an automation engine to assist users in efficiently managing their meeting tasks.
-
-While Otter.ai offers integration with Zoom and calendars, making it suitable for users who heavily rely on these platforms, its limited language support and lack of desktop application may deter those seeking a more comprehensive solution for meeting management. Both tools fall short in providing a robust set of features to help users effectively accomplish tasks during meetings, highlighting the need for more advanced integrations and automation capabilities in meeting tools.  
+Some individuals or organizations may find Krisp appealing for its free plan, ease of use, and compatibility with Zoom and calendars. However, its lack of integrations with popular tools like HubSpot and limited automation capabilities may hinder its usefulness in enhancing meeting productivity. Similarly, Otter.ai's free plan, ease of use, and integration with Zoom and calendars could attract users, but its inability to support in-person meetings and local recording, as well as its limited integrations with other platforms, may limit its effectiveness in facilitating efficient meeting outcomes.  
+| Feature                           | Krisp               | Otter.ai            |
+|-----------------------------------|---------------------|---------------------|
+| Trial/Free Plan                   | ✅ Free plan        | ✅ Free plan        |
+| Zoom & Calendar Integration       | ❌ No               | ✅ Yes              |
+| Easy to Use?                      | ✅ Yes              | ✅ Yes              |
+| Good for In-Person Meetings?      | ✅ Yes              | ❌ No               |
+| Good for Local Recording?         | ✅ Yes              | ❌ No               |
+| Integrates with HubSpot, Notion, etc.? | ❌ No           | ❌ Limited          |
+| Automation Engine?                | ❌ No               | ❌ No               |
+| Language Support                  | ✅ Multiple languages | ❌ English only  |
+| Desktop App                       | ✅ Yes (Mac & Windows) | ❌ No (Web-based) |
+| iPhone & Android Apps             | ✅ Yes (Both)       | ✅ Yes (Both)       |  
+Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
+$competitor1: ✅ Free plan,❌ No,✅ Yes,✅ Yes,✅ Yes,❌ No,❌ No,✅ Multiple languages,✅ Yes (Mac & Windows),✅ Yes (Both)  
+$competitor2: ✅ Free plan,✅ Yes,✅ Yes,❌ No,❌ No,❌ Limited,❌ No,❌ English only,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
