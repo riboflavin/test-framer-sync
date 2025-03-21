@@ -35,6 +35,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Excellent AI summaries and highlights make review easy
 - Speaker separation and labeling is very clear in notes
 - Workflow integrations (CRM sync, calendar, etc.) streamline follow-ups  
+## Comparison table    
 | Feature                           | Granola               | Avoma              |
 |-----------------------------------|-----------------------|--------------------|
 | Trial/Free Plan                   | ✅ Free plan (limited) | ❌ Trial only      |
@@ -47,9 +48,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ❌ English only       | ❌ English only    |
 | Desktop App                       | ✅ Yes (Mac-only)     | ❌ No (Web-based)  |
 | iPhone & Android Apps             | ❌ No                 | ✅ Yes (Both)      |  
-**Granola**: Companies or individuals looking for a free plan with basic features may find Granola suitable. However, those seeking deep integrations with tools like HubSpot and Notion may be disappointed by its limited capabilities.
+Granola, with its free plan and ease of use, may appeal to individuals or small businesses looking for a simple tool for in-person meetings and local recording. However, its lack of integrations and automation engine may limit its usefulness for those seeking a more comprehensive solution to manage meetings effectively.
 
-**Avoma**: Users who prioritize Zoom and calendar integration may prefer Avoma over Granola. Nevertheless, both tools may fall short in terms of depth of integrations and overall effectiveness in helping users manage their meetings efficiently.  
+On the other hand, Avoma's integration with Zoom and calendars, along with its automation engine, could be attractive to larger companies or teams looking for a more robust meeting management tool. Despite its iPhone and Android apps, Avoma falls short in terms of integrations with popular platforms like HubSpot and Notion, potentially hindering its ability to streamline meeting workflows effectively.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
