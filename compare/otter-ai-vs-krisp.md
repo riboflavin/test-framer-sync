@@ -58,24 +58,6 @@ Both Otter.ai and Krisp fall short in terms of integration depth, limiting their
 | Language Support               | ❌ English only         | ✅ Multiple languages  |
 | Desktop App                    | ❌ No (Web-based)       | ✅ Yes (Mac & Windows)  |
 | iPhone & Android Apps          | ✅ Yes (Both)           | ✅ Yes (Both)           |  
-Some individuals or organizations may find Otter.ai appealing due to its Zoom and calendar integration, as well as its availability on both iPhone and Android. However, Otter.ai lacks depth in integrations with other platforms like HubSpot and Notion, limiting its overall utility for users seeking a comprehensive meeting solution. Similarly, Krisp may attract users with its ease of use and support for local recording, but its lack of integrations with popular tools and absence of an automation engine may hinder its effectiveness in enhancing meeting productivity.
-
-Both Otter.ai and Krisp fall short in terms of integration depth, limiting their ability to fully assist users in optimizing their meeting experiences. While Otter.ai offers language support and Krisp provides a desktop app for Mac and Windows, the absence of key integrations and automation capabilities may leave users wanting more in terms of meeting efficiency and productivity.  
-| Feature                        | Otter.ai               | Krisp                  |
-|-------------------------------|------------------------|------------------------|
-| Trial/Free Plan                | ✅ Free plan            | ✅ Free plan            |
-| Zoom & Calendar Integration    | ✅ Yes                  | ❌ No                   |
-| Easy to Use?                   | ✅ Yes                  | ✅ Yes                  |
-| Good for In-Person Meetings?   | ❌ No                   | ✅ Yes                  |
-| Good for Local Recording?      | ❌ No                   | ✅ Yes                  |
-| Integrates with HubSpot, Notion, etc.? | ❌ Limited       | ❌ No                   |
-| Automation Engine?             | ❌ No                   | ❌ No                   |
-| Language Support               | ❌ English only         | ✅ Multiple languages  |
-| Desktop App                    | ❌ No (Web-based)       | ✅ Yes (Mac & Windows)  |
-| iPhone & Android Apps          | ✅ Yes (Both)           | ✅ Yes (Both)           |  
-Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
-$competitor1: ✅ Free plan,✅ Yes,✅ Yes,❌ No,❌ No,❌ Limited,❌ No,❌ English only,❌ No (Web-based),✅ Yes (Both)  
-$competitor2: ✅ Free plan,❌ No,✅ Yes,✅ Yes,✅ Yes,❌ No,❌ No,✅ Multiple languages,✅ Yes (Mac & Windows),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
