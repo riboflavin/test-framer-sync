@@ -45,6 +45,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - No real-time collab or multi-user features – it’s a personal tool (teams would each use their own instance)
 - Can tax system resources during long meetings (CPU usage for AI processing)  
 ## Comparison table    
+Some individuals or organizations may find Granola appealing for its ease of use and suitability for in-person meetings and local recording. However, both Granola and Krisp lack deep integrations with popular tools like HubSpot and Notion, limiting their ability to enhance productivity during meetings. Additionally, neither tool offers an automation engine, which may hinder users in efficiently managing their meeting tasks.
+
+While Krisp offers language support and availability on multiple platforms, including Mac and Windows, its lack of integrations with Zoom and calendars may deter users seeking a more comprehensive meeting solution. Both tools fall short in providing a robust ecosystem that truly assists users in accomplishing tasks during meetings, highlighting a potential gap in meeting productivity tools in the market.  
 | Feature                           | Granola | Krisp |
 |-----------------------------------|---------|-------|
 | Trial/Free Plan                   | ✅ Free plan (limited) | ✅ Free plan |
@@ -57,9 +60,24 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ❌ English only | ✅ Multiple languages |
 | Desktop App                       | ✅ Yes (Mac-only) | ✅ Yes (Mac & Windows) |
 | iPhone & Android Apps             | ❌ No    | ✅ Yes (Both) |  
-Granola may appeal to individuals or small businesses looking for a straightforward tool for in-person meetings and local recording. However, it lacks integrations with popular platforms like Zoom and HubSpot, limiting its usefulness for those seeking a more comprehensive solution. Additionally, its absence of an automation engine may hinder users looking to streamline their meeting processes.
+Some individuals or organizations may find Granola appealing for its ease of use and suitability for in-person meetings and local recording. However, both Granola and Krisp lack deep integrations with popular tools like HubSpot and Notion, limiting their ability to enhance productivity during meetings. Additionally, neither tool offers an automation engine, which may hinder users in efficiently managing their meeting tasks.
 
-Krisp could be suitable for a wider range of users due to its availability on both Mac and Windows, as well as its support for multiple languages on mobile devices. Nevertheless, its lack of integrations with Zoom, HubSpot, and other common tools may deter those seeking a more interconnected meeting solution. Users may find themselves needing to switch between platforms to fully manage their meetings, potentially reducing overall efficiency.  
+While Krisp offers language support and availability on multiple platforms, including Mac and Windows, its lack of integrations with Zoom and calendars may deter users seeking a more comprehensive meeting solution. Both tools fall short in providing a robust ecosystem that truly assists users in accomplishing tasks during meetings, highlighting a potential gap in meeting productivity tools in the market.  
+| Feature                           | Granola | Krisp |
+|-----------------------------------|---------|-------|
+| Trial/Free Plan                   | ✅ Free plan (limited) | ✅ Free plan |
+| Zoom & Calendar Integration        | ❌ No    | ❌ No  |
+| Easy to Use?                      | ✅ Yes   | ✅ Yes |
+| Good for In-Person Meetings?       | ✅ Yes   | ✅ Yes |
+| Good for Local Recording?         | ✅ Yes   | ✅ Yes |
+| Integrates with HubSpot, Notion, etc.? | ❌ No | ❌ No |
+| Automation Engine?                 | ❌ No    | ❌ No  |
+| Language Support                  | ❌ English only | ✅ Multiple languages |
+| Desktop App                       | ✅ Yes (Mac-only) | ✅ Yes (Mac & Windows) |
+| iPhone & Android Apps             | ❌ No    | ✅ Yes (Both) |  
+Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
+$competitor1: ✅ Free plan (limited),❌ No,✅ Yes,✅ Yes,✅ Yes,❌ No,❌ No,❌ English only,✅ Yes (Mac-only),❌ No  
+$competitor2: ✅ Free plan,❌ No,✅ Yes,✅ Yes,✅ Yes,❌ No,❌ No,✅ Multiple languages,✅ Yes (Mac & Windows),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
