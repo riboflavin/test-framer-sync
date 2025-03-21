@@ -41,6 +41,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Transcription errors with accents or fast speech.
 - Only supports English.
 - Speaker ID can be hit-or-miss, requiring manual fixes in notes.  
+## Comparison table    
 | Feature                           | Avoma               | Otter.ai           |
 |-----------------------------------|---------------------|--------------------|
 | Trial/Free Plan                   | ❌ Trial only       | ✅ Free plan       |
@@ -53,9 +54,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ❌ English only     | ❌ English only    |
 | Desktop App                       | ❌ No (Web-based)   | ❌ No (Web-based)  |
 | iPhone & Android Apps             | ✅ Yes (Both)       | ✅ Yes (Both)      |  
-- Avoma might appeal to companies looking for a tool with integrations to Zoom and calendars, as well as HubSpot and Notion, but may fall short in terms of ease of use and practicality for in-person meetings and local recording. Otter.ai, on the other hand, offers a free plan and is easier to use, but lacks depth in integrations and practicality for meetings.
-
-- Both tools have limitations in their integrations and practicality for users trying to get things done with their meetings. Avoma offers more integrations but has a learning curve and lacks support for in-person meetings and local recording. Otter.ai, while easier to use and offering a free plan, also falls short in integrations and practicality for meetings.  
+Avoma might appeal to companies looking for a tool with integrations to Zoom and calendar apps, as well as HubSpot and Notion, and an automation engine. However, it lacks support for in-person meetings and local recording, and has a learning curve. Otter.ai, on the other hand, offers a free plan, easy usability, and mobile apps for both iPhone and Android. Yet, it falls short on integrations beyond Zoom and calendar, and lacks an automation engine, limiting its ability to assist users effectively in meeting tasks.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
