@@ -1,7 +1,7 @@
 ---
 type: alternatives
-title:  Alternatives to Otter.ai  
-description: Discover top alternatives to Otter.ai and compare features with Circleback. Make an informed choice for your transcription needs.
+title:  Alternatives to Avoma  
+description: Discover top alternatives to Avoma and compare Avoma with Circleback in this comprehensive article. Make an informed decision for your business needs.
 ---
 
 # Alternatives to Avoma    
