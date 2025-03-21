@@ -59,24 +59,6 @@ Others may opt for Fathom due to its free unlimited plan and integration with va
 | Language Support                  | ✅ Multiple languages      | ✅ Multiple languages     |
 | Desktop App                       | ❌ No (Web-based)          | ❌ No (Web-based)         |
 | iPhone & Android Apps             | ✅ Yes (Both)              | ✅ Yes (Both)             |  
-Some people or companies might prefer Fireflies.ai for its integration with Zoom and calendars, as well as its automation engine. However, both tools lack depth in integrations and may not fully assist users in meeting productivity.
-
-Others may opt for Fathom due to its free unlimited plan and integration with various platforms like HubSpot and Notion. Nevertheless, users might find limitations in both tools when it comes to facilitating in-person meetings and local recording, potentially hindering their meeting efficiency.  
-| Feature                           | Fireflies.ai               | Fathom                    |
-|-----------------------------------|----------------------------|---------------------------|
-| Trial/Free Plan                   | ✅ Free plan (limited)     | ✅ Free unlimited plan    |
-| Zoom & Calendar Integration       | ✅ Yes                     | ✅ Yes                    |
-| Easy to Use?                      | ✅ Yes                     | ✅ Yes                    |
-| Good for In-Person Meetings?      | ❌ No                      | ❌ No                     |
-| Good for Local Recording?         | ❌ No                      | ❌ No                     |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes                | ✅ Yes                    |
-| Automation Engine?                | ✅ Yes                     | ❌ No                     |
-| Language Support                  | ✅ Multiple languages      | ✅ Multiple languages     |
-| Desktop App                       | ❌ No (Web-based)          | ❌ No (Web-based)         |
-| iPhone & Android Apps             | ✅ Yes (Both)              | ✅ Yes (Both)             |  
-Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
-$competitor1: ✅ Free plan (limited),✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,✅ Yes,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
-$competitor2: ✅ Free unlimited plan,✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,❌ No,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
