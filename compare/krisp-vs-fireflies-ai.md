@@ -52,24 +52,6 @@ On the other hand, Fireflies.ai could be appealing to professionals or companies
 | Language Support                  | ✅ Multiple languages | ✅ Multiple languages |
 | Desktop App                       | ✅ Yes (Mac & Windows) | ❌ No (Web-based) |
 | iPhone & Android Apps             | ✅ Yes (Both)       | ✅ Yes (Both)       |  
-Some individuals or organizations that might consider using Krisp could be small businesses or freelancers looking for a simple and free tool to improve their online meetings. However, those seeking deeper integrations with tools like HubSpot or Notion may find Krisp lacking in that aspect. Additionally, users looking to streamline their meeting processes through automation may also find Krisp to be limited in this regard.
-
-On the other hand, Fireflies.ai could be appealing to professionals or companies that heavily rely on Zoom and calendar integrations for their meetings. Despite its ease of use and language support, Fireflies.ai may not fully meet the needs of users who require local recording capabilities or a wide range of integrations beyond HubSpot and Notion. Furthermore, individuals or businesses looking for a desktop app rather than a web-based platform may find Fireflies.ai to be less suitable for their preferences.  
-| Feature                           | Krisp               | Fireflies.ai        |
-|-----------------------------------|---------------------|---------------------|
-| Trial/Free Plan                   | ✅ Free plan        | ✅ Free plan (limited) |
-| Zoom & Calendar Integration       | ❌ No               | ✅ Yes              |
-| Easy to Use?                      | ✅ Yes              | ✅ Yes              |
-| Good for In-Person Meetings?      | ✅ Yes              | ❌ No               |
-| Good for Local Recording?         | ✅ Yes              | ❌ No               |
-| Integrates with HubSpot, Notion, etc.? | ❌ No           | ✅ Yes              |
-| Automation Engine?                | ❌ No               | ✅ Yes              |
-| Language Support                  | ✅ Multiple languages | ✅ Multiple languages |
-| Desktop App                       | ✅ Yes (Mac & Windows) | ❌ No (Web-based) |
-| iPhone & Android Apps             | ✅ Yes (Both)       | ✅ Yes (Both)       |  
-Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
-$competitor1: ✅ Free plan,❌ No,✅ Yes,✅ Yes,✅ Yes,❌ No,❌ No,✅ Multiple languages,✅ Yes (Mac & Windows),✅ Yes (Both)  
-$competitor2: ✅ Free plan (limited),✅ Yes,✅ Yes,❌ No,❌ No,✅ Yes,✅ Yes,✅ Multiple languages,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
