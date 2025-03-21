@@ -41,6 +41,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - No free access – requires a Zoom paid plan (~$15+ monthly).
 - Speaker ID limits: won’t capture anyone not logged in as Zoom user (e.g., a speaker in the room).
 - No custom vocabulary, so industry jargon may transcribe poorly.  
+## Comparison table    
 | Feature                           | Otter.ai          | Zoom AI           |
 |-----------------------------------|-------------------|-------------------|
 | Trial/Free Plan                   | ✅ Free plan       | ❌ Requires paid Zoom |
@@ -53,9 +54,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ❌ English only   | ❌ English only   |
 | Desktop App                       | ❌ No (Web-based) | ✅ Yes (Mac & Windows) |
 | iPhone & Android Apps             | ✅ Yes (Both)     | ✅ Yes (Both)     |  
-- Otter.ai may appeal to individuals or companies looking for a free plan and an easy-to-use tool, but may fall short for those seeking deep integrations with Zoom and calendar platforms, as well as other productivity tools like HubSpot and Notion. Additionally, its lack of support for in-person meetings and local recording may limit its usefulness for certain users.
+Both Otter.ai and Zoom AI have their limitations when it comes to integrations with other tools, such as HubSpot and Notion. While Zoom AI offers native integration with Zoom and calendar, Otter.ai falls short in this aspect, lacking the depth of integrations that some users may require.
 
-- Zoom AI, on the other hand, offers native integration with Zoom and calendars, making it suitable for users who prioritize seamless connectivity between their meeting and scheduling tools. However, its limited integrations with other platforms and absence of an automation engine may hinder its ability to fully assist users in maximizing productivity during meetings.  
+Both tools may not fully meet the needs of users looking to enhance their meeting productivity, as they lack an automation engine and are not particularly suited for in-person meetings or local recording. Additionally, the language support is limited to English only for both Otter.ai and Zoom AI, which may be a drawback for users who require multilingual capabilities.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
