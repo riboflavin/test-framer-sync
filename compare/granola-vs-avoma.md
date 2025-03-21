@@ -51,24 +51,6 @@ Both Granola and Avoma have limitations in their integrations and may not provid
 | Language Support                  | ❌ English only       | ❌ English only    |
 | Desktop App                       | ✅ Yes (Mac-only)     | ❌ No (Web-based)  |
 | iPhone & Android Apps             | ❌ No                 | ✅ Yes (Both)      |  
-Granola might appeal to individuals or small businesses looking for a straightforward tool with a free plan, but it lacks deep integrations and may not be the most effective for managing meetings. Avoma, on the other hand, could be attractive to companies seeking a more robust solution with Zoom and calendar integration, but it also falls short in terms of integrations and practical meeting assistance.
-
-Both Granola and Avoma have limitations in their integrations and may not provide users with the comprehensive support needed to enhance their meeting productivity.  
-| Feature                           | Granola               | Avoma              |
-|-----------------------------------|-----------------------|--------------------|
-| Trial/Free Plan                   | ✅ Free plan (limited) | ❌ Trial only      |
-| Zoom & Calendar Integration       | ❌ No                 | ✅ Yes             |
-| Easy to Use?                      | ✅ Yes                | ❌ Learning curve  |
-| Good for In-Person Meetings?      | ✅ Yes                | ❌ No              |
-| Good for Local Recording?         | ✅ Yes                | ❌ No              |
-| Integrates with HubSpot, Notion, etc.? | ❌ No            | ✅ Yes             |
-| Automation Engine?                | ❌ No                 | ✅ Yes             |
-| Language Support                  | ❌ English only       | ❌ English only    |
-| Desktop App                       | ✅ Yes (Mac-only)     | ❌ No (Web-based)  |
-| iPhone & Android Apps             | ❌ No                 | ✅ Yes (Both)      |  
-Trial/Free Plan,Zoom & Calendar Integration,Easy to Use?,Good for In-Person Meetings?,Good for Local Recording?,Integrates with HubSpot, Notion, etc.?,Automation Engine?,Language Support,Desktop App,iPhone & Android Apps  
-$competitor1: ✅ Free plan (limited),❌ No,✅ Yes,✅ Yes,✅ Yes,❌ No,❌ No,❌ English only,✅ Yes (Mac-only),❌ No  
-$competitor2: ❌ Trial only,✅ Yes,❌ Learning curve,❌ No,❌ No,✅ Yes,✅ Yes,❌ English only,❌ No (Web-based),✅ Yes (Both)  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
