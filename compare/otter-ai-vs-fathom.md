@@ -39,6 +39,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 - Supports many languages (users report better results for non-English than competitors).
 - Historically Zoom-only (new support for other platforms is recent and in beta).
 - Some duplicate note issues if multiple team members use it simultaneously on a call.  
+## Comparison table    
 | Feature                           | Otter.ai               | Fathom                |
 |-----------------------------------|------------------------|-----------------------|
 | Trial/Free Plan                   | ✅ Free plan            | ✅ Free unlimited plan |
@@ -51,9 +52,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Language Support                  | ❌ English only         | ✅ Multiple languages |
 | Desktop App                       | ❌ No (Web-based)       | ❌ No (Web-based)      |
 | iPhone & Android Apps             | ✅ Yes (Both)           | ✅ Yes (Both)          |  
-- Otter.ai might appeal to individuals or companies looking for a free tool with Zoom and calendar integration, but may fall short for those needing deeper integrations with platforms like HubSpot or Notion. While it is easy to use, it lacks features for in-person meetings and local recording, limiting its practicality for certain users.
+Both Otter.ai and Fathom offer free plans with Zoom and calendar integration, making them suitable for individuals or small companies looking for basic meeting transcription and analytics. However, both tools lack deep integrations with popular platforms like HubSpot and Notion, limiting their usefulness for users who heavily rely on these tools for their workflow.
 
-- Fathom, on the other hand, could be suitable for users seeking a free plan with unlimited access, multiple language support, and integration with various platforms like HubSpot and Notion. However, its lack of an automation engine and web-based nature may hinder its ability to truly streamline meeting processes and tasks for users.  
+While Otter.ai and Fathom are user-friendly and support mobile apps, they fall short in providing comprehensive solutions for in-person meetings and local recording needs. Additionally, the lack of an automation engine in both tools may hinder users who require more advanced features to streamline their meeting processes effectively.  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
