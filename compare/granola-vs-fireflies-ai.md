@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Granola vs. Fireflies.ai  Which should you choose?
+title:  Granola vs. Fireflies.ai – Which should you choose?
 description: Compare Granola and Fireflies.ai meeting assistants, explore their key features, pricing, and discover Circleback as an alternative solution for meeting management.
 ---
 
