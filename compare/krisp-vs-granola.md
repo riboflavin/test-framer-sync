@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Krisp vs. Granola  Which should you choose?
+title:  Krisp vs. Granola – Which should you choose?
 description: Compare Krisp and Granola noise cancellation apps with detailed feature analysis and pricing. Plus, discover Circleback as a potential alternative for your audio needs.
 ---
 
