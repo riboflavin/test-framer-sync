@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Fireflies.ai vs. Otter.ai  Which should you choose?
+title:  Fireflies.ai vs. Otter.ai – Which should you choose?
 description: Compare Fireflies.ai and Otter.ai meeting transcription tools, explore their key features, pricing, and discover Circleback as an alternative solution.
 ---
 
