@@ -1,7 +1,7 @@
 ---
 type: alternatives
 title:  Alternatives to Fathom  
-description: Discover top alternatives to Fathom and compare Fathom with Circleback in this insightful article. Make an informed decision for your analytics needs.
+description: Discover top alternatives to Fathom Analytics and compare features with Circleback. Find the best privacy-focused web analytics solution for your needs.
 ---
 
 # Alternatives to Fathom    
@@ -24,13 +24,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Fathom quick pros and cons    
-**Pros of Fathom:**
-- Top-notch accuracy in transcripts, even with multiple speakers.
-- Quick, high-quality summaries that capture key points and decisions.
+Fathom excels with precise transcription across multiple speakers and languages, while offering unlimited free access to core features. The AI produces reliable meeting summaries and key points, making it particularly valuable for international teams.
 
-**Cons of Fathom:**
-- Historically Zoom-only, new support for other platforms is recent and in beta.
-- Some duplicate note issues if multiple team members use it simultaneously on a call.  
+The platform's heavy Zoom focus limits its broader application, and real-time collaboration features are minimal compared to competitors. Multiple users on the same call can create duplicate notes, and advanced features require paid subscriptions.  
 ## Fathom features    
 | Feature               | Competitor1 |
 |-----------------------|-------------|
@@ -39,13 +35,29 @@ In addition to the quality of these deliverables, we'll want to look at a number
 |                       | ✅ Basic     |
 | Mobile App            | ✅ Yes       |
 | Offline Access        | ❌ No        |
-| Cross-Platform        | ✅ Mac & Win |
-| Multiple Languages    | ✅ Yes       |
-| Web-based             | ❌ No        |  
+| Data Import/Export    | ❌ No        |
+| Customization         | ✅ Yes       |
+| Collaboration         | ✅ Yes       |
+| Integrations          | ✅ Yes       |
+| Customer Support      | ❌ No        |
+| Multi-language        | ✅ Yes       |
+| Platform              | ❌ Web       |
+|                       | ✅ Mac-only  |
+|                       | ✅ Mac & Win |
+|                       | ✅ Both      |
+| API Access            | ❌ No        |
+| Cross-platform sync   | ✅ Yes       |  
 ## Closest Fathom competitors    
-- **Otter.ai**: AI transcription and note-taking service with live transcription during meetings and cross-platform access. Great for capturing meeting notes in real time but limited to English and may have transcription errors with accents or fast speech.
-- **Avoma**: AI meeting assistant with conversation intelligence, ideal for sales and customer success teams. Offers accurate transcriptions and excellent AI summaries but can be complex for new users and lacks a free tier.
-- **Fireflies.ai**: AI meeting bot for notes with wide compatibility and detailed summaries. Easy setup but may overwhelm heavy meeting users with lots of email notifications.  
+### Meeting Assistant Options
+
+**Fireflies.ai**
+Bot joins any platform and handles notes automatically. $10/mo gets you good transcripts and summaries, though accuracy drops with accents.
+
+**Granola**
+Mac-only app that runs locally and merges your typing with AI transcripts. Simple $10 flat fee, but no Windows version yet.
+
+**Krisp**
+Background app that removes noise and takes notes on any call. Free tier is usable, paid is $8/mo, but summaries are basic.  
 ## Fathom vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -55,13 +67,14 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Industry-leading security with SOC 2 Type II, EU-U.S. Data Privacy Framework, and HIPAA compliance  
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
 ### Comparison table  
-| Feature                                | Fathom               | Circleback           |
-|----------------------------------------|----------------------|----------------------|
-| Easy to Use?                           | ✅                    | ❌                    |
-| Good for In-Person Meetings?           | ✅                    | ✅                    |
-| Good for Local Recording?              | ✅                    | ✅                    |
-| Integrates with HubSpot, Notion, etc.? | ❌                    | ✅                    |
-| Automation Engine?                     | ❌                    | ✅                    |
-| Language Support                       | ✅ Multiple languages | ✅ 100+ languages     |
-| Desktop App                            | ❌ No (Web-based)     | ✅ Yes (Mac & Windows)|
-| iPhone & Android Apps                  | ✅ Yes (Both)         | ✅ Yes (Both)         |
+| Feature | Fathom | Circleback |
+|----------|---------|------------|
+| Free Plan | ✅ | ❌ |
+| Easy to Use | ✅ | ✅ |
+| In-Person Meetings | ✅ | ✅ |
+| Local Recording | ❌ | ✅ |
+| Integration Support | ❌ | ✅ |
+| Automation Engine | ✅ | ✅ |
+| Language Support | Multiple | 100+ |
+| Desktop App | ❌ | ✅ |
+| Mobile Apps | ✅ | ✅ |
