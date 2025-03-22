@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Otter.ai vs. Zoom AI  Which should you choose?
+title:  Otter.ai vs. Zoom AI – Which should you choose?
 description: Compare Otter.ai and Zoom AI transcription services, explore their key features, pricing, and discover Circleback as an alternative solution for your meeting needs.
 ---
 
