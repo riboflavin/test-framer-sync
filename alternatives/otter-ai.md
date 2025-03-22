@@ -28,20 +28,18 @@ Otter.ai excels at making transcription accessible through its intuitive interfa
 
 The downsides are meaningful but expected for AI transcription. It struggles with accents and rapid speech, only works in English, and sometimes misidentifies speakers in conversations.  
 ## Otter.ai features    
-| Feature | Otter.ai |
-|---------|----------|
-| Free plan | ✅ |
-| Trial only | ❌ |
-| Requires paid Zoom | ❌ |
-| Free plan (limited) | ✅ |
-| Free unlimited plan | ✅ |
-| Zoom native | ✅ |
-| Learning curve | ❌ |
-| Multiple languages | ✅ |
-| Web-based | ❌ |
-| Mac & Windows | ✅ |
-| Mac-only | ✅ |
-| Both Mac & Windows | ✅ |  
+| Feature | Status |
+|----------|---------|
+| Free Plan | ✅ |
+| Zoom & Calendar Integration | ✅ |
+| Easy to Use | ✅ |
+| Good for In-Person Meetings | ❌ |
+| Good for Local Recording | ❌ |
+| Integrates with HubSpot, Notion, etc. | ⚠️ Limited |
+| Automation Engine | ❌ |
+| Language Support | ❌ English only |
+| Desktop App | ❌ Web-based |
+| iPhone & Android Apps | ✅ Both |  
 ## Closest Otter.ai competitors    
 ### Meeting Assistant Options
 
