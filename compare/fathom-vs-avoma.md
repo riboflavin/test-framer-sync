@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Fathom vs. Avoma  Which should you choose?
+title:  Fathom vs. Avoma – Which should you choose?
 description: Compare Fathom and Avoma meeting assistants, explore their key features, pricing, and discover Circleback as an alternative solution for your meeting management needs.
 ---
 
