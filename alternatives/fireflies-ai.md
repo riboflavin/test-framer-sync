@@ -1,7 +1,7 @@
 ---
 type: alternatives
 title:  Alternatives to Fireflies.ai  
-description: Discover top alternatives to Fireflies.ai and compare Fireflies.ai with Circleback to find the best transcription tool for your needs.
+description: Discover top alternatives to Fireflies.ai for meeting transcription and analysis. Compare features with Circleback and find the best solution for your needs.
 ---
 
 # Alternatives to Fireflies.ai    
@@ -24,12 +24,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Fireflies.ai quick pros and cons    
-Pros:
-- Wide compatibility with popular platforms like Zoom, Teams, and Meet.
-- Detailed meeting summaries and action items sent via email.
-Cons:
-- Free plan has limitations that may push users to upgrade.
-- Transcription accuracy around 90%, with occasional errors for accents or jargon.  
+Fireflies.ai excels at seamless meeting integration across major platforms and offers robust features like sentiment analysis and task tracking, making it a powerful tool for teams wanting to capture and analyze conversations. The automated summaries and action items save time, while the straightforward bot-based setup means most users can start recording meetings within minutes.
+
+The service comes with notable limitations including restrictive free-tier caps and occasional transcription inaccuracies, particularly with accented speech or technical terminology. The interface can feel overwhelming due to feature density, and the default notification system tends to flood inboxes for users with packed meeting schedules.  
 ## Fireflies.ai features    
 | Feature                | Fireflies.ai       |
 |------------------------|--------------------|
@@ -44,9 +41,16 @@ Cons:
 | Multiple Languages     | ✅ Yes              |
 | Platform               | ✅ Mac & Windows    |  
 ## Closest Fireflies.ai competitors    
-- **Otter.ai**: AI transcription and note-taking service with live transcription during meetings and cross-platform access. Great for capturing meeting notes in real time and searching conversations. Pricing: Free (basic), Pro: ~$17/month per user, Business: ~$30/month; Enterprise ~$40.
-- **Avoma**: AI meeting assistant with conversation intelligence, ideal for sales and customer success teams. Offers detailed summaries, tracks topics, and integrates with CRM/work tools. Pricing: Free trial 14 days, Starter: ~$19/mo per user (annual), Business: $59–79/mo per user (annual), depending on features.
-- **Zoom AI**: Zoom’s built-in AI Companion for live transcription, summaries, sentiment analysis, and AI whiteboard. Suited for teams on Zoom. Pricing: Included with Zoom Pro/One subscriptions (≈$15+/month per user).  
+### Meeting Assistant Options
+
+**Fathom**
+Simple, accurate transcription tool with unlimited free tier. Good for individuals who just need reliable meeting notes and don't want to think about usage limits.
+
+**Granola**
+Mac-only notepad that enhances your own notes with AI. Works locally without joining meetings, which some might prefer for privacy and simplicity.
+
+**Krisp**
+Background tool that combines noise cancellation with meeting notes. Works with any calling platform and has a useful free tier, though summaries are basic.  
 ## Fireflies.ai vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -56,15 +60,15 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Industry-leading security with SOC 2 Type II, EU-U.S. Data Privacy Framework, and HIPAA compliance  
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
 ### Comparison table  
-| Feature            | Fireflies.ai       | Circleback         |
-|--------------------|--------------------|--------------------|
-| Free Plan          | ✅ Limited          | ❌ Trial only      |
-| Transcription      | ✅ Yes              | ✅ Yes             |
-| Integration        | ✅ Yes              | ✅ Yes             |
-| Mobile App         | ❌ No               | ✅ Yes             |
-| Desktop App        | ❌ No               | ✅ Yes             |
-| Collaboration      | ✅ Yes              | ✅ Yes             |
-| Calendar Sync      | ✅ Yes              | ✅ Yes             |
-| Language Support   | ✅ Multiple         | ✅ 100+            |
-| Platform Support   | ❌ Web-based        | ✅ Mac & Windows   |
-| Offline Support    | ✅ Yes (Both)       | ✅ Yes (Both)      |
+| Feature | Fireflies.ai | Circleback |
+|----------|-------------|------------|
+| Free Plan | ✅ Limited | ❌ Trial only |
+| Meeting Recording | ✅ | ✅ |
+| Transcription | ✅ | ✅ |
+| Custom Vocabulary | ❌ | ✅ |
+| Speaker Separation | ❌ | ✅ |
+| Search & Filter | ✅ | ✅ |
+| Share & Export | ✅ | ✅ |
+| Language Support | ✅ Multiple | ✅ 100+ |
+| Desktop App | ❌ Web-based | ✅ Mac & Windows |
+| Mobile Support | ✅ Both | ✅ Both |
