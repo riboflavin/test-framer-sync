@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Avoma vs. Krisp  Which should you choose?
+title:  Avoma vs. Krisp – Which should you choose?
 description: Compare Avoma and Krisp's AI meeting assistants for features, pricing, and use cases. Plus, discover Circleback as an alternative solution for meeting management.
 ---
 
