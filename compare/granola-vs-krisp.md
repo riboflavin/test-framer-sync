@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Granola vs. Krisp  Which should you choose?
+title:  Granola vs. Krisp – Which should you choose?
 description: Compare Granola and Krisp privacy tools, explore their key features, and discover Circleback as an alternative option to protect your personal data online.
 ---
 
