@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Zoom AI vs. Fathom  Which should you choose?
+title:  Zoom AI vs. Fathom – Which should you choose?
 description: Compare Zoom AI and Fathom's key features, pricing, and capabilities to find the best meeting transcription tool for your needs, plus discover Circleback as an alternative.
 ---
 
