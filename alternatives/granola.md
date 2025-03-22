@@ -1,7 +1,7 @@
 ---
 type: alternatives
 title:  Alternatives to Granola  
-description: Discover alternative breakfast options to granola. Explore the differences between granola and Circleback for a healthier morning meal.
+description: Discover healthier and tastier alternatives to traditional granola. Compare granola with circleback and find your new favorite breakfast option.
 ---
 
 # Alternatives to Granola    
@@ -24,13 +24,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Granola quick pros and cons    
-**Pros:**
-- Minimal, user-friendly app with a regular notepad feel.
-- Accurate transcription quality helps fill in missed details.
+Granola excels at simplicity and accuracy, functioning as a lightweight note-taking tool that works across any platform without requiring a meeting bot. The app's custom templates and high-quality transcription ensure you capture important details while maintaining a familiar notepad-like experience.
 
-**Cons:**
-- MacOS only with no mobile app yet.
-- Lacks multi-user features and limited integrations.  
+The main drawbacks are its limited availability on MacOS only and lack of team collaboration features. Being a new product, it's still missing key integrations and some basic functionality like transcript editing remains underdeveloped.  
 ## Granola features    
 | Feature               | Granola               | Competitor 1          |
 |-----------------------|-----------------------|-----------------------|
@@ -38,16 +34,23 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Cross-platform        | ✅ Yes                | ❌ No                 |
 | Offline Access        | ✅ Yes                | ❌ No                 |
 | Cloud Sync            | ✅ Yes                | ✅ Yes                |
-| Collaboration         | ✅ Yes                | ✅ Yes                |
+| Dark Mode             | ✅ Yes                | ✅ Yes                |
+| Customization Options | ✅ Yes                | ✅ Yes                |
+| Collaboration Tools   | ✅ Yes                | ✅ Yes                |
 | Mobile App            | ✅ Yes                | ❌ No                 |
-| Dark Mode             | ✅ Yes                | ❌ No                 |
-| Language Support      | ✅ Multiple languages | ❌ English only       |
-| Mac Support           | ✅ Yes (Mac & Windows)| ✅ Yes (Mac-only)     |
-| Windows Support       | ✅ Yes (Both)         | ❌ No                 |  
+| Language Support      | ✅ Multiple languages | ✅ Yes (Mac-only)     |
+| Windows Support       | ✅ Yes (Mac & Windows)| ❌ No                 |  
 ## Closest Granola competitors    
-- Otter.ai: AI transcription and note-taking service with live transcription during meetings and cross-platform access. Strong free plan with generous transcription limits but limited language support and accuracy issues with accents.
-- Avoma: AI meeting assistant for sales and customer success teams, offering accurate transcriptions, detailed summaries, and workflow integrations. No free tier, expensive advanced plans, and complex for new users.
-- Zoom AI: Zoom's built-in AI Companion for live meeting transcriptions and summaries, real-time Q&A, and whiteboard AI. Included with paid Zoom subscriptions, but limited to Zoom platform and lacks custom vocabulary support.  
+### Quick Analysis of Meeting Tools
+
+**Fathom**
+Free unlimited recording and transcription. Good accuracy. Initially Zoom-only but expanding. Works well for non-English.
+
+**Fireflies**
+Bot joins any platform. $10/mo. Good summaries but accuracy around 90%. Lots of integrations but UI feels busy.
+
+**Krisp**
+$8/mo. Runs in background for any call. Does noise cancellation plus transcription. Light on features but works everywhere.  
 ## Granola vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -57,15 +60,15 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Industry-leading security with SOC 2 Type II, EU-U.S. Data Privacy Framework, and HIPAA compliance  
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
 ### Comparison table  
-| Feature             | Granola | Circleback |
-|---------------------|---------|------------|
-| Free Plan           | ✅       | ❌         |
-| Trial Available     | ❌       | ✅         |
-| Cross-Platform      | ❌       | ✅         |
-| Multi-Language      | ❌       | ✅         |
-| Offline Access      | ✅       | ✅         |
-| Contact Management  | ✅       | ✅         |
-| Calendar Integration| ✅       | ✅         |
-| Language Support    | ❌       | ✅ (100+ languages) |
-| Platform Support    | ✅ (Mac-only) | ✅ (Mac & Windows) |
-| Mobile App Support  | ❌       | ✅ (Both) |
+| Feature | Granola | Circleback |
+|----------|----------|------------|
+| Free Plan | ✅ Limited | ❌ Trial only |
+| Team Collaboration | ❌ No | ✅ Yes |
+| Custom Templates | ✅ Yes | ✅ Yes |
+| Email Tracking | ✅ Yes | ✅ Yes |
+| Analytics | ✅ Yes | ✅ Yes |
+| CRM Integration | ❌ No | ✅ Yes |
+| API Access | ❌ No | ✅ Yes |
+| Language Support | ❌ English only | ✅ 100+ languages |
+| Desktop App | ✅ Mac-only | ✅ Mac & Windows |
+| Mobile App | ❌ No | ✅ Both |
