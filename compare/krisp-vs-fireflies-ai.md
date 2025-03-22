@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Krisp vs. Fireflies.ai  Which should you choose?
+title:  Krisp vs. Fireflies.ai – Which should you choose?
 description: Compare Krisp and Fireflies.ai's key features, pricing, and use cases to find the best AI meeting assistant for your needs, plus discover Circleback as an alternative.
 ---
 
