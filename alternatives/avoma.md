@@ -28,13 +28,18 @@ Avoma excels at producing highly accurate transcriptions with clear speaker labe
 
 The service comes with notable drawbacks including its relatively high cost structure and lack of a free tier beyond trials. Users must also contend with a steep learning curve due to feature complexity, and occasional technical hiccups like delayed meeting bot joins.  
 ## Avoma features    
-| Feature               | Avoma               |
-|-----------------------|---------------------|
-| Trial Version         | ✅ Yes              |
-| Integration with Zoom | ✅ Zoom native      |
-| Free Plan             | ✅ Free unlimited   |
-| Language Support      | ✅ Multiple languages |
-| Platform Support      | ✅ Mac & Windows    |  
+| Feature | Avoma |
+|----------|--------|
+| Trial/Free Plan | ❌ Trial only |
+| Zoom & Calendar Integration | ✅ Yes |
+| Easy to Use? | ❌ Learning curve |
+| Good for In-Person Meetings? | ❌ No |
+| Good for Local Recording? | ❌ No |
+| Integrates with HubSpot, Notion, etc.? | ✅ Yes |
+| Automation Engine? | ✅ Yes |
+| Language Support | ❌ English only |
+| Desktop App | ❌ No (Web-based) |
+| iPhone & Android Apps | ✅ Yes (Both) |  
 ## Closest Avoma competitors    
 ### Meeting Tool Options
 
