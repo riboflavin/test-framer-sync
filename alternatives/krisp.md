@@ -28,9 +28,18 @@ Krisp excels at noise cancellation across any platform and offers unlimited tran
 
 The downsides include CPU-intensive processing that can strain systems during extended use and limited collaboration features for teams. Free plan restrictions and somewhat basic meeting summaries may push power users toward paid tiers or competitor products.  
 ## Krisp features    
-| Feature            | Free Plan | Noise Cancellation | Echo Cancellation | AI-Powered | Works on Mobile | Works on Desktop | Multiple Languages | Mac Support | Windows Support |
-|--------------------|-----------|--------------------|-------------------|------------|----------------|-----------------|-------------------|-------------|-----------------|
-| Krisp              | ✅        | ✅                 | ✅                | ✅         | ❌             | ❌              | ✅                | ✅          | ✅              |  
+| Feature | Status |
+|----------|---------|
+| Trial/Free Plan | ✅ |
+| Zoom & Calendar Integration | ❌ |
+| Easy to Use? | ✅ |
+| Good for In-Person Meetings? | ✅ |
+| Good for Local Recording? | ✅ |
+| Integrates with HubSpot, Notion, etc.? | ❌ |
+| Automation Engine? | ❌ |
+| Language Support | ✅ |
+| Desktop App | ✅ |
+| iPhone & Android Apps | ✅ |  
 ## Closest Krisp competitors    
 ### Meeting Assistant Tool Summaries
 
