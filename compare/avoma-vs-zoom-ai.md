@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Avoma vs. Zoom AI  Which should you choose?
+title:  Avoma vs. Zoom AI – Which should you choose?
 description: Compare Avoma and Zoom AI meeting assistants to find the best solution for your needs. See key features, pricing, and discover Circleback as an alternative option.
 ---
 
