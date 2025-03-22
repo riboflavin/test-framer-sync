@@ -1,7 +1,7 @@
 ---
 type: comparison
 title:  Fathom vs. Fireflies.ai  Which should you choose?
-description: Comparing Fathom and Fireflies.ai to help you choose the right tool. Explore features, benefits, and an alternative option with Circleback.
+description: Compare Fathom and Fireflies.ai meeting assistants, explore their key features, pricing, and discover Circleback as an alternative solution for your meeting needs.
 ---
 
 # Fathom vs. Fireflies.ai – Which should you choose?  
@@ -25,18 +25,14 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Evaluating Fathom and Fireflies.ai  
 ### Fathom
-- Top-notch accuracy in transcripts, even with multiple speakers.
-- Quick, high-quality summaries that capture key points and decisions.
-- Free unlimited usage for core features.
-- Supports many languages (users report better results for non-English than competitors).
+* Fathom offers accurate transcripts with multi-speaker support and quick summaries that capture decisions, with free unlimited usage for core features and strong multi-language support. The platform is primarily Zoom-focused with beta support for other platforms, has some duplicate note issues with multiple users, and lacks real-time collaboration features.
 
 ### Fireflies.ai
-- Wide compatibility – works with Zoom, Teams, Meet, etc. via bot.
-- Detailed summaries & action items emailed after each meeting.
-- Feature-rich (keywords, sentiment, task assignments) for deeper insights.
-- Easy setup; “just invite the bot and it works” feedback from users.  
+* Fireflies.ai works across multiple platforms including Zoom, Teams, and Meet, providing post-meeting summaries, action items, and features like sentiment analysis and task assignments. The free plan has strict limits on minutes and storage, transcription accuracy is around 90%, and the interface can be complex with frequent notification emails.  
 ## Comparison table    
-Some individuals or businesses may find Fathom appealing for its free plan and integrations with Zoom and calendars, making it suitable for those seeking basic meeting management. However, its limitations in supporting in-person meetings and local recording may hinder its usefulness for more complex meeting needs. Similarly, Fireflies.ai offers a free plan and integrations with popular tools like HubSpot and Notion, but its lack of an automation engine and depth of integrations may limit its effectiveness in enhancing meeting productivity for certain users or organizations. Both tools may fall short in providing comprehensive solutions for meeting management and productivity due to their limited integrations and functionalities.  
+Fathom works best for small teams and freelancers who need basic meeting transcription and don't want to think too much about setup or workflow. While it offers unlimited recording on its free plan and works with common tools like Zoom, its lack of automation and limited integration depth means users still need to do most of the heavy lifting manually.
+
+Fireflies.ai is better suited for larger organizations that need to process many meetings and want some automation capabilities. The platform includes workflow automation and integrates with popular business tools, though like its competitor, these integrations often lack the depth needed for truly seamless operations.  
 | Feature                           | Fathom               | Fireflies.ai         |
 |-----------------------------------|----------------------|----------------------|
 | Trial/Free Plan                   | ✅ Free unlimited plan| ✅ Free plan (limited)|
