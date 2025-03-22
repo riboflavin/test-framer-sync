@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Otter.ai vs. Avoma  Which should you choose?
+title:  Otter.ai vs. Avoma – Which should you choose?
 description: Compare Otter.ai and Avoma's meeting transcription features, pricing, and integrations. Plus, discover Circleback as an alternative solution for your business needs.
 ---
 
