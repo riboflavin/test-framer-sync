@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Zoom AI vs. Granola  Which should you choose?
+title:  Zoom AI vs. Granola – Which should you choose?
 description: Compare Zoom AI and Granola's features, pricing, and capabilities to find the best AI email management tool for your needs, plus discover Circleback as an alternative.
 ---
 
