@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Zoom AI vs. Krisp  Which should you choose?
+title:  Zoom AI vs. Krisp – Which should you choose?
 description: Compare Zoom AI and Krisp noise cancellation features, pricing, and performance. Plus, discover Circleback as an alternative solution for crystal-clear audio calls.
 ---
 
