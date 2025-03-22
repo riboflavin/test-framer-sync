@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Otter.ai vs. Granola  Which should you choose?
+title:  Otter.ai vs. Granola – Which should you choose?
 description: Compare Otter.ai and Granola's transcription features, pricing, and user experience, plus discover Circleback as an alternative solution for your audio-to-text needs.
 ---
 
