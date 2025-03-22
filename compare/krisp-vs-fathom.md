@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Krisp vs. Fathom  Which should you choose?
+title:  Krisp vs. Fathom – Which should you choose?
 description: Compare Krisp and Fathom noise-canceling apps, explore their key features, pricing, and performance. Plus, discover Circleback as an alternative solution.
 ---
 
