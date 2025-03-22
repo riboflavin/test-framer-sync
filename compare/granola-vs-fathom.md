@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Granola vs. Fathom  Which should you choose?
+title:  Granola vs. Fathom – Which should you choose?
 description: Compare Granola and Fathom analytics tools, explore their key features, pricing, and privacy focus. Plus, discover Circleback as an alternative solution.
 ---
 
