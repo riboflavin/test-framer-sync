@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Fathom vs. Fireflies.ai  Which should you choose?
+title:  Fathom vs. Fireflies.ai – Which should you choose?
 description: Compare Fathom and Fireflies.ai meeting assistants, explore their key features, pricing, and discover Circleback as an alternative solution for your meeting needs.
 ---
 
