@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Fathom vs. Otter.ai  Which should you choose?
+title:  Fathom vs. Otter.ai – Which should you choose?
 description: Compare Fathom and Otter.ai's meeting transcription features, pricing, and key differences. Plus, discover Circleback as an alternative solution for your needs.
 ---
 
