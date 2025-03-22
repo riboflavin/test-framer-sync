@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Granola vs. Avoma  Which should you choose?
+title:  Granola vs. Avoma – Which should you choose?
 description: Compare Granola and Avoma's key features, pricing, and benefits to find the best conversation intelligence tool for your sales team, plus discover Circleback as an alternative.
 ---
 
