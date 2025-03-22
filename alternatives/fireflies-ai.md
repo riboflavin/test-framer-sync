@@ -28,18 +28,18 @@ Fireflies.ai excels at seamless meeting integration across major platforms and o
 
 The service comes with notable limitations including restrictive free-tier caps and occasional transcription inaccuracies, particularly with accented speech or technical terminology. The interface can feel overwhelming due to feature density, and the default notification system tends to flood inboxes for users with packed meeting schedules.  
 ## Fireflies.ai features    
-| Feature                | Fireflies.ai       |
-|------------------------|--------------------|
-| Free Plan              | ✅ Limited          |
-| Unlimited Free Plan    | ✅ Yes              |
-| Transcription          | ✅ Yes              |
-| Collaboration          | ❌ No               |
-| Integrations           | ✅ Yes              |
-| Mobile App             | ✅ Yes              |
-| Offline Recording      | ❌ No               |
-| AI Summarization       | ✅ Yes              |
-| Multiple Languages     | ✅ Yes              |
-| Platform               | ✅ Mac & Windows    |  
+| Feature | Fireflies.ai |
+|----------|-------------|
+| Trial/Free Plan | ✅ Free plan (limited) |
+| Zoom & Calendar Integration | ✅ Yes |
+| Easy to Use? | ✅ Yes |
+| Good for In-Person Meetings? | ❌ No |
+| Good for Local Recording? | ❌ No |
+| Integrates with HubSpot, Notion, etc.? | ✅ Yes |
+| Automation Engine? | ✅ Yes |
+| Language Support | ✅ Multiple languages |
+| Desktop App | ❌ No (Web-based) |
+| iPhone & Android Apps | ✅ Yes (Both) |  
 ## Closest Fireflies.ai competitors    
 ### Meeting Assistant Options
 
