@@ -28,25 +28,18 @@ Fathom excels with precise transcription across multiple speakers and languages,
 
 The platform's heavy Zoom focus limits its broader application, and real-time collaboration features are minimal compared to competitors. Multiple users on the same call can create duplicate notes, and advanced features require paid subscriptions.  
 ## Fathom features    
-| Feature               | Competitor1 |
-|-----------------------|-------------|
-| Free Plan             | ✅ Unlimited |
-|                       | ✅ Limited   |
-|                       | ✅ Basic     |
-| Mobile App            | ✅ Yes       |
-| Offline Access        | ❌ No        |
-| Data Import/Export    | ❌ No        |
-| Customization         | ✅ Yes       |
-| Collaboration         | ✅ Yes       |
-| Integrations          | ✅ Yes       |
-| Customer Support      | ❌ No        |
-| Multi-language        | ✅ Yes       |
-| Platform              | ❌ Web       |
-|                       | ✅ Mac-only  |
-|                       | ✅ Mac & Win |
-|                       | ✅ Both      |
-| API Access            | ❌ No        |
-| Cross-platform sync   | ✅ Yes       |  
+| Feature | Fathom |
+|----------|---------|
+| Trial/Free Plan | ✅ Free unlimited plan |
+| Zoom & Calendar Integration | ✅ Yes |
+| Easy to Use? | ✅ Yes |
+| Good for In-Person Meetings? | ❌ No |
+| Good for Local Recording? | ❌ No |
+| Integrates with HubSpot, Notion, etc.? | ✅ Yes |
+| Automation Engine? | ❌ No |
+| Language Support | ✅ Multiple languages |
+| Desktop App | ❌ No (Web-based) |
+| iPhone & Android Apps | ✅ Yes (Both) |  
 ## Closest Fathom competitors    
 ### Meeting Assistant Options
 
