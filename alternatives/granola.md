@@ -28,18 +28,18 @@ Granola excels at simplicity and accuracy, functioning as a lightweight note-tak
 
 The main drawbacks are its limited availability on MacOS only and lack of team collaboration features. Being a new product, it's still missing key integrations and some basic functionality like transcript editing remains underdeveloped.  
 ## Granola features    
-| Feature               | Granola               | Competitor 1          |
-|-----------------------|-----------------------|-----------------------|
-| Free Plan             | ✅ Yes                | ✅ Free plan (limited)|
-| Cross-platform        | ✅ Yes                | ❌ No                 |
-| Offline Access        | ✅ Yes                | ❌ No                 |
-| Cloud Sync            | ✅ Yes                | ✅ Yes                |
-| Dark Mode             | ✅ Yes                | ✅ Yes                |
-| Customization Options | ✅ Yes                | ✅ Yes                |
-| Collaboration Tools   | ✅ Yes                | ✅ Yes                |
-| Mobile App            | ✅ Yes                | ❌ No                 |
-| Language Support      | ✅ Multiple languages | ✅ Yes (Mac-only)     |
-| Windows Support       | ✅ Yes (Mac & Windows)| ❌ No                 |  
+| Feature | Granola |
+|----------|----------|
+| Trial/Free Plan | ✅ Free plan (limited) |
+| Zoom & Calendar Integration | ❌ No |
+| Easy to Use? | ✅ Yes |
+| Good for In-Person Meetings? | ✅ Yes |
+| Good for Local Recording? | ✅ Yes |
+| Integrates with HubSpot, Notion, etc.? | ❌ No |
+| Automation Engine? | ❌ No |
+| Language Support | ❌ English only |
+| Desktop App | ✅ Yes (Mac-only) |
+| iPhone & Android Apps | ❌ No |  
 ## Closest Granola competitors    
 ### Quick Analysis of Meeting Tools
 
