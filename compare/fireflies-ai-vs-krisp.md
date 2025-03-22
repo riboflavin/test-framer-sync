@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Fireflies.ai vs. Krisp  Which should you choose?
+title:  Fireflies.ai vs. Krisp – Which should you choose?
 description: Compare Fireflies.ai and Krisp's AI meeting assistants for transcription, note-taking, and noise cancellation. Find out which tool best suits your needs.
 ---
 
