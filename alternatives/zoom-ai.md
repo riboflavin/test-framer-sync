@@ -1,7 +1,7 @@
 ---
 type: alternatives
 title:  Alternatives to Zoom AI  
-description: Discover top alternatives to Zoom AI and compare Zoom AI with Circleback to find the best video conferencing solution for your needs.
+description: Discover top alternatives to Zoom AI and compare features with Circleback. Find the best video conferencing AI solution for your needs.
 ---
 
 # Alternatives to Zoom AI    
@@ -24,13 +24,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Zoom AI quick pros and cons    
-**Pros of Zoom AI:**
-- Native integration with Zoom, no setup required for Zoom users, and outputs appear directly in Zoom Chat.
-- Real-time Q&A and assistance available during meetings, along with a unique whiteboard AI for creating mind-maps and diagrams.
+Zoom AI's seamless integration with existing Zoom infrastructure means zero setup hassle, while real-time meeting assistance and AI-powered whiteboards add genuine value for collaboration. The fact that it's included with paid Zoom subscriptions, requiring no additional fees, makes it an attractive option for existing customers.
 
-**Cons of Zoom AI:**
-- Limited to Zoom platform only, not compatible with Google Meet, Teams, etc.
-- Requires a paid Zoom plan (approximately $15+ monthly), with no free access available.  
+The platform's major limitations stem from its Zoom-exclusive nature, preventing use with other popular meeting tools, while the paid-only access creates a barrier for casual users. Technical constraints around speaker identification and vocabulary customization can hamper its effectiveness, especially for specialized business use cases.  
 ## Zoom AI features    
 | Feature                | Zoom AI               |
 |------------------------|-----------------------|
@@ -40,9 +36,16 @@ In addition to the quality of these deliverables, we'll want to look at a number
 | Multiple Languages     | ✅ Multiple languages |
 | Platform Availability  | ✅ Mac & Windows      |  
 ## Closest Zoom AI competitors    
-- **Otter.ai**: AI transcription and note-taking service with live transcription during meetings and cross-platform access. Pros include an intuitive interface and strong free plan, but cons include transcription errors with accents and limited language support.
-- **Fireflies.ai**: AI meeting bot for recording, transcribing, and summarizing discussions with detailed summaries and sentiment analysis. Pros include wide compatibility and feature-rich insights, but cons include limited free plan and cluttered UI.
-- **Fathom**: AI notetaker with unlimited recording and transcription, excelling in accuracy and multi-language support. Pros include top-notch accuracy and free unlimited usage for core features, but cons include some duplicate note issues and a focus on post-meeting output.  
+### Meeting AI Tool Summaries
+
+**Fathom**
+Free unlimited recording and transcription with good accuracy. Works mainly with Zoom but expanding to other platforms. Simple tool that does one thing well.
+
+**Fireflies**
+Bot that joins any meeting platform, records everything, and sends summaries. Works everywhere but free tier is limited. About $10/month for real usage.
+
+**Granola**
+Local Mac app that enhances your own meeting notes with AI. No bots or cloud needed - just runs on your computer. New but interesting approach.  
 ## Zoom AI vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -52,13 +55,13 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Industry-leading security with SOC 2 Type II, EU-U.S. Data Privacy Framework, and HIPAA compliance  
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
 ### Comparison table  
-| Feature                           | Zoom AI               | Circleback           |
-|-----------------------------------|-----------------------|----------------------|
-| Easy to Use?                       | ❌ Requires paid Zoom  | ❌ Trial only        |
-| Good for In-Person Meetings?       | ✅ Zoom native         | ✅ Yes               |
-| Good for Local Recording?          | ✅ Yes                 | ✅ Yes               |
-| Integrates with HubSpot, Notion, etc.? | ❌ No              | ✅ Yes               |
-| Automation Engine?                 | ❌ No                  | ✅ Yes               |
-| Language Support                   | ❌ No                  | ✅ 100+ languages    |
-| Desktop App                        | ✅ Yes (Mac & Windows) | ✅ Yes (Mac & Windows) |
-| iPhone & Android Apps              | ✅ Yes (Both)          | ✅ Yes (Both)        |
+| Feature | Zoom AI | Circleback |
+|---------|---------|------------|
+| Cost | ❌ Requires paid Zoom | ❌ Trial only |
+| In-Person Meetings | ✅ Zoom native | ✅ Yes |
+| Local Recording | ✅ Yes | ✅ Yes |
+| 3rd Party Integration | ❌ No | ✅ Yes |
+| Automation Engine | ❌ No | ✅ Yes |
+| Language Support | ❌ English only | ✅ 100+ languages |
+| Desktop App | ✅ Mac & Windows | ✅ Mac & Windows |
+| Mobile Apps | ✅ iOS & Android | ✅ iOS & Android |
