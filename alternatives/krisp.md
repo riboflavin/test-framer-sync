@@ -1,7 +1,7 @@
 ---
 type: alternatives
 title:  Alternatives to Krisp  
-description: Discover top alternatives to Krisp and compare Krisp with Circleback to find the best noise-cancellation solution for your needs.
+description: Discover top alternatives to Krisp noise-canceling software and compare features with Circleback to find the best audio enhancement solution for your needs.
 ---
 
 # Alternatives to Krisp    
@@ -24,30 +24,24 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Krisp quick pros and cons    
-Pros of Krisp:
-- Excellent noise cancellation for microphone and speaker audio.
-- Platform-agnostic, compatible with any meeting software and phone calls.
+Krisp excels at noise cancellation across any platform and offers unlimited transcription with custom vocabulary support. The free tier is generous for basic needs, providing daily noise reduction and meeting summaries without complex setup.
 
-Cons of Krisp:
-- Free plan limits noise removal to 60 minutes per day and 2 summaries per day.
-- Lacks real-time collaboration and multi-user features, designed as a personal tool.  
+The downsides include CPU-intensive processing that can strain systems during extended use and limited collaboration features for teams. Free plan restrictions and somewhat basic meeting summaries may push power users toward paid tiers or competitor products.  
 ## Krisp features    
-| Feature            | Krisp               |
-|--------------------|---------------------|
-| Free Plan          | ✅                  |
-| Noise Cancellation | ✅                  |
-| Echo Cancellation  | ✅                  |
-| AI Technology      | ✅                  |
-| Multiple Devices   | ✅                  |
-| Browser Support    | ❌                  |
-| Mobile App         | ❌                  |
-| Language Support   | ✅ Multiple         |
-| Platform Support   | ✅ Mac & Windows    |
-| Compatibility      | ✅ Both             |  
+| Feature            | Free Plan | Noise Cancellation | Echo Cancellation | AI-Powered | Works on Mobile | Works on Desktop | Multiple Languages | Mac Support | Windows Support |
+|--------------------|-----------|--------------------|-------------------|------------|----------------|-----------------|-------------------|-------------|-----------------|
+| Krisp              | ✅        | ✅                 | ✅                | ✅         | ❌             | ❌              | ✅                | ✅          | ✅              |  
 ## Closest Krisp competitors    
-- Otter.ai: AI transcription and note-taking service with live transcription during meetings and cross-platform access. Offers seamless integration with Zoom and calendar for auto-recording meetings. Pricing starts at free for basic features.
-- Avoma: AI meeting assistant with conversation intelligence, ideal for sales and customer success teams. Offers highly accurate transcriptions, excellent AI summaries, and workflow integrations. Pricing starts at $19 per user per month for the Starter plan.
-- Fathom: AI notetaker initially for Zoom, now offering team features. Excels in accuracy and multi-language support, with free unlimited usage for core features. Pricing starts at $15 per month for the Premium plan.  
+### Meeting Assistant Tool Summaries
+
+**Fathom**
+Free unlimited recording and transcription with good accuracy. Works mainly with Zoom but expanding to other platforms, and handles non-English content well.
+
+**Granola**
+Mac-only app that runs locally and merges your typed notes with AI transcription. Simple, private approach without needing meeting bots, but limited to single users.
+
+**Fireflies**
+Bot that works across all major meeting platforms, with good summaries and integrations. Free tier is limited but paid plans are reasonably priced at $10-19/user/month.  
 ## Krisp vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -57,13 +51,13 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Industry-leading security with SOC 2 Type II, EU-U.S. Data Privacy Framework, and HIPAA compliance  
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
 ### Comparison table  
-| Feature                           | Krisp               | Circleback          |
-|-----------------------------------|---------------------|---------------------|
-| Easy to Use?                       | ✅                   | ❌                   |
-| Good for In-Person Meetings?       | ❌                   | ✅                   |
-| Good for Local Recording?          | ✅                   | ✅                   |
-| Integrates with HubSpot, Notion, etc.? | ✅                   | ✅                   |
-| Automation Engine?                 | ✅                   | ✅                   |
-| Language Support                   | ❌                   | ✅ (100+ languages) |
-| Desktop App                        | ✅ (Mac & Windows)   | ✅ (Mac & Windows)   |
-| iPhone & Android Apps              | ✅ (Both)            | ✅ (Both)            |
+| Feature | Krisp | Circleback |
+|---------|--------|------------|
+| Free Plan | ✅ | ❌ |
+| In-Person Meetings | ❌ | ✅ |
+| Local Recording | ✅ | ✅ |
+| Integrations | ✅ | ✅ |
+| Automation Engine | ❌ | ✅ |
+| Language Support | ✅ | ✅ |
+| Desktop App | ✅ | ✅ |
+| Mobile Apps | ✅ | ✅ |
