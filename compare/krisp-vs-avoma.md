@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Krisp vs. Avoma  Which should you choose?
+title:  Krisp vs. Avoma – Which should you choose?
 description: Compare Krisp and Avoma's key features, pricing, and use cases to find the best noise-canceling and meeting assistant solution for your needs, plus discover Circleback.
 ---
 
