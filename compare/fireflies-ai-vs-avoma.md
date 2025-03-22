@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Fireflies.ai vs. Avoma  Which should you choose?
+title:  Fireflies.ai vs. Avoma – Which should you choose?
 description: Compare Fireflies.ai and Avoma meeting assistants, explore their key features, pricing, and discover Circleback as an alternative solution for meeting management.
 ---
 
