@@ -28,13 +28,18 @@ Zoom AI's seamless integration with existing Zoom infrastructure means zero setu
 
 The platform's major limitations stem from its Zoom-exclusive nature, preventing use with other popular meeting tools, while the paid-only access creates a barrier for casual users. Technical constraints around speaker identification and vocabulary customization can hamper its effectiveness, especially for specialized business use cases.  
 ## Zoom AI features    
-| Feature                | Zoom AI               |
-|------------------------|-----------------------|
-| Free Plan              | ✅ Free unlimited plan |
-| Zoom Native            | ✅ Yes                |
-| Free Plan (Limited)    | ✅ Yes                |
-| Multiple Languages     | ✅ Multiple languages |
-| Platform Availability  | ✅ Mac & Windows      |  
+| Feature | Zoom AI |
+|---------|---------|
+| Trial/Free Plan | ❌ Requires paid Zoom |
+| Zoom & Calendar Integration | ✅ Zoom native |
+| Easy to Use? | ✅ Yes |
+| Good for In-Person Meetings? | ❌ No |
+| Good for Local Recording? | ❌ No |
+| Integrates with HubSpot, Notion, etc.? | ❌ No |
+| Automation Engine? | ❌ No |
+| Language Support | ❌ English only |
+| Desktop App | ✅ Yes (Mac & Windows) |
+| iPhone & Android Apps | ✅ Yes (Both) |  
 ## Closest Zoom AI competitors    
 ### Meeting AI Tool Summaries
 
