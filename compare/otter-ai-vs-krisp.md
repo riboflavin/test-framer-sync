@@ -1,6 +1,6 @@
 ---
 type: comparison
-title:  Otter.ai vs. Krisp  Which should you choose?
+title:  Otter.ai vs. Krisp – Which should you choose?
 description: Compare Otter.ai and Krisp's transcription and noise-canceling features, plus discover Circleback as an alternative solution for your audio needs.
 ---
 
