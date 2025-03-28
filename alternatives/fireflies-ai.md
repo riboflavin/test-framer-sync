@@ -24,9 +24,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Fireflies.ai quick pros and cons    
-Fireflies.ai excels at seamless meeting integration across major platforms and offers robust features like sentiment analysis and task tracking, making it a powerful tool for teams wanting to capture and analyze conversations. The automated summaries and action items save time, while the straightforward bot-based setup means most users can start recording meetings within minutes.
+Fireflies.ai excels at seamless meeting transcription across major platforms, offering robust features like sentiment analysis and task tracking that make post-meeting documentation effortless. The bot-based setup is straightforward, and the detailed summaries with action items provide genuine value for busy teams.
 
-The service comes with notable limitations including restrictive free-tier caps and occasional transcription inaccuracies, particularly with accented speech or technical terminology. The interface can feel overwhelming due to feature density, and the default notification system tends to flood inboxes for users with packed meeting schedules.  
+The service has notable limitations including restrictive free-tier limits and transcription accuracy issues with accented speech. The interface can feel overwhelming due to feature bloat, and the default notification system tends to flood inboxes for users with packed meeting schedules.  
 ## Fireflies.ai features    
 | Feature | Fireflies.ai |
 |----------|-------------|
@@ -44,13 +44,13 @@ The service comes with notable limitations including restrictive free-tier caps 
 ### Meeting Assistant Options
 
 **Fathom**
-Simple, accurate transcription tool with unlimited free tier. Good for individuals who just need reliable meeting notes and don't want to think about usage limits.
+Simple, accurate transcription tool with unlimited free tier. Good for individuals who just need reliable meeting notes and don't want the complexity of enterprise features.
 
 **Granola**
-Mac-only notepad that enhances your own notes with AI. Works locally without joining meetings, which some might prefer for privacy and simplicity.
+Local-first Mac app that merges your typed notes with AI transcription. No meeting bot needed - just works quietly in background while you take notes normally.
 
 **Krisp**
-Background tool that combines noise cancellation with meeting notes. Works with any calling platform and has a useful free tier, though summaries are basic.  
+Background tool that removes noise and transcribes any call, regardless of platform. Includes good free tier and focuses on audio quality first, with meeting notes as bonus feature.  
 ## Fireflies.ai vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -68,7 +68,7 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 | Custom Vocabulary | ❌ | ✅ |
 | Speaker Separation | ❌ | ✅ |
 | Search & Filter | ✅ | ✅ |
-| Share & Export | ✅ | ✅ |
+| Meeting Summary | ✅ | ✅ |
 | Language Support | ✅ Multiple | ✅ 100+ |
-| Desktop App | ❌ Web-based | ✅ Mac & Windows |
+| Desktop App | ❌ Web-only | ✅ Mac & Windows |
 | Mobile Support | ✅ Both | ✅ Both |
