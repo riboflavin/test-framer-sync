@@ -24,9 +24,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Fathom quick pros and cons    
-Fathom excels with precise transcription across multiple speakers and languages, while offering unlimited free access to core features. The AI produces reliable meeting summaries and key points, making it particularly valuable for international teams.
+Fathom excels with precise transcription across multiple speakers and languages, while offering unlimited core features at no cost. The platform generates quick, reliable summaries that effectively capture essential meeting points and decisions.
 
-The platform's heavy Zoom focus limits its broader application, and real-time collaboration features are minimal compared to competitors. Multiple users on the same call can create duplicate notes, and advanced features require paid subscriptions.  
+The service has been predominantly Zoom-focused until recently, with other platform integrations still in beta, and shows some limitations in real-time collaboration. Duplicate notes can occur with multiple simultaneous users, and advanced features require paid subscriptions.  
 ## Fathom features    
 | Feature | Fathom |
 |----------|---------|
@@ -66,7 +66,7 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 | Easy to Use | ✅ | ✅ |
 | In-Person Meetings | ✅ | ✅ |
 | Local Recording | ❌ | ✅ |
-| Integration Support | ❌ | ✅ |
+| Integrations | ❌ | ✅ |
 | Automation Engine | ✅ | ✅ |
 | Language Support | Multiple | 100+ |
 | Desktop App | ❌ | ✅ |
