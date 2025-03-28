@@ -24,9 +24,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Granola quick pros and cons    
-Granola excels at simplicity and accuracy, functioning as a lightweight note-taking tool that works across any platform without requiring a meeting bot. The app's custom templates and high-quality transcription ensure you capture important details while maintaining a familiar notepad-like experience.
+Granola excels at simplicity and accuracy, functioning as a lightweight note-taking tool that works across platforms without requiring special meeting bots. The app's custom templates and high-quality transcription help capture important details you might otherwise miss during meetings or conversations.
 
-The main drawbacks are its limited availability on MacOS only and lack of team collaboration features. Being a new product, it's still missing key integrations and some basic functionality like transcript editing remains underdeveloped.  
+The main drawbacks are its limited availability on MacOS only and lack of team collaboration features. It's also a relatively new product with basic editing capabilities and few integrations, making it more suitable for individual use than enterprise settings.  
 ## Granola features    
 | Feature | Granola |
 |----------|----------|
@@ -47,7 +47,7 @@ The main drawbacks are its limited availability on MacOS only and lack of team c
 Free unlimited recording and transcription. Good accuracy. Initially Zoom-only but expanding. Works well for non-English.
 
 **Fireflies**
-Bot joins any platform. $10/mo. Good summaries but accuracy around 90%. Lots of integrations but UI feels busy.
+Bot joins any platform. $10/mo. Good summaries but accuracy around 90%. Lots of integrations but UI can be busy.
 
 **Krisp**
 $8/mo. Runs in background for any call. Does noise cancellation plus transcription. Light on features but works everywhere.  
