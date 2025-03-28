@@ -24,9 +24,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Otter.ai quick pros and cons    
-Otter.ai excels at making transcription accessible through its intuitive interface and generous free tier. The service shines brightest in its seamless calendar and Zoom integration, automatically capturing and transcribing meetings without friction.
+Otter.ai excels at making transcription accessible through its intuitive interface and generous free tier. The platform's seamless integration with Zoom and calendar apps makes recording and transcribing meetings nearly frictionless.
 
-The downsides are meaningful but expected for AI transcription. It struggles with accents and rapid speech, only works in English, and sometimes misidentifies speakers in conversations.  
+The service struggles with accuracy when handling accented speech or rapid conversations, and its English-only limitation is restrictive. Speaker identification isn't always reliable, which means users often need to manually correct speaker labels in transcripts.  
 ## Otter.ai features    
 | Feature | Status |
 |----------|---------|
@@ -44,13 +44,13 @@ The downsides are meaningful but expected for AI transcription. It struggles wit
 ### Meeting Assistant Options
 
 **Fathom**
-Free unlimited recording and transcription with good accuracy. Works mainly with Zoom but expanding to other platforms. Multi-language support is strong.
+Free unlimited recording with good accuracy. Works well for non-English meetings. Initially Zoom-only but expanding to other platforms.
 
 **Fireflies**
-Works across all major meeting platforms via a bot that auto-joins. $10/month/user gets you good transcription and summaries, though accuracy drops with accents.
+Bot works across all major meeting platforms. $10/month/user with good summaries and task assignments, though accuracy drops with accents.
 
 **Granola**
-Simple Mac-only app that runs locally - no meeting bot needed. $10/month flat fee, but lacks team features and is still building out core functionality.  
+Simple Mac-only app that runs locally without a meeting bot. $10/month flat fee, but lacks team features and integrations.  
 ## Otter.ai vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
