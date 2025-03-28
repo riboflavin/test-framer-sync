@@ -24,9 +24,9 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Zoom AI quick pros and cons    
-Zoom AI's seamless integration with existing Zoom infrastructure means zero setup hassle, while real-time meeting assistance and AI-powered whiteboards add genuine value for collaboration. The fact that it's included with paid Zoom subscriptions, requiring no additional fees, makes it an attractive option for existing customers.
+Zoom AI's seamless integration with existing Zoom infrastructure means zero setup hassle, while real-time meeting assistance and AI-powered whiteboards add genuine value for collaboration. The fact that it's included at no extra cost for paid Zoom users makes it an effortless addition to your workflow.
 
-The platform's major limitations stem from its Zoom-exclusive nature, preventing use with other popular meeting tools, while the paid-only access creates a barrier for casual users. Technical constraints around speaker identification and vocabulary customization can hamper its effectiveness, especially for specialized business use cases.  
+The platform-specific nature of Zoom AI means you're locked into the Zoom ecosystem, and the paid subscription requirement puts it out of reach for casual users. Technical limitations around speaker identification and specialized vocabulary can hamper its effectiveness in certain business contexts.  
 ## Zoom AI features    
 | Feature | Zoom AI |
 |---------|---------|
@@ -47,10 +47,10 @@ The platform's major limitations stem from its Zoom-exclusive nature, preventing
 Free unlimited recording and transcription with good accuracy. Works mainly with Zoom but expanding to other platforms. Simple tool that does one thing well.
 
 **Fireflies**
-Bot that joins any meeting platform, records everything, and sends summaries. Works everywhere but free tier is limited. About $10/month for real usage.
+Works across all major meeting platforms via a bot that auto-joins. $10/month gets you good transcripts and summaries, though accuracy drops with accents.
 
 **Granola**
-Local Mac app that enhances your own meeting notes with AI. No bots or cloud needed - just runs on your computer. New but interesting approach.  
+Mac-only app that runs locally and merges your typed notes with meeting transcripts. No meeting bot needed - just works in background. $10 flat monthly fee.  
 ## Zoom AI vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -62,11 +62,11 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 ### Comparison table  
 | Feature | Zoom AI | Circleback |
 |---------|---------|------------|
-| Cost | ❌ Requires paid Zoom | ❌ Trial only |
-| In-Person Meetings | ✅ Zoom native | ✅ Yes |
-| Local Recording | ✅ Yes | ✅ Yes |
-| 3rd Party Integration | ❌ No | ✅ Yes |
-| Automation Engine | ❌ No | ✅ Yes |
-| Language Support | ❌ English only | ✅ 100+ languages |
+| Cost | ❌ Paid | ❌ Trial only |
+| In-Person Meetings | ✅ | ✅ |
+| Local Recording | ✅ | ✅ |
+| Integrations | ❌ | ✅ |
+| Automation Engine | ❌ | ✅ |
+| Language Support | ❌ English only | ✅ 100+ |
 | Desktop App | ✅ Mac & Windows | ✅ Mac & Windows |
 | Mobile Apps | ✅ iOS & Android | ✅ iOS & Android |
