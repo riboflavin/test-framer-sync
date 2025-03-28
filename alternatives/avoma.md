@@ -26,7 +26,7 @@ In addition to the quality of these deliverables, we'll want to look at a number
 ## Avoma quick pros and cons    
 Avoma excels at producing highly accurate transcriptions with clear speaker labeling, while its AI summaries and highlights make post-meeting review efficient. The platform's deep workflow integrations with CRM systems and calendars help streamline the entire meeting lifecycle.
 
-The service comes with notable drawbacks including its relatively high cost structure and lack of a free tier beyond trials. Users must also contend with a steep learning curve due to feature complexity, and occasional technical hiccups like delayed meeting bot joins.  
+The service comes with notable drawbacks including relatively high costs with no permanent free tier, and a steep learning curve for new users. Technical issues occasionally surface, such as delayed meeting bot joins and missed speaker identification.  
 ## Avoma features    
 | Feature | Avoma |
 |----------|--------|
@@ -50,7 +50,7 @@ Free unlimited recording and transcription with good accuracy. Works mainly with
 Bot joins any platform (Zoom/Teams/Meet) to record and summarize. $10/month/user with broad feature set but some accuracy tradeoffs with accents.
 
 **Krisp**
-Background tool that removes noise and transcribes any call. $8/month with platform-agnostic approach but lighter on team features.  
+Background tool that works everywhere, removes noise, and adds transcription. $8/month with good free tier. More focused on audio quality than deep meeting analysis.  
 ## Avoma vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -63,12 +63,12 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 | Feature | Avoma | Circleback |
 |----------|--------|------------|
 | Free Plan | ❌ Trial only | ❌ Trial only |
-| Meeting Recording | ✅ Yes | ✅ Yes |
-| Ease of Use | ❌ Learning curve | ✅ Yes |
-| AI Summary | ❌ No | ✅ Yes |
-| Real-time Notes | ❌ No | ✅ Yes |
-| Transcription | ✅ Yes | ✅ Yes |
-| Integration | ✅ Yes | ✅ Yes |
+| Meeting Recording | ✅ | ✅ |
+| User Experience | ❌ Learning curve | ✅ |
+| Team Collaboration | ❌ | ✅ |
+| Custom Workflows | ❌ | ✅ |
+| Analytics | ✅ | ✅ |
+| Integration | ✅ | ✅ |
 | Language Support | ❌ English only | ✅ 100+ languages |
-| Desktop App | ❌ No (Web-based) | ✅ Yes (Mac & Windows) |
-| Mobile & Web | ✅ Yes (Both) | ✅ Yes (Both) |
+| Desktop App | ❌ Web-based | ✅ Mac & Windows |
+| Mobile Support | ✅ Both | ✅ Both |
