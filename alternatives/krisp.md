@@ -41,16 +41,16 @@ The downsides include CPU-intensive processing that can strain systems during ex
 | Desktop App | ✅ |
 | iPhone & Android Apps | ✅ |  
 ## Closest Krisp competitors    
-### Meeting Assistant Tool Summaries
+### Simple Meeting Tool Summaries
 
 **Fathom**
-Free unlimited recording and transcription with good accuracy. Works mainly with Zoom but expanding to other platforms, and handles non-English content well.
+Free unlimited recording and transcription with good accuracy. Works mainly with Zoom but expanding to other platforms. Summaries are solid and it handles non-English well.
 
 **Granola**
-Mac-only app that runs locally and merges your typed notes with AI transcription. Simple, private approach without needing meeting bots, but limited to single users.
+Mac-only app that runs locally and merges your typed notes with AI transcription. Simple, private, no meeting bot needed. $10/month flat pricing.
 
 **Fireflies**
-Bot that works across all major meeting platforms, with good summaries and integrations. Free tier is limited but paid plans are reasonably priced at $10-19/user/month.  
+Bot that joins meetings on any platform to record and summarize. Works everywhere but free tier is limited. $10-19/month per user depending on features.  
 ## Krisp vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
