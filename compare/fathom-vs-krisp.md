@@ -25,26 +25,25 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Evaluating Fathom and Krisp  
 ### Fathom
-* Fathom offers accurate transcription with multi-speaker support and quick meeting summaries, with free unlimited core features and strong multi-language capabilities. The platform started as Zoom-only with beta support for other platforms, and has some limitations around duplicate notes and real-time collaboration.
+* Fathom offers free transcription and AI summaries that appear seconds after meetings, with different summary formats and structured note sections in paid plans. The service works only for live meetings, lacks a mobile app, and requires desktop use, with some users finding the on-screen elements distracting.
 
 ### Krisp
-* Krisp provides noise cancellation for audio input/output and works with any meeting platform, offering unlimited transcription and custom vocabulary training. The free tier has usage limits of 60 minutes daily for noise removal and 2 summaries per day, while the tool functions individually rather than collaboratively and can be resource-intensive.  
+* Krisp removes background noise during calls and provides AI note-taking with summaries and action items. The service has a 60-minute daily limit on the free plan, can sometimes distort audio or clip words with loud noises, uses significant CPU resources, and receives mixed reviews for customer support response times.  
 ## Comparison table    
-Fathom works best for remote teams and sales organizations who need their meeting notes synced to tools like HubSpot and Notion, though the lack of automation means you'll still be doing most of the work manually. The web-based approach makes it easy to get started, but you'll need to be online and in a video call for it to be useful.
+Fathom works best for remote teams who need basic automation and want their meeting content synced to other tools, though the integration options are still quite limited. The lack of local recording and in-person capabilities makes it less suitable for hybrid teams who need to capture conversations happening in conference rooms.
 
-Krisp is built for people who record a lot of in-person meetings or need local recording capabilities, and its desktop app makes it more reliable for these scenarios. While it handles multiple languages well, its limited integrations mean you'll be copying and pasting content between apps, and like Fathom, it won't actually help automate your meeting workflow.  
-| Feature                           | Fathom               | Krisp                |
-|-----------------------------------|----------------------|----------------------|
-| Trial/Free Plan                   | ✅ Free unlimited plan| ✅ Free plan         |
-| Zoom & Calendar Integration       | ✅ Yes               | ❌ No                |
-| Easy to Use?                      | ✅ Yes               | ✅ Yes               |
-| Good for In-Person Meetings?      | ❌ No                | ✅ Yes               |
-| Good for Local Recording?         | ❌ No                | ✅ Yes               |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes           | ❌ No                |
-| Automation Engine?                | ❌ No                | ❌ No                |
-| Language Support                  | ✅ Multiple languages| ✅ Multiple languages|
-| Desktop App                       | ❌ No (Web-based)    | ✅ Yes (Mac & Windows)|
-| iPhone & Android Apps             | ✅ Yes (Both)        | ✅ Yes (Both)        |  
+Krisp is better suited for companies with hybrid work environments who need reliable local recording and in-person meeting capture, but don't require much automation. While it offers some basic integrations, it doesn't help teams do much with their meeting content beyond basic transcription and recording.  
+| Feature                           | Fathom | Krisp |
+|-----------------------------------|--------|-------|
+| Good for in-person                | ❌      | ✅    |
+| Local recording                   | ❌      | ✅    |
+| Integrations (HubSpot, Notion, etc.) | ✅   | ✅    |
+| Automation engine                 | ✅     | ❌    |
+| Language support                  | ✅     | ✅    |
+| Desktop app                       | ✅     | ✅    |
+| Mobile apps                       | ❌     | ❌    |
+| Trial or free plan                | ✅     | ✅    |
+| Security & privacy                | ✅     | ✅    |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
