@@ -30,20 +30,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 ### Krisp
 * Krisp combines noise cancellation technology with AI note-taking capabilities, allowing users to remove background sounds and automatically generate meeting summaries with action items. The tool can experience audio distortion with loud noises, uses significant CPU resources, limits free noise cancellation to 60 minutes daily, and some users find the full version expensive.  
 ## Comparison table    
-Krisp makes sense for larger companies who need to record in-person meetings and care about security compliance. While it offers some basic integrations with common tools, it doesn't do much to help you act on what happens in meetings.
+Krisp makes sense for larger companies who need to record in-person meetings and care about security compliance, though its limited integration options mean you'll still need other tools to make those recordings useful. The desktop app works well enough for basic recording and noise cancellation needs, but you won't get much help turning meetings into actual outcomes.
 
-Granola works better for remote-first teams who just want simple meeting recordings without much fuss. The lack of integrations and automation features means you'll still need to do most of the post-meeting work manually, but the core recording function is solid and straightforward.  
-| Feature                                | Granola | Krisp   |
-|----------------------------------------|---------|---------|
-| Good for in-person                     | ❌       | ✅       |
-| Local recording                        | ✅       | ✅       |
-| Integrations (HubSpot, Notion, etc.)   | ❌       | ✅       |
-| Automation engine                      | ❌       | ❌       |
-| Language support                       | ✅       | ✅       |
-| Desktop app                            | ✅       | ✅       |
-| Mobile apps                            | ❌       | ❌       |
-| Trial or free plan                     | ✅       | ✅       |
-| Security & privacy                     | ❌       | ✅       |  
+Granola could work for small teams or freelancers who just need simple remote meeting recordings without much fuss about security or in-person sessions. While it handles the basics of capturing and transcribing calls, you'll find yourself manually doing most of the post-meeting work since it lacks meaningful integrations and automation capabilities.  
+| Category                   | Granola      | Krisp        |
+|----------------------------|--------------|--------------|
+| Good for in-person         | ❌           | ✅           |
+| Local recording            | ✅           | ✅           |
+| Integrations               | ❌           | ✅           |
+| Automation engine          | ❌           | ❌           |
+| Language support           | ✅           | ✅           |
+| Desktop app                | ✅           | ✅           |
+| Mobile apps                | ❌           | ❌           |
+| Trial or free plan         | ✅           | ✅           |
+| Security & privacy         | ❌           | ✅           |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
