@@ -30,20 +30,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 ### Granola
 * Granola captures meeting notes automatically with customizable templates and operates with a minimal interface similar to Apple Notes, requiring no user intervention during meetings. The tool is currently Mac-only, lacks a mobile app, requires system audio capture to function, and some users report occasional minor bugs.  
 ## Comparison table    
-Circleback makes sense for sales teams and consultants who need to record both in-person and remote meetings, with basic automation to handle follow-ups. The mobile apps and automation features help busy professionals who are constantly moving between meetings, though they'll likely need additional tools to properly manage their workflow.
+Circleback seems built for larger companies who need to handle both remote and in-person meetings, with its mobile apps and automation features making it somewhat useful for teams on the go. The tool's basic integrations and automation engine hint at enterprise aspirations, though they don't go deep enough to transform how teams actually work.
 
-Granola works well for remote-first companies and individuals who just need simple meeting recordings and transcripts on their computers. The stripped-down feature set and partial integrations make it a decent choice for basic needs, but users will probably need to cobble together other tools to properly manage their meeting outcomes.  
-| Feature                           | Circleback | Granola   |
-|-----------------------------------|------------|-----------|
-| Good for in-person                | ✅         | ❌        |
-| Local recording                   | ✅         | ✅        |
-| Integrations (HubSpot, Notion, etc.) | ✅      | Partial   |
-| Automation engine                  | ✅         | ❌        |
-| Language support                  | ✅         | ✅        |
-| Desktop app                       | ✅         | ✅        |
-| Mobile apps                       | ✅         | ❌        |
-| Trial or free plan                | ✅         | ✅        |
-| Security & privacy                | ✅         | ✅        |  
+Granola appears aimed at individual users or small teams who mostly do remote meetings and want simple, secure recording without much overhead. Its stripped-down approach and lack of mobile support suggest a focus on desktop-first users, though like its competitor it doesn't offer enough integration depth to meaningfully improve meeting outcomes.  
+| Category                | Circleback          | Granola             |
+|-------------------------|---------------------|---------------------|
+| Good for in-person      | ✅                  | ❌                  |
+| Local recording         | ✅                  | ✅                  |
+| Integrations            | ✅                  | ❌                  |
+| Automation engine       | ✅                  | ❌                  |
+| Language support        | ✅                  | ✅                  |
+| Desktop app             | ✅                  | ✅                  |
+| Mobile apps             | ✅                  | ❌                  |
+| Trial or free plan      | ✅                  | ✅                  |
+| Security & privacy      | ✅                  | ✅                  |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
