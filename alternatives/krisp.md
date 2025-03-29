@@ -28,15 +28,15 @@ Krisp excels at noise cancellation and has become essential for many professiona
 
 The software has notable drawbacks including occasional audio distortion, high CPU usage, and limited free-tier functionality that caps at 60 minutes daily. The pricing structure can feel expensive for single-feature users, and customer support response times are inconsistent.  
 ## Krisp features    
-| Feature | Krisp |
-|---------|--------|
-| In-person Recording | ✅ |
-| Local Recording | ✅ |
-| Integrations | ✅ |
-| Automation Engine | ⚡ |
-| Language Support | ✅ |
-| Desktop App | ✅ |
-| Mobile Apps | ❌ |  
+Feature                          | Status
+--------------------------------|--------
+Good for in-person              | ✅
+Local recording                 | ✅
+Integrations                    | ✅
+Automation engine              | ✅
+Language support               | ✅
+Desktop app                    | ✅
+Mobile apps                    | ❌  
 ## Closest Krisp competitors    
 ### Three Notable Meeting AI Tools to Consider
 
@@ -55,13 +55,13 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
 ### Comparison table  
 | Feature | Krisp | Circleback |
-|---------|--------|------------|
-| In-person Recording | ✓ | ✓ |
-| Local Recording | ✓ | ✓ |
-| Integrations | ✓ | ✓ |
-| Automation Engine | ⚠️ | ✓ |
-| Language Support | 95+ | 100+ |
-| Desktop App | ✓ | ✓ |
-| Mobile Apps | ✗ | ✓ |
-| Free Plan | ✓ | ⚠️ |
-| Security & Privacy | ✓ | ✓ |
+|----------|--------|------------|
+| Good for in-person | ✅ | ✅ |
+| Local recording | ✅ | ✅ |
+| Integrations | ✅ | ✅ |
+| Automation engine | ❌ | ✅ |
+| Language support | ✅ | ✅ |
+| Desktop app | ✅ | ✅ |
+| Mobile apps | ❌ | ✅ |
+| Trial or free plan | ✅ | ✅ |
+| Security & privacy | ✅ | ✅ |
