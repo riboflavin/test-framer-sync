@@ -25,26 +25,25 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Evaluating Avoma and Otter.ai  
 ### Avoma
-* Avoma provides accurate transcription with clear speaker labeling and AI summaries, plus integrations for CRM, calendar and workflow automation. The platform requires paid plans starting at $59-79 per user monthly and has no free tier beyond trials.
+* Avoma provides highly accurate transcription at 95% even with accents and jargon, integrates with common tools like Zoom and Slack, and includes administrative task automation. The platform offers comprehensive meeting management features and responsive support, though some find it too complex for basic transcription needs and note occasional technical delays.
 
 ### Otter.ai
-* Otter.ai offers an intuitive interface with live transcript editing and includes a free plan with generous limits, plus Zoom and calendar integrations for automatic recording. The service struggles with accented speech, only supports English, and sometimes requires manual fixes for speaker identification.  
+* Otter.ai focuses on simple transcription and note-taking with real-time capabilities and AI-generated meeting summaries, plus includes features for highlighting and commenting during meetings. The service can produce overly detailed transcripts that lack structure, struggles with complex audio quality, and requires careful configuration to avoid unwanted meeting joins.  
 ## Comparison table    
-Avoma makes sense for sales teams and companies who need their meeting notes to flow into HubSpot and other business tools. The automation features and business integrations help teams stay organized, though the learning curve and lack of a free plan might turn away smaller organizations or individuals.
+Avoma makes sense for global companies and sales teams who need to record meetings in multiple languages and want basic workflow automation, though its integration ecosystem isn't as mature as you'd expect for a business tool. The lack of a desktop app and limited free tier suggest it's built more for occasional use than as a core part of daily operations.
 
-Otter works well for students, freelancers, and small teams who just need simple meeting transcripts and basic sharing features. The free plan and ease of use make it accessible to anyone, but the limited integrations and automation capabilities mean users still need to do most of the work manually.  
-| Feature                           | Avoma               | Otter.ai           |
-|-----------------------------------|---------------------|--------------------|
-| Trial/Free Plan                   | ❌ Trial only       | ✅ Free plan       |
-| Zoom & Calendar Integration       | ✅ Yes              | ✅ Yes             |
-| Easy to Use?                      | ❌ Learning curve   | ✅ Yes             |
-| Good for In-Person Meetings?      | ❌ No               | ❌ No              |
-| Good for Local Recording?         | ❌ No               | ❌ No              |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes           | ❌ Limited         |
-| Automation Engine?                | ✅ Yes              | ❌ No              |
-| Language Support                  | ❌ English only     | ❌ English only    |
-| Desktop App                       | ❌ No (Web-based)   | ❌ No (Web-based)  |
-| iPhone & Android Apps             | ✅ Yes (Both)       | ✅ Yes (Both)      |  
+Otter works well for individuals and small teams who mostly speak English and want a simple way to record and transcribe meetings, with its generous free plan being a key draw. While it offers some automation and integration capabilities, it doesn't go deep enough to truly streamline post-meeting workflows or meaningfully connect with other business tools.  
+| Feature                           | Avoma                                      | Otter.ai                                   |
+|-----------------------------------|--------------------------------------------|--------------------------------------------|
+| Good for in-person                | ✅ Yes                                     | ✅ Yes                                     |
+| Local recording                   | ✅ Yes                                     | ✅ Yes                                     |
+| Integrations (HubSpot, Notion, etc.) | ✅ Yes                                   | ✅ Yes                                     |
+| Automation engine                 | ✅ Yes                                     | ✅ Yes                                     |
+| Language support                  | ✅ 20+ languages                          | ❌ Limited (English, Spanish, French)      |
+| Desktop app                       | ❌ No                                      | ❌ No                                      |
+| Mobile apps                       | ✅ iOS and Android                         | ✅ Native iOS and Android apps            |
+| Trial or free plan                | ✅ 14-day free trial; limited free plan    | ✅ Generous free plan (limited minutes)    |
+| Security & privacy                | ✅ SOC 2 Type II certified; encryption     | ✅ SOC 2 Type II certified; 256-bit AES   |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
