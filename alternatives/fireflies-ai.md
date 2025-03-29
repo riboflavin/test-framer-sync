@@ -28,17 +28,17 @@ Fireflies.ai excels at quick setup and reliable transcription across languages, 
 
 The service struggles with nuanced summaries and can falter when handling heavy accents or technical terminology. Interface clutter and aggressive notifications frustrate some users, while the free tier's limitations force upgrades for essential features like video recording.  
 ## Fireflies.ai features    
-| Feature | Fireflies.ai |
-|----------|-------------|
-| In-person Meetings | ✅ Mobile app records meetings & voice notes |
-| Local Recording | ✅ In-app recording & file upload |
-| Integrations | ✅ HubSpot, Salesforce, Slack, Zapier, etc. |
-| Automation Engine | ⚡ Basic CRM logging & task creation |
-| Language Support | ✅ 100+ languages |
-| Desktop App | ❌ Web app & Chrome extension only |
-| Mobile Apps | ✅ iOS and Android |
-| Free Tier | ✅ Limited meeting credits |
-| Security | ✅ SOC 2 Type II, GDPR compliant |  
+Feature                     | Fireflies.ai
+-----------------------------|-------------
+Good for in-person          | ✅
+Local recording             | ✅
+Integrations               | ✅
+Automation engine          | ❌
+Language support           | ✅
+Desktop app                | ❌
+Mobile apps                | ✅
+Free tier available        | ✅
+Security compliance        | ✅  
 ## Closest Fireflies.ai competitors    
 ### Three Notable Meeting AI Tools to Consider
 
@@ -58,12 +58,12 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 ### Comparison table  
 | Feature | Fireflies.ai | Circleback |
 |----------|------------|------------|
-| In-person Recording | ✓ | ✓ |
-| Direct Recording | ✓ | ✓ |
-| Integrations | ✓ | ✓ |
-| Workflow Automation | ⚠️ | ✓ |
-| Multi-language Support | ✓ | ✓ |
-| Desktop App | ✗ | ✓ |
-| Mobile App | ✓ | ⚠️ |
-| Free Tier | ✓ | ✗ |
-| Security Compliance | ✓ | ✓ |
+| Good for in-person | ✅ | ✅ |
+| Local recording | ✅ | ✅ |
+| Integrations | ✅ | ✅ |
+| Automation engine | ❌ | ✅ |
+| Language support | ✅ | ✅ |
+| Desktop app | ❌ | ✅ |
+| Mobile apps | ✅ | ✅ |
+| Trial or free plan | ✅ | ✅ |
+| Security & privacy | ✅ | ✅ |
