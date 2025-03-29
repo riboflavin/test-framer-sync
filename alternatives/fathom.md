@@ -28,16 +28,15 @@ Fathom offers a generous free plan with accurate transcriptions and instant AI s
 
 The main drawbacks include limited advanced features in free plans and the inability to process external audio files. Some users find the on-screen elements distracting during calls, and the lack of a mobile app restricts usage to desktop only.  
 ## Fathom features    
-| Feature | Fathom |
-|---------|---------|
-| In-person meetings | ❌ |
-| Local recording | ⚠️ |
-| Integrations | ✅ |
-| Automation engine | ✅ |
-| Language support | ✅ |
-| Desktop app | ✅ |
-| Mobile apps | ❌ |
-| Security compliance | ✅ |  
+Feature                  | Status
+-----------------------------------|--------
+Good for in-person                 | ❌
+Local recording                    | ❌
+Integrations (HubSpot, Notion)     | ✅
+Automation engine                  | ✅
+Language support                   | ✅
+Desktop app                        | ✅
+Mobile apps                        | ❌  
 ## Closest Fathom competitors    
 ### Three Notable Meeting AI Tools
 
@@ -57,12 +56,12 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 ### Comparison table  
 | Feature | Fathom | Circleback |
 |----------|---------|------------|
-| In-person meetings | ❌ | ✅ |
-| Local recording | ⚠️ | ✅ |
+| Good for in-person | ❌ | ✅ |
+| Local recording | ❌ | ✅ |
 | Integrations | ✅ | ✅ |
 | Automation engine | ✅ | ✅ |
-| Language support | ✅ (25+) | ✅ (100+) |
+| Language support | ✅ | ✅ |
 | Desktop app | ✅ | ✅ |
-| Mobile apps | ❌ | ✅ (iOS) |
-| Trial/free plan | ✅ | ✅ |
+| Mobile apps | ❌ | ✅ |
+| Trial or free plan | ✅ | ✅ |
 | Security & privacy | ✅ | ✅ |
