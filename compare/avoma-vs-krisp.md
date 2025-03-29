@@ -30,20 +30,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 ### Krisp
 * Krisp focuses on noise cancellation during calls and includes AI note-taking with action item extraction. The free plan limits noise cancellation to 60 minutes daily, some users report audio distortion with loud background noise, and the application can be CPU-intensive. Customer support response times vary, and pricing can be high for users who only need single features.  
 ## Comparison table    
-Small teams and freelancers who need basic meeting recording might prefer Krisp's desktop app for its simplicity and local recording features. The lack of mobile apps isn't a big issue for users who mainly work from their computers, and the free plan covers essential needs.
+Avoma makes sense for sales teams and customer success managers who need to record lots of calls and get basic automation working, though they'll likely need other tools to make their workflow complete. The mobile apps help field sales teams stay productive, while the automation can save some manual work after calls end.
 
-Larger organizations that need mobile access and some automation would find Avoma more suitable for their workflows. The mobile apps and automation features help teams stay coordinated, though like Krisp, the limited integration depth means users still need to do much of the work manually.  
-| Feature                                | Avoma | Krisp |
-|----------------------------------------|-------|-------|
-| Good for in-person                     | ✅    | ✅    |
-| Local recording                        | ✅    | ✅    |
-| Integrations (HubSpot, Notion, etc.)   | ✅    | ✅    |
-| Automation engine                      | ✅    | ❌    |
-| Language support                       | ✅    | ✅    |
-| Desktop app                            | ❌    | ✅    |
-| Mobile apps                            | ✅    | ❌    |
-| Trial or free plan                     | ✅    | ✅    |
-| Security & privacy                     | ✅    | ✅    |  
+Krisp works better for individual professionals and small teams who just need clean audio and basic recording features for their daily meetings, especially since it runs right on the desktop. The lack of mobile apps and automation means it's not ideal for larger teams or complex use cases, but it handles the basics well enough for most people.  
+| Category                   | Avoma                | Krisp                |
+|----------------------------|----------------------|----------------------|
+| Good for in-person         | ✅                   | ✅                   |
+| Local recording            | ✅                   | ✅                   |
+| Integrations               | ✅                   | ✅                   |
+| Automation engine          | ✅                   | ❌                   |
+| Language support           | ✅                   | ✅                   |
+| Desktop app                | ❌                   | ✅                   |
+| Mobile apps                | ✅                   | ❌                   |
+| Trial or free plan         | ✅                   | ✅                   |
+| Security & privacy         | ✅                   | ✅                   |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
