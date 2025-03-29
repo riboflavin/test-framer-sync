@@ -24,33 +24,28 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Fathom quick pros and cons    
-Fathom excels with precise transcription across multiple speakers and languages, while offering unlimited core features at no cost. The platform generates quick, reliable summaries that effectively capture essential meeting points and decisions.
+Fathom offers a generous free plan with accurate transcriptions and instant AI summaries, making it a standout choice for meeting documentation. The clean interface and responsive customer service have earned praise, while users particularly value being able to stay present in meetings knowing everything is being captured.
 
-The service has been predominantly Zoom-focused until recently, with other platform integrations still in beta, and shows some limitations in real-time collaboration. Duplicate notes can occur with multiple simultaneous users, and advanced features require paid subscriptions.  
+The main drawbacks include limited advanced features in free plans and the inability to process external audio files. Some users find the on-screen elements distracting during calls, and the lack of a mobile app restricts usage to desktop only.  
 ## Fathom features    
 | Feature | Fathom |
-|----------|---------|
-| Trial/Free Plan | ✅ Free unlimited plan |
-| Zoom & Calendar Integration | ✅ Yes |
-| Easy to Use? | ✅ Yes |
-| Good for In-Person Meetings? | ❌ No |
-| Good for Local Recording? | ❌ No |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes |
-| Automation Engine? | ❌ No |
-| Language Support | ✅ Multiple languages |
-| Desktop App | ❌ No (Web-based) |
-| iPhone & Android Apps | ✅ Yes (Both) |  
+|---------|---------|
+| In-person meetings | ❌ |
+| Local recording | ⚠️ |
+| Integrations | ✅ |
+| Automation engine | ✅ |
+| Language support | ✅ |
+| Desktop app | ✅ |
+| Mobile apps | ❌ |
+| Security compliance | ✅ |  
 ## Closest Fathom competitors    
-### Meeting Assistant Options
+### Three Notable Meeting AI Tools
 
-**Fireflies.ai**
-Bot joins any platform and handles notes automatically. $10/mo gets you good transcripts and summaries, though accuracy drops with accents.
+**Otter.ai** - A straightforward transcription tool that works in real-time during meetings. Free tier offers 600 minutes per month, and paid plans start at $10/month.
 
-**Granola**
-Mac-only app that runs locally and merges your typing with AI transcripts. Simple $10 flat fee, but no Windows version yet.
+**Granola** - A Mac app that runs locally and listens to meetings without joining as a participant. Creates enhanced notes from audio plus any quick notes you jot down during the call. $18/month.
 
-**Krisp**
-Background app that removes noise and takes notes on any call. Free tier is usable, paid is $8/mo, but summaries are basic.  
+**Krisp** - Originally a noise cancellation tool that now includes meeting transcription. Unique because it filters out background noise while capturing meeting content. Free tier includes 60 min/day, paid starts at $8/month.  
 ## Fathom vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -62,12 +57,12 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 ### Comparison table  
 | Feature | Fathom | Circleback |
 |----------|---------|------------|
-| Free Plan | ✅ | ❌ |
-| Easy to Use | ✅ | ✅ |
-| In-Person Meetings | ✅ | ✅ |
-| Local Recording | ❌ | ✅ |
-| Integrations | ❌ | ✅ |
-| Automation Engine | ✅ | ✅ |
-| Language Support | Multiple | 100+ |
-| Desktop App | ❌ | ✅ |
-| Mobile Apps | ✅ | ✅ |
+| In-person meetings | ❌ | ✅ |
+| Local recording | ⚠️ | ✅ |
+| Integrations | ✅ | ✅ |
+| Automation engine | ✅ | ✅ |
+| Language support | ✅ (25+) | ✅ (100+) |
+| Desktop app | ✅ | ✅ |
+| Mobile apps | ❌ | ✅ (iOS) |
+| Trial/free plan | ✅ | ✅ |
+| Security & privacy | ✅ | ✅ |
