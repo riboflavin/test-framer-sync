@@ -28,15 +28,15 @@ Read.ai excels with its comprehensive feature set, offering smart meeting summar
 
 The service has notable drawbacks including a restrictive free tier, a somewhat complex interface that can overwhelm new users, and privacy concerns around recording meetings. Technical inconsistencies with live metrics and premium pricing further limit its appeal for smaller organizations.  
 ## Read.ai features    
-| Feature | Read.ai |
-|----------|---------|
-| In-person Meetings | ✅ |
-| Local Recording | ✅ |
-| Integrations | ✅ |
-| Automation Engine | ⚡ |
-| Language Support | ✅ |
-| Desktop App | ❌ |
-| Mobile Apps | 📱 iOS only |  
+Feature                                | Read.ai
+---------------------------------------|--------
+Good for in-person                     | ✅
+Local recording                        | ✅
+Integrations (HubSpot, Notion, etc.)   | ✅
+Automation engine                      | ❌
+Language support                       | ✅
+Desktop app                           | ❌
+Mobile apps                           | ✅  
 ## Closest Read.ai competitors    
 ### Three Notable Meeting AI Tools to Consider
 
@@ -55,13 +55,13 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
 ### Comparison table  
 | Feature | Read.ai | Circleback |
-|---------|---------|------------|
-| In-person Meeting Capture | ✓ | ✓ |
-| Direct Recording (No Bots) | ✓ | ✓ |
-| CRM/Tool Integrations | ✓ | ✓ |
-| Workflow Automation | ❌ | ✓ |
-| Language Support | 20+ | 100+ |
-| Desktop App | ❌ | ✓ |
-| Mobile Apps | iOS only | iOS only |
-| Free Tier | ✓ | Trial only |
-| Security Compliance | SOC 2, GDPR | SOC 2, HIPAA |
+|----------|---------|------------|
+| Good for in-person | ✅ | ✅ |
+| Local recording | ✅ | ✅ |
+| Integrations | ✅ | ✅ |
+| Automation engine | ❌ | ✅ |
+| Language support | ✅ | ✅ |
+| Desktop app | ❌ | ✅ |
+| Mobile apps | ✅ | ✅ |
+| Trial or free plan | ✅ | ✅ |
+| Security & privacy | ✅ | ✅ |
