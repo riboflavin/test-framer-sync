@@ -32,20 +32,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Granola provides background note-taking with customizable templates and a simple interface similar to Apple Notes. The tool operates discreetly during meetings and produces organized summaries that can be formatted according to user preferences.
 * The platform is currently Mac-only with no mobile app, and notes are only accessible via desktop app or web interface. The system requires device audio capture to function, which can limit compatibility with certain meeting room setups.  
 ## Comparison table    
-Bluedot works best for sales teams and consultants who need to record in-person meetings and want basic automation features for their workflows. The tool offers standard integrations with CRM systems, though users might find themselves wanting more robust automation capabilities for complex sales processes.
+Bluedot seems aimed at larger companies who need to handle both remote and in-person meetings, with some basic integrations and automation features that could help teams stay organized. The tool offers more features than Granola but still lacks the deep workflow integrations that would make it truly transformative for getting work done.
 
-Granola is a simpler choice for remote workers and distributed teams who just need reliable meeting recordings and transcripts. While it handles the basics well and includes some popular app connections, teams looking to build serious workflows around their meetings will need additional tools to get real work done.  
-| Feature                                | Bluedot | Granola |
-|----------------------------------------|---------|---------|
-| Good for in-person                     | ✅      | ❌      |
-| Local recording                        | ✅      | ✅      |
-| Integrations (HubSpot, Notion, etc.)   | ✅      | Partial |
-| Automation engine                      | ✅      | ❌      |
-| Language support                       | ✅      | ✅      |
-| Desktop app                            | ✅      | ✅      |
-| Mobile apps                            | ❌      | ❌      |
-| Trial or free plan                     | ✅      | ✅      |
-| Security & privacy                     | ✅      | ✅      |  
+Granola appears designed for individual users or small teams who primarily need simple, secure meeting recording and transcription capabilities for remote sessions. While it handles the basics well, it shares the same limitations as Bluedot in terms of helping users actually accomplish their meeting goals and drive outcomes.  
+| Category                | Bluedot | Granola |
+|-------------------------|---------|---------|
+| Good for in-person      | ✅      | ❌      |
+| Local recording         | ✅      | ✅      |
+| Integrations            | ✅      | ❌      |
+| Automation engine       | ✅      | ❌      |
+| Language support        | ✅      | ✅      |
+| Desktop app             | ✅      | ✅      |
+| Mobile apps             | ❌      | ❌      |
+| Trial or free plan      | ✅      | ✅      |
+| Security & privacy      | ✅      | ✅      |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
