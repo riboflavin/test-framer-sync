@@ -32,20 +32,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Read.ai provides transcription plus meeting analytics like engagement scores and speaker balance, supports 16+ languages with translation, and integrates with tools like Slack and Notion. The platform works especially well with Zoom and includes features for tracking questions and discussion topics.
 * The free version limits users to 5 meetings monthly, and the interface can be complex to navigate with many features. Some users have privacy concerns about joining others' meetings, and the live coaching metrics can be unreliable when participants join late.  
 ## Comparison table    
-Teams that need to record and process remote meetings would find Bluedot useful, since it has a desktop app and automation features that help with follow-up tasks. The lack of in-person meeting support and mobile apps means it works best for distributed teams who mostly use their computers, though its limited integration options mean some manual work is still needed.
+Bluedot makes sense for companies that need desktop software and want to automate their meeting workflows, though its integration options are basic at best. The lack of mobile apps means it's best for teams who mostly work from their computers and don't need to access meeting content on the go.
 
-Read.ai makes more sense for hybrid teams who switch between remote and in-person meetings, with mobile apps that make it easier to capture meetings anywhere. While it handles the basics of recording and transcription well, the missing automation capabilities and shallow integrations mean teams still need other tools to properly manage their meeting workflows.  
-| Feature                                | Bluedot | Read.ai |
-|----------------------------------------|---------|---------|
-| Good for in-person meetings            | ✘       | ✔       |
-| Local recording                        | ✔       | ✔       |
-| Integrations (HubSpot, Notion, etc.)   | ✔       | ✔       |
-| Automation engine                      | ✔       | ✘       |
-| Language support                       | ✔       | ✔       |
-| Desktop app                            | ✔       | ✘       |
-| Mobile apps                            | ✘       | ✔       |
-| Trial or free plan                     | ✔       | ✔       |
-| Security & privacy                     | ✔       | ✔       |  
+Read.ai fits better with mobile-first teams who need to stay connected through their phones and don't require complex automation features, though its web-only interface and limited integration depth can be restrictive. The platform works well for smaller teams and freelancers who need simple meeting capture and don't require extensive workflow automation.  
+| Category               | Bluedot                | Read.ai                |
+|------------------------|------------------------|------------------------|
+| Good for in-person     | ✅                     | ✅                     |
+| Local recording        | ✅                     | ✅                     |
+| Integrations           | ✅                     | ✅                     |
+| Automation engine      | ✅                     | ❌                     |
+| Language support       | ✅                     | ✅                     |
+| Desktop app            | ✅                     | ❌                     |
+| Mobile apps            | ❌                     | ✅                     |
+| Trial or free plan     | ✅                     | ✅                     |
+| Security & privacy     | ✅                     | ✅                     |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
