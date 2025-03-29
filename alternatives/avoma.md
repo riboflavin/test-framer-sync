@@ -24,33 +24,27 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Avoma quick pros and cons    
-Avoma excels at producing highly accurate transcriptions with clear speaker labeling, while its AI summaries and highlights make post-meeting review efficient. The platform's deep workflow integrations with CRM systems and calendars help streamline the entire meeting lifecycle.
+Avoma excels at accurate transcription and integrates seamlessly with major business tools, making it a powerful ally for teams who need detailed meeting documentation. The platform's free tier and responsive support team make it accessible, while its automation features eliminate mundane note-taking tasks.
 
-The service comes with notable drawbacks including relatively high costs with no permanent free tier, and a steep learning curve for new users. Technical issues occasionally surface, such as delayed meeting bot joins and missed speaker identification.  
+The platform can feel overwhelming for users seeking basic transcription services, and its premium pricing may deter smaller organizations. Technical hiccups like delayed meeting joins and occasional speaker mix-ups exist, while the detailed transcripts can sometimes be challenging to quickly scan.  
 ## Avoma features    
 | Feature | Avoma |
 |----------|--------|
-| Trial/Free Plan | ❌ Trial only |
-| Zoom & Calendar Integration | ✅ Yes |
-| Easy to Use? | ❌ Learning curve |
-| Good for In-Person Meetings? | ❌ No |
-| Good for Local Recording? | ❌ No |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes |
-| Automation Engine? | ✅ Yes |
-| Language Support | ❌ English only |
-| Desktop App | ❌ No (Web-based) |
-| iPhone & Android Apps | ✅ Yes (Both) |  
+| In-person Recording | ✅ |
+| Local Recording | ✅ |
+| Integrations | ✅ |
+| Automation Engine | ✅ |
+| Language Support | ✅ |
+| Desktop App | ❌ |
+| Mobile Apps | ✅ |  
 ## Closest Avoma competitors    
-### Meeting Tool Options
+### Three Notable Meeting Tools to Consider
 
-**Fathom**
-Free unlimited recording and transcription with good accuracy. Works mainly with Zoom but expanding to other platforms. Simple tool that does one thing well.
+**Fathom** - A Zoom-first meeting assistant with a generous free tier that includes unlimited recordings. Produces instant, accurate summaries in multiple formats and lets you query past meetings. Main drawback is lack of mobile app.
 
-**Fireflies**
-Bot joins any platform (Zoom/Teams/Meet) to record and summarize. $10/month/user with broad feature set but some accuracy tradeoffs with accents.
+**Granola** - A Mac-only tool that runs locally and captures system audio, no bot needed. Works like a simple notepad during meetings but produces enhanced AI summaries after. Limited by Mac-only support and no mobile access.
 
-**Krisp**
-Background tool that works everywhere, removes noise, and adds transcription. $8/month with good free tier. More focused on audio quality than deep meeting analysis.  
+**Krisp** - Unique combo of noise cancellation and meeting notes. Removes background noise in real-time while also generating transcripts and summaries. CPU usage can be high and audio sometimes gets distorted.  
 ## Avoma vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -61,14 +55,13 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
 ### Comparison table  
 | Feature | Avoma | Circleback |
-|----------|--------|------------|
-| Free Plan | ❌ Trial only | ❌ Trial only |
-| Meeting Recording | ✅ | ✅ |
-| User Experience | ❌ Learning curve | ✅ |
-| Team Collaboration | ❌ | ✅ |
-| Custom Workflows | ❌ | ✅ |
-| Analytics | ✅ | ✅ |
-| Integration | ✅ | ✅ |
-| Language Support | ❌ English only | ✅ 100+ languages |
-| Desktop App | ❌ Web-based | ✅ Mac & Windows |
-| Mobile Support | ✅ Both | ✅ Both |
+|---------|--------|------------|
+| Offline Meeting Recording | ✓ | ✓ |
+| Online Meeting Recording | ✓ | ✓ |
+| CRM/Calendar Integration | ✓ | ✓ |
+| Workflow Automation | ✓ | ✓ |
+| Language Support | 20+ | 100+ |
+| Desktop App | ✗ | ✓ |
+| Mobile App | iOS & Android | iOS only |
+| Free Trial | 14 days | 7 days |
+| Security Compliance | SOC 2 Type II | SOC 2 Type II, HIPAA |
