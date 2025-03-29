@@ -30,13 +30,13 @@ In addition to the quality of these deliverables, we'll want to look at a number
 ### Otter.ai
 * Otter.ai provides real-time transcription with commenting features and generates AI summaries of meetings, offering a free tier and time-saving note creation. The tool produces verbose transcripts that can be hard to parse, has accuracy issues with complex audio, and requires careful configuration to avoid unwanted calendar behavior and meeting joins.  
 ## Comparison table    
-Small teams and startups who need basic meeting tools might prefer Otter.ai for its simplicity and mobile-first approach, though they'll find its integration options somewhat limiting. The lack of a desktop app and language support could be dealbreakers for some, but its free tier makes it an easy starting point.
+Small teams and freelancers who need basic meeting tools will find Otter useful for quick transcriptions and simple note-taking. While it offers some integrations, the cloud-only approach and limited language support make it most suitable for English-speaking users who don't mind working entirely online.
 
-Larger organizations and international teams would likely gravitate toward Circleback for its broader feature set and language support, plus having both desktop and mobile apps. While it offers more integrations than Otter.ai, users might still find themselves manually handling many post-meeting tasks that could ideally be automated.  
+Larger organizations and companies with security requirements will likely prefer Circleback's more comprehensive feature set and desktop application. Though both platforms could improve their integration depth, Circleback's local recording and broader language support make it more practical for international teams and those handling sensitive information.  
 | Feature                           | Circleback | Otter.ai |
 |-----------------------------------|------------|----------|
 | Good for in-person                | ✔️         | ✔️       |
-| Local recording                   | ✔️         | ✔️       |
+| Local recording                   | ✔️         | ❌       |
 | Integrations (HubSpot, Notion, etc.) | ✔️      | ✔️       |
 | Automation engine                 | ✔️         | ✔️       |
 | Language support                  | ✔️         | ❌       |
