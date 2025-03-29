@@ -30,20 +30,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 ### Fireflies.ai
 * Fireflies.ai provides transcription across multiple languages, generates summaries with action items, and integrates with project management tools and CRM systems. The system sometimes produces overly general summaries, struggles with accents and technical terms, and gates advanced features like video recording behind paid tiers.  
 ## Comparison table    
-Fathom makes sense for remote-first teams and companies who need desktop software and want to automate what happens after meetings, though its lack of mobile apps and in-person capabilities limit its use. The tool works well for distributed teams who primarily use Zoom and need basic integrations with tools like HubSpot and Notion.
+Fathom works best for remote teams who need to automate their meeting workflows and don't care about mobile apps or in-person meetings. The desktop app and automation features are useful for companies who want to streamline their meeting processes, though the lack of deep integrations means you'll still need to do a lot manually.
 
-Fireflies.ai fits better for hybrid teams who need to record both in-person and remote meetings, and who want mobile access to their recordings and notes. While it offers more language support and integrations with major platforms like Salesforce, its web-only interface and partial automation capabilities may not satisfy teams looking for deeper workflow automation.  
-| Feature                 | Fathom                      | Fireflies.ai                |
-|-------------------------|-----------------------------|-----------------------------|
-| Good for in-person      | ❌                          | ✅                          |
-| Local recording         | ❌                          | ✅ (Mobile app)             |
-| Integrations            | ✅ (HubSpot, Notion, etc.)  | ✅ (HubSpot, Salesforce, Slack, etc.) |
-| Automation engine       | ✅                          | Partial                     |
-| Language support        | ✅ (25+ languages)          | ✅ (100+ languages)         |
-| Desktop app             | ✅ (Mac/Windows)            | ❌ (Web app/Chrome extension) |
-| Mobile apps             | ❌                          | ✅ (iOS and Android)        |
-| Trial or free plan      | ✅ (Free personal plan)     | ✅ (Free tier)              |
-| Security & privacy      | ✅ (SOC 2 Type II & HIPAA compliant) | ✅ (SOC 2 Type II certified, GDPR compliant) |  
+Fireflies is a better fit for companies who have both in-person and remote meetings, and teams who need mobile access to their meeting content. While it handles basic meeting tasks well and works across many platforms, its limited automation capabilities and shallow integrations mean users still need other tools to actually act on what happens in meetings.  
+| Category                | Fathom                | Fireflies.ai          |
+|-------------------------|-----------------------|-----------------------|
+| Good for in-person      | ❌                    | ✅                    |
+| Local recording         | ❌                    | ✅                    |
+| Integrations            | ✅                    | ✅                    |
+| Automation engine       | ✅                    | ❌                    |
+| Language support        | ✅                    | ✅                    |
+| Desktop app             | ✅                    | ❌                    |
+| Mobile apps             | ❌                    | ✅                    |
+| Trial or free plan      | ✅                    | ✅                    |
+| Security & privacy      | ✅                    | ✅                    |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
