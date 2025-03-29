@@ -25,28 +25,27 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Evaluating Fireflies.ai and Granola  
 ### Fireflies.ai
-* Fireflies.ai integrates with major meeting platforms through a bot, provides automated summaries with action items, and includes features like keyword tracking, sentiment analysis, and task assignments. The system requires minimal setup and sends post-meeting emails with transcripts and key points.
-* The service has usage limits on free plans, achieves 90% transcription accuracy with some accent/jargon issues, includes a feature-heavy interface that takes time to learn, and sends frequent email notifications that can be excessive for users with many meetings.
+* Fireflies.ai captures meeting content with good transcription quality in multiple languages and delivers summaries with action items quickly after calls, integrates with project management tools, and offers a mobile app with a free tier. The platform works across many devices and meeting platforms, making it useful for distributed teams.
+* The tool sometimes produces overly general summaries that miss nuanced details, struggles with heavy accents and technical terms, and gates key features like video recording behind paid tiers. Users report interface clutter and excessive notifications as minor issues.
 
 ### Granola
-* Granola functions as a simple notepad that records meetings through device audio without requiring a bot, supports custom note templates, and provides transcription to supplement manual notes. The app operates independently of meeting platforms and focuses on individual note-taking.
-* The application currently only works on MacOS, has limited integration options with other tools, lacks multi-user collaboration features, and maintains basic functionality for transcript editing and other features as a new product.  
+* Granola automatically captures meeting notes in the background and produces organized summaries that can be customized via templates, featuring a minimal interface and unobtrusive recording process. The tool focuses on letting users stay present in conversations while handling note creation afterward.
+* The platform currently only works on Mac devices, lacks a mobile app, and requires system audio capture to function properly. Some users note occasional bugs and missing features typical of newer software.  
 ## Comparison table    
-Fireflies.ai seems built for remote-first companies who live in Zoom and need basic integrations with their existing tools, though its lack of in-person meeting support and desktop app limit its usefulness for hybrid teams. The tool's automation and multi-language support make it suitable for distributed teams, even if its integrations aren't as deep as power users might need.
+Fireflies.ai seems built for sales teams and customer success folks who spend their days jumping between in-person and remote meetings, and need their conversations synced to CRM tools. The mobile app and broad integration support helps these users stay productive on the go, though the integrations themselves could be deeper and more actionable.
 
-Granola appears designed for individuals and small teams who prefer local recording and face-to-face meetings, with its Mac-only desktop app suggesting a focus on creative professionals and startups. While it handles in-person meetings well, its limited integration options and lack of mobile apps make it less suitable for teams needing to connect their meeting insights to other workflow tools.  
-| Feature                           | Fireflies.ai          | Granola               |
-|-----------------------------------|-----------------------|-----------------------|
-| Trial/Free Plan                   | ✅ Free plan (limited) | ✅ Free plan (limited) |
-| Zoom & Calendar Integration       | ✅ Yes                | ❌ No                 |
-| Easy to Use?                      | ✅ Yes                | ✅ Yes                |
-| Good for In-Person Meetings?      | ❌ No                 | ✅ Yes                |
-| Good for Local Recording?         | ❌ No                 | ✅ Yes                |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes                | ❌ No                 |
-| Automation Engine?                | ✅ Yes                | ❌ No                 |
-| Language Support                  | ✅ Multiple languages | ❌ English only       |
-| Desktop App                       | ❌ No (Web-based)     | ✅ Yes (Mac-only)     |
-| iPhone & Android Apps             | ✅ Yes (Both)         | ❌ No                 |  
+Granola appears designed for individual professionals and small teams who prefer a simple desktop tool for their remote meetings, and don't need complex integrations or mobile access. The local-first approach and straightforward feature set works well for basic meeting capture, though users might wish for more help turning their recordings into actual next steps and outcomes.  
+| Feature                           | Fireflies.ai | Granola      |
+|-----------------------------------|--------------|--------------|
+| Good for in-person                | ✅           | ❌           |
+| Local recording                   | ✅           | ✅           |
+| Integrations (HubSpot, Notion, etc.) | ✅        | Partial      |
+| Automation engine                 | Partial      | ❌           |
+| Language support                  | ✅           | ✅           |
+| Desktop app                       | ❌           | ✅           |
+| Mobile apps                       | ✅           | ❌           |
+| Trial or free plan                | ✅           | ✅           |
+| Security & privacy                | ✅           | ✅           |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
