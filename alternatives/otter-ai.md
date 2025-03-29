@@ -24,33 +24,27 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Otter.ai quick pros and cons    
-Otter.ai excels at making transcription accessible through its intuitive interface and generous free tier. The platform's seamless integration with Zoom and calendar apps makes recording and transcribing meetings nearly frictionless.
+Otter.ai excels at real-time transcription and meeting capture, with an intuitive interface that makes note-taking nearly effortless. The generous free tier and ability to highlight or comment during meetings makes it a powerful tool for teams looking to document conversations efficiently.
 
-The service struggles with accuracy when handling accented speech or rapid conversations, and its English-only limitation is restrictive. Speaker identification isn't always reliable, which means users often need to manually correct speaker labels in transcripts.  
+The service struggles with complex audio and can produce verbose, poorly structured transcripts that make finding key points difficult. Calendar integration can be overly aggressive, and the free tier's limitations like 40-minute meeting caps can be frustrating for regular users.  
 ## Otter.ai features    
-| Feature | Status |
-|----------|---------|
-| Free Plan | ✅ |
-| Zoom & Calendar Integration | ✅ |
-| Easy to Use | ✅ |
-| Good for In-Person Meetings | ❌ |
-| Good for Local Recording | ❌ |
-| Integrates with HubSpot, Notion, etc. | ⚠️ Limited |
-| Automation Engine | ❌ |
-| Language Support | ❌ English only |
-| Desktop App | ❌ Web-based |
-| iPhone & Android Apps | ✅ Both |  
+| Feature | Otter.ai |
+|----------|-----------|
+| In-person Recording | ✅ |
+| Local Recording | ✅ |
+| Integrations | ✅ |
+| Automation Engine | ✅ |
+| Language Support | ⚠️ |
+| Desktop App | ❌ |
+| Mobile Apps | ✅ |  
 ## Closest Otter.ai competitors    
-### Meeting Assistant Options
+### Three Notable Meeting AI Tools to Consider
 
-**Fathom**
-Free unlimited recording with good accuracy. Works well for non-English meetings. Initially Zoom-only but expanding to other platforms.
+**Fathom** - Free tier offers unlimited recordings with 5 AI summaries per month. Produces instant, accurate transcripts and multiple summary formats, though currently limited to live meetings only.
 
-**Fireflies**
-Bot works across all major meeting platforms. $10/month/user with good summaries and task assignments, though accuracy drops with accents.
+**Granola** - Desktop app that runs locally and enhances brief notes with AI summaries after meetings end. Works with all meeting platforms without needing a bot, but currently Mac-only.
 
-**Granola**
-Simple Mac-only app that runs locally without a meeting bot. $10/month flat fee, but lacks team features and integrations.  
+**Circleback** - Focused purely on meeting notes without video recording. Produces detailed summaries and action items within minutes, with strong calendar and CRM integrations.  
 ## Otter.ai vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -62,12 +56,12 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 ### Comparison table  
 | Feature | Otter.ai | Circleback |
 |----------|-----------|------------|
-| Free Plan | ✅ | ❌ (Trial) |
-| Easy to Use | ✅ | ✅ |
-| Good for In-Person Meetings | ✅ | ✅ |
-| Good for Local Recording | ❌ | ✅ |
-| Integrates w/HubSpot, Notion | ❌ | ✅ |
-| Automation Engine | ❌ | ✅ |
-| Language Support | English only | 100+ languages |
-| Desktop App | ❌ | ✅ |
-| Mobile Apps | ✅ | ✅ |
+| In-person Recording | ✓ | ✓ |
+| Local Recording | ✓ | ✓ |
+| Integrations | ✓ | ✓ |
+| Automation Engine | ✓ | ✓ |
+| Language Support | 🔸 3 languages | ✓ 100+ |
+| Desktop App | ✗ | ✓ |
+| Mobile Apps | ✓ iOS & Android | ✓ iOS only |
+| Free Plan | ✓ Free tier | ✓ 7-day trial |
+| Security & Privacy | ✓ | ✓ |
