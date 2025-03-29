@@ -25,28 +25,25 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Evaluating Fireflies.ai and Krisp  
 ### Fireflies.ai
-* Fireflies.ai integrates with major meeting platforms, provides detailed summaries with action items, and includes features like keyword tracking, sentiment analysis, and task assignments. Setup requires only inviting a bot to meetings, and transcription accuracy is around 90%, though it can struggle with accents and specialized terms.
-* The free plan has restrictive limits on minutes and storage, pushing users toward paid tiers, and the interface can be complex to navigate due to feature density. Users receive automatic email notifications for every meeting, which can become overwhelming for those with many meetings.
+* Fireflies.ai transcribes meetings, generates summaries and action items, and integrates with project management tools and CRMs across multiple platforms with a mobile app and free tier. The service struggles with accent recognition, technical terms, and speaker identification, while the free plan restricts key features like video recording.
 
 ### Krisp
-* Krisp provides noise cancellation for both input and output audio across any meeting platform or phone call, with unlimited transcription on all plans and custom vocabulary options for industry terms. The free tier includes basic noise reduction and a limited number of daily summaries.
-* Usage is capped at 60 minutes per day of noise removal and 2 summaries daily on the free plan, and summaries are brief compared to competitors. The tool lacks collaborative features for teams and can be resource-intensive during extended meetings.  
+* Krisp removes background noise during calls and provides AI note-taking with summaries and action items, with simple toggle controls. The service can distort voices when canceling loud noises, uses significant CPU resources, limits free noise cancellation to 60 minutes daily, and some users find the Pro version expensive.  
 ## Comparison table    
-Fireflies.ai makes sense for remote sales teams and customer success managers who need basic meeting transcripts synced to their CRM and note-taking tools, though they'll likely need additional tools to turn those insights into real action. The web-based approach and calendar integration work well for distributed teams, but the lack of offline and in-person recording capabilities limits its usefulness.
+Fireflies works best for sales teams and customer success managers who need to capture both virtual and in-person conversations, then share them across their tech stack. The mobile app and broad meeting support make it good for field sales and consulting teams who are often away from their desk, though the integrations could be deeper and more actionable.
 
-Krisp is a better fit for individual professionals and small teams who record a mix of in-person and remote conversations, and don't need complex integrations with business tools. The desktop app and local recording are convenient for personal use, but the missing calendar and CRM connections mean users will spend more time manually organizing their recordings.  
-| Feature                           | Fireflies.ai               | Krisp                      |
-|-----------------------------------|----------------------------|----------------------------|
-| Trial/Free Plan                   | ✅ Free plan (limited)     | ✅ Free plan               |
-| Zoom & Calendar Integration       | ✅ Yes                     | ❌ No                      |
-| Easy to Use?                      | ✅ Yes                     | ✅ Yes                     |
-| Good for In-Person Meetings?      | ❌ No                      | ✅ Yes                     |
-| Good for Local Recording?         | ❌ No                      | ✅ Yes                     |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes                | ❌ No                      |
-| Automation Engine?                | ✅ Yes                     | ❌ No                      |
-| Language Support                  | ✅ Multiple languages      | ✅ Multiple languages      |
-| Desktop App                       | ❌ No (Web-based)          | ✅ Yes (Mac & Windows)     |
-| iPhone & Android Apps             | ✅ Yes (Both)              | ✅ Yes (Both)              |  
+Krisp is ideal for remote workers and distributed teams who spend most of their day in virtual meetings and want a dedicated desktop app for recording and note-taking. While it handles the basics of meeting capture well and offers some integrations, it lacks mobile support and meaningful automation to help users actually do something with all those meeting recordings.  
+| Feature                           | Fireflies.ai | Krisp   |
+|-----------------------------------|--------------|---------|
+| Good for in-person                | ✅           | ❌      |
+| Local recording                   | ✅           | ✅      |
+| Integrations (HubSpot, Notion, etc.) | ✅        | ✅      |
+| Automation engine                 | ❌           | ❌      |
+| Language support                  | ✅           | ✅      |
+| Desktop app                       | ❌           | ✅      |
+| Mobile apps                       | ✅           | ❌      |
+| Trial or free plan                | ✅           | ✅      |
+| Security & privacy                | ✅           | ✅      |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
