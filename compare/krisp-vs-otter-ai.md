@@ -30,20 +30,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 ### Otter.ai
 * Otter.ai provides real-time transcription and meeting summaries with key themes, includes features for highlighting and commenting during meetings, and offers a generous free tier for basic use. The tool produces verbose transcripts that can be hard to parse, struggles with complex audio quality, and has meeting management issues including unwanted calendar invites, while the free version caps Zoom recordings at 40 minutes.  
 ## Comparison table    
-Krisp makes sense for global companies and teams who need to record meetings in many languages and want a proper desktop app, though its basic automation and lack of mobile support mean you'll still be doing most of the work manually. The desktop-first approach and strong language support are useful for international businesses, but the platform stops short of being a complete meeting workflow solution.
+Krisp makes sense for people who need a desktop app and want to record meetings in multiple languages, though its lack of mobile apps and automation features means you'll be doing most of the work manually. The tool works well enough for basic recording and transcription needs, but doesn't go far enough in helping users actually do something with their meeting content.
 
-Otter works better for mobile-first teams and companies who primarily operate in English or Spanish, with its mobile apps and automation features making it more convenient for on-the-go professionals. While the automation capabilities are helpful for basic meeting workflows, the limited language support and browser-only desktop experience reveal gaps in what could be a more comprehensive solution.  
-| Feature                           | Krisp                                  | Otter.ai                               |
-|-----------------------------------|----------------------------------------|----------------------------------------|
-| Good for in-person                | ✅ Yes                                 | ✅ Yes                                 |
-| Local recording                   | ✅ Yes                                 | ✅ Yes                                 |
-| Integrations (HubSpot, Notion, etc.) | ✅ Yes                               | ✅ Yes                                 |
-| Automation engine                 | ❌ Partial                             | ✅ Yes                                 |
-| Language support                  | ✅ 95 languages                        | ❌ Limited (English, Spanish, French)  |
-| Desktop app                       | ✅ Yes (Windows/Mac)                   | ❌ No (Web browser or integrations)   |
-| Mobile apps                       | ❌ No (Desktop-only for AI notes)      | ✅ Yes (iOS and Android)              |
-| Trial or free plan                | ✅ Free plan (limited minutes)         | ✅ Generous free plan (limited minutes)|
-| Security & privacy                | ✅ SOC 2 Type II compliant, encrypted  | ✅ SOC 2 Type II certified, encrypted  |  
+Otter.ai fits companies that want mobile access and some basic automation of their meeting workflows, especially if they only need English language support. While it offers more ways to process meetings after they happen, it still leaves users to figure out most of the post-meeting organization and follow-up on their own.  
+| Category                | Krisp            | Otter.ai         |
+|-------------------------|------------------|------------------|
+| Good for in-person      | ✅               | ✅               |
+| Local recording         | ✅               | ✅               |
+| Integrations            | ✅               | ✅               |
+| Automation engine       | ❌               | ✅               |
+| Language support        | ✅               | ❌               |
+| Desktop app             | ✅               | ❌               |
+| Mobile apps             | ❌               | ✅               |
+| Trial or free plan      | ✅               | ✅               |
+| Security & privacy      | ✅               | ✅               |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
