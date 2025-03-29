@@ -24,33 +24,32 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Zoom AI quick pros and cons    
-Zoom AI's seamless integration with existing Zoom infrastructure means zero setup hassle, while real-time meeting assistance and AI-powered whiteboards add genuine value for collaboration. The fact that it's included at no extra cost for paid Zoom users makes it an effortless addition to your workflow.
+Zoom AI offers seamless integration within existing Zoom workflows and generates instant meeting summaries with action items, making it a natural productivity boost for teams already using the platform. The service comes included with paid Zoom accounts and requires virtually no setup or training for end users to start benefiting from AI-powered meeting assistance.
 
-The platform-specific nature of Zoom AI means you're locked into the Zoom ecosystem, and the paid subscription requirement puts it out of reach for casual users. Technical limitations around speaker identification and specialized vocabulary can hamper its effectiveness in certain business contexts.  
+The platform's limitations include its Zoom-only functionality and basic feature set compared to dedicated meeting AI tools, particularly around meeting management controls and chat integration. Free users face the standard 40-minute Zoom time limit, and some users report difficulties accessing AI-generated content outside of Zoom's interface.  
 ## Zoom AI features    
 | Feature | Zoom AI |
-|---------|---------|
-| Trial/Free Plan | ❌ Requires paid Zoom |
-| Zoom & Calendar Integration | ✅ Zoom native |
-| Easy to Use? | ✅ Yes |
-| Good for In-Person Meetings? | ❌ No |
-| Good for Local Recording? | ❌ No |
-| Integrates with HubSpot, Notion, etc.? | ❌ No |
-| Automation Engine? | ❌ No |
-| Language Support | ❌ English only |
-| Desktop App | ✅ Yes (Mac & Windows) |
-| iPhone & Android Apps | ✅ Yes (Both) |  
+|----------|----------|
+| In-person Meetings | ❌ |
+| Local Recording | ⚠️ |
+| Integrations | ⚠️ |
+| Automation Engine | ⚠️ |
+| Language Support | ✅ |
+| Desktop App | ✅ |
+| Mobile Apps | ✅ |
+| Free Tier | ❌ |
+| Security | ✅ |  
 ## Closest Zoom AI competitors    
-### Meeting AI Tool Summaries
+### Three Notable Zoom AI Competitors
 
 **Fathom**
-Free unlimited recording and transcription with good accuracy. Works mainly with Zoom but expanding to other platforms. Simple tool that does one thing well.
+Simple, accurate meeting notetaker with a generous free tier. Works across major platforms and produces instant summaries in multiple formats, with particularly strong reviews for accuracy and ease of use.
 
-**Fireflies**
-Works across all major meeting platforms via a bot that auto-joins. $10/month gets you good transcripts and summaries, though accuracy drops with accents.
+**Otter.ai**
+The most established player with real-time transcription and good free tier. Handles complex meetings well but can produce overly verbose transcripts that some find hard to skim.
 
 **Granola**
-Mac-only app that runs locally and merges your typed notes with meeting transcripts. No meeting bot needed - just works in background. $10 flat monthly fee.  
+A lightweight Mac app that runs locally and doesn't join meetings as a bot. Produces clean, structured notes from system audio plus any quick notes you jot down during the call.  
 ## Zoom AI vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -61,12 +60,13 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
 ### Comparison table  
 | Feature | Zoom AI | Circleback |
-|---------|---------|------------|
-| Cost | ❌ Paid | ❌ Trial only |
-| In-Person Meetings | ✅ | ✅ |
-| Local Recording | ✅ | ✅ |
-| Integrations | ❌ | ✅ |
-| Automation Engine | ❌ | ✅ |
-| Language Support | ❌ English only | ✅ 100+ |
-| Desktop App | ✅ Mac & Windows | ✅ Mac & Windows |
-| Mobile Apps | ✅ iOS & Android | ✅ iOS & Android |
+|---------|----------|------------|
+| In-person meetings | ❌ | ✅ |
+| Local recording | ⚠️ | ✅ |
+| Integrations | ⚠️ | ✅ |
+| Automation engine | ⚠️ | ✅ |
+| Language support | ✅ | ✅ |
+| Desktop app | ✅ | ✅ |
+| Mobile apps | ✅ | ⚠️ |
+| Free trial/plan | ❌ | ✅ |
+| Security & privacy | ✅ | ✅ |
