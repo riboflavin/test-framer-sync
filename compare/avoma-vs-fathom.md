@@ -25,26 +25,27 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Evaluating Avoma and Fathom  
 ### Avoma
-* Avoma provides accurate transcription with clear speaker labels, AI-generated summaries and highlights, and extensive workflow integrations including CRM and calendar sync. The platform requires a paid subscription starting around $59-79 per user monthly, has no free tier beyond trials, and presents a learning curve for new users due to feature complexity.
+* Avoma delivers 95% accurate transcription with strong integrations for Zoom, HubSpot, and Slack, plus offers a free tier and responsive support. The platform includes comprehensive meeting tools and administrative automation, though some find it more complex than needed for basic transcription.
+* The system occasionally has technical issues like delayed meeting joins and speaker identification errors, and higher pricing tiers can be expensive for small teams. The detailed transcripts can be dense to parse, and the full feature set may be excessive for individual users.
 
 ### Fathom
-* Fathom delivers accurate transcription including strong multi-speaker and multi-language support, with AI summaries and unlimited free usage of core features. The platform has historically been Zoom-focused with other integrations in beta, can have duplicate note issues with multiple simultaneous users, and requires paid plans for advanced features like custom integrations and analytics.  
+* Fathom provides quick transcription with AI summaries, featuring a generous free tier and straightforward interface for live meetings. The platform focuses on core meeting capture functionality and delivers summaries in multiple formats.
+* The platform lacks external audio file support and a mobile app, with some advanced features restricted to paid tiers. Users note the on-screen elements can be distracting during calls, though these can be hidden.  
 ## Comparison table    
-Avoma makes sense for sales teams and companies that need automation and don't mind spending time learning a more complex tool. The automation features could save time for teams that have standardized their meeting workflows, though they'll need to work around the limited language support and web-only interface.
+Avoma makes sense for sales teams and companies that need to record both virtual and in-person meetings, with its mobile app making it practical for field sales and consulting work. The platform offers standard integrations with CRM tools and note-taking apps, though users often need to create manual workflows to make the most of their meeting content.
 
-Fathom works better for individual users and small teams who want something simple that just works, especially if they need multiple language support. While the free plan and ease of use are appealing, the lack of automation and limited integration depth means users still need other tools to handle their full meeting workflow.  
-| Feature                           | Avoma       | Fathom     |
-|-----------------------------------|-------------|------------|
-| Trial/Free Plan                   | ❌ Trial only | ✅ Free unlimited plan |
-| Zoom & Calendar Integration        | ✅ Yes       | ✅ Yes      |
-| Easy to Use?                       | ❌ Learning curve | ✅ Yes   |
-| Good for In-Person Meetings?       | ❌ No        | ❌ No      |
-| Good for Local Recording?          | ❌ No        | ❌ No      |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes    | ✅ Yes     |
-| Automation Engine?                 | ✅ Yes       | ❌ No      |
-| Language Support                   | ❌ English only | ✅ Multiple languages |
-| Desktop App                       | ❌ No (Web-based) | ❌ No (Web-based) |
-| iPhone & Android Apps              | ✅ Yes (Both) | ✅ Yes (Both) |  
+Fathom appeals to remote workers and desk-based professionals who want a dedicated desktop app for their virtual meetings, particularly those using Zoom or Teams extensively. While it handles the basics of meeting capture and offers common integrations, users still need to do much of the heavy lifting when it comes to actually implementing insights from their conversations.  
+| Feature                           | Avoma | Fathom |
+|-----------------------------------|-------|--------|
+| Good for in-person                | ✅    | ❌     |
+| Local recording                   | ✅    | Partial|
+| Integrations (HubSpot, Notion, etc.) | ✅ | ✅     |
+| Automation engine                  | ✅    | ✅     |
+| Language support                  | ✅    | ✅     |
+| Desktop app                       | ❌    | ✅     |
+| Mobile apps                       | ✅    | ❌     |
+| Trial or free plan                | ✅    | ✅     |
+| Security & privacy                | ✅    | ✅     |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
