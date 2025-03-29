@@ -28,15 +28,15 @@ Avoma excels at accurate transcription and integrates seamlessly with major busi
 
 The platform can feel overwhelming for users seeking basic transcription services, and its premium pricing may deter smaller organizations. Technical hiccups like delayed meeting joins and occasional speaker mix-ups exist, while the detailed transcripts can sometimes be challenging to quickly scan.  
 ## Avoma features    
-| Feature | Avoma |
-|----------|--------|
-| In-person Recording | ✅ |
-| Local Recording | ✅ |
-| Integrations | ✅ |
-| Automation Engine | ✅ |
-| Language Support | ✅ |
-| Desktop App | ❌ |
-| Mobile Apps | ✅ |  
+Feature                  | Status
+----------------------------------|--------
+Good for in-person                | ✅
+Local recording                   | ✅
+Integrations (HubSpot, Notion)    | ✅
+Automation engine                 | ✅
+Language support                  | ✅
+Desktop app                       | ❌
+Mobile apps                       | ✅  
 ## Closest Avoma competitors    
 ### Three Notable Meeting Tools to Consider
 
@@ -55,13 +55,13 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
 ### Comparison table  
 | Feature | Avoma | Circleback |
-|---------|--------|------------|
-| Offline Meeting Recording | ✓ | ✓ |
-| Online Meeting Recording | ✓ | ✓ |
-| CRM/Calendar Integration | ✓ | ✓ |
-| Workflow Automation | ✓ | ✓ |
-| Language Support | 20+ | 100+ |
-| Desktop App | ✗ | ✓ |
-| Mobile App | iOS & Android | iOS only |
-| Free Trial | 14 days | 7 days |
-| Security Compliance | SOC 2 Type II | SOC 2 Type II, HIPAA |
+|----------|--------|------------|
+| Good for in-person | ✅ | ✅ |
+| Local recording | ✅ | ✅ |
+| Integrations | ✅ | ✅ |
+| Automation engine | ✅ | ✅ |
+| Language support | ✅ | ✅ |
+| Desktop app | ❌ | ✅ |
+| Mobile apps | ✅ | ✅ |
+| Trial or free plan | ✅ | ✅ |
+| Security & privacy | ✅ | ✅ |
