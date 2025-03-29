@@ -30,20 +30,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 ### Zoom AI
 * Zoom AI integrates directly into Zoom meetings, generates instant meeting summaries with action items, and comes included with paid Zoom accounts. The tool only works within Zoom meetings, has basic chat integration, limited meeting management controls, and some users report difficulties sharing AI notes outside of Zoom.  
 ## Comparison table    
-Small teams and freelancers who meet in person or across different platforms would find Otter more useful, since it works anywhere and offers a free tier to start with. The basic integrations and automation features might help them stay organized, though they'll likely need other tools to manage their workflow properly.
+Small teams and freelancers who need to record in-person meetings or want flexibility across different conferencing platforms will prefer Otter, though they'll need to build their own workflows around the limited integration options. The free tier and mobile-first approach make it accessible, while the automation features help compensate for the lack of a proper desktop experience.
 
-Larger companies already using Zoom extensively will naturally gravitate toward Zoom AI, especially if they need support for multiple languages. While the desktop experience is solid and security is strong, the limited automation capabilities and lack of integrations mean teams will need additional solutions to properly manage their meeting workflows.  
-| Feature                           | Otter.ai | Zoom AI |
-|-----------------------------------|----------|---------|
-| Good for in-person                | ✅       | ❌      |
-| Local recording                   | ✅       | Partial |
-| Integrations (HubSpot, Notion, etc.) | ✅    | ❌      |
-| Automation engine                 | ✅       | Partial |
-| Language support                  | Limited  | ✅      |
-| Desktop app                       | ❌       | ✅      |
-| Mobile apps                       | ✅       | ✅      |
-| Trial or free plan                | ✅       | ❌      |
-| Security & privacy                | ✅       | ✅      |  
+Large organizations already standardized on Zoom will naturally gravitate toward Zoom AI for its tight platform integration and enterprise security features, despite its inability to handle in-person scenarios well. The desktop-centric approach and broad language support are appealing, but users will find themselves manually handling many post-meeting tasks that could be automated.  
+| Category              | Otter.ai       | Zoom AI        |
+|-----------------------|----------------|----------------|
+| Good for in-person    | ✅             | ❌             |
+| Local recording       | ✅             | Partial        |
+| Integrations          | ✅             | Limited        |
+| Automation engine     | ✅             | Limited        |
+| Language support      | Limited        | ✅             |
+| Desktop app           | ❌             | ✅             |
+| Mobile apps           | ✅             | ✅             |
+| Trial or free plan    | ✅             | ❌             |
+| Security & privacy    | ✅             | ✅             |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
