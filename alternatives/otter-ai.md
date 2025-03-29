@@ -28,15 +28,17 @@ Otter.ai excels at real-time transcription and meeting capture, with an intuitiv
 
 The service struggles with complex audio and can produce verbose, poorly structured transcripts that make finding key points difficult. Calendar integration can be overly aggressive, and the free tier's limitations like 40-minute meeting caps can be frustrating for regular users.  
 ## Otter.ai features    
-| Feature | Otter.ai |
-|----------|-----------|
-| In-person Recording | ✅ |
-| Local Recording | ✅ |
-| Integrations | ✅ |
-| Automation Engine | ✅ |
-| Language Support | ⚠️ |
-| Desktop App | ❌ |
-| Mobile Apps | ✅ |  
+Feature                          | Status
+--------------------------------|--------
+Good for in-person              | ✅
+Local recording                 | ✅
+Integrations                    | ✅
+Automation engine              | ✅
+Language support               | ❌
+Desktop app                    | ❌
+Mobile apps                    | ✅
+Free plan                      | ✅
+Security certifications        | ✅  
 ## Closest Otter.ai competitors    
 ### Three Notable Meeting AI Tools to Consider
 
@@ -56,12 +58,12 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 ### Comparison table  
 | Feature | Otter.ai | Circleback |
 |----------|-----------|------------|
-| In-person Recording | ✓ | ✓ |
-| Local Recording | ✓ | ✓ |
-| Integrations | ✓ | ✓ |
-| Automation Engine | ✓ | ✓ |
-| Language Support | 🔸 3 languages | ✓ 100+ |
-| Desktop App | ✗ | ✓ |
-| Mobile Apps | ✓ iOS & Android | ✓ iOS only |
-| Free Plan | ✓ Free tier | ✓ 7-day trial |
-| Security & Privacy | ✓ | ✓ |
+| Good for in-person | ✅ | ✅ |
+| Local recording | ✅ | ✅ |
+| Integrations | ✅ | ✅ |
+| Automation engine | ✅ | ✅ |
+| Language support | ❌ | ✅ |
+| Desktop app | ❌ | ✅ |
+| Mobile apps | ✅ | ✅ |
+| Trial or free plan | ✅ | ✅ |
+| Security & privacy | ✅ | ✅ |
