@@ -32,20 +32,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Zoom AI integrates directly into existing Zoom installations with automatic meeting tracking and instant post-meeting summaries, requiring minimal setup and included with paid Zoom accounts. The system operates entirely within Zoom's ecosystem and focuses on core meeting documentation features.
 * The tool only functions within Zoom meetings, has limited features compared to dedicated meeting tools, and shows basic integration with Zoom Chat, while some users report difficulties accessing AI notes outside the Zoom environment.  
 ## Comparison table    
-Small teams and startups that need flexibility across different meeting types would likely choose Avoma, since it works for both virtual and in-person meetings and offers a free trial to test it out. The basic integrations and automation features could help these teams do a bit more with their meetings, though they'll still need other tools to fully streamline their workflow.
+Small teams and startups who need flexibility across different meeting types would find Avoma more useful, since it works for both virtual and in-person meetings and offers a free trial to test it out. The local recording and automation features could help these teams save time, though they might wish for deeper integrations with their existing tools.
 
-Larger companies already using Zoom might naturally gravitate toward Zoom AI, especially if they need a desktop app and don't mind paying upfront for the service. While Zoom AI handles virtual meetings well and offers good security, its limited automation and integration capabilities mean teams will need additional solutions to properly manage their meeting workflows.  
-| Feature                           | Avoma                                      | Zoom AI                                    |
-|-----------------------------------|--------------------------------------------|--------------------------------------------|
-| Good for in-person                | ✅ Yes                                      | ❌ No                                       |
-| Local recording                   | ✅ Yes                                      | Partial                                    |
-| Integrations (HubSpot, Notion, etc.) | ✅ Yes                                      | Limited                                    |
-| Automation engine                 | ✅ Yes                                      | Limited                                    |
-| Language support                  | ✅ 20+ languages                           | ✅ ~30+ languages                          |
-| Desktop app                       | ❌ No                                       | ✅ Yes                                      |
-| Mobile apps                       | ✅ iOS and Android                         | ✅ Yes                                      |
-| Trial or free plan                | ✅ 14-day free trial; limited free plan    | ❌ No free tier for AI Companion           |
-| Security & privacy                | ✅ SOC 2 Type II certified; enterprise-grade encryption and GDPR compliant | ✅ AES-256 encryption for meetings; SOC 2 Type II compliant |  
+Large enterprises already standardized on Zoom might prefer sticking with Zoom AI, especially given its familiar interface and strong desktop experience. While Zoom AI handles the basics well and has good security, users might find themselves wanting more robust automation and meeting intelligence capabilities to truly improve their workflow.  
+| Category                | Avoma               | Zoom AI             |
+|-------------------------|---------------------|---------------------|
+| Good for in-person      | ✅                  | ❌                  |
+| Local recording         | ✅                  | ⚪️                  |
+| Integrations            | ✅                  | ⚪️                  |
+| Automation engine       | ✅                  | ⚪️                  |
+| Language support        | ✅                  | ✅                  |
+| Desktop app             | ❌                  | ✅                  |
+| Mobile apps             | ✅                  | ✅                  |
+| Trial or free plan      | ✅                  | ❌                  |
+| Security & privacy      | ✅                  | ✅                  |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
