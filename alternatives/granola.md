@@ -24,33 +24,27 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Granola quick pros and cons    
-Granola excels at simplicity and accuracy, functioning as a lightweight note-taking tool that works across platforms without requiring special meeting bots. The app's custom templates and high-quality transcription help capture important details you might otherwise miss during meetings or conversations.
+Granola excels at unobtrusive note-taking during meetings, with a clean interface reminiscent of Apple Notes and the ability to generate well-organized summaries through customizable templates. The app works quietly in the background, and the development team consistently improves the product based on user feedback.
 
-The main drawbacks are its limited availability on MacOS only and lack of team collaboration features. It's also a relatively new product with basic editing capabilities and few integrations, making it more suitable for individual use than enterprise settings.  
+The platform currently has limited availability, being Mac-only with no mobile apps, and requires proper system audio capture to function effectively. Some users have reported minor bugs typical of newer software, though these issues don't significantly impact the core functionality.  
 ## Granola features    
 | Feature | Granola |
 |----------|----------|
-| Trial/Free Plan | ✅ Free plan (limited) |
-| Zoom & Calendar Integration | ❌ No |
-| Easy to Use? | ✅ Yes |
-| Good for In-Person Meetings? | ✅ Yes |
-| Good for Local Recording? | ✅ Yes |
-| Integrates with HubSpot, Notion, etc.? | ❌ No |
-| Automation Engine? | ❌ No |
-| Language Support | ❌ English only |
-| Desktop App | ✅ Yes (Mac-only) |
-| iPhone & Android Apps | ❌ No |  
+| In-person Recording | ⚡ Partial (Mac only) |
+| Local Recording | ✅ |
+| Integrations | 🔄 Limited |
+| Automation | ❌ |
+| Language Support | ✅ ~16 languages |
+| Desktop App | 💻 Mac only |
+| Mobile Apps | ❌ Coming soon |  
 ## Closest Granola competitors    
-### Quick Analysis of Meeting Tools
+### Three Notable Meeting Note Tools to Consider
 
-**Fathom**
-Free unlimited recording and transcription. Good accuracy. Initially Zoom-only but expanding. Works well for non-English.
+**Fathom** - Free tier offers unlimited recordings with 5 AI summaries per month. Produces instant, accurate transcripts and multiple summary formats. Main drawback is lack of mobile app and external audio upload.
 
-**Fireflies**
-Bot joins any platform. $10/mo. Good summaries but accuracy around 90%. Lots of integrations but UI can be busy.
+**Otter.ai** - Generous free plan (600 mins/month) with live transcription and good accuracy. Works across all major platforms. Main issue is transcripts can be overly verbose and hard to skim.
 
-**Krisp**
-$8/mo. Runs in background for any call. Does noise cancellation plus transcription. Light on features but works everywhere.  
+**Krisp** - Unique combo of noise cancellation and meeting notes. Free tier gives 60 mins/day noise removal and 2 summaries. Downside is occasional audio distortion and high CPU usage.  
 ## Granola vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -62,13 +56,12 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 ### Comparison table  
 | Feature | Granola | Circleback |
 |----------|----------|------------|
-| Free Plan | ✅ Limited | ❌ Trial only |
-| Team Collaboration | ❌ No | ✅ Yes |
-| Custom Templates | ✅ Yes | ✅ Yes |
-| Email Tracking | ✅ Yes | ✅ Yes |
-| Analytics | ✅ Yes | ✅ Yes |
-| CRM Integration | ❌ No | ✅ Yes |
-| API Access | ❌ No | ✅ Yes |
-| Language Support | ❌ English only | ✅ 100+ languages |
-| Desktop App | ✅ Mac-only | ✅ Mac & Windows |
-| Mobile App | ❌ No | ✅ Both |
+| In-person audio | ⚠️ Mac only | ✅ |
+| Offline support | ✅ | ✅ |
+| Integrations | ⚠️ Limited | ✅ |
+| Workflow automation | ❌ | ✅ |
+| Language support | ⚠️ ~16 | ✅ 100+ |
+| Desktop apps | ⚠️ Mac only | ✅ Mac & Windows |
+| Mobile apps | ❌ | ⚠️ iOS only |
+| Free tier | ✅ | ❌ Trial only |
+| Security/Compliance | ⚠️ Basic | ✅ SOC 2, HIPAA |
