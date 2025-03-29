@@ -32,20 +32,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Fathom provides quick transcription with AI summaries, multiple summary formats, and a simple interface. The free tier is generous compared to competitors, and the tool focuses on live meeting capture and notes.
 * The platform requires desktop use with no mobile app, doesn't support external audio file transcription, and reserves some features like meeting templates for paid tiers. Some users report the on-screen widgets can be distracting during calls.  
 ## Comparison table    
-Bluedot works better for teams that need to handle both virtual and in-person meetings, with its local recording capabilities making it suitable for companies with strict data policies. While it offers standard integrations with common tools, the platform's ability to turn meeting insights into meaningful action remains limited.
+Bluedot works better for teams that meet in person and need local recording, though its limited integrations mean you'll still be doing most of the work manually. The tool handles basic meeting tasks well but doesn't go deep enough to meaningfully improve how teams collaborate or execute on decisions.
 
-Fathom is more suited to remote-first companies that conduct most of their business through video calls and don't require in-person meeting support. Though it includes basic automation features and integrations with popular workplace tools, users might find themselves still doing considerable manual work to implement meeting outcomes effectively.  
-| Feature                                | Bluedot | Fathom |
-|----------------------------------------|---------|--------|
-| Good for in-person meetings            | ✅      | ❌     |
-| Local recording                        | ✅      | Partial |
-| Integrations (HubSpot, Notion, etc.)   | ✅      | ✅     |
-| Automation engine                      | ✅      | ✅     |
-| Language support                       | ✅      | ✅     |
-| Desktop app                            | ✅      | ✅     |
-| Mobile apps                            | ❌      | ❌     |
-| Trial or free plan                     | ✅      | ✅     |
-| Security & privacy                     | ✅      | ✅     |  
+Fathom is built for remote-first teams who want their meetings automatically processed in the cloud, even though the automation features aren't comprehensive enough to eliminate manual work. While it offers similar core features to Bluedot, neither tool provides the kind of rich integration ecosystem that would make them truly indispensable for getting work done after the meeting ends.  
+| Category                | Bluedot | Fathom |
+|-------------------------|---------|--------|
+| Good for in-person      | ✅      | ❌     |
+| Local recording         | ✅      | ⚪     |
+| Integrations            | ✅      | ✅     |
+| Automation engine       | ✅      | ✅     |
+| Language support        | ✅      | ✅     |
+| Desktop app             | ✅      | ✅     |
+| Mobile apps             | ❌      | ❌     |
+| Trial or free plan      | ✅      | ✅     |
+| Security & privacy      | ✅      | ✅     |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
