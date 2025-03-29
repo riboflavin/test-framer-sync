@@ -28,15 +28,15 @@ Bluedot excels at transcription accuracy and works without awkward bot invites, 
 
 The free tier is basically just a trial with only 5 meetings, and you need Chrome on desktop for the best experience. Higher tier plans are expensive for small teams, and some key features like longer recordings are locked behind pricier subscriptions.  
 ## Bluedot features    
-| Feature | Bluedot |
-|----------|----------|
-| In-person Recording | ✓ |
-| Local Recording | ✓ |
-| Integrations | ✓ |
-| Automation Engine | ✓ |
-| Language Support | ✓ |
-| Desktop App | ✓ |
-| Mobile Apps | ✗ |  
+Feature                                | Status
+---------------------------------------|--------
+Good for in-person                      | ✅
+Local recording                         | ✅
+Integrations (HubSpot, Notion, etc.)    | ✅
+Automation engine                       | ✅
+Language support                        | ✅
+Desktop app                            | ✅
+Mobile apps                            | ❌  
 ## Closest Bluedot competitors    
 markdown
 ### Fathom
@@ -57,13 +57,13 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
 ### Comparison table  
 | Feature | Bluedot | Circleback |
-|----------|---------|------------|
-| In-person Meetings | ✓ | ✓ |
-| Local Recording | ✓ | ✓ |
-| Integrations | ✓ | ✓ |
-| Automation Engine | ✓ | ✓ |
-| Language Support | ✓ | ✓ |
-| Desktop App | ✓ | ✓ |
-| Mobile Apps | ✗ | ✓ |
-| Free Plan/Trial | ✓ | ✓ |
-| Security & Privacy | ✓ | ✓ |
+|----------|----------|------------|
+| Good for in-person | ✅ | ✅ |
+| Local recording | ✅ | ✅ |
+| Integrations | ✅ | ✅ |
+| Automation engine | ✅ | ✅ |
+| Language support | ✅ | ✅ |
+| Desktop app | ✅ | ✅ |
+| Mobile apps | ❌ | ✅ |
+| Trial or free plan | ✅ | ✅ |
+| Security & privacy | ✅ | ✅ |
