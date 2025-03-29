@@ -30,20 +30,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 ### Fireflies.ai
 * Fireflies.ai provides multi-platform support including mobile, offers a free tier, integrates with CRM and project tools, and delivers quick post-meeting summaries with action items. The tool struggles with accent recognition and technical terms, generates basic summaries that may miss nuance, and restricts video recording to paid tiers.  
 ## Comparison table    
-Bluedot works best for remote teams who need desktop software and want to automate their meeting workflows, though its integration options are still developing and its automation features need more depth. The lack of mobile apps and in-person recording capabilities makes it most suitable for companies that operate primarily through video calls.
+Small teams and startups who need basic meeting tools will find Fireflies useful for capturing conversations on mobile devices and sharing notes. The lack of desktop apps and automation makes it most suitable for teams with simple needs who just want to record and transcribe.
 
-Fireflies.ai is a good fit for hybrid teams who need both in-person and remote meeting coverage, especially those who rely heavily on mobile devices and don't require complex automation. While it offers basic integrations with popular tools, it lacks the deeper workflow automation that many enterprise teams need to truly streamline their meeting processes.  
-| Feature                           | Bluedot | Fireflies.ai |
-|-----------------------------------|---------|--------------|
-| Good for in-person                | ✘       | ✔            |
-| Local recording                   | ✔       | ✔            |
-| Integrations (HubSpot, Notion, etc.) | ✔     | ✔            |
-| Automation engine                  | ✔       | ✘            |
-| Language support                   | ✔       | ✔            |
-| Desktop app                       | ✔       | ✘            |
-| Mobile apps                       | ✘       | ✔            |
-| Trial or free plan                 | ✔       | ✔            |
-| Security & privacy                 | ✔       | ✔            |  
+Larger organizations needing more control and structure will gravitate toward Bluedot's desktop-first approach and automation capabilities. While its limited mobile support and basic integration set hold it back, the focus on desktop workflows makes it a better fit for companies with formal meeting processes.  
+| Category              | Bluedot                | Fireflies.ai           |
+|-----------------------|------------------------|------------------------|
+| Good for in-person    | ✅                     | ✅                     |
+| Local recording       | ✅                     | ✅                     |
+| Integrations          | ✅                     | ✅                     |
+| Automation engine     | ✅                     | ❌                     |
+| Language support      | ✅                     | ✅                     |
+| Desktop app           | ✅                     | ❌                     |
+| Mobile apps           | ❌                     | ✅                     |
+| Trial or free plan    | ✅                     | ✅                     |
+| Security & privacy    | ✅                     | ✅                     |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
