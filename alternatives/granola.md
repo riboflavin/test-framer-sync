@@ -28,15 +28,15 @@ Granola excels at unobtrusive note-taking during meetings, with a clean interfac
 
 The platform currently has limited availability, being Mac-only with no mobile apps, and requires proper system audio capture to function effectively. Some users have reported minor bugs typical of newer software, though these issues don't significantly impact the core functionality.  
 ## Granola features    
-| Feature | Granola |
-|----------|----------|
-| In-person Recording | ⚡ Partial (Mac only) |
-| Local Recording | ✅ |
-| Integrations | 🔄 Limited |
-| Automation | ❌ |
-| Language Support | ✅ ~16 languages |
-| Desktop App | 💻 Mac only |
-| Mobile Apps | ❌ Coming soon |  
+Feature                  | Status
+-----------------------------------|--------
+Good for in-person                 | ⛌
+Local recording                    | ✓
+Integrations (HubSpot, Notion)     | ⛌
+Automation engine                  | ⛌
+Language support                   | ✓
+Desktop app                        | ✓
+Mobile apps                        | ⛌  
 ## Closest Granola competitors    
 ### Three Notable Meeting Note Tools to Consider
 
@@ -56,12 +56,12 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 ### Comparison table  
 | Feature | Granola | Circleback |
 |----------|----------|------------|
-| In-person audio | ⚠️ Mac only | ✅ |
-| Offline support | ✅ | ✅ |
-| Integrations | ⚠️ Limited | ✅ |
-| Workflow automation | ❌ | ✅ |
-| Language support | ⚠️ ~16 | ✅ 100+ |
-| Desktop apps | ⚠️ Mac only | ✅ Mac & Windows |
-| Mobile apps | ❌ | ⚠️ iOS only |
-| Free tier | ✅ | ❌ Trial only |
-| Security/Compliance | ⚠️ Basic | ✅ SOC 2, HIPAA |
+| Good for in-person | ⚠️ | ✅ |
+| Local recording | ✅ | ✅ |
+| Integrations | ⚠️ | ✅ |
+| Automation engine | ❌ | ✅ |
+| Language support | ⚠️ | ✅ |
+| Desktop app | ⚠️ | ✅ |
+| Mobile apps | ❌ | ✅ |
+| Trial or free plan | ✅ | ✅ |
+| Security & privacy | ✅ | ✅ |
