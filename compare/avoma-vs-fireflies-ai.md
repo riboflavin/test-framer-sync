@@ -25,26 +25,27 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Evaluating Avoma and Fireflies.ai  
 ### Avoma
-* Avoma provides accurate transcription with clear speaker labeling and AI summaries, while offering CRM integration and calendar syncing for workflow automation. The platform requires a paid subscription starting around $59-79 per user monthly, has no free tier, and presents a learning curve for new users due to feature complexity.
+* Avoma provides transcription with 95% accuracy including jargon and accents, integrates with common business tools, and includes administrative task automation and note-taking features. The platform offers comprehensive meeting management capabilities, a free tier, and responsive customer support.
+* The platform can be complex for basic transcription needs, occasionally experiences technical delays or speaker identification issues, and produces dense transcripts that can be difficult to skim. Higher tier pricing is expensive for small teams.
 
 ### Fireflies.ai
-* Fireflies.ai works across major meeting platforms with automated summaries and task assignments, featuring keyword tracking and sentiment analysis with minimal setup required. The service has limited free tier offerings, achieves 90% transcription accuracy with some accent issues, and includes a feature-heavy interface that sends frequent email notifications.  
+* Fireflies.ai offers straightforward meeting transcription with multi-language support, delivers quick post-meeting summaries with action items, and includes mobile access plus integrations with project management and CRM tools. The service includes a free tier and works across multiple platforms.
+* The platform generates broad summaries that may miss nuanced details, struggles with heavy accents and technical terminology, and restricts advanced features like video recording to paid tiers. Users report interface complexity and excessive notifications as minor issues.  
 ## Comparison table    
-Avoma seems better suited for enterprise sales teams who need a structured approach and don't mind a steeper learning curve to get the most value. While it offers solid integrations with common business tools, its English-only limitation and lack of a free plan suggest it's targeting larger organizations with established processes and budgets.
+Small sales teams and individual business owners would likely prefer Fireflies for its broader language support and simpler feature set focused on basic meeting capture and notes. The free tier with limited credits and straightforward CRM connections makes it accessible for teams just starting to formalize their meeting processes, though they may find themselves wanting more robust automation.
 
-Fireflies.ai appears designed for smaller teams or individual professionals who want a simpler, more accessible solution with multiple language support and a free tier to start with. Though it connects with popular productivity tools, like Avoma, it still leaves users wanting more comprehensive integration options and practical meeting assistance features.  
-| Feature                           | Avoma       | Fireflies.ai |
-|-----------------------------------|-------------|--------------|
-| Trial/Free Plan                   | ❌ Trial only | ✅ Free plan (limited) |
-| Zoom & Calendar Integration       | ✅ Yes       | ✅ Yes        |
-| Easy to Use?                      | ❌ Learning curve | ✅ Yes    |
-| Good for In-Person Meetings?      | ❌ No        | ❌ No        |
-| Good for Local Recording?         | ❌ No        | ❌ No        |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes   | ✅ Yes       |
-| Automation Engine?                | ✅ Yes       | ✅ Yes       |
-| Language Support                  | ❌ English only | ✅ Multiple languages |
-| Desktop App                       | ❌ No (Web-based) | ❌ No (Web-based) |
-| iPhone & Android Apps             | ✅ Yes (Both) | ✅ Yes (Both) |  
+Larger organizations and enterprise sales teams would gravitate toward Avoma's automation engine and deeper workflow capabilities, especially for managing high-volume customer interactions. The built-in follow-up system and more extensive CRM automation could save significant time for busy teams, even if the integration ecosystem isn't quite as extensive as it could be for a tool at this level.  
+| Feature                           | Avoma                                      | Fireflies.ai                               |
+|-----------------------------------|--------------------------------------------|--------------------------------------------|
+| Good for in-person                | ✅ Yes. Mobile app records offline/in-person meetings for later transcription | ✅ Yes. Mobile app can record in-person meetings and voice notes |
+| Local recording                   | ✅ Yes. Automatically records online meetings; can upload offline recordings via mobile | ✅ Yes. Offers in-app recording and offline file upload for transcription |
+| Integrations (HubSpot, Notion, etc.) | ✅ Yes. Connects with calendars and CRM (HubSpot, Salesforce, etc.); also Notion via Zapier | ✅ Yes. Dozens of integrations (native HubSpot, Salesforce, Slack, etc. and Zapier) |
+| Automation engine                 | ✅ Yes. Automates note-taking, follow-up emails, and CRM data entry | ❌ Partial. No custom engine, but auto-logs notes to CRM (contacts, deals) and can create tasks (e.g. to Asana) |
+| Language support                  | ✅ Yes. Supports real-time transcription in 20+ languages (e.g. English, French, Hindi) | ✅ Yes. Transcribes in 100+ languages (Spanish, French, German, Hindi, etc.) |
+| Desktop app                       | ❌ No. (Web-based; no dedicated desktop app) | ❌ No. (Uses web app/Chrome extension; AI notetaker joins calls from cloud) |
+| Mobile apps                       | ✅ Yes. iOS and Android apps for on-the-go use | ✅ Yes. iOS and Android apps available |
+| Trial or free plan                | ✅ Yes. 14-day free trial; offers a limited free plan (e.g. view-only seats) | ✅ Yes. Free tier (limited meeting credits) and paid plans |
+| Security & privacy                | ✅ Yes. SOC 2 Type II certified; enterprise-grade encryption and GDPR compliant | ✅ Yes. SOC 2 Type II certified; GDPR compliant; data encrypted at rest |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
