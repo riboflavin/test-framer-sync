@@ -25,28 +25,27 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Evaluating Avoma and Granola  
 ### Avoma
-* Avoma provides accurate transcription with speaker labels, AI summaries, and workflow integrations for CRM/calendar syncing. The platform captures meeting details comprehensively and enables structured follow-ups through its feature set.
-* The service requires a paid subscription starting around $59-79/user/month, has no free tier, and presents a learning curve for new users due to its feature complexity. The meeting bot can occasionally join late or miss speaker identification.
+* Avoma provides AI transcription with 95% accuracy including jargon handling, integrates with common tools like Zoom and Slack, and includes a free tier for basic use. The platform includes comprehensive meeting management features, automated note-taking capabilities, and responsive customer support.
+* The platform can be complex for basic transcription needs, occasionally experiences meeting join delays, and produces dense transcripts that can be difficult to scan quickly. Higher tier pricing is expensive for small teams, and some users report occasional speaker identification errors.
 
 ### Granola
-* Granola functions as a simple notepad that listens directly on the device without requiring a meeting bot, offers custom note templates, and provides accurate transcription to supplement manual notes. The app works independently of meeting platforms for more discreet operation.
-* The tool is currently limited to MacOS, lacks extensive integrations, and doesn't support multi-user collaboration or advanced transcript editing. As a newer product, it operates primarily as a standalone solution for individual note-taking.  
+* Granola offers automated note-taking with customizable templates, operates with a minimal interface similar to Apple Notes, and runs in the background without interrupting meetings. The system captures meeting content automatically and produces organized summaries based on user preferences.
+* The tool is currently limited to Mac devices, lacks a mobile app, and requires system audio capture to function properly. Some users report occasional bugs and missing features, and notes are only accessible through desktop or web interfaces.  
 ## Comparison table    
-Avoma makes sense for sales teams and companies who live in Zoom calls and need their meeting notes synced to HubSpot or Notion, though its web-only interface and limited integrations beyond the basics might frustrate power users. The tool's automation features help with repetitive tasks, but the learning curve means teams need time to get value from it.
+Avoma makes sense for sales teams and companies who need to record both virtual and in-person meetings, and who want their meeting tool to connect with their other business software. The mobile app and automation features help busy professionals who are often on the go, though the platform's integrations could be deeper and more actionable.
 
-Granola works better for individuals and small teams who have lots of in-person meetings or want to record local presentations, and don't need complex integrations. The Mac-only desktop app is simple to use, but the lack of mobile apps and basic integration options means users still need other tools to manage their meeting workflow.  
-| Feature                           | Avoma       | Granola     |
-|-----------------------------------|-------------|-------------|
-| Trial/Free Plan                   | ❌ Trial only | ✅ Free plan (limited) |
-| Zoom & Calendar Integration       | ✅ Yes       | ❌ No        |
-| Easy to Use?                      | ❌ Learning curve | ✅ Yes       |
-| Good for In-Person Meetings?      | ❌ No        | ✅ Yes       |
-| Good for Local Recording?         | ❌ No        | ✅ Yes       |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes       | ❌ No        |
-| Automation Engine?                | ✅ Yes       | ❌ No        |
-| Language Support                  | ❌ English only | ❌ English only |
-| Desktop App                       | ❌ No (Web-based) | ✅ Yes (Mac-only) |
-| iPhone & Android Apps             | ✅ Yes (Both) | ❌ No        |  
+Granola works well for individual users and small teams who primarily conduct remote meetings and prefer a lightweight desktop solution that just works. The simple interface and local recording are appealing to privacy-conscious users who don't need complex features, though the lack of integrations and automation limits its usefulness in larger workflows.  
+| Feature                           | Avoma | Granola |
+|-----------------------------------|-------|---------|
+| Good for in-person                | ✅    | ❌      |
+| Local recording                   | ✅    | ✅      |
+| Integrations (HubSpot, Notion, etc.) | ✅ | ⚠️     |
+| Automation engine                 | ✅    | ❌      |
+| Language support                  | ✅    | ✅      |
+| Desktop app                       | ❌    | ✅      |
+| Mobile apps                       | ✅    | ❌      |
+| Trial or free plan                | ✅    | ✅      |
+| Security & privacy                | ✅    | ✅      |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
