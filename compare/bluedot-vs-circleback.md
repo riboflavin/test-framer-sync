@@ -30,20 +30,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 ### Circleback
 * Circleback provides meeting transcription with summaries and action items, integrates with calendars and business apps, and delivers notes shortly after meetings end. The tool lacks video recording capabilities and has a smaller feature set compared to established competitors.  
 ## Comparison table    
-Bluedot works best for remote teams who don't need mobile access and want basic meeting tools that integrate with their existing stack. The platform offers standard features like recording and automation, though its integration options could be deeper and more actionable.
+Bluedot works best for remote teams who need basic meeting tools and don't require mobile access or in-person capabilities. While it offers standard integrations and automation features that most companies need, users might find themselves wanting deeper connections with their daily workflow tools.
 
-Circleback suits hybrid teams who need both in-person and remote meeting capabilities, along with mobile access for on-the-go work. While it provides similar core functionality to Bluedot including security features and language support, users may find its automation capabilities don't fully address the challenge of making meetings more productive.  
-| Feature                        | Bluedot | Circleback |
-|-------------------------------|---------|------------|
-| Good for in-person            | ✘       | ✔          |
-| Local recording               | ✔       | ✔          |
-| Integrations                 | ✔       | ✔          |
-| Automation engine             | ✔       | ✔          |
-| Language support              | ✔       | ✔          |
-| Desktop app                   | ✔       | ✔          |
-| Mobile apps                   | ✘       | ✔          |
-| Trial or free plan            | ✔       | ✔          |
-| Security & privacy            | ✔       | ✔          |  
+Circleback makes more sense for hybrid teams who switch between remote and office work, and need their meeting tools available on all devices. Though it provides similar integration options to Bluedot, teams looking to truly automate their meeting workflows may find themselves manually moving information between systems more often than they'd like.  
+| Feature                           | Bluedot | Circleback |
+|-----------------------------------|---------|------------|
+| Good for in-person                | ✘       | ✔          |
+| Local recording                   | ✔       | ✔          |
+| Integrations (HubSpot, Notion, etc.) | ✔    | ✔          |
+| Automation engine                  | ✔       | ✔          |
+| Language support                  | ✔       | ✔          |
+| Desktop app                       | ✔       | ✔          |
+| Mobile apps                       | ✘       | ✔          |
+| Trial or free plan                | ✔       | ✔          |
+| Security & privacy                | ✔       | ✔          |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
