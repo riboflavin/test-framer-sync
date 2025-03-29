@@ -32,20 +32,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Otter provides real-time transcription with live highlighting and commenting features, generates AI summaries of key meeting themes, and includes a free tier with basic functionality. The service focuses on note-taking and meeting transcription across platforms.
 * The service produces verbose transcripts that can lack clear structure, has accuracy issues with complex audio or speaker identification, and includes calendar management features that can lead to unwanted meeting joins. Free tier restrictions include a 40-minute limit on Zoom recordings.  
 ## Comparison table    
-Fireflies.ai makes sense for global teams who need multiple language options and don't mind missing out on automation features. The tool works well enough for basic meeting transcription and note-taking, though its limited integration depth means you'll still need to do most of the post-meeting work manually.
+Fireflies works best for global teams who need to record meetings in multiple languages and don't mind a basic feature set with limited integrations. The tool focuses on capturing and transcribing conversations but lacks meaningful automation to help teams act on what was discussed.
 
-Otter.ai fits better for English-speaking teams who want some basic automation to handle meeting follow-ups and task creation. While its automation features are helpful, the platform still requires significant manual effort to turn meeting content into meaningful action items and the integration ecosystem feels incomplete.  
-| Feature                        | Fireflies.ai | Otter.ai |
-|-------------------------------|--------------|---------|
-| Good for in-person             | ✅           | ✅      |
-| Local recording                | ✅           | ✅      |
-| Integrations (HubSpot, Notion, etc.) | ✅           | ✅      |
-| Automation engine              | ❌           | ✅      |
-| Language support               | ✅           | ❌      |
-| Desktop app                    | ❌           | ❌      |
-| Mobile apps                    | ✅           | ✅      |
-| Trial or free plan             | ✅           | ✅      |
-| Security & privacy             | ✅           | ✅      |  
+Otter makes sense for English-speaking teams who want some basic automation of their meeting workflows, though its integration options are fairly basic. The product works well for simple recording and transcription needs but doesn't go far enough in helping teams track and complete the actual work that comes out of meetings.  
+| Category                | Fireflies.ai | Otter.ai |
+|-------------------------|--------------|----------|
+| Good for in-person      | ✅           | ✅       |
+| Local recording         | ✅           | ✅       |
+| Integrations            | ✅           | ✅       |
+| Automation engine       | ❌           | ✅       |
+| Language support        | ✅           | ❌       |
+| Desktop app             | ❌           | ❌       |
+| Mobile apps             | ✅           | ✅       |
+| Trial or free plan      | ✅           | ✅       |
+| Security & privacy      | ✅           | ✅       |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
