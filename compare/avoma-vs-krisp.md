@@ -25,26 +25,25 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Evaluating Avoma and Krisp  
 ### Avoma
-* Avoma provides accurate transcription with clear speaker labels, AI summaries with highlights, and integrations for CRM/calendar workflows to handle meeting follow-up tasks. The platform requires paid plans starting around $59-79 per user monthly, has no free tier beyond trials, and new users face a learning curve due to the feature complexity and occasional meeting bot timing issues.
+* Avoma provides transcription with 95% accuracy including jargon and accents, integrates with common business tools, and includes meeting note automation. The platform offers a free tier but includes many features beyond basic transcription, which can be complex for simple use cases. Some users report occasional bugs with meeting joins and speaker identification, and higher tier pricing is expensive for small teams.
 
 ### Krisp
-* Krisp offers noise cancellation for all audio streams, works with any meeting platform including phone calls, and includes unlimited transcription plus custom vocabulary training. The tool has usage limits on its free tier, provides basic summaries rather than detailed analysis, lacks team collaboration features, and can be resource-intensive during extended meetings.  
+* Krisp focuses on noise cancellation during calls and includes AI note-taking with action item extraction. The free plan limits noise cancellation to 60 minutes daily, some users report audio distortion with loud background noise, and the application can be CPU-intensive. Customer support response times vary, and pricing can be high for users who only need single features.  
 ## Comparison table    
-Avoma seems built for sales teams and companies who need meeting data in their CRM and collaboration tools, though its limited language support and web-only interface might frustrate global teams. The automation features and business integrations show promise, but the learning curve and lack of in-person meeting support limit its broader appeal.
+Small teams and freelancers who need basic meeting recording might prefer Krisp's desktop app for its simplicity and local recording features. The lack of mobile apps isn't a big issue for users who mainly work from their computers, and the free plan covers essential needs.
 
-Krisp appears ideal for individual professionals and small teams who need simple, reliable meeting recording across multiple languages and settings, including in-person meetings. The free plan and desktop apps make it accessible, but the lack of business tool integration and automation features means users still need other tools to make their meetings truly productive.  
-| Feature                           | Avoma       | Krisp       |
-|-----------------------------------|-------------|-------------|
-| Trial/Free Plan                   | ❌ Trial only | ✅ Free plan |
-| Zoom & Calendar Integration        | ✅ Yes       | ❌ No       |
-| Easy to Use?                      | ❌ Learning curve | ✅ Yes       |
-| Good for In-Person Meetings?       | ❌ No        | ✅ Yes       |
-| Good for Local Recording?         | ❌ No        | ✅ Yes       |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes       | ❌ No       |
-| Automation Engine?                | ✅ Yes       | ❌ No       |
-| Language Support                  | ❌ English only | ✅ Multiple languages |
-| Desktop App                       | ❌ No (Web-based) | ✅ Yes (Mac & Windows) |
-| iPhone & Android Apps             | ✅ Yes (Both) | ✅ Yes (Both) |  
+Larger organizations that need mobile access and some automation would find Avoma more suitable for their workflows. The mobile apps and automation features help teams stay coordinated, though like Krisp, the limited integration depth means users still need to do much of the work manually.  
+| Feature                                | Avoma | Krisp |
+|----------------------------------------|-------|-------|
+| Good for in-person                     | ✅    | ✅    |
+| Local recording                        | ✅    | ✅    |
+| Integrations (HubSpot, Notion, etc.)   | ✅    | ✅    |
+| Automation engine                      | ✅    | ❌    |
+| Language support                       | ✅    | ✅    |
+| Desktop app                            | ❌    | ✅    |
+| Mobile apps                            | ✅    | ❌    |
+| Trial or free plan                     | ✅    | ✅    |
+| Security & privacy                     | ✅    | ✅    |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
