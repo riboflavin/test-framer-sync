@@ -28,17 +28,15 @@ Zoom AI offers seamless integration within existing Zoom workflows and generates
 
 The platform's limitations include its Zoom-only functionality and basic feature set compared to dedicated meeting AI tools, particularly around meeting management controls and chat integration. Free users face the standard 40-minute Zoom time limit, and some users report difficulties accessing AI-generated content outside of Zoom's interface.  
 ## Zoom AI features    
-| Feature | Zoom AI |
-|----------|----------|
-| In-person Meetings | ❌ |
-| Local Recording | ⚠️ |
-| Integrations | ⚠️ |
-| Automation Engine | ⚠️ |
-| Language Support | ✅ |
-| Desktop App | ✅ |
-| Mobile Apps | ✅ |
-| Free Tier | ❌ |
-| Security | ✅ |  
+Feature                                | Status
+---------------------------------------|--------
+Good for in-person                     | ❌
+Local recording                        | ✅
+Integrations (HubSpot, Notion, etc.)   | ❌
+Automation engine                      | ❌
+Language support                       | ✅
+Desktop app                           | ✅
+Mobile apps                           | ✅  
 ## Closest Zoom AI competitors    
 ### Three Notable Zoom AI Competitors
 
@@ -60,13 +58,13 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
 ### Comparison table  
 | Feature | Zoom AI | Circleback |
-|---------|----------|------------|
-| In-person meetings | ❌ | ✅ |
-| Local recording | ⚠️ | ✅ |
-| Integrations | ⚠️ | ✅ |
-| Automation engine | ⚠️ | ✅ |
+|----------|----------|------------|
+| Good for in-person | ❌ | ✅ |
+| Local recording | ❌ | ✅ |
+| Integrations | ❌ | ✅ |
+| Automation engine | ❌ | ✅ |
 | Language support | ✅ | ✅ |
 | Desktop app | ✅ | ✅ |
-| Mobile apps | ✅ | ⚠️ |
-| Free trial/plan | ❌ | ✅ |
+| Mobile apps | ✅ | ✅ |
+| Trial or free plan | ❌ | ✅ |
 | Security & privacy | ✅ | ✅ |
