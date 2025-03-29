@@ -32,20 +32,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Read.ai provides meeting transcription, engagement analytics, and multi-language support with real-time translation, plus integrations with Slack, Notion, and Confluence. The platform includes meeting quality metrics and speaker balance analysis, with particular optimization for Zoom users.
 * The free tier limits users to 5 meetings monthly, and the interface requires time to learn due to feature density. Technical issues can affect engagement metrics accuracy when participants join late or have audio problems, and some users raise privacy concerns about unauthorized meeting monitoring.  
 ## Comparison table    
-Krisp makes sense for remote teams who want a desktop-first experience and don't need mobile apps or in-person meeting support. The tool works well enough for basic meeting recording and transcription, though its integrations are basic and it can't help automate any meeting-related tasks.
+Small teams and individual professionals who need basic meeting recording and transcription might prefer Krisp, as it offers a desktop app and focuses on core functionality without much overhead. The lack of mobile apps and limited integration options means users will need to handle most post-meeting tasks manually.
 
-Read.ai fits teams who need both in-person and remote meeting coverage, especially if they want mobile access to their recordings and transcripts. While it handles the fundamentals and offers similar integration options to Krisp, it also lacks meaningful automation capabilities that could help teams actually execute on their meeting outcomes.  
-| Feature                           | Krisp | Read.ai |
-|-----------------------------------|-------|---------|
-| Good for in-person                | ✘     | ✔       |
-| Local recording                   | ✔     | ✔       |
-| Integrations (HubSpot, Notion, etc.) | ✔ | ✔       |
-| Automation engine                 | ✘     | ✘       |
-| Language support                  | ✔     | ✔       |
-| Desktop app                       | ✔     | ✘       |
-| Mobile apps                       | ✘     | ✔       |
-| Trial or free plan                | ✔     | ✔       |
-| Security & privacy                | ✔     | ✔       |  
+Larger organizations that need mobile access and want to track meetings across teams would likely choose Read.ai for its broader platform support and team features. While Read.ai offers more connectivity options than Krisp, neither tool provides the deep workflow automation that would truly transform how teams handle their meeting outcomes and follow-ups.  
+| Category                | Krisp         | Read.ai       |
+|-------------------------|---------------|---------------|
+| Good for in-person      | ✅            | ✅            |
+| Local recording         | ✅            | ✅            |
+| Integrations            | ✅            | ✅            |
+| Automation engine       | ❌            | ❌            |
+| Language support        | ✅            | ✅            |
+| Desktop app             | ✅            | ❌            |
+| Mobile apps             | ❌            | ✅            |
+| Trial or free plan      | ✅            | ✅            |
+| Security & privacy      | ✅            | ✅            |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
