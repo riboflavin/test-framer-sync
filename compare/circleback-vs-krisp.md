@@ -30,20 +30,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 ### Krisp
 * Krisp combines noise cancellation with AI note-taking, offering audio cleanup and meeting summaries in one tool. The software has limitations including potential audio distortion, 60-minute daily limit on free plans, high CPU usage, and some users report slow customer support response times.  
 ## Comparison table    
-Circleback makes sense for sales teams and consultants who need to capture meetings across different devices and want basic automation, though its integrations aren't deep enough to eliminate manual work. The mobile app and automation features help field workers stay organized, but the platform stops short of being a true productivity tool.
+Circleback makes sense for sales teams and consultants who need mobile access and want to automate follow-ups from their meetings. The automation features could save time, though the limited integration options mean you'll still need to do a lot manually.
 
-Krisp works well for desk-bound professionals and small companies who just need reliable meeting capture and basic integrations with common tools. The lack of mobile support and automation will frustrate teams who work remotely or need to coordinate across multiple locations, and like its competitor it doesn't solve the core problem of meeting follow-through.  
-| Feature                                | Circleback | Krisp     |
-|----------------------------------------|------------|-----------|
-| Good for in-person                     | ✔️         | ✔️        |
-| Local recording                        | ✔️         | ✔️        |
-| Integrations (HubSpot, Notion, etc.)   | ✔️         | ✔️        |
-| Automation engine                      | ✔️         | ❌        |
-| Language support                       | ✔️         | ✔️        |
-| Desktop app                            | ✔️         | ✔️        |
-| Mobile apps                            | ✔️         | ❌        |
-| Trial or free plan                     | ✔️         | ✔️        |
-| Security & privacy                     | ✔️         | ✔️        |  
+Krisp works well for desk-bound professionals who just need basic meeting capture and don't require mobile access. While it handles the fundamentals of recording and transcription adequately, its lack of automation and narrow integration scope means users still need other tools to actually act on meeting outcomes.  
+| Feature                                | Circleback | Krisp   |
+|----------------------------------------|------------|---------|
+| Good for in-person                     | ✔️         | ✔️      |
+| Local recording                        | ✔️         | ✔️      |
+| Integrations (HubSpot, Notion, etc.)   | ✔️         | ✔️      |
+| Automation engine                      | ✔️         | ❌      |
+| Language support                       | ✔️         | ✔️      |
+| Desktop app                            | ✔️         | ✔️      |
+| Mobile apps                            | ✔️         | ❌      |
+| Trial or free plan                     | ✔️         | ✔️      |
+| Security & privacy                     | ✔️         | ✔️      |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
