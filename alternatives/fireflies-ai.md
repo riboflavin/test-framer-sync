@@ -24,33 +24,29 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Fireflies.ai quick pros and cons    
-Fireflies.ai excels at seamless meeting transcription across major platforms, offering robust features like sentiment analysis and task tracking that make post-meeting documentation effortless. The bot-based setup is straightforward, and the detailed summaries with action items provide genuine value for busy teams.
+Fireflies.ai excels at quick setup and reliable transcription across languages, making it a practical tool for capturing meeting content and generating fast summaries. The platform offers broad compatibility across devices and integrates well with common business tools, while maintaining a free tier for basic needs.
 
-The service has notable limitations including restrictive free-tier limits and transcription accuracy issues with accented speech. The interface can feel overwhelming due to feature bloat, and the default notification system tends to flood inboxes for users with packed meeting schedules.  
+The service struggles with nuanced summaries and can falter when handling heavy accents or technical terminology. Interface clutter and aggressive notifications frustrate some users, while the free tier's limitations force upgrades for essential features like video recording.  
 ## Fireflies.ai features    
 | Feature | Fireflies.ai |
 |----------|-------------|
-| Trial/Free Plan | ✅ Free plan (limited) |
-| Zoom & Calendar Integration | ✅ Yes |
-| Easy to Use? | ✅ Yes |
-| Good for In-Person Meetings? | ❌ No |
-| Good for Local Recording? | ❌ No |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes |
-| Automation Engine? | ✅ Yes |
-| Language Support | ✅ Multiple languages |
-| Desktop App | ❌ No (Web-based) |
-| iPhone & Android Apps | ✅ Yes (Both) |  
+| In-person Meetings | ✅ Mobile app records meetings & voice notes |
+| Local Recording | ✅ In-app recording & file upload |
+| Integrations | ✅ HubSpot, Salesforce, Slack, Zapier, etc. |
+| Automation Engine | ⚡ Basic CRM logging & task creation |
+| Language Support | ✅ 100+ languages |
+| Desktop App | ❌ Web app & Chrome extension only |
+| Mobile Apps | ✅ iOS and Android |
+| Free Tier | ✅ Limited meeting credits |
+| Security | ✅ SOC 2 Type II, GDPR compliant |  
 ## Closest Fireflies.ai competitors    
-### Meeting Assistant Options
+### Three Notable Meeting AI Tools to Consider
 
-**Fathom**
-Simple, accurate transcription tool with unlimited free tier. Good for individuals who just need reliable meeting notes and don't want the complexity of enterprise features.
+**Fathom** - Free tier is unusually generous with unlimited recordings. Produces instant, accurate summaries in multiple formats and has a clean interface that stays out of your way.
 
-**Granola**
-Local-first Mac app that merges your typed notes with AI transcription. No meeting bot needed - just works quietly in background while you take notes normally.
+**Granola** - Runs locally on your Mac and listens passively without joining meetings. You jot quick notes during the call and it enhances them with AI after, producing personalized summaries.
 
-**Krisp**
-Background tool that removes noise and transcribes any call, regardless of platform. Includes good free tier and focuses on audio quality first, with meeting notes as bonus feature.  
+**Krisp** - Unique combo of excellent noise cancellation plus meeting transcription. Removes background noise in real-time while capturing meeting content for summaries. Free tier includes 60 min/day.  
 ## Fireflies.ai vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -61,14 +57,13 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 * Ability to capture both online and in-person meetings with desktop and mobile apps    
 ### Comparison table  
 | Feature | Fireflies.ai | Circleback |
-|----------|-------------|------------|
-| Free Plan | ✅ Limited | ❌ Trial only |
-| Meeting Recording | ✅ | ✅ |
-| Transcription | ✅ | ✅ |
-| Custom Vocabulary | ❌ | ✅ |
-| Speaker Separation | ❌ | ✅ |
-| Search & Filter | ✅ | ✅ |
-| Meeting Summary | ✅ | ✅ |
-| Language Support | ✅ Multiple | ✅ 100+ |
-| Desktop App | ❌ Web-only | ✅ Mac & Windows |
-| Mobile Support | ✅ Both | ✅ Both |
+|----------|------------|------------|
+| In-person Recording | ✓ | ✓ |
+| Direct Recording | ✓ | ✓ |
+| Integrations | ✓ | ✓ |
+| Workflow Automation | ⚠️ | ✓ |
+| Multi-language Support | ✓ | ✓ |
+| Desktop App | ✗ | ✓ |
+| Mobile App | ✓ | ⚠️ |
+| Free Tier | ✓ | ✗ |
+| Security Compliance | ✓ | ✓ |
