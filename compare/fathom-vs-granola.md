@@ -25,28 +25,25 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Evaluating Fathom and Granola  
 ### Fathom
-* Offers unlimited free usage of core features, accurate transcription with multi-speaker support, and summaries that capture key points. Works in multiple languages and recently expanded beyond Zoom to other platforms in beta.
-* Has issues with duplicate notes during team usage, lacks real-time collaboration features, and requires paid plans for advanced integrations and analytics.
+* Fathom offers a free plan with transcription and AI summaries that appear seconds after meetings, with different summary formats available and live meeting support. The platform lacks external audio file upload capability, requires desktop use without a mobile app, and keeps some features like meeting templates restricted to paid plans.
 
 ### Granola
-* Functions by listening on device without meeting bots, includes custom note templates, and provides transcription for missed details in a simple notepad interface.
-* Limited to MacOS currently, has minimal third-party integrations, lacks multi-user capabilities, and offers basic transcript editing as a new product.  
+* Granola provides automated note-taking with customizable templates and operates without visible meeting interference through a simple interface similar to Apple Notes. The tool is currently Mac-only, lacks a mobile app, requires system audio capture to function, and shows some limitations due to being a newer platform.  
 ## Comparison table    
-Fathom works best for remote teams who live in Zoom and need basic integrations with common work tools, though it won't help much with execution or complex workflows. The platform supports multiple languages and works on mobile devices, making it suitable for distributed teams who need to capture and share meeting content across time zones.
+Fathom works best for remote sales teams and customer success managers who need to track conversations and pull insights from their calls. While it offers some basic integrations and automation capabilities, users still need to do most of the heavy lifting to turn meeting insights into action.
 
-Granola is built for people who primarily meet in person or want to record locally on their Macs, without much need for integration with other tools. The desktop-first approach and lack of mobile apps or deep integrations makes it most suitable for individual professionals or small teams who want a simple way to capture and reference their meetings, though they'll need other tools to actually get work done.  
-| Feature                           | Fathom               | Granola              |
-|-----------------------------------|----------------------|----------------------|
-| Trial/Free Plan                   | ✅ Free unlimited plan| ✅ Free plan (limited)|
-| Zoom & Calendar Integration       | ✅ Yes               | ❌ No                |
-| Easy to Use?                      | ✅ Yes               | ✅ Yes               |
-| Good for In-Person Meetings?      | ❌ No                | ✅ Yes               |
-| Good for Local Recording?         | ❌ No                | ✅ Yes               |
-| Integrates with HubSpot, Notion, etc.? | ✅ Yes           | ❌ No                |
-| Automation Engine?                | ❌ No                | ❌ No                |
-| Language Support                  | ✅ Multiple languages| ❌ English only      |
-| Desktop App                       | ❌ No (Web-based)    | ✅ Yes (Mac-only)    |
-| iPhone & Android Apps             | ✅ Yes (Both)        | ❌ No                |  
+Granola is built for teams who regularly meet in person and want to capture their conversations without much complexity. Though it handles the basics of recording and transcription well, it lacks the deeper workflow tools and integrations that would make it truly valuable for getting work done after the meeting ends.  
+| Feature                           | Fathom | Granola |
+|-----------------------------------|--------|---------|
+| Good for in-person                | ❌      | ✔       |
+| Local recording                   | ✔      | ✔       |
+| Integrations (HubSpot, Notion, etc.) | ✔   | Partial |
+| Automation engine                  | ✔      | ❌      |
+| Language support                  | ✔      | ✔       |
+| Desktop app                       | ✔      | ✔       |
+| Mobile apps                       | ❌      | ❌      |
+| Trial or free plan                | ✔      | ✔       |
+| Security & privacy                | ✔      | ✔       |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
