@@ -30,20 +30,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 ### Krisp
 * Krisp removes background noise during calls and provides AI note-taking with summaries and action items. The service has a 60-minute daily limit on the free plan, can sometimes distort audio or clip words with loud noises, uses significant CPU resources, and receives mixed reviews for customer support response times.  
 ## Comparison table    
-Fathom works best for remote teams who need basic automation and want their meeting content synced to other tools, though the integration options are still quite limited. The lack of local recording and in-person capabilities makes it less suitable for hybrid teams who need to capture conversations happening in conference rooms.
+Fathom works best for remote teams who need basic meeting summaries and want to automate simple follow-up tasks, though its limited integration options mean you'll still be doing most of the work manually. The tool's lack of in-person meeting support and mobile apps makes it most suitable for desk-bound remote workers who spend their days in Zoom calls.
 
-Krisp is better suited for companies with hybrid work environments who need reliable local recording and in-person meeting capture, but don't require much automation. While it offers some basic integrations, it doesn't help teams do much with their meeting content beyond basic transcription and recording.  
-| Feature                           | Fathom | Krisp |
-|-----------------------------------|--------|-------|
-| Good for in-person                | ❌      | ✅    |
-| Local recording                   | ❌      | ✅    |
-| Integrations (HubSpot, Notion, etc.) | ✅   | ✅    |
-| Automation engine                 | ✅     | ❌    |
-| Language support                  | ✅     | ✅    |
-| Desktop app                       | ✅     | ✅    |
-| Mobile apps                       | ❌     | ❌    |
-| Trial or free plan                | ✅     | ✅    |
-| Security & privacy                | ✅     | ✅    |  
+Krisp is built for people who regularly switch between in-person and remote meetings, and need reliable recording capabilities regardless of their meeting location. While it handles the basics of meeting capture well, its missing automation features and shallow integration ecosystem mean users will need other tools to actually act on what happens in their meetings.  
+| Category                | Fathom                | Krisp                |
+|-------------------------|-----------------------|----------------------|
+| Good for in-person      | ❌                    | ✅                   |
+| Local recording         | ❌                    | ✅                   |
+| Integrations            | ✅                    | ✅                   |
+| Automation engine       | ✅                    | ❌                   |
+| Language support        | ✅                    | ✅                   |
+| Desktop app             | ✅                    | ✅                   |
+| Mobile apps             | ❌                    | ❌                   |
+| Trial or free plan      | ✅                    | ✅                   |
+| Security & privacy      | ✅                    | ✅                   |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
