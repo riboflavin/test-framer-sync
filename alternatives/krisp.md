@@ -24,33 +24,27 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?  
 * Recordings: is there support for saving and playing back audio and video recordings of meetings?    
 ## Krisp quick pros and cons    
-Krisp excels at noise cancellation across any platform and offers unlimited transcription with custom vocabulary support. The free tier is generous for basic needs, providing daily noise reduction and meeting summaries without complex setup.
+Krisp excels at noise cancellation and has become essential for many professionals, with an intuitive interface that makes it simple to toggle on and off during calls. The AI note-taking feature generates accurate summaries and action items, saving time and making meetings more productive.
 
-The downsides include CPU-intensive processing that can strain systems during extended use and limited collaboration features for teams. Free plan restrictions and somewhat basic meeting summaries may push power users toward paid tiers or competitor products.  
+The software has notable drawbacks including occasional audio distortion, high CPU usage, and limited free-tier functionality that caps at 60 minutes daily. The pricing structure can feel expensive for single-feature users, and customer support response times are inconsistent.  
 ## Krisp features    
-| Feature | Status |
-|----------|---------|
-| Trial/Free Plan | ✅ |
-| Zoom & Calendar Integration | ❌ |
-| Easy to Use? | ✅ |
-| Good for In-Person Meetings? | ✅ |
-| Good for Local Recording? | ✅ |
-| Integrates with HubSpot, Notion, etc.? | ❌ |
-| Automation Engine? | ❌ |
+| Feature | Krisp |
+|---------|--------|
+| In-person Recording | ✅ |
+| Local Recording | ✅ |
+| Integrations | ✅ |
+| Automation Engine | ⚡ |
 | Language Support | ✅ |
 | Desktop App | ✅ |
-| iPhone & Android Apps | ✅ |  
+| Mobile Apps | ❌ |  
 ## Closest Krisp competitors    
-### Simple Meeting Tool Summaries
+### Three Notable Meeting AI Tools to Consider
 
-**Fathom**
-Free unlimited recording and transcription with good accuracy. Works mainly with Zoom but expanding to other platforms. Summaries are solid and it handles non-English well.
+**Fathom**: Desktop app that records Zoom/Meet/Teams calls and makes AI summaries. Free tier is generous with unlimited recordings. Produces instant, accurate summaries in multiple formats but lacks mobile app.
 
-**Granola**
-Mac-only app that runs locally and merges your typed notes with AI transcription. Simple, private, no meeting bot needed. $10/month flat pricing.
+**Otter.ai**: Real-time transcription tool with 600 free minutes monthly. Good at capturing everything said but transcripts can be verbose. Works well for basic needs and has solid free tier.
 
-**Fireflies**
-Bot that joins meetings on any platform to record and summarize. Works everywhere but free tier is limited. $10-19/month per user depending on features.  
+**Granola**: Mac-only tool that runs locally and enhances your brief meeting notes with AI. Very simple interface, no meeting bot needed. Limited platform support currently but clean implementation.  
 ## Krisp vs. Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
@@ -62,11 +56,12 @@ Circleback provides best-in-class AI-powered meeting notes and automations. We s
 ### Comparison table  
 | Feature | Krisp | Circleback |
 |---------|--------|------------|
-| Free Plan | ✅ | ❌ |
-| In-Person Meetings | ❌ | ✅ |
-| Local Recording | ✅ | ✅ |
-| Integrations | ✅ | ✅ |
-| Automation Engine | ❌ | ✅ |
-| Language Support | ✅ | ✅ |
-| Desktop App | ✅ | ✅ |
-| Mobile Apps | ✅ | ✅ |
+| In-person Recording | ✓ | ✓ |
+| Local Recording | ✓ | ✓ |
+| Integrations | ✓ | ✓ |
+| Automation Engine | ⚠️ | ✓ |
+| Language Support | 95+ | 100+ |
+| Desktop App | ✓ | ✓ |
+| Mobile Apps | ✗ | ✓ |
+| Free Plan | ✓ | ⚠️ |
+| Security & Privacy | ✓ | ✓ |
