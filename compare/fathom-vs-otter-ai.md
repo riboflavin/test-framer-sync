@@ -30,20 +30,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 ### Otter.ai
 * Otter.ai provides transcription and note-taking for meetings with real-time features, highlighting tools, and AI-generated summaries of key themes, along with a free tier that includes basic functionality. The service can produce verbose transcripts that may lack structure, has accuracy issues with complex audio, and includes meeting management features that require careful configuration to avoid unwanted calendar interactions.  
 ## Comparison table    
-Fathom is best suited for remote-first teams and sales organizations who need advanced language support and desktop-based workflows. While it offers some basic integrations with popular tools like HubSpot and Notion, its lack of mobile apps and in-person recording capabilities limit its usefulness for hybrid teams.
+Fathom works best for remote-first teams who need desktop software and want to handle multiple languages in their meetings, though its lack of mobile apps and in-person recording capabilities limit its usefulness outside the office. The tool's basic integrations and automation features help teams stay organized, but users still end up doing most of the heavy lifting when it comes to meeting follow-through.
 
-Otter works well for individuals and teams who frequently switch between in-person and remote meetings, with strong mobile support and local recording options. Though it connects with common workplace tools and offers good automation features, its limited language support and lack of a desktop app make it less ideal for global enterprise use.  
-| Feature                        | Fathom                           | Otter.ai                         |
-|-------------------------------|----------------------------------|----------------------------------|
-| Good for in-person             | ❌                               | ✅                               |
-| Local recording                | ❌                               | ✅ (via app)                     |
-| Integrations                  | ✅ (HubSpot, Notion, etc.)       | ✅ (Zoom, Slack, HubSpot, Notion)|
-| Automation engine              | ✅                               | ✅                               |
-| Language support               | ✅ (25+ languages)               | Limited (English, Spanish, French)|
-| Desktop app                   | ✅ (Mac/Windows)                 | ❌                               |
-| Mobile apps                   | ❌                               | ✅ (iOS and Android)             |
-| Trial or free plan            | ✅ (Free personal plan)          | ✅ (Generous free plan)          |
-| Security & privacy             | ✅ (SOC 2 Type II & HIPAA compliant) | ✅ (SOC 2 Type II certified)   |  
+Otter.ai is a solid choice for hybrid teams who frequently switch between in-person and remote meetings, with its mobile apps and local recording features making it particularly flexible. While it offers similar automation and integration features to Fathom, it falls short on language support and, like its competitor, doesn't go far enough in turning meeting insights into actionable outcomes.  
+| Category                | Fathom                | Otter.ai              |
+|-------------------------|-----------------------|-----------------------|
+| Good for in-person      | ❌                    | ✅                    |
+| Local recording         | ❌                    | ✅                    |
+| Integrations            | ✅                    | ✅                    |
+| Automation engine       | ✅                    | ✅                    |
+| Language support        | ✅                    | Limited               |
+| Desktop app             | ✅                    | ❌                    |
+| Mobile apps             | ❌                    | ✅                    |
+| Trial or free plan      | ✅                    | ✅                    |
+| Security & privacy      | ✅                    | ✅                    |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
