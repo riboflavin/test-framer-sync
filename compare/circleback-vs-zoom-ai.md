@@ -30,20 +30,20 @@ In addition to the quality of these deliverables, we'll want to look at a number
 ### Zoom AI
 * Zoom AI operates within the Zoom platform, offering instant meeting summaries and action items at no extra cost for paid accounts. The tool has limited functionality outside Zoom meetings, basic chat integration, and occasional issues sharing notes externally.  
 ## Comparison table    
-Small teams and startups that meet in person frequently will find Circleback more useful, since it works well for face-to-face meetings and offers a free trial to test it out. The automation features and broader integration set make it a decent choice for teams starting to formalize their meeting processes, though the integrations could go deeper.
+Circleback seems built for companies that do a lot of in-person meetings and need to capture everything locally, which makes sense for law firms or medical offices that have strict privacy needs. The automation features and integrations are decent but could go deeper, especially around helping users actually execute on what gets discussed in meetings.
 
-Zoom AI makes more sense for remote-first companies already using Zoom who want to add some basic AI features to their existing workflow. While it handles the basics of meeting transcription and summary well enough, the limited automation capabilities and integration options mean teams will still need other tools to properly action their meeting outcomes.  
-| Feature                                | Circleback | Zoom AI   |
-|----------------------------------------|------------|-----------|
-| Good for in-person                     | ✅         | ❌        |
-| Local recording                        | ✅         | Partial   |
-| Integrations (HubSpot, Notion, etc.)   | ✅         | Limited   |
-| Automation engine                      | ✅         | Limited   |
-| Language support                       | ✅         | ✅        |
-| Desktop app                            | ✅         | ✅        |
-| Mobile apps                            | ✅         | ✅        |
-| Trial or free plan                     | ✅         | ❌        |
-| Security & privacy                     | ✅         | ✅        |  
+Zoom AI appears targeted at remote-first companies that already live in Zoom and want AI features bolted onto their existing workflow, though they'll need to pay since there's no free tier. While it handles the basics well enough, both the automation capabilities and third-party integrations feel somewhat shallow, limiting how much the tool can actually help get post-meeting work done.  
+| Category              | Circleback | Zoom AI |
+|-----------------------|------------|---------|
+| Good for in-person    | ✅         | ❌      |
+| Local recording       | ✅         | Partial |
+| Integrations          | ✅         | Limited |
+| Automation engine     | ✅         | Limited |
+| Language support      | ✅         | ✅      |
+| Desktop app           | ✅         | ✅      |
+| Mobile apps           | ✅         | ✅      |
+| Trial or free plan    | ✅         | ❌      |
+| Security & privacy    | ✅         | ✅      |  
 ## Another alternative: Circleback  
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.  
   
