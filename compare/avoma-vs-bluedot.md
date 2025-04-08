@@ -1,7 +1,7 @@
 ---
-type\: comparison
-title\: Avoma vs Bluedot\: Feature and product comparison
-description\: Detailed comparison of AI meeting notes platforms Avoma and Bluedot, reviewing their transcription accuracy, meeting summary capabilities, topic segmentation, ease-of-use, in-person support, security, integrations, and pricing.
+type: comparison
+title: Avoma vs Bluedot: Feature and product comparison
+description: A detailed comparison of AI meeting assistant platforms Avoma and Bluedot, exploring their capabilities in transcription, action items, summaries, and topic segmentation, along with analysis of usability, meeting support, security, integrations, and mobile access.
 ---
 
 # Avoma vs Bluedot: Feature and product comparison
@@ -22,10 +22,14 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
 ## About Avoma
-Avoma is an AI meeting assistant that records, transcribes, and summarizes meetings. It organizes notes into topics like pain points and next steps, and supports agenda templates, live note collaboration, and CRM syncing with Salesforce and HubSpot. The platform achieves about 95% transcription accuracy even with technical jargon or accents. It integrates with Zoom, HubSpot, Slack and other tools. Avoma includes a mobile app for offline/in-person recording and supports 20+ languages for transcription. The service offers a free plan limited to about 10 meetings monthly, with paid tiers ranging from $19 to $129 per user per month. Some users find it unnecessarily comprehensive for basic needs, occasionally experience minor bugs like late-joining bots, and note that transcripts can be dense to navigate quickly.
+Avoma is an AI meeting assistant that records, transcribes, and summarizes meetings. It generates notes organized by topics like pain points and next steps, with around 95% transcription accuracy even with jargon or accents. The platform supports agenda templates, live note collaboration, CRM synchronization, and works with multiple meeting platforms. While primarily used by sales and customer success teams for call logging and follow-ups, it's also used for general meeting productivity across organizations.
+
+The platform offers tiered pricing from a free plan (limited to about 10 meetings monthly) to enterprise solutions at $129/user. It integrates with calendars, CRMs, and other tools through its ecosystem, while supporting 20+ languages for transcription. Avoma provides mobile apps for iOS and Android that can record offline meetings, but has no dedicated desktop application. Some users find it unnecessarily complex for basic transcription needs, and occasionally experience minor bugs like delayed bot joining or speaker identification errors.
 
 ## About Bluedot
-Bluedot is an AI meeting recorder and note-taker that works via a Chrome extension without requiring a meeting bot. It records and transcribes meetings on Google Meet, Zoom, Microsoft Teams, and other platforms in real-time, then generates AI-powered notes with one-click sync to various systems like Salesforce, HubSpot, Notion, Slack, and Google Docs. The tool supports over 100 languages for transcription. It operates in the background, allowing discreet recording even when you're not the meeting host. Bluedot offers a free version limited to 5 lifetime meetings, with paid tiers starting at around $18/user/month for unlimited audio recordings. Higher tiers add features like unlimited video recording, custom templates, and CRM integrations. The system works via desktop app for Windows/Mac but doesn't currently offer mobile apps.
+Bluedot is an AI meeting recorder and note-taker that works through a Chrome extension without requiring a meeting bot. It records and transcribes meetings in real-time across platforms like Google Meet, Zoom, and Microsoft Teams, supporting over 100 languages. The tool generates AI-powered meeting notes and offers one-click sync to various systems including CRM platforms, project tools, Google Docs, and Slack. It operates discreetly in the background, allowing users to capture meetings even when they aren't the host.
+
+The service offers tiered pricing with a limited free version (5 meetings total), then paid plans starting at $18/user/month for audio recordings and increasing to $40/user/month for business features including unlimited video recordings, CRM integrations, and topic tracking. Bluedot works well for in-person meetings via local recording, but currently lacks mobile app support, focusing instead on desktop functionality through its Chrome extension and desktop application for Windows and Mac.
 
 ## Comparison
 ### Avoma
@@ -52,4 +56,9 @@ Avoma is better suited for sales and customer success teams who need a comprehen
 Bluedot works best for individual professionals and teams who prioritize transcription accuracy and discreet recording without meeting interruptions. The Chrome extension approach makes it ideal for users who don't have meeting hosting privileges but still need to capture content, though the limited free tier means users should be ready to commit financially after testing.
 
 ## Another alternative: Circleback
-Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings. * Automatically-identified and assigned action items * AI-enabled search across all meetings * Automations with 100+ app integrations * Industry-leading security with SOC 2 Type II, EU-U.S. Data Privacy Framework, and HIPAA compliance * Ability to capture both online and in-person meetings with desktop and mobile apps
+Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings. 
+* Automatically-identified and assigned action items 
+* AI-enabled search across all meetings 
+* Automations with 100+ app integrations 
+* Industry-leading security with SOC 2 Type II, EU-U.S. Data Privacy Framework, and HIPAA compliance 
+* Ability to capture both online and in-person meetings with desktop and mobile apps
