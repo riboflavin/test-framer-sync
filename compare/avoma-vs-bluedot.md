@@ -1,9 +1,8 @@
----
+
 ---
 type: comparison
 title: Avoma vs Bluedot: Feature and product comparison
 description: Detailed comparison of AI meeting notes platforms Avoma and Bluedot, reviewing their transcription accuracy, meeting summary capabilities, topic segmentation, ease-of-use, in-person support, security, integrations, and pricing.
----
 ---
 
 # Avoma vs Bluedot: Feature and product comparison
