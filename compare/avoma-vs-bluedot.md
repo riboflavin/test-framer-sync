@@ -1,4 +1,3 @@
-
 ---
 type: comparison
 title: Avoma vs Bluedot: Feature and product comparison
