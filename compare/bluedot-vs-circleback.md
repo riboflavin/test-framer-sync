@@ -1,17 +1,17 @@
 ---
 type: comparison
 title: Bluedot vs Circleback – Feature and product comparison
-description: A detailed comparison of AI meeting notes platforms Bluedot and Circleback, examining their key features, pricing, and ideal use cases.
+description: A detailed comparison of AI meeting automation tools Bluedot and Circleback, analyzing their features, pricing, and capabilities.
 ---
 
 # Bluedot vs Circleback – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+## What should you expect from an AI meeting automation tool?
+AI meeting automation tools provide four primary functions:
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +21,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About Bluedot
+## Understanding Bluedot and Circleback
 Bluedot is an AI meeting recorder and note-taker that works via a Chrome extension, eliminating the need for meeting bots. It records and transcribes meetings on platforms like Zoom, Google Meet, and Microsoft Teams in real-time, supporting over 100 languages. The tool generates AI-powered meeting notes and offers one-click sync to various platforms including CRMs (Salesforce, HubSpot), project tools (Notion, Slack), and Google Docs. It works discreetly in the background even when you're not the meeting host.
 
 The service offers tiered pricing with a limited free version (5 meetings total), Basic plan (~$18/month) for unlimited audio recordings up to 1 hour each, Pro plan (~$25/month) adding unlimited video recording and meeting length, and Business plan (~$40/month) with additional CRM integrations and unlimited imports. While praised for transcription accuracy and integration capabilities, limitations include Chrome dependency, relatively steep pricing at higher tiers, and limited mobile support.
 
-## About Circleback
 Circleback appears to have no data provided in the given context. The context file shows "#N/A" under the Circleback section, indicating that information about this product is missing or unavailable.
 
 Without any specific details about Circleback's functionality, features, pricing, or user reviews in the provided context, it's not possible to describe the product accurately.
 
-## Comparison
+## Comparing Bluedot and Circleback
+
 ### Bluedot
 
 * Bluedot functions as an AI meeting recorder that works via Chrome extension without requiring a meeting bot, recording meetings on various platforms in real-time. Its free version is limited to 5 meetings lifetime, requiring paid plans ranging from $14-40/month for features like unlimited recording, longer meeting lengths, and CRM integrations, while lacking substantive post-meeting workflow assistance despite integrations with systems like Salesforce and Notion.
