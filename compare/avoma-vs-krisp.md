@@ -1,17 +1,17 @@
 ---
 type: comparison
 title: Avoma vs Krisp – Feature and product comparison
-description: A comprehensive comparison between Avoma and Krisp AI meeting platforms, examining their features, capabilities, pricing, and suitability for different use cases.
+description: A detailed comparison of Avoma and Krisp AI meeting automation tools, evaluating their transcription, action item extraction, meeting summary, and topic segmentation capabilities.
 ---
 
 # Avoma vs Krisp – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+## What should you expect from an AI meeting automation tool?
+AI meeting automation tools provide four primary functions:
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +21,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About Avoma
+## Understanding Avoma and Krisp
 Avoma is an AI meeting assistant platform that records, transcribes, and summarizes meetings. It generates notes organized by topics like pain points and next steps, with approximately 95% transcription accuracy even with accents or jargon. The system offers agenda templates, live note collaboration, CRM integration with Salesforce and HubSpot, and supports over 20 languages. It functions across both online and offline meetings through mobile recording.
 
 The platform operates on a tiered pricing model starting with a free plan (limited to about 10 meetings monthly), then paid tiers from $19 to $129 per user monthly. It integrates with various tools including Zoom, calendars, and CRMs, while automating note-taking and follow-up tasks. Some users find it overly complex for basic transcription needs, occasionally experience delays with the bot joining meetings, and note that transcripts can be dense to review quickly. The system has web and mobile apps but no dedicated desktop application.
 
-## About Krisp
 Krisp is an AI voice enhancement tool that functions as both a noise cancellation system and meeting assistant. It removes background noises like dog barks, keyboard sounds, and echo from audio in real-time across communication apps by acting as an audio filter layer. The tool has expanded to include meeting recording, transcription in 90+ languages, and AI-generated summaries with key points and action items.
 
 The software operates through a desktop app for Windows and Mac, with no current mobile app support. It offers a free tier with 60 minutes of daily noise cancellation and limited meeting summaries, while paid plans start at $8/month for unlimited features. Krisp integrates with calendar systems for one-click recording and HubSpot CRM to transfer meeting content. The tool works for both online and offline conversations, recording locally without requiring a meeting bot.
 
-## Comparison
+## Comparing Avoma and Krisp
+
 ### Avoma
 
 - Avoma functions as an all-in-one meeting assistant that records, transcribes, and summarizes conversations through structured topic breakdowns. While it offers comprehensive features including CRM integration and agenda templates, its limited integration depth makes it challenging to fully incorporate into existing workflows.
