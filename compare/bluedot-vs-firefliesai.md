@@ -1,17 +1,17 @@
 ---
 type: comparison
 title: Bluedot vs Fireflies.ai – Feature and product comparison
-description: A detailed comparison of AI meeting notes platforms Bluedot and Fireflies.ai, evaluating their transcription quality, action item tracking, meeting summaries, topic segmentation, ease-of-use, in-person meeting support, security, integrations, functionality, language support, and platform availability.
+description: A comprehensive comparison of AI meeting automation tools Bluedot and Fireflies.ai, evaluating their features, pricing, and use cases.
 ---
 
 # Bluedot vs Fireflies.ai – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+## What should you expect from an AI meeting automation tool?
+AI meeting automation tools provide four primary functions:
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +21,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About Bluedot
+## Understanding Bluedot and Fireflies.ai
 Bluedot is an AI meeting recorder and note-taker delivered via Chrome extension. It works on all major meeting platforms like Zoom, Google Meet, and Microsoft Teams without requiring a bot to join calls. The tool records and transcribes meetings in real-time, supports over 100 languages, and integrates with common workflow tools like Salesforce, HubSpot, Notion, and Slack. Its key technical advantage is local recording capability that functions even when you're not the meeting host.
 
 The service operates on a tiered pricing model with a limited free version (5 meetings total), and paid plans ranging from $14-40 per user/month depending on features needed. The Basic plan offers unlimited audio-only recordings with 1-hour maximums, while higher tiers add video recording, unlimited meeting length, custom templates, CRM integrations, and topic tracking. Bluedot works primarily on desktop Chrome browsers, with limited mobile support currently available.
 
-## About Fireflies.ai
 Fireflies.ai is a cloud-based meeting assistant that joins calls as a bot participant to record, transcribe, and summarize discussions across platforms like Zoom, Teams, Google Meet, and Webex. It generates transcripts with speaker labels, provides an AI summary of key points and action items, and offers features such as keyword search and the AskFred chatbot for querying meeting content. The tool works across various meeting platforms, supports over 100 languages, offers mobile apps for iOS and Android, and integrates with tools like Slack, Asana, and CRM systems.
 
 The service is structured in tiers, starting with a free plan that includes limited monthly meeting credits, while paid plans range from $10/user/month (Pro) to $19/user/month (Business) with additional features like video recording and advanced analytics. Users can record in-person meetings via the mobile app and upload offline files for transcription. While Fireflies doesn't have a desktop app, it operates through a web interface and Chrome extension, with its AI assistant joining calls from the cloud.
 
-## Comparison
+## Comparing Bluedot and Fireflies.ai
+
 ### Bluedot
 
 * Bluedot offers high-accuracy transcription through a Chrome extension that works without adding a bot to meetings. The service limits free usage to just 5 total meetings, essentially functioning as a trial, making it primarily a paid solution from the start. While it integrates with key apps like Notion and Salesforce, these integrations lack depth and don't fully bridge the gap between capturing meeting data and actual productivity improvements.
