@@ -1,17 +1,17 @@
 ---
 type: comparison
 title: Avoma vs Granola – Feature and product comparison
-description: Detailed analysis comparing Avoma and Granola AI meeting note platforms, evaluating transcription quality, action item capture, meeting summaries, and additional factors like ease-of-use, in-person support, security, and integrations.
+description: A comprehensive comparison of AI meeting assistants Avoma and Granola, analyzing their features, pricing, and use cases for meeting transcription, summarization, and note-taking.
 ---
 
 # Avoma vs Granola – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+## What should you expect from an AI meeting automation tool?
+AI meeting automation tools provide four primary functions:
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +21,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About Avoma
+## Understanding Avoma and Granola
 Avoma is an AI meeting assistant that records, transcribes, and summarizes meetings. It generates organized notes categorized by topics and actionable insights, with ~95% transcription accuracy even for technical jargon or accents. The platform supports agenda templates, note collaboration, CRM sync with Salesforce and HubSpot, and works for both online and in-person meetings via mobile. It operates across 20+ languages and includes a comprehensive integration ecosystem with Zoom, Slack and other tools.
 
 The service is structured in tiers starting with a free plan (~10 meetings/month), then paid options from $19 to $129 per user monthly. While popular with sales and customer success teams for automatic call logging, some users find it unnecessarily complex for basic transcription needs. Occasional issues include delayed meeting joins, speaker identification errors, and dense transcripts that can be difficult to skim quickly. The platform functions through a web interface and mobile apps with no dedicated desktop application.
 
-## About Granola
 Granola is an AI notepad for meetings that runs locally on Mac computers. It captures meeting audio without requiring a bot to join calls, allowing users to make brief notes during conversations. When meetings end, Granola combines the audio recording with any user notes to produce structured summaries with sections like key takeaways and next steps. It works with all major meeting platforms by capturing system audio and offers customizable note templates.
 
 The tool requires no setup for each meeting and functions offline on Mac with local recording and transcription. Pricing starts with a free trial of 25 meetings, followed by plans ranging from $18/month for individuals to $35/user/month for enterprise features. Current limitations include Mac-only support (no Windows version), no mobile apps yet, and limited integrations beyond calendar sync and Notion export. It supports approximately 16 languages but requires manual language selection.
 
-## Comparison
+## Comparing Avoma and Granola
+
 ### Avoma
 
 * Avoma functions as an all-in-one meeting assistant that records, transcribes, and summarizes conversations. The platform offers organized notes with topic breakdowns, but lacks deeper integrations that would truly enhance productivity across workflows.
