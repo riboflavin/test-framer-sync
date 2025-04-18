@@ -1,17 +1,18 @@
 ---
 type: comparison
 title: tldv vs Avoma – Feature and product comparison
-description: A detailed comparison of AI meeting notes platforms tldv and Avoma, analyzing their transcription, action item capturing, meeting summaries, and topic segmentation capabilities alongside factors like ease-of-use, in-person meeting support, security, and integrations.
+description: Comparing tldv and Avoma AI meeting automation tools for transcription, action items, summaries, and topic segmentation, with pricing and feature analysis.
 ---
 
 # tldv vs Avoma – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
 
+## Other key features
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +22,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About tldv
+## Understanding tldv and Avoma
 Tldv is a meeting productivity tool that records, transcribes, and summarizes conversations across video conferencing platforms. It provides timestamps, highlights, and CRM integration capabilities, with AI agents handling recording, note-taking, and CRM logging functions. The system supports over 30 languages and offers local recording through desktop applications for Zoom and Microsoft Teams.
 
 The service operates with a tiered pricing model: a free tier and paid options at $18/month (Pro) and $59/month (Business). It offers desktop applications for Windows and macOS but lacks a native mobile app. Tldv connects with HubSpot, Notion, Salesforce and claims integration with 5,000+ other services. The platform requires internet connectivity for optimal performance and has limited support for in-person meetings.
 
-## About Avoma
 Avoma is an AI meeting assistant that records, transcribes, and summarizes meetings. It organizes notes by topics such as pain points and next steps, captures meeting information into CRMs like Salesforce and HubSpot, and supports agenda templates and live note collaboration. The platform works for both online meetings and in-person conversations through its mobile app, offers approximately 95% transcription accuracy, and supports 20+ languages.
 
 The service is structured across multiple tiers: a free plan limited to about 10 meetings monthly, and paid plans ranging from $19 to $129 per user per month. Avoma integrates with calendars, CRMs, and other tools via Zapier, and automates note-taking, follow-up emails, and data entry. It's web-based with iOS and Android mobile apps but lacks a dedicated desktop application.
 
-## Comparison
+## Comparing tldv and Avoma
+
 ### tldv
 
 * tldv offers AI meeting recording, transcription, and summarization with integrations to various tools like HubSpot and Notion. While it provides accurate transcriptions and an intuitive UI, the tool struggles with limited platform support and relies heavily on internet quality.
