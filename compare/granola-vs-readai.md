@@ -1,17 +1,18 @@
 ---
 type: comparison
 title: Granola vs Read.ai – Feature and product comparison
-description: A detailed comparison of Granola and Read.ai AI meeting notes platforms, examining transcripts, action items, meeting summaries, topic segmentation, ease-of-use, in-person meeting support, security, integrations, functionality, language support, and app availability.
+description: A detailed comparison of Granola and Read.ai AI meeting automation tools, covering transcripts, action items, summaries, topic segmentation, and key features like ease-of-use, in-person meeting support, security, integrations, and platform compatibility.
 ---
 
 # Granola vs Read.ai – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
 
+## Other key features
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +22,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About Granola
+## Understanding Granola and Read.ai
 Granola is an AI notepad that runs directly on Mac computers to capture and enhance meeting notes. It works by listening to system audio from any meeting platform without requiring a bot in the call. Users can type brief notes during meetings, and afterward Granola combines these with the audio recording to generate structured notes with sections like key takeaways and next steps. It offers customizable templates for different meeting types and an AI assistant for follow-up content generation.
 
 The tool works offline, recording and transcribing locally on Mac devices. After a free trial of 25 meetings, pricing starts at $18/month for individuals and $14/user/month for business teams. Current limitations include Mac-only support (Windows version pending), no mobile apps yet, and limited integrations beyond calendar sync and Notion export. It supports approximately 16 languages, though users must manually set the meeting and summary language.
 
-## About Read.ai
 Read.ai is a meeting "copilot" that provides real-time transcription and summarization for virtual meetings on Zoom, Teams, and Meet platforms. It captures not only the content but analyzes engagement metrics like speaking time, sentiment, and attention scores. After meetings, it generates reports with key points and action items, while offering search functionality across meeting transcripts. Additional features include Slack thread and email summarization, support for 16+ languages with real-time translation, and integrations with tools like Notion, Confluence, HubSpot, and Salesforce.
 
 The service offers three pricing tiers: a free plan with 5 meeting transcripts monthly, a Pro plan at $19.75/user/month (annual) for unlimited meetings and team collaboration, and Enterprise at $29.75/user/month with video playback and highlight reels. It works through web apps and browser extensions rather than a desktop client, though it offers an iOS mobile app for in-person meeting capture. Read.ai functions without requiring meeting bots, using cloud recording or extensions for virtual meetings and the mobile app for offline audio.
 
-## Comparison
+## Comparing Granola and Read.ai
+
 ### Granola
 
 * Granola functions as a Mac-only AI notepad that captures meeting audio locally and generates summaries with minimal note-taking effort. It works across meeting platforms without requiring a bot, offering templates for different meeting types, but remains limited by its lack of Windows support and mobile apps.
