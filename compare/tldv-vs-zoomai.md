@@ -1,17 +1,18 @@
 ---
 type: comparison
 title: tldv vs Zoom AI – Feature and product comparison
-description: A detailed comparison of tldv and Zoom AI meeting tools, examining transcription capabilities, action item tracking, meeting summaries, and platform integrations.
+description: A comprehensive comparison of tldv and Zoom AI meeting tools, evaluating their transcription capabilities, action item tracking, meeting summaries, and key features like platform support, integrations, and pricing.
 ---
 
 # tldv vs Zoom AI – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
 
+## Other key features
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +22,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About tldv
+## Understanding tldv and Zoom AI
 Tldv is a meeting tool that records, transcribes, and summarizes conversations across multiple platforms. It creates timestamps and highlights, integrates with CRMs, and deploys AI agents to handle recording and note-taking tasks. The system works with over 30 languages and connects to thousands of other applications including HubSpot, Notion, and Salesforce.
 
 The service offers tiered pricing with free, Pro ($18/month), and Business ($59/month) options. It provides desktop applications for Windows and macOS that enable local recording for Zoom and Microsoft Teams meetings. While tldv doesn't have a native mobile app and cannot record in-person meetings, it does offer local recording capabilities through its desktop software. Some users have noted limitations in platform support and potential issues with internet-dependent performance.
 
-## About Zoom AI
 Zoom AI is a built-in feature for paid Zoom users that generates meeting summaries and action items automatically at the end of calls. It lets participants ask questions during meetings (like "What did I miss?"), helps compose emails and chats, and works within the existing Zoom interface without requiring additional setup or applications. The system produces almost instant meeting recaps and supports transcription in over 30 languages across desktop and mobile platforms.
 
 The tool has significant limitations - it only works within Zoom meetings and isn't available on the free plan beyond trial uses. Its meeting management capabilities are less robust than dedicated transcription tools, with users noting basic chat integration and occasional difficulties sharing AI notes outside the Zoom environment. While it offers local meeting recording, AI summaries require Zoom's cloud service, and it lacks substantial integrations with external platforms like HubSpot or Notion.
 
-## Comparison
+## Comparing tldv and Zoom AI
+
 ### tldv
 * Tldv offers meeting recording, transcription, summarization, and integrates with CRMs, while relying on AI agents for key functions. Despite having accurate transcriptions and an intuitive interface, the platform suffers from limited support across meeting platforms and depends heavily on internet connection quality.
 * The tool provides local recording capabilities for Zoom and Teams through its desktop app, along with extensive third-party integrations. However, tldv falls short on meaningful workflow integration depth and lacks the robust automation needed to transform meeting insights into actionable outcomes.
