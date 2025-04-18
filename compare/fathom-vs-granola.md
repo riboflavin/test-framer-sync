@@ -1,17 +1,18 @@
 ---
 type: comparison
 title: Fathom vs Granola – Feature and product comparison
-description: A comprehensive comparison of AI meeting notes platforms Fathom and Granola, evaluating their features, pricing, integrations, and use cases, with mention of Circleback as an alternative solution.
+description: A comprehensive comparison of Fathom and Granola AI meeting automation tools, covering transcripts, action items, summaries, and key features like ease-of-use, platform support, and integrations.
 ---
 
 # Fathom vs Granola – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
 
+## Other key features
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +22,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About Fathom
+## Understanding Fathom and Granola
 Fathom is an AI meeting notetaker that works with Zoom, Google Meet, and Teams. It records meetings, transcribes in real-time in 25+ languages, and generates different summary formats like bullet lists, action items, and detailed chronological summaries. The system identifies speakers, allows users to highlight key moments during calls, provides post-meeting overviews, and includes an "Ask Fathom" feature for querying meeting content. It's used primarily by sales reps and anyone wanting to focus on conversation rather than note-taking.
 
 The service offers a free plan with unlimited recordings and 5 AI-summarized meetings monthly, with paid tiers starting at $15/month for unlimited AI note-taking. Fathom works only with scheduled online meetings (not uploaded audio files or in-person meetings), has no mobile app, and requires a desktop application. It integrates with CRMs like HubSpot and Salesforce, plus Slack and Notion, and automatically generates summaries and action items that can be synced to other platforms.
 
-## About Granola
 Granola is an AI notepad for meetings that runs on Mac computers, capturing system audio without requiring a bot in the call. Users can type brief notes during meetings, after which Granola combines the audio and notes to produce enhanced, structured summaries with sections like key takeaways and next steps. It works with all meeting platforms (Zoom, Teams, Webex, Slack Huddles) and offers customizable note templates and an AI assistant for generating follow-up content.
 
 The app operates locally, recording and transcribing meetings offline on Mac devices (Windows not currently supported). It supports approximately 16 languages, includes calendar sync, and offers Notion export with HubSpot integration in beta. Pricing starts with a 25-meeting free trial, followed by an $18/month Individual plan, $14/user/month Business plan with team sharing, and a $35/user/month Enterprise option with advanced compliance features.
 
-## Comparison
+## Comparing Fathom and Granola
+
 ### Fathom
 * Fathom offers real-time transcription and AI-generated summaries for video meetings, focusing primarily on Zoom, Google Meet, and Teams integration. While it provides useful features like speaker identification and action item extraction, it lacks comprehensive integrations beyond a few CRMs and doesn't effectively connect meeting outcomes to actual workflow.
 
