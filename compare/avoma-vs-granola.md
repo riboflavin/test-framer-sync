@@ -1,17 +1,18 @@
 ---
 type: comparison
 title: Avoma vs Granola – Feature and product comparison
-description: A comprehensive comparison of AI meeting assistants Avoma and Granola, analyzing their features, pricing, and use cases for meeting transcription, summarization, and note-taking.
+description: A detailed comparison of Avoma and Granola AI meeting automation tools, analyzing transcription accuracy, meeting summaries, action item extraction, and key features like security, integrations, and platform support.
 ---
 
 # Avoma vs Granola – Feature and product comparison
 
-## What should you expect from an AI meeting automation tool?
-AI meeting automation tools provide four primary functions:
+Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
 * [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
+
+## Other key features
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
