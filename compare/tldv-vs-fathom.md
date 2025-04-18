@@ -1,17 +1,18 @@
 ---
 type: comparison
 title: tldv vs Fathom – Feature and product comparison
-description: A detailed comparison of tldv and Fathom AI meeting assistant platforms, analyzing key features, pricing, integrations, and use cases to help teams choose the right tool for their meeting productivity needs.
+description: Compare tldv and Fathom's AI meeting automation features including transcripts, action items, meeting summaries, platform support, integrations, and pricing.
 ---
 
 # tldv vs Fathom – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
 
+## Other key features
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +22,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About tldv
+## Understanding tldv and Fathom
 tldv is a meeting productivity tool that records, transcribes, and summarizes video conferences. It works through a desktop application for Windows and macOS, supporting Zoom and Microsoft Teams with local recording capabilities. The platform offers AI-driven features including transcription in over 30 languages, timestamped highlights, and AI agents that automate recording, note-taking, and CRM data entry.
 
 The service connects with external tools through integrations with HubSpot, Notion, Salesforce, and thousands of other platforms. tldv offers a tiered pricing structure with a free plan and paid options at $18/month (Pro) and $59/month (Business). It doesn't support in-person meetings and lacks a native mobile application, while its performance depends on stable internet connectivity.
 
-## About Fathom
 Fathom is an AI meeting assistant that integrates with Zoom, Google Meet, and Microsoft Teams. It automatically records meetings, transcribes in real-time across 25+ languages, and produces various AI summary formats including bullet lists, action items, and chronological summaries. The system identifies speakers, allows tagging key moments, and offers post-meeting tools including an overview, action items, follow-up email drafts, and an AI Q&A feature for querying meeting content.
 
 The service offers a free plan with unlimited recording but AI summaries for only 5 meetings monthly, with paid tiers ranging from $15-29/user/month for unlimited AI features and additional capabilities. It requires a desktop app (Mac/Windows) for meeting capture, integrates with CRMs like HubSpot and Salesforce, and automatically pushes summaries to integrated tools. Fathom doesn't support in-person meetings, external audio uploads, or mobile devices.
 
-## Comparison
+## Comparing tldv and Fathom
+
 ### tldv
 
 * tldv offers AI meeting recording, transcription, and summarization with a focus on CRM integration. While providing accurate transcriptions and a generous free plan, it suffers from limited platform support and requires stable internet connection.
