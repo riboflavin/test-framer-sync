@@ -1,17 +1,18 @@
 ---
 type: comparison
 title: Krisp vs Otter.ai – Feature and product comparison
-description: A detailed comparison of Krisp and Otter.ai AI meeting notes platforms, examining their transcription capabilities, action item tracking, meeting summaries, and additional features like ease-of-use, integrations, and language support.
+description: Compare Krisp and Otter.ai AI meeting automation tools, exploring transcription, action items, summaries, and key features like ease-of-use, in-person meeting support, security, integrations, and multi-platform availability.
 ---
 
 # Krisp vs Otter.ai – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
 
+## Other key features
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +22,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About Krisp
+## Understanding Krisp and Otter.ai
 Krisp is an audio processing tool that filters background noise and echo from microphone and speaker output in real-time across communication applications. It has expanded to include meeting assistance features, recording conversations and generating transcripts with structured summaries containing key points and action items. The software works with most voice apps and supports transcription in over 90 languages through its desktop application for Windows and Mac.
 
 Krisp offers a free plan with 60 minutes of daily noise cancellation and two meeting summaries per day. Paid tiers include the Pro plan at approximately $8/month for unlimited noise cancellation and meeting features, and a Business plan at about $15/user/month with administrative controls and SSO. Some users report occasional audio distortion, word clipping with loud noises, and high CPU usage. The desktop-only implementation lacks mobile app support for AI note-taking features.
 
-## About Otter.ai
 Otter.ai is an AI note-taking service that provides live transcription for meetings, conversations, and uploaded audio or video content. It creates searchable, time-stamped transcripts while identifying different speakers and capturing screen content including slides. The tool functions across different environments - joining virtual meetings through integrations with platforms like Zoom and Teams, recording in-person conversations via its mobile app, or processing uploaded files.
 
 The service offers tiered plans starting with a free version allowing 600 minutes of transcription monthly, while paid plans ($10-20/month) include more minutes and additional features. Otter works primarily through web browsers and mobile apps rather than a desktop client. Its "OtterPilot" feature automatically generates meeting summaries and can push content to other tools like HubSpot and Notion. The system currently supports English, Spanish and French languages.
 
-## Comparison
+## Comparing Krisp and Otter.ai
+
 ### Krisp
 
 * Krisp offers real-time noise cancellation that filters out background noise across communication apps, while also providing meeting transcription and AI summaries with key points and action items. The tool provides clear audio for meetings and captures conversation content, but its limited integration capabilities may prevent users from fully leveraging meeting data across their workflow.
