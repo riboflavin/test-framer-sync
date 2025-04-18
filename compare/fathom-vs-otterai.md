@@ -1,17 +1,18 @@
 ---
 type: comparison
 title: Fathom vs Otter.ai – Feature and product comparison
-description: A comprehensive comparison of Fathom and Otter.ai AI meeting notes platforms, evaluating their transcription capabilities, action item tracking, meeting summaries, and integration features.
+description: A detailed comparison of AI meeting tools Fathom and Otter.ai, examining their transcription capabilities, meeting summaries, action item tracking, and other key features.
 ---
 
 # Fathom vs Otter.ai – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
 
+## Other key features
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +22,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About Fathom
+## Understanding Fathom and Otter.ai
 Fathom is an AI meeting notetaker that integrates with Zoom, Google Meet, and Teams. It records meetings, provides real-time transcription in over 25 languages, and generates various AI summaries including bullet lists, action items, and detailed chronological overviews. The system identifies speakers, allows manual highlighting during calls, and offers post-meeting features like meeting overviews and follow-up email drafts. Users can query meeting content afterward through an "Ask Fathom" feature. The tool is commonly used by sales representatives and others who need to focus on conversations rather than note-taking.
 
 Fathom offers a free plan with unlimited recordings but AI summaries limited to 5 meetings monthly. Paid plans range from $15/month for individuals to $29/user/month for teams with advanced features. It requires a desktop application and doesn't support uploading external audio files or in-person meetings. The platform integrates with CRMs like HubSpot and Salesforce, plus Slack and Notion. While it lacks a mobile app, users highlight its accurate transcription capabilities and the quick generation of meeting summaries.
 
-## About Otter.ai
 Otter.ai is an AI note-taking tool that transcribes audio from meetings, interviews, and classes in real-time. It works with uploaded files or live meetings through Zoom and Teams integration, identifies different speakers, captures screen content, and generates automatic summaries of key points. The service offers searchable and shareable transcripts, with features allowing users to highlight or comment during meetings.
 
 The platform operates on a tiered pricing model starting with a free plan offering 600 minutes monthly, advancing to paid plans with increased minutes and features. While it supports in-person transcription through its mobile apps (available for iOS and Android) and integrates with services like Slack, Zoom, HubSpot and Notion, Otter primarily works through web browsers rather than a desktop application. It handles English transcription well, with limited support for Spanish and French.
 
-## Comparison
+## Comparing Fathom and Otter.ai
+
 ### Fathom
 
 * Fathom provides real-time transcription and AI summaries for virtual meetings on Zoom, Google Meet and Teams. It lacks support for in-person conversations or audio uploads, limiting its use to scheduled online meetings only. 
