@@ -1,17 +1,18 @@
 ---
 type: comparison
 title: Fireflies.ai vs Krisp – Feature and product comparison
-description: A detailed comparison of Fireflies.ai and Krisp AI meeting notes platforms, covering transcription quality, action items, meeting summaries, and key factors like ease-of-use, security, and integrations.
+description: A comprehensive comparison of Fireflies.ai and Krisp AI meeting automation tools, covering transcription quality, action item tracking, meeting summaries, and key features like ease-of-use, integrations, and pricing.
 ---
 
 # Fireflies.ai vs Krisp – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
 
+## Other key features
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +22,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About Fireflies.ai
+## Understanding Fireflies.ai and Krisp
 Fireflies.ai is a cloud-based AI meeting assistant that joins online meetings as a participant to record, transcribe, and summarize discussions. It works across major platforms like Zoom, Teams, and Google Meet, offering searchable transcripts with speaker labels and AI-generated summaries of key points and action items. The system includes an AskFred chatbot for querying meeting content and integrates with tools like Slack, Asana, and CRM systems for workflow enhancement.
 
 The service operates on a tiered pricing model, with a free plan offering limited monthly credits, and paid plans starting around $10/user/month for unlimited audio recording and a set number of AI summaries. It supports over 100 languages, offers mobile apps for recording in-person meetings, and allows offline file uploads for transcription. While the transcription quality is generally good, accuracy can decrease with heavy accents or technical jargon, and some users report that the AI-generated summaries sometimes lack nuance or detail.
 
-## About Krisp
 Krisp is an AI voice enhancement tool that operates as a real-time noise cancellation system, removing background sounds and echo from microphone or speaker output across communication apps. It has expanded to include meeting assistance features, recording and transcribing calls while generating structured summaries with key points and tasks. The application functions by acting as an audio filter that works with virtually all communication platforms, making it suitable for remote workers, call centers, and anyone needing clearer audio and automatic meeting documentation.
 
 The software offers a free plan with 60 minutes daily of noise cancellation and limited meeting summaries, while paid tiers provide unlimited usage starting at $8/month. Krisp works with both online meetings and in-person conversations, recording locally via its desktop application for Windows and Mac. It supports transcription in over 90 languages and offers calendar integration plus HubSpot CRM connectivity, though it lacks a mobile app for its meeting assistant features.
 
-## Comparison
+## Comparing Fireflies.ai and Krisp
+
 ### Fireflies.ai
 
 * Fireflies uses a bot to join and transcribe meetings across platforms, creating searchable transcripts and AI summaries. It integrates with some productivity tools but lacks depth in helping users actually implement meeting outcomes beyond basic logging.
