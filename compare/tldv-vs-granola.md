@@ -1,17 +1,18 @@
 ---
 type: comparison
 title: tldv vs Granola – Feature and product comparison
-description: Comprehensive comparison of tldv and Granola AI meeting note platforms, evaluating transcription quality, action item tracking, meeting summaries, topic segmentation, ease-of-use, in-person support, security, integrations, languages, and platform availability.
+description: Compare tldv and Granola AI meeting automation tools for transcripts, action items, summaries, and platform support to find the best solution for your team.
 ---
 
 # tldv vs Granola – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
 
+## Other key features
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +22,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About tldv
+## Understanding tldv and Granola
 Tldv is a meeting recording tool that captures, transcribes, and summarizes conversations. It creates searchable content with timestamps and highlights, while offering integration with CRM systems and other platforms. The service employs AI agents to handle recording, note-taking, and CRM logging tasks automatically across more than 30 languages.
 
 The platform is available through desktop applications for Windows and macOS with local recording capabilities for Zoom and Microsoft Teams. Tldv offers three pricing tiers: a free plan, Pro ($18/month), and Business ($59/month). It integrates with HubSpot, Notion, Salesforce, and thousands of other services, though it lacks native mobile apps and in-person recording capabilities.
 
-## About Granola
 Granola is an AI notepad for meetings that runs locally on Mac computers. It captures system audio from any meeting platform without requiring a meeting bot, letting users add brief notes during calls that Granola then transforms into structured meeting summaries with sections like key takeaways and next steps. The app works offline with local recording and transcription, supports approximately 16 languages, and offers customizable note templates for different meeting types.
 
 Users get 25 free meetings before choosing between Individual ($18/month), Business ($14/user/month), or Enterprise ($35/user/month) plans. The tool has limited integrations (calendar sync and Notion export, with HubSpot in beta) and currently lacks Windows support, mobile apps, and advanced workflow automation. It works for in-person meetings if the Mac can capture room audio, though without a dedicated mobile solution.
 
-## Comparison
+## Comparing tldv and Granola
+
 ### tldv
 
 * tldv offers AI meeting recording, transcription, and summarization with CRM integration across Windows and macOS. It supports 30+ languages and integrates with numerous tools, yet falls short on in-person recording capabilities and mobile support.
