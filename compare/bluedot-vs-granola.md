@@ -1,17 +1,18 @@
 ---
 type: comparison
 title: Bluedot vs Granola – Feature and product comparison
-description: A detailed comparison of AI meeting notes platforms Bluedot and Granola, evaluating their core features, pricing, platform support, and integration capabilities.
+description: A detailed comparison of Bluedot and Granola AI meeting automation tools, evaluating transcription quality, action item tracking, meeting summaries, and additional features like ease-of-use, in-person meeting support, and integrations.
 ---
 
 # Bluedot vs Granola – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
 
+## Other key features
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +22,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About Bluedot
+## Understanding Bluedot and Granola
 Bluedot is an AI meeting tool that works as a Chrome extension to record and transcribe meetings across Google Meet, Zoom, and Microsoft Teams without requiring a bot. It transcribes in real-time across 100+ languages, generates meeting notes, and allows one-click syncing to external systems like Salesforce, HubSpot, Notion, and Google Docs. The tool records locally via browser extension, making it usable even when you're not the meeting host.
 
 Pricing starts with a limited free tier (5 meetings lifetime), then ranges from $18/month for Basic (unlimited audio-only recordings up to 1 hour) to $40/month for Business (unlimited video recordings, CRM integrations, topic tracking). Bluedot works primarily through Chrome on desktop with limited mobile support. While it offers broad platform compatibility and integration options, the restrictive free tier and higher pricing at advanced tiers are its main limitations.
 
-## About Granola
 Granola is an AI notepad for Mac that captures meeting audio without requiring a bot in the call. It works by listening to system audio from any meeting platform while users jot down brief notes, then automatically produces structured summaries with sections like key takeaways and next steps when the meeting ends. The app offers customizable note templates and an AI assistant to answer questions or generate follow-up content from meeting recordings.
 
 The tool currently works only on Mac with Windows support forthcoming, and offers 25 free meetings before requiring a paid subscription ($18/month for individuals, $14/user/month for business teams). Granola works offline with local recording and transcription, supports about 16 languages, and has limited integrations including calendar sync and Notion export. There's no mobile app yet, and the system requires audio to be played through the user's device to function properly.
 
-## Comparison
+## Comparing Bluedot and Granola
+
 ### Bluedot
 
 * Bluedot operates as a Chrome extension for meeting recording and transcription, functioning across major platforms like Zoom and Teams without requiring a meeting bot. It offers transcription in over 100 languages and connects to CRMs and project tools, but its integration depth falls short of truly automating post-meeting workflows.
