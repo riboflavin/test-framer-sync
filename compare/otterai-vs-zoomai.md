@@ -1,17 +1,18 @@
 ---
 type: comparison
 title: Otter.ai vs Zoom AI – Feature and product comparison
-description: Detailed comparison of AI meeting notes platforms Otter.ai and Zoom AI, analyzing transcription capabilities, action item tracking, meeting summaries, and platform limitations.
+description: A comprehensive comparison of Otter.ai and Zoom AI meeting transcription tools, examining key features, platform support, and use cases to help teams choose the right solution for their meeting automation needs.
 ---
 
 # Otter.ai vs Zoom AI – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
 
+## Other key features
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +22,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About Otter.ai
+## Understanding Otter.ai and Zoom AI
 Otter.ai is an AI note-taking tool that transcribes audio from meetings and recordings. It works during live meetings through integrations with platforms like Zoom and Teams, or via direct audio uploads. The system identifies speakers, captures screen content, generates automatic summaries, and lets users highlight important points. Transcripts are searchable and shareable, with the service functioning both for virtual meetings and in-person conversations through mobile apps.
 
 The platform offers a tiered pricing structure starting with a free plan (600 minutes/month) and paid options for increased transcription time and features. Premium ($10/month annually) provides 6,000 minutes and advanced features, while Business ($20/user/month) adds team sharing capabilities. The system integrates with several platforms, though transcription accuracy can vary with complex audio, and some users note that transcripts can be verbose and difficult to navigate.
 
-## About Zoom AI
 Zoom AI is an integrated feature within the Zoom platform for paid subscribers. It automatically generates meeting summaries and next-action items after calls, lets participants ask questions during meetings to catch up on missed content, and assists with composing emails and documents related to meetings. The tool operates entirely within Zoom's ecosystem, requiring no additional setup for existing users.
 
 The feature works only for virtual Zoom meetings and cannot capture in-person conversations. While it includes live transcription support for over 30 languages, its integrations are limited to Zoom's own ecosystem with no direct syncing to external platforms like HubSpot or Notion. Zoom AI is included at no additional cost for paid Zoom subscribers but isn't available to users on the free Basic plan beyond limited trial uses.
 
-## Comparison
+## Comparing Otter.ai and Zoom AI
+
 ### Otter.ai
 
 * Otter offers multi-platform transcription with automated summaries, but lacks depth in its integrations to help users take meaningful action on meeting content. Its interface provides real-time note-taking across various meeting platforms, giving users flexibility across different communication tools.
