@@ -1,17 +1,18 @@
 ---
 type: comparison
 title: tldv vs Bluedot – Feature and product comparison
-description: Compare AI meeting platforms tldv and Bluedot on features like transcription, action items, summaries, and integrations for your collaboration stack.
+description: A comprehensive comparison of tldv and Bluedot AI meeting automation tools, evaluating their features, pricing, language support, recording capabilities, and integration options.
 ---
 
 # tldv vs Bluedot – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
 
+## Other key features
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +22,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About tldv
+## Understanding tldv and Bluedot
 tldv is a meeting tool that records, transcribes, and summarizes conversations across platforms like Zoom and Microsoft Teams. It timestamps important moments, creates highlights, and integrates with CRM systems. Through its AI agents, it automates the recording process, note-taking, and data entry into other business systems. The software works with over 30 languages and offers local recording capabilities via desktop applications for Windows and macOS.
 
 The service operates on a tiered pricing model with a free version and paid options at $18/month (Pro) and $59/month (Business). It requires internet connectivity to function properly and doesn't support in-person meetings. While it offers integrations with thousands of services including HubSpot, Notion, and Salesforce, it lacks native mobile applications. The desktop app handles the core functionality of capturing and processing meeting content.
 
-## About Bluedot
 Bluedot is an AI meeting recorder and note-taker that operates as a Chrome extension without requiring a meeting bot. It records and transcribes meetings on Google Meet, Zoom, and Microsoft Teams in real-time, generating AI-powered notes that can be synced to CRMs, project tools, and document platforms with one click. The tool supports over 100 languages for transcription and works across all major meeting platforms, making it particularly useful for people who need accurate transcripts and workflow integration.
 
 The pricing structure starts with a limited free version (5 meetings total), then moves to paid tiers: Basic ($18/month) for unlimited audio recordings up to 1 hour each, Pro ($25/month) for unlimited video recording and custom templates, and Business ($40/month) which adds CRM integrations and unlimited guest members. Bluedot works for in-person meetings, records locally, and offers extensive integrations, though it lacks mobile apps and focuses primarily on desktop/web experiences.
 
-## Comparison
+## Comparing tldv and Bluedot
+
 ### tldv
 
 * tldv offers AI meeting recording, transcription and summarization with a focus on CRM integration and automated note-taking. It provides accurate transcriptions and an intuitive interface but suffers from limited platform support and reliance on internet connectivity.
