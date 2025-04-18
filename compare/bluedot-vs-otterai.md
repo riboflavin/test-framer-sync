@@ -1,17 +1,18 @@
 ---
 type: comparison
 title: Bluedot vs Otter.ai – Feature and product comparison
-description: A detailed comparison of AI meeting notes platforms Bluedot and Otter.ai, exploring their features, pricing, transcription quality, and integration capabilities.
+description: An in-depth comparison of Bluedot and Otter.ai meeting transcription tools, analyzing key features, pricing, language support, and platform availability to help you choose the right AI meeting assistant.
 ---
 
 # Bluedot vs Otter.ai – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
 
+## Other key features
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +22,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About Bluedot
+## Understanding Bluedot and Otter.ai
 Bluedot is an AI meeting recorder and transcription tool that works via Chrome extension, eliminating the need for meeting bots. It records meetings from Google Meet, Zoom, Microsoft Teams and other platforms, generating real-time transcripts in over 100 languages. The tool automatically syncs meeting notes to external systems like Salesforce, HubSpot, Notion, Slack, and Google Docs with one-click integration.
 
 The service operates on a tiered pricing model, with only 5 free meetings available as a trial. Paid plans start at $18/month for unlimited audio-only recordings (1-hour max per meeting), while higher tiers ($25-40/month) add features like unlimited video recording, longer meetings, custom templates, and CRM integrations. Bluedot works on desktop through Chrome and has recently added desktop apps for Windows/Mac, though mobile support isn't yet available.
 
-## About Otter.ai
 Otter.ai is an AI note-taking tool that provides live transcription for meetings, classes and interviews. It captures audio in real-time, identifies speakers, and generates automatic summaries and highlights from conversations. The service integrates with platforms like Zoom and Microsoft Teams through an assistant that joins meetings, and offers searchable, shareable transcripts. Users can record audio directly through web or mobile apps for non-meeting conversations.
 
 The platform operates on a tiered pricing model starting with a free plan offering 600 minutes of transcription monthly. Paid options include Premium ($10/month annually) with 6,000 minutes, Business ($20/user/month) with team sharing and admin controls, and Enterprise plans for larger organizations. Otter supports primarily English with some Spanish and French capability, and functions through web browsers, mobile apps for iOS and Android, and platform integrations rather than a dedicated desktop application.
 
-## Comparison
+## Comparing Bluedot and Otter.ai
+
 ### Bluedot
 
 * Bluedot offers accurate transcription through a Chrome extension without requiring a meeting bot. It works across major platforms like Zoom and Teams, and provides one-click sync to various systems, but lacks comprehensive integrations for true workflow automation. The free version limits users to only 5 meetings total, essentially functioning as just a trial.
