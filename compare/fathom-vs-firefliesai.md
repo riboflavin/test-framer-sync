@@ -1,17 +1,18 @@
 ---
 type: comparison
 title: Fathom vs Fireflies.ai – Feature and product comparison
-description: A detailed comparison of Fathom and Fireflies.ai AI meeting notes platforms, examining their features, pricing, language support, integrations, and workflows for both online and in-person meetings.
+description: Detailed comparison of Fathom and Fireflies.ai AI meeting automation tools, covering transcription, action items, summaries, integrations, language support, and mobile/desktop availability.
 ---
 
 # Fathom vs Fireflies.ai – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
 
+## Other key features
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +22,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About Fathom
+## Understanding Fathom and Fireflies.ai
 Fathom is an AI meeting notetaker that works with Zoom, Google Meet, and Teams. It records meetings, provides real-time transcription in 25+ languages, and generates summaries in different formats (bullet lists, action items, chronological). The system identifies speakers, allows highlighting key moments, and includes an "Ask Fathom" feature for querying meeting content. It's commonly used by sales representatives and anyone wanting to focus on conversation instead of note-taking.
 
 Fathom offers a free plan with unlimited recordings and 5 AI summaries monthly, with paid tiers from $15-29/month adding features like unlimited summaries, team collaboration, and CRM integration. It requires a desktop app, lacks a mobile app, and doesn't support uploading external audio files. The tool integrates with HubSpot, Salesforce, Slack, and Notion, and automatically generates summaries and action items that can be pushed to CRM systems.
 
-## About Fireflies.ai
 Fireflies.ai is a cloud-based AI meeting assistant that records, transcribes, and summarizes discussions across various platforms including Zoom, Teams, Google Meet, and Webex. It functions by joining meetings as a bot participant ("Fred") and provides transcripts with speaker labels, AI-generated summaries, and action items. The system includes keyword search capabilities, an AskFred chatbot for querying meeting content, and integrations with tools like Slack, Asana, and CRM systems. It works with over 100 languages and offers both a mobile app for recording in-person meetings and the ability to upload files for transcription.
 
 The service operates on a tiered pricing structure with a free plan that includes limited meeting credits and summaries. Paid plans start at approximately $10/user/month for the Pro tier (unlimited audio recording and transcripts), scaling to $19/user/month for the Business plan (adding video recording and advanced analytics). Some users report issues with transcription accuracy for heavy accents or technical jargon, and others note that the AI summaries can sometimes lose original phrasing or tone.
 
-## Comparison
+## Comparing Fathom and Fireflies.ai
+
 ### Fathom
 * Fathom provides AI meeting transcription and summaries for Zoom, Google Meet, and Teams. Both its free tier (with 5 full AI summaries) and paid plans ($15-29/user) lack a mobile app and support for external audio uploads, limiting its utility for in-person meetings. Fathom offers real-time transcription in 25+ languages and integrates with CRMs, but its integration ecosystem remains relatively limited compared to robust workflow tools.
 * Despite its accurate transcription and intuitive interface, Fathom falls short on enabling meaningful post-meeting workflows beyond basic CRM syncing. Users gain transcripts and AI summaries but must still manually implement action items and follow-ups, requiring additional tools to transform meeting intelligence into completed tasks.
