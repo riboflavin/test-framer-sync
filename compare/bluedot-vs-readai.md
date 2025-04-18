@@ -1,17 +1,18 @@
 ---
 type: comparison
 title: Bluedot vs Read.ai – Feature and product comparison
-description: Compare AI meeting notes platforms Bluedot and Read.ai across transcription quality, action items, meeting summaries, topic segmentation, ease-of-use, in-person support, security, integrations, and overall functionality.
+description: A comprehensive comparison of Bluedot and Read.ai AI meeting automation tools, examining key features like transcription accuracy, action item tracking, meeting summaries, and integration capabilities.
 ---
 
 # Bluedot vs Read.ai – Feature and product comparison
 
-AI meeting notes platforms provide four primary deliverables:
+Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* Action items are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
+* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
 * Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
 * Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
 
+## Other key features
 In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
 * Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
 * In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
@@ -21,17 +22,17 @@ In addition to the quality of these deliverables, we'll want to look at a number
 * Languages: can it transcribe and summarize meetings in different languages?
 * Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
 
-## About Bluedot
+## Understanding Bluedot and Read.ai
 Bluedot is an AI meeting recorder and transcriber that operates as a Chrome extension, working on Google Meet, Zoom, Microsoft Teams, and other platforms without requiring a meeting bot. It records meetings in real-time, generates AI-powered notes, and can sync these to various systems including CRM tools (Salesforce, HubSpot), project tools (Notion, Slack), and Google Docs. The tool supports over 100 languages for transcription and functions whether you're hosting the meeting or not.
 
 The service operates on a tiered pricing model: a free version limited to 5 lifetime meetings, Basic at $18/month for unlimited audio recordings (1-hour max), Pro at $25/month adding unlimited video recording and custom templates, and Business at $40/month with CRM integrations and unlimited guest members. Bluedot works on desktop Chrome browsers with limited mobile support, and records locally via its application, making it suitable for both virtual and in-person meetings.
 
-## About Read.ai
 Read.ai is an AI meeting copilot that provides real-time transcription, summaries, and analytics for virtual meetings across Zoom, Teams, and Google Meet. It generates reports with key points, action items, and metrics like speaker time distribution, sentiment analysis, and attention scores. The platform includes an AI search function across all meeting transcripts and can handle asynchronous communication by summarizing Slack threads or emails. It supports over 20 languages with real-time translation capabilities and offers integrations with tools like HubSpot, Salesforce, Confluence, Jira, Notion, and Slack.
 
 The service is tiered with a free plan allowing 5 meeting transcripts monthly, a Pro plan at $19.75/user/month (annual) for unlimited meetings and integrations, and Enterprise plans starting at $29.75/user/month with video playback features. Read.ai works via web app and browser extensions rather than a desktop client, offers an iOS app for recording in-person meetings, and doesn't require meeting bots to join calls. Some users find the interface complex, and privacy concerns exist around joining others' meetings with the tool without consent.
 
-## Comparison
+## Comparing Bluedot and Read.ai
+
 ### Bluedot
 * Bluedot offers Chrome-based meeting recording without requiring a bot, working across major platforms like Zoom and Teams. It provides accurate transcription in over 100 languages and syncs to CRMs and project tools, though its limited free version and lack of mobile support restrict accessibility.
 * While praised for transcription accuracy and discreet background recording, Bluedot has notable limitations in its integration depth and post-meeting productivity features. The tiered pricing structure with the most useful features locked behind higher-cost plans makes it less accessible for small teams that need comprehensive meeting assistance.
