@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Krisp vs Zoom AI – Feature and product comparison
+title: Krisp vs Zoom AI for meeting automation
 description: Compare Krisp and Zoom AI meeting automation tools based on transcripts, action items, summaries, topic segmentation, and other key features.
 ---
 
-# Krisp vs Zoom AI – Feature and product comparison
+# Krisp vs Zoom AI for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
