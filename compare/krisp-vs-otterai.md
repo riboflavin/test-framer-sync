@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Krisp vs Otter.ai – Feature and product comparison
+title: Krisp vs Otter.ai for meeting automation
 description: Compare Krisp and Otter.ai AI meeting automation tools, exploring transcription, action items, summaries, and key features like ease-of-use, in-person meeting support, security, integrations, and multi-platform availability.
 ---
 
-# Krisp vs Otter.ai – Feature and product comparison
+# Krisp vs Otter.ai for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
