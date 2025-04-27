@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Bluedot vs Read.ai – Feature and product comparison
+title: Bluedot vs Read.ai for meeting automation
 description: A comprehensive comparison of Bluedot and Read.ai AI meeting automation tools, examining key features like transcription accuracy, action item tracking, meeting summaries, and integration capabilities.
 ---
 
-# Bluedot vs Read.ai – Feature and product comparison
+# Bluedot vs Read.ai for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
