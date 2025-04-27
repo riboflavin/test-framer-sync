@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: tldv vs Granola – Feature and product comparison
+title: tldv vs Granola for meeting automation
 description: Compare tldv and Granola AI meeting automation tools for transcripts, action items, summaries, and platform support to find the best solution for your team.
 ---
 
-# tldv vs Granola – Feature and product comparison
+# tldv vs Granola for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
