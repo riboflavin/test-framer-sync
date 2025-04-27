@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Avoma vs Otter.ai – Feature and product comparison
+title: Avoma vs Otter.ai for meeting automation
 description: A detailed comparison of Avoma and Otter.ai AI meeting automation tools, examining transcription quality, action item tracking, meeting summaries, and additional features like ease-of-use, in-person meeting support, and integrations.
 ---
 
-# Avoma vs Otter.ai – Feature and product comparison
+# Avoma vs Otter.ai for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
