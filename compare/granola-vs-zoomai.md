@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Granola vs Zoom AI – Feature and product comparison
+title: Granola vs Zoom AI for meeting automation
 description: 
 ---
 
-# Granola vs Zoom AI – Feature and product comparison
+# Granola vs Zoom AI for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
