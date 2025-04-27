@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Avoma vs Krisp – Feature and product comparison
+title: Avoma vs Krisp for meeting automation
 description: A detailed comparison of Avoma and Krisp AI meeting automation tools, examining their features, transcription capabilities, summaries, integrations, and pricing models.
 ---
 
-# Avoma vs Krisp – Feature and product comparison
+# Avoma vs Krisp for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
