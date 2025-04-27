@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Fathom vs Krisp – Feature and product comparison
+title: Fathom vs Krisp for meeting automation
 description: Compare AI meeting automation tools Fathom and Krisp across transcription quality, action item tracking, meeting summaries, and other key features like integrations, security, and language support.
 ---
 
-# Fathom vs Krisp – Feature and product comparison
+# Fathom vs Krisp for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
