@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Krisp vs Read.ai – Feature and product comparison
+title: Krisp vs Read.ai for meeting automation
 description: A comprehensive comparison of Krisp and Read.ai meeting automation tools, analyzing their transcription capabilities, action item tracking, meeting summaries, and additional features like ease-of-use, integrations, and pricing.
 ---
 
-# Krisp vs Read.ai – Feature and product comparison
+# Krisp vs Read.ai for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
