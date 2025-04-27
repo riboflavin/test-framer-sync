@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Avoma vs Read.ai – Feature and product comparison
+title: Avoma vs Read.ai for meeting automation
 description: A detailed feature comparison between Avoma and Read.ai AI meeting assistants, covering transcription accuracy, action item tracking, meeting summaries, topic segmentation, and other key factors.
 ---
 
-# Avoma vs Read.ai – Feature and product comparison
+# Avoma vs Read.ai for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
