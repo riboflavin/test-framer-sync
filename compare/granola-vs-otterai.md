@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Granola vs Otter.ai – Feature and product comparison
+title: Granola vs Otter.ai for meeting automation
 description: Comprehensive comparison of Granola and Otter.ai AI meeting automation tools, evaluating transcription quality, action item tracking, meeting summaries, topic segmentation, and key features like platform support, integrations, and pricing.
 ---
 
-# Granola vs Otter.ai – Feature and product comparison
+# Granola vs Otter.ai for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
