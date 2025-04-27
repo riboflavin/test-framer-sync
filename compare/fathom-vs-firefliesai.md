@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Fathom vs Fireflies.ai – Feature and product comparison
+title: Fathom vs Fireflies.ai for meeting automation
 description: Detailed comparison of Fathom and Fireflies.ai AI meeting automation tools, covering transcription, action items, summaries, integrations, language support, and mobile/desktop availability.
 ---
 
-# Fathom vs Fireflies.ai – Feature and product comparison
+# Fathom vs Fireflies.ai for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
