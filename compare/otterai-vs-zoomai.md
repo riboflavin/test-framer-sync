@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Otter.ai vs Zoom AI – Feature and product comparison
+title: Otter.ai vs Zoom AI for meeting automation
 description: A comprehensive comparison of Otter.ai and Zoom AI meeting transcription tools, examining key features, platform support, and use cases to help teams choose the right solution for their meeting automation needs.
 ---
 
-# Otter.ai vs Zoom AI – Feature and product comparison
+# Otter.ai vs Zoom AI for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
