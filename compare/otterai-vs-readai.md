@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Otter.ai vs Read.ai – Feature and product comparison
+title: Otter.ai vs Read.ai for meeting automation
 description: A detailed comparison of Otter.ai and Read.ai meeting automation tools covering transcription, action items, summaries, and key features like ease-of-use, integrations, and language support.
 ---
 
-# Otter.ai vs Read.ai – Feature and product comparison
+# Otter.ai vs Read.ai for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
