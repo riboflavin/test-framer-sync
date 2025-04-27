@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Read.ai vs Zoom AI – Feature and product comparison
+title: Read.ai vs Zoom AI for meeting automation
 description: Comprehensive comparison of Read.ai and Zoom AI meeting assistants, including transcription quality, action item tracking, meeting summaries, topic segmentation, and key features like platform compatibility, in-person support, and integrations.
 ---
 
-# Read.ai vs Zoom AI – Feature and product comparison
+# Read.ai vs Zoom AI for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
