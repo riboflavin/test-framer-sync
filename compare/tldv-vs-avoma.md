@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: tldv vs Avoma – Feature and product comparison
+title: tldv vs Avoma for meeting automation
 description: Comparing tldv and Avoma AI meeting automation tools for transcription, action items, summaries, and topic segmentation, with pricing and feature analysis.
 ---
 
-# tldv vs Avoma – Feature and product comparison
+# tldv vs Avoma for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
