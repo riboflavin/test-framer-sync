@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: tldv vs Bluedot – Feature and product comparison
+title: tldv vs Bluedot for meeting automation
 description: A comprehensive comparison of tldv and Bluedot AI meeting automation tools, evaluating their features, pricing, language support, recording capabilities, and integration options.
 ---
 
-# tldv vs Bluedot – Feature and product comparison
+# tldv vs Bluedot for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
