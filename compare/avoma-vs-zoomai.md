@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Avoma vs Zoom AI – Feature and product comparison
+title: Avoma vs Zoom AI for meeting automation
 description: A detailed comparison of Avoma and Zoom AI meeting assistants, evaluating transcription quality, action item capture, meeting summaries, topic segmentation, and other key features for AI meeting automation tools.
 ---
 
-# Avoma vs Zoom AI – Feature and product comparison
+# Avoma vs Zoom AI for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
