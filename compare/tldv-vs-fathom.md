@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: tldv vs Fathom – Feature and product comparison
+title: tldv vs Fathom for meeting automation
 description: Compare tldv and Fathom's AI meeting automation features including transcripts, action items, meeting summaries, platform support, integrations, and pricing.
 ---
 
-# tldv vs Fathom – Feature and product comparison
+# tldv vs Fathom for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
