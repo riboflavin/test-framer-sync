@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Granola vs Read.ai – Feature and product comparison
+title: Granola vs Read.ai for meeting automation
 description: A detailed comparison of Granola and Read.ai AI meeting automation tools, covering transcripts, action items, summaries, topic segmentation, and key features like ease-of-use, in-person meeting support, security, integrations, and platform compatibility.
 ---
 
-# Granola vs Read.ai – Feature and product comparison
+# Granola vs Read.ai for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
