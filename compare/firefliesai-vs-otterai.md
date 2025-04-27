@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Fireflies.ai vs Otter.ai – Feature and product comparison
+title: Fireflies.ai vs Otter.ai for meeting automation
 description: Detailed comparison of Fireflies.ai and Otter.ai's AI meeting automation features, including transcription quality, action item tracking, meeting summaries, and integration capabilities.
 ---
 
-# Fireflies.ai vs Otter.ai – Feature and product comparison
+# Fireflies.ai vs Otter.ai for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
