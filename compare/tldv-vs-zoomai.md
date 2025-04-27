@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: tldv vs Zoom AI – Feature and product comparison
+title: tldv vs Zoom AI for meeting automation
 description: A comprehensive comparison of tldv and Zoom AI meeting tools, evaluating their transcription capabilities, action item tracking, meeting summaries, and key features like platform support, integrations, and pricing.
 ---
 
-# tldv vs Zoom AI – Feature and product comparison
+# tldv vs Zoom AI for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
