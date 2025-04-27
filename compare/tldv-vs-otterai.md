@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: tldv vs Otter.ai – Feature and product comparison
+title: tldv vs Otter.ai for meeting automation
 description: Detailed comparison of tldv and Otter.ai meeting intelligence tools, including transcription capabilities, action item capture, meeting summaries, and integration features, with Circleback presented as an alternative solution.
 ---
 
-# tldv vs Otter.ai – Feature and product comparison
+# tldv vs Otter.ai for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
