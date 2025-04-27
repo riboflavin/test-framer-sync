@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Granola vs Krisp – Feature and product comparison
+title: Granola vs Krisp for meeting automation
 description: A detailed feature comparison between Granola and Krisp AI meeting automation tools, examining transcripts, action items, summaries, topic segmentation, and platform compatibility.
 ---
 
-# Granola vs Krisp – Feature and product comparison
+# Granola vs Krisp for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
