@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Avoma vs Fireflies.ai – Feature and product comparison
+title: Avoma vs Fireflies.ai for meeting automation
 description: A detailed comparison of features and functionality between Avoma and Fireflies.ai AI meeting automation tools, including transcription quality, action item tracking, meeting summaries, and other key factors.
 ---
 
-# Avoma vs Fireflies.ai – Feature and product comparison
+# Avoma vs Fireflies.ai for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
