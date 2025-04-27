@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: tldv vs Fireflies.ai – Feature and product comparison
+title: tldv vs Fireflies.ai for meeting automation
 description: Comprehensive comparison of tldv and Fireflies.ai AI meeting automation tools, evaluating transcription quality, action item extraction, meeting summaries, and critical features like platform support, integrations, and pricing.
 ---
 
-# tldv vs Fireflies.ai – Feature and product comparison
+# tldv vs Fireflies.ai for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
