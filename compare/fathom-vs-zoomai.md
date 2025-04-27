@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Fathom vs Zoom AI – Feature and product comparison
+title: Fathom vs Zoom AI for meeting automation
 description: A detailed comparison of AI meeting automation tools Fathom and Zoom AI, analyzing transcription quality, action item tracking, meeting summaries, topic segmentation, and other key features.
 ---
 
-# Fathom vs Zoom AI – Feature and product comparison
+# Fathom vs Zoom AI for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
