@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Avoma vs Fathom – Feature and product comparison
+title: Avoma vs Fathom for meeting automation
 description: An in-depth comparison of AI meeting automation tools Avoma and Fathom, evaluating their transcription capabilities, meeting summaries, action item tracking, and other key features.
 ---
 
-# Avoma vs Fathom – Feature and product comparison
+# Avoma vs Fathom for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
