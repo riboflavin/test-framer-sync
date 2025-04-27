@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Bluedot vs Zoom AI – Feature and product comparison
+title: Bluedot vs Zoom AI for meeting automation
 description: A comprehensive comparison of Bluedot and Zoom AI meeting automation tools, evaluating transcription quality, action item tracking, meeting summaries, and additional features like ease-of-use, platform support, security, and integrations.
 ---
 
-# Bluedot vs Zoom AI – Feature and product comparison
+# Bluedot vs Zoom AI for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
