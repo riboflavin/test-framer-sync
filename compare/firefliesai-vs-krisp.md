@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Fireflies.ai vs Krisp – Feature and product comparison
+title: Fireflies.ai vs Krisp for meeting automation
 description: A comprehensive comparison of Fireflies.ai and Krisp AI meeting automation tools, covering transcription quality, action item tracking, meeting summaries, and key features like ease-of-use, integrations, and pricing.
 ---
 
-# Fireflies.ai vs Krisp – Feature and product comparison
+# Fireflies.ai vs Krisp for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
