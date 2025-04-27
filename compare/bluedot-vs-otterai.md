@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Bluedot vs Otter.ai – Feature and product comparison
+title: Bluedot vs Otter.ai for meeting automation
 description: An in-depth comparison of Bluedot and Otter.ai meeting transcription tools, analyzing key features, pricing, language support, and platform availability to help you choose the right AI meeting assistant.
 ---
 
-# Bluedot vs Otter.ai – Feature and product comparison
+# Bluedot vs Otter.ai for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
