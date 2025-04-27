@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Fathom vs Granola – Feature and product comparison
+title: Fathom vs Granola for meeting automation
 description: A comprehensive comparison of Fathom and Granola AI meeting automation tools, covering transcripts, action items, summaries, and key features like ease-of-use, platform support, and integrations.
 ---
 
-# Fathom vs Granola – Feature and product comparison
+# Fathom vs Granola for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
