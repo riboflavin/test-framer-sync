@@ -1,10 +1,10 @@
 ---
 type: comparison
-title: Bluedot vs Fireflies.ai – Feature and product comparison
+title: Bluedot vs Fireflies.ai for meeting automation
 description: A comprehensive comparison of Bluedot and Fireflies.ai meeting automation tools, including transcription quality, action item tracking, meeting summaries, and key features for business users.
 ---
 
-# Bluedot vs Fireflies.ai – Feature and product comparison
+# Bluedot vs Fireflies.ai for meeting automation
 
 Here's what you should look for in an AI meeting automation tool:  
 * Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
