@@ -1,6 +1,6 @@
 ---
 type: how-to
-title: Recording in-person meetings with Granola: A practical guide
+title: Recording in-person meetings with Granola – workarounds
 description: Learn how to effectively use Granola for in-person meetings despite speaker identification limitations, with setup optimization tips, strategic techniques, and iPhone app advantages.
 ---
 
