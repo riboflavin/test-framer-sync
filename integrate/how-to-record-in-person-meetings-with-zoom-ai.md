@@ -1,22 +1,20 @@
 ---
 type: how-to
-title: Recording in-person meetings with Zoom.AI – workarounds
-description: Learn how to use Zoom.AI to capture, transcribe, and analyze in-person meetings by starting a solo meeting on your mobile device, providing you with AI-generated transcripts, highlights, chapters, and action items.
+title: Recording in-person meetings with Zoom AI – workarounds
+description: Learn how to use Zoom AI to capture, transcribe, and analyze in-person meetings by starting a solo meeting on your mobile device, providing you with AI-generated transcripts, highlights, chapters, and action items.
 ---
 
-# Recording in-person meetings with Zoom.AI – workarounds
+# Recording in-person meetings with Zoom AI – workarounds
 
-This article explains how to use Zoom.AI to record and analyze in-person meetings by starting a solo Zoom meeting on your mobile device during real-world conversations. The method provides transcripts, highlights, smart chapters, and action items from in-person discussions. The technique requires a Zoom Workplace Pro account or higher with Smart Recording enabled, and always requires consent from all participants.
+This article explains how to use Zoom AI to record and analyze in-person meetings by starting a solo Zoom meeting on your mobile device during real-world conversations. The method provides transcripts, highlights, smart chapters, and action items from in-person discussions. The technique requires a Zoom Workplace Pro account or higher with Smart Recording enabled, and always requires consent from all participants.
 
-## Why use Zoom.AI for in-person meetings?
+## Why use Zoom AI for in-person meetings?
 
 In-person meetings often contain critical information that's easy to miss. When a neurologist rapidly presents treatment options or a business meeting covers essential details, capturing everything accurately becomes crucial.
 
-One user's experience illustrates this perfectly: at a neurologist appointment, their husband faced three treatment options presented rapidly. Without fully understanding two options, he selected the most expensive one. A recording with a summary might have led to a different initial choice.
-
 ## The workaround method
 
-The technique is straightforward: start a solo Zoom meeting on your phone during an in-person meeting, activate recording, and let Zoom.AI generate summaries, transcripts, and insights afterward.
+The technique is straightforward: start a solo Zoom meeting on your phone during an in-person meeting, activate recording, and let Zoom AI generate summaries, transcripts, and insights afterward.
 
 ## What you'll need
 
@@ -85,4 +83,4 @@ This approach works well for:
 
 ## Conclusion
 
-Recording in-person meetings with Zoom.AI transforms standard conversations into documented, searchable, and summarized resources. This bridges the gap between traditional note-taking and AI-powered documentation, ensuring important information isn't lost whether in medical, business, or educational contexts.
+Recording in-person meetings with Zoom AI transforms standard conversations into documented, searchable, and summarized resources. This bridges the gap between traditional note-taking and AI-powered documentation, ensuring important information isn't lost whether in medical, business, or educational contexts.
