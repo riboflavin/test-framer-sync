@@ -1,6 +1,6 @@
 ---
 type: how-to
-title: Recording in-person meetings with Avoma: Workaround methods
+title: Recording in-person meetings with Avoma – workarounds
 description: Learn how to adapt Avoma for in-person meetings using parallel conference calls or separate recordings, with tips for optimizing audio quality and maintaining speaker identification.
 ---
 
