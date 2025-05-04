@@ -4,6 +4,8 @@ title: Recording in-person meetings with Granola – workarounds
 description: Learn how to effectively use Granola for in-person meetings despite speaker identification limitations, with setup optimization tips, strategic techniques, and iPhone app advantages.
 ---
 
+# Recording in-person meetings with Granola – workarounds
+
 Granola primarily serves virtual meetings and faces a key limitation with in-person meetings: all participants register as a single speaker since everyone's voice enters through one microphone. Despite this constraint, you can still produce valuable meeting records by optimizing your setup, using strategic techniques, and employing the iPhone app which offers better speaker identification. This guide covers practical workarounds and methods to maximize Granola's utility for face-to-face discussions.
 
 ## Understanding Granola's in-person meeting limitations
