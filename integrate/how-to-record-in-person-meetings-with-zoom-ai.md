@@ -1,6 +1,6 @@
 ---
 type: how-to
-title: Recording in-person meetings with Zoom.AI: A practical guide
+title: Recording in-person meetings with Zoom.AI – workarounds
 description: Learn how to use Zoom.AI to capture, transcribe, and analyze in-person meetings by starting a solo meeting on your mobile device, providing you with AI-generated transcripts, highlights, chapters, and action items.
 ---
 
