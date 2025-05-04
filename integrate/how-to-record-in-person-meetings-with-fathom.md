@@ -97,7 +97,3 @@ To ensure best results:
 4. Position your recording device where it won't be obstructed
 5. Have a backup power source for longer meetings
 6. Explain to participants why you're recording
-
-## Conclusion
-
-These workarounds let you use Fathom's AI transcription and summarization for in-person meetings. By creating a virtual bridge through platforms like Zoom, you can capture face-to-face discussions while gaining all of Fathom's benefits. The key is finding the right setup that balances simplicity with quality recording capabilities for your specific meeting environment.
