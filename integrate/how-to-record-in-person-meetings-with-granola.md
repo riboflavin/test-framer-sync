@@ -97,9 +97,3 @@ For a product team's in-person sync:
 4. Prompt speakers by name: "Priya, can you update us on the user testing results?"
 5. Manually add speaker attributions for critical decisions
 6. Verbally summarize key points: "So to recap what Jordan just shared..."
-
-## Conclusion
-
-While Granola wasn't built to distinguish between multiple speakers in-person, these workarounds can help you capture valuable information and produce useful enhanced notes. The iPhone app offers improved performance, so consider that option for important face-to-face discussions.
-
-Transcription quality depends heavily on audio clarity, so optimize your meeting environment and device positioning. By combining Granola's AI capabilities with strategic note-taking practices, you can create comprehensive documentation of your in-person discussions despite the current limitations.
