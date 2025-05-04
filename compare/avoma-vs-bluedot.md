@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Avoma vs Bluedot for meeting automation
-description: Compare AI meeting assistants Avoma and Bluedot across transcription accuracy, action item tracking, meeting summaries, topic segmentation, integrations, and platform support.
+description: An in-depth comparison of Avoma and Bluedot AI meeting assistants, examining their features, pricing, transcription capabilities, and user experiences in automating meeting workflows.
 ---
 
 # Avoma vs Bluedot for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Avoma and Bluedot
 Avoma is an AI meeting assistant that records, transcribes, and summarizes meetings. It generates notes organized by topics like pain points and next steps, with around 95% transcription accuracy even with jargon or accents. The platform supports agenda templates, live note collaboration, CRM synchronization, and works with multiple meeting platforms. While primarily used by sales and customer success teams for call logging and follow-ups, it's also used for general meeting productivity across organizations.
 
 The platform offers tiered pricing from a free plan (limited to about 10 meetings monthly) to enterprise solutions at $129/user. It integrates with calendars, CRMs, and other tools through its ecosystem, while supporting 20+ languages for transcription. Avoma provides mobile apps for iOS and Android that can record offline meetings, but has no dedicated desktop application. Some users find it unnecessarily complex for basic transcription needs, and occasionally experience minor bugs like delayed bot joining or speaker identification errors.
@@ -55,6 +38,18 @@ The service offers tiered pricing with a limited free version (5 meetings total)
 Avoma is better suited for sales and customer success teams who need a comprehensive platform with mobile capabilities and ongoing free access. Its CRM integration and templating features make it valuable for organizations tracking customer interactions, though users should be prepared for a more complex tool that may require adjustment time.
 
 Bluedot works best for individual professionals and teams who prioritize transcription accuracy and discreet recording without meeting interruptions. The Chrome extension approach makes it ideal for users who don't have meeting hosting privileges but still need to capture content, though the limited free tier means users should be ready to commit financially after testing.
+
+## Avoma vs Bluedot: What do users say?
+
+Avoma user reviews highlight it as an all-in-one AI meeting assistant with exceptional transcription accuracy (~95%), even handling jargon and accents well. Users particularly appreciate how it saves time on administrative tasks, allowing them to focus on conversations instead of note-taking. The platform offers strong integration capabilities with tools like Zoom, HubSpot, and Slack, and responsive customer support receives positive mentions. However, some users find it might be overkill for simple needs, occasionally experience minor bugs or delays with the meeting bot, and note that the detailed transcripts can be dense to skim. While the free plan makes it accessible to try, pricing for higher tiers is considered premium.
+
+Bluedot stands out in reviews for its exceptional transcription accuracy, with many users calling it "the most accurate" AI note-taker they've tried. Its Chrome extension approach means no bot needs to join meetings, providing discreet background recording that works even when you're not the host. Users praise its seamless integration with popular apps like Salesforce, HubSpot, Notion, and Slack, automatically updating meeting notes and saving manual effort. The main criticisms focus on the extremely limited free version (only 5 meetings lifetime), Chrome dependency for the best experience, and relatively steep pricing at higher tiers compared to competitors.
+
+Learn more:
+- https://www.g2.com/products/bluedot-bluedot/reviews
+- https://www.g2.com/products/avoma/reviews
+- https://ecosystem.hubspot.com/marketplace/apps/avoma/reviews
+- https://www.reddit.com/r/electricvehicles/comments/18mw5zo/anyone_else_here_use_the_bluedot_app/
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
