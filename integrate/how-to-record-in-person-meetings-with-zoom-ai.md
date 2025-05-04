@@ -4,9 +4,6 @@ title: Recording in-person meetings with Zoom.AI – workarounds
 description: Learn how to use Zoom.AI to capture, transcribe, and analyze in-person meetings by starting a solo meeting on your mobile device, providing you with AI-generated transcripts, highlights, chapters, and action items.
 ---
 
-Recording in-person meetings with Zoom.AI: A practical guide
-
-## Summary
 This article explains how to use Zoom.AI to record and analyze in-person meetings by starting a solo Zoom meeting on your mobile device during real-world conversations. The method provides transcripts, highlights, smart chapters, and action items from in-person discussions. The technique requires a Zoom Workplace Pro account or higher with Smart Recording enabled, and always requires consent from all participants.
 
 ## Why use Zoom.AI for in-person meetings?
