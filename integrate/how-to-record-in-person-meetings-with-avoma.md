@@ -90,9 +90,3 @@ When recording meetings:
 - Obtain appropriate consent per your jurisdiction
 - Consider displaying a visible recording notice
 - Follow organizational recording policies
-
-## Conclusion
-
-While Avoma lacks native in-person meeting support, these workarounds let you use its transcription and AI note-taking for face-to-face interactions. Each method has tradeoffs, so choose based on your specific needs.
-
-For teams frequently recording in-person meetings, investing in quality audio equipment substantially improves results. With these adaptations, you can extend Avoma beyond virtual meetings to document your in-person discussions effectively.
