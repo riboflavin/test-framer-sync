@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Avoma vs Krisp for meeting automation
-description: A detailed comparison of Avoma and Krisp AI meeting automation tools, examining their features, transcription capabilities, summaries, integrations, and pricing models.
+description: Comprehensive comparison of Avoma and Krisp AI meeting assistants, covering features, capabilities, pricing, and user feedback to help you choose the right meeting automation tool.
 ---
 
 # Avoma vs Krisp for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Avoma and Krisp
 Avoma is an AI meeting assistant platform that records, transcribes, and summarizes meetings. It generates notes organized by topics like pain points and next steps, with approximately 95% transcription accuracy even with accents or jargon. The system offers agenda templates, live note collaboration, CRM integration with Salesforce and HubSpot, and supports over 20 languages. It functions across both online and offline meetings through mobile recording.
 
 The platform operates on a tiered pricing model starting with a free plan (limited to about 10 meetings monthly), then paid tiers from $19 to $129 per user monthly. It integrates with various tools including Zoom, calendars, and CRMs, while automating note-taking and follow-up tasks. Some users find it overly complex for basic transcription needs, occasionally experience delays with the bot joining meetings, and note that transcripts can be dense to review quickly. The system has web and mobile apps but no dedicated desktop application.
@@ -55,6 +38,18 @@ The software operates through a desktop app for Windows and Mac, with no current
 Avoma suits sales teams and enterprises requiring detailed meeting documentation and basic CRM integration. Its strength in categorizing conversation topics and supporting collaborative note-taking makes it valuable for teams needing to capture and organize complex discussions, though its premium pricing and platform complexity may overwhelm individual users or small teams with simple needs.
 
 Krisp works best for remote workers in noisy environments who need clear audio and basic meeting capture. Its core noise cancellation technology combined with meeting transcription offers a unique solution for professionals in call centers or shared workspaces, but its limited automation capabilities and integration options make it less suitable for teams requiring seamless workflows across multiple applications.
+
+## Avoma vs Krisp: What do users say?
+
+Avoma user reviews highlight it as an all-in-one AI meeting assistant that excels at recording, transcribing, and summarizing meetings with approximately 95% accuracy, even with jargon or accents. Users particularly appreciate how it saves time on administrative tasks and allows them to focus on conversations instead of note-taking. The platform generates organized notes broken into topics and actionable insights, with strong integration capabilities across Zoom, HubSpot, Slack, and other tools. While support is responsive, some users find it to be more than a basic transcriber and potentially overkill for individual users. Minor bugs, occasional delays in joining meetings, and dense transcripts that can be difficult to skim quickly are noted downsides. Pricing ranges from a free limited plan to premium tiers that some small teams may find expensive.
+
+Krisp users consistently praise its exceptional noise cancellation abilities, noting that it "just works" to eliminate unwanted background sounds like dog barks, keyboard clicks, and other voices. The platform has evolved beyond noise removal to include meeting transcription and AI summaries that generate structured notes with key points and tasks. Users find these summaries "extremely accurate" with minimal editing needed. However, some report audio quirks where voices might occasionally be distorted or words clipped, especially when canceling very loud noises. Other concerns include the free plan's limited 60 minutes per day of noise cancellation, relatively high CPU usage, and pricing that some find steep if they only need one feature. Customer support receives mixed reviews with some mentioning slow response times.
+
+Learn more:
+- https://www.g2.com/products/krisp/reviews 
+- https://www.trustpilot.com/review/krisp.ai
+- https://www.g2.com/products/avoma/reviews
+- https://ecosystem.hubspot.com/marketplace/apps/avoma/reviews
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
