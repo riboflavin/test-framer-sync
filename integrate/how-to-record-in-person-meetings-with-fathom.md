@@ -4,6 +4,8 @@ title: Recording in-person meetings with Fathom – workarounds
 description: Learn how to adapt Fathom to record in-person meetings using three different methods – solo Zoom sessions, dedicated recording stations, or multi-device setups - plus tips for optimizing audio quality and making the most of Fathom's AI features.
 ---
 
+# Recording in-person meetings with Fathom – workarounds
+
 This article describes how to adapt Fathom, a tool designed for virtual meetings, to record in-person meetings. It outlines three main methods: using a solo Zoom session on a laptop, setting up a dedicated recording station with quality microphones, or using multiple devices for complex settings. The guide also covers audio optimization techniques, utilizing Fathom's features effectively, and important limitations to consider.
 
 ## Why use Fathom for in-person meetings?
