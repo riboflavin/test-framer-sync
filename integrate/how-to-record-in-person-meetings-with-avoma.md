@@ -4,9 +4,6 @@ title: Recording in-person meetings with Avoma – workarounds
 description: Learn how to adapt Avoma for in-person meetings using parallel conference calls or separate recordings, with tips for optimizing audio quality and maintaining speaker identification.
 ---
 
-Recording in-person meetings with Avoma: Workaround methods
-
-## Summary
 Avoma is designed for digital meetings but can be adapted for in-person recording using two main workarounds: running a parallel conference call during your in-person meeting, or recording the meeting separately and uploading it afterward. Both methods have limitations around speaker identification and audio quality but can effectively capture meeting content for transcription and analysis.
 
 ## Understanding Avoma's in-person meeting limitations
