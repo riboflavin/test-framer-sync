@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Bluedot vs Fireflies.ai for meeting automation
-description: A comprehensive comparison of Bluedot and Fireflies.ai meeting automation tools, including transcription quality, action item tracking, meeting summaries, and key features for business users.
+description: Detailed comparison of Bluedot and Fireflies.ai meeting automation tools, covering recording methods, pricing, transcription accuracy, mobile support, integrations, and user feedback.
 ---
 
 # Bluedot vs Fireflies.ai for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Bluedot and Fireflies.ai
 Bluedot is an AI meeting recorder and note-taker delivered via Chrome extension. It works on all major meeting platforms like Zoom, Google Meet, and Microsoft Teams without requiring a bot to join calls. The tool records and transcribes meetings in real-time, supports over 100 languages, and integrates with common workflow tools like Salesforce, HubSpot, Notion, and Slack. Its key technical advantage is local recording capability that functions even when you're not the meeting host.
 
 The service operates on a tiered pricing model with a limited free version (5 meetings total), and paid plans ranging from $14-40 per user/month depending on features needed. The Basic plan offers unlimited audio-only recordings with 1-hour maximums, while higher tiers add video recording, unlimited meeting length, custom templates, CRM integrations, and topic tracking. Bluedot works primarily on desktop Chrome browsers, with limited mobile support currently available.
@@ -55,6 +38,18 @@ The service is structured in tiers, starting with a free plan that includes limi
 Bluedot appears best suited for privacy-conscious teams and those who value transcription accuracy above all else. Its local recording approach that doesn't require adding a bot makes it ideal for sales teams handling sensitive client calls or researchers needing precise transcripts, despite its higher price point and lack of mobile options.
 
 Fireflies.ai better serves teams with tight budgets who need a simple solution that works across devices. Its genuine free tier and mobile apps make it accessible for smaller organizations or individuals tracking occasional meetings, though teams with international participants or those discussing specialized topics may find its transcription shortcomings frustrating.
+
+## Bluedot vs Fireflies.ai: What do users say?
+
+Based on user reviews, Bluedot is praised primarily for its accurate transcription capabilities, with many users considering it "the most accurate" AI meeting notes tool they've used. Users appreciate that it doesn't require adding a bot to meetings, allowing for discreet background recording even when you're not the host. The seamless integration with popular apps like Salesforce, HubSpot, Notion, and Slack is frequently highlighted as a significant advantage, automating the process of updating meeting notes across platforms. However, users note that the free version is extremely limited (only 5 meetings lifetime), and the pricing at higher tiers is relatively steep. Some also mention that the best experience requires Chrome on desktop, which can be limiting for organizations using other browsers or needing mobile support.
+
+Fireflies.ai receives positive feedback for its ease of setup and time-saving capabilities. Users report good transcription quality, even for languages beyond English, and appreciate how it delivers summaries and action items within minutes after calls end. The availability of a mobile app and its compatibility across multiple platforms, plus the existence of a free tier, make it accessible to many users. Integration with project management and CRM tools is highlighted as beneficial for team workflows. On the downside, some users desire more concise or nuanced summaries, noting that Fireflies tends to generate high-level overviews that sometimes miss the original tone. Transcription accuracy can suffer with heavy accents or technical jargon, and some users find the interface cluttered or complain about excessive email notifications.
+
+Learn more:
+- https://www.g2.com/products/bluedot-bluedot/reviews
+- https://thebusinessdive.com/fireflies-ai-review
+- https://www.reddit.com/r/AIToolTesting/comments/1g55mmv/fireflies_ai_review_the_good_the_bad_and_the/
+- https://www.reddit.com/r/electricvehicles/comments/18mw5zo/anyone_else_here_use_the_bluedot_app/
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
