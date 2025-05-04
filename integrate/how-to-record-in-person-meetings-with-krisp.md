@@ -4,6 +4,8 @@ title: Recording in-person meetings with Krisp – workarounds
 description: Learn how to adapt Krisp's virtual meeting recording capabilities for in-person meetings using two effective workaround methods.
 ---
 
+# Recording in-person meetings with Krisp – workarounds
+
 Krisp is primarily designed for virtual meetings but can be adapted for in-person recording. This article explains two methods to use Krisp for recording face-to-face meetings: the Conference Bridge Approach (creating an empty virtual meeting) and the Local Recording Enhancement (using Krisp directly without a conferencing app). It covers setup optimization, accessing recordings, and practical limitations of these workarounds.
 
 ## Understanding Krisp's recording capabilities
