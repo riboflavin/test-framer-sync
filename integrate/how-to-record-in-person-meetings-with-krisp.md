@@ -1,6 +1,6 @@
 ---
 type: how-to
-title: Recording in-person meetings with Krisp: A workaround guide
+title: Recording in-person meetings with Krisp – workarounds
 description: Learn how to adapt Krisp's virtual meeting recording capabilities for in-person meetings using two effective workaround methods.
 ---
 
