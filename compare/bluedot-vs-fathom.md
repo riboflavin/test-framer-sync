@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Bluedot vs Fathom for meeting automation
-description: A detailed comparison of Bluedot and Fathom AI meeting automation tools, evaluating their transcription capabilities, action item tracking, meeting summaries, and more.
+description: Comparing Bluedot and Fathom AI meeting assistants, exploring features like transcription, integrations, pricing tiers, language support, and in-person meeting capabilities.
 ---
 
 # Bluedot vs Fathom for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Bluedot and Fathom
 Bluedot is an AI meeting recorder that works as a Chrome extension without needing a meeting bot. It records and transcribes meetings on Google Meet, Zoom, Microsoft Teams and other platforms in real-time with support for over 100 languages. The tool generates AI-powered meeting notes that can be synced to other systems like Salesforce, HubSpot, Notion, Slack, and Google Docs through one-click integration.
 
 The service operates with tiered pricing: a free version limited to 5 total meetings, Basic (~$18/month) for unlimited audio-only recordings up to 1 hour each, Pro (~$25/month) with unlimited video recording and meeting length, and Business (~$40/month) with additional CRM integrations and guest access. Bluedot works through a desktop app that records locally, and while it supports in-person meetings through local recording, it currently lacks mobile app support.
@@ -55,6 +38,22 @@ The service offers a free plan with unlimited recordings but AI summaries limite
 Bluedot might be the better choice for teams requiring high transcription accuracy across various meeting environments, especially those needing in-person meeting support. Its bot-free approach makes it suitable for participants who aren't meeting hosts and need discreet recording capabilities, though the limited free tier makes it primarily an option for businesses with budget for productivity tools.
 
 Fathom would better serve users primarily conducting online meetings on supported platforms who need a more economical solution. Its generous free tier makes it accessible for individuals and small teams, while its straightforward interface and quick summary generation appeal to those who prioritize simplicity over comprehensive feature sets. Both tools, however, would benefit from deeper workflow integrations that help users apply meeting insights more effectively.
+
+## Bluedot vs Fathom: What do users say?
+
+Based on user reviews, Bluedot stands out as an AI meeting recorder and note-taker known for exceptional accuracy. Users consistently praise it for recording meetings without requiring a bot to join calls, which creates a more natural meeting experience. The Chrome extension works seamlessly across Google Meet, Zoom, and Microsoft Teams, allowing users to focus on conversations rather than note-taking. Reviewers particularly appreciate Bluedot's robust integration capabilities, as it effortlessly syncs meeting notes to CRMs like Salesforce and HubSpot, as well as project tools like Notion and Slack.
+
+However, users note that Bluedot's free version is extremely limited with only 5 lifetime meetings, essentially functioning as just a trial. The pricing at higher tiers (especially Pro and Business plans) is considered steep by some small teams. Additionally, the best experience requires Chrome on desktop, which could be a limitation for organizations using different browsers or needing mobile support.
+
+Fathom, another AI meeting assistant, receives high marks for its generous free plan compared to competitors. Users highlight its quick and accurate transcriptions, with AI-generated summaries appearing seconds after meetings end. Many reviewers appreciate Fathom's intuitive interface and excellent customer service. The tool is particularly valued for allowing users to be fully present in meetings while capturing all important details.
+
+On the downside, some advanced Fathom features like meeting templates are restricted to paid plans. Unlike some competitors, Fathom doesn't support uploading external audio files for transcription - it only works with live meetings. A few users mention the lack of a mobile app and find some on-screen widgets distracting, though these can often be hidden.
+
+Learn more about these AI meeting assistants:
+- https://thebusinessdive.com/fathom-review
+- https://www.capterra.com/p/276054/Fathom/reviews/
+- https://www.g2.com/products/bluedot-bluedot/reviews
+- https://www.reddit.com/r/electricvehicles/comments/18mw5zo/anyone_else_here_use_the_bluedot_app/
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
