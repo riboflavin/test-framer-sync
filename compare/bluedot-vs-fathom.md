@@ -52,7 +52,7 @@ To learn more about these tools, check out [Fathom Reviews on The Business Dive]
 Yes, Bluedot works for in-person meetings. It can record locally via its app and automatically transcribe and summarize after meetings. Fathom does not work for in-person meetings as it cannot import external audio and only works for scheduled online meetings (Zoom, Google Meet, Teams).
 
 • What about meeting bots? Does either of these tools require a meeting bot?
-Bluedot does not require a meeting bot. It's described as a "bot-free recorder" that can capture meetings without a "bot" joining calls. The context specifically mentions "no meeting bot needed" and that it "doesn't require inviting a bot," which users appreciate for discretion. For Fathom, the context doesn't explicitly state whether it requires a meeting bot.
+Bluedot does not require a meeting bot. It's described as a "bot-free recorder" that can capture meetings without a "bot" joining calls. 
 
 • What do users say about the quality of transcriptions?
 Users praise Bluedot for its transcription accuracy - it's often noted as "the most accurate" AI notetaker users have tried. For Fathom, transcriptions are described as "quick and accurate" according to user reviews.
