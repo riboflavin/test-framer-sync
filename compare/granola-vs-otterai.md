@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Granola vs Otter.ai for meeting automation
-description: Comprehensive comparison of Granola and Otter.ai AI meeting automation tools, evaluating transcription quality, action item tracking, meeting summaries, topic segmentation, and key features like platform support, integrations, and pricing.
+description: A detailed comparison of Granola and Otter.ai for meeting notes and transcription, covering features, platform support, pricing, and user experiences.
 ---
 
 # Granola vs Otter.ai for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Granola and Otter.ai
 Granola is an AI notepad for meetings that runs locally on Mac computers. It captures system audio from any meeting platform without requiring a bot in the call, allowing users to take minimal notes during meetings. After meetings end, it processes the audio recording and user notes to generate structured summaries with sections like key takeaways and next steps. The app features customizable note templates and an AI assistant for generating follow-up content.
 
 The tool works with all major meeting platforms including Zoom, Teams, and Webex. Pricing starts with a free trial of 25 meetings, then moves to paid plans starting at $18/month for individuals and $14/user/month for business teams. Current limitations include Mac-only support (no Windows version yet), no mobile apps, and limited integrations beyond calendar sync and Notion export.
@@ -59,6 +42,27 @@ The service offers tiered pricing, from a free plan with 600 minutes monthly to 
 Granola appears best suited for Mac users who prefer a clean, minimalist approach to meeting notes without the intrusion of a bot. Its offline capabilities and local processing make it appropriate for those with privacy concerns or who work in environments with unreliable internet connectivity.
 
 Otter.ai better serves users needing cross-platform accessibility and real-time transcription features. Its broader platform support and integration options make it more suitable for teams that require immediate access to meeting content across various devices, though both tools ultimately fall short in providing deep integrations that help users meaningfully act on meeting outcomes.
+
+## Granola vs Otter.ai: What do users say?
+
+Based on user reviews, Granola is well-regarded as an AI note-taking tool that operates discreetly on Mac computers to capture meeting content without requiring a bot in the call. Users appreciate its "set and forget" functionality that allows them to focus on conversations while still producing quality, well-organized summaries afterward. The clean, simple interface reminds many of Apple Notes, and the ability to customize note templates is frequently praised. However, limitations include its Mac-only availability (Windows support being a common request), no mobile app yet, and potential audio capture issues in certain meeting setups.
+
+Otter.ai receives mixed reviews as a transcription and note-taking service. Users value its ease of use, real-time transcription capabilities, and the AI-generated summaries of key themes. The ability to highlight or comment during meetings is appreciated, along with its generous free tier. However, many criticize the verbosity and lack of structure in transcripts, accuracy issues with complex audio, and problems with speaker identification. Some users also report frustration with the assistant spamming calendar invites or joining unwanted meetings when not properly configured.
+
+Those interested in learning more can check out [Otter AI Review on CNET](https://www.cnet.com/tech/services-and-software/otter-ai-review/), a [Reddit discussion about Otter.ai for meeting minutes](https://www.reddit.com/r/ProductManagement/comments/1866ags/is_otterai_worth_it_for_meeting_minutes/), and [Otter.ai's Trustpilot reviews](https://www.trustpilot.com/review/otter.ai) showing a 4-star average rating from 466 reviewers.
+
+## FAQs 
+• Would Granola work for in-person meetings? What about Otter.ai?
+Granola: Partially. The Mac app can capture in-room audio locally, but there's no mobile app yet (Android/iOS are "coming soon").
+Otter.ai: Yes. It can transcribe live in-person conversations via its app.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Granola: No. Granola runs on your computer and listens to meetings without needing a bot in the call. It works fully offline on Mac – records and transcribes locally (no internet or bot needed).
+Otter.ai: Otter.ai integrates with Zoom, Teams, etc., via an assistant that can join meetings in real time.
+
+• What do users say about the quality of transcriptions?
+Granola: The context doesn't specifically mention user feedback about transcription quality.
+Otter.ai: Users note that transcripts can be overly verbose and lack structure. Accuracy can suffer with complex audio – some reviews mention mistakes in transcription or speaker identification.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
