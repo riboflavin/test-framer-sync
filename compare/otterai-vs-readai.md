@@ -56,7 +56,7 @@ Yes, both Otter.ai and Read.ai work for in-person meetings. Otter.ai can transcr
 Otter.ai integrates with platforms like Zoom and Teams via an assistant that can join meetings in real time. Read.ai doesn't require meeting bots - it records virtual meetings via cloud or extension, and offline audio via mobile app.
 
 • What do users say about the quality of transcriptions?
-For Otter.ai, users praise it as "extremely easy to use for transcribing and note-taking," but some mention that accuracy can suffer with complex audio, noting mistakes in transcription or speaker identification. Transcripts can also be "overly verbose and lack structure, making it hard to quickly find key takeaways." For Read.ai, users consider the summaries "smart," capturing questions asked and topics discussed, but the context doesn't specifically address transcription quality.
+For Otter.ai, users praise it as "extremely easy to use for transcribing and note-taking," but some mention that accuracy can suffer with complex audio, noting mistakes in transcription or speaker identification. Transcripts can also be "overly verbose and lack structure, making it hard to quickly find key takeaways." 
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
