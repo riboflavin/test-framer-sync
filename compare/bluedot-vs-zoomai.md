@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Bluedot vs Zoom AI for meeting automation
-description: A comprehensive comparison of Bluedot and Zoom AI meeting automation tools, evaluating transcription quality, action item tracking, meeting summaries, and additional features like ease-of-use, platform support, security, and integrations.
+description: A detailed comparison of Bluedot and Zoom AI meeting tools, examining their features, pricing, platform compatibility, and user experiences to help teams choose the right solution for their meeting automation needs.
 ---
 
 # Bluedot vs Zoom AI for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Bluedot and Zoom AI
 Bluedot is an AI meeting recorder and transcription tool delivered via Chrome extension that works across Google Meet, Zoom, Microsoft Teams and other platforms without requiring a meeting bot. It records and transcribes meetings in real-time across 100+ languages, then generates AI meeting notes that can be synchronized to various systems including CRMs (Salesforce, HubSpot), productivity tools (Notion, Slack), and Google Docs. The tool functions discreetly in the background even when you're not the meeting host.
 
 The service operates on a tiered pricing model starting with a limited free version (5 meetings total) before requiring payment. Paid plans range from Basic ($18/month) offering audio-only recording with 1-hour limits, to Pro ($25/month) with unlimited video recording and custom templates, to Business ($40/month) with additional CRM integrations and unlimited guest access. While it works across major meeting platforms through its Chrome extension and desktop apps, it currently lacks mobile support and requires Chrome for optimal functionality.
@@ -56,6 +39,24 @@ The tool works exclusively within Zoom's platform and doesn't support meetings o
 Bluedot makes sense for teams working across multiple meeting platforms who need accurate transcription and basic integrations with systems like Salesforce or Notion. Its platform-agnostic nature suits organizations with mixed technology stacks, but the cost is hard to justify for smaller teams or those wanting true workflow automation beyond simple note syncing.
 
 Zoom AI fits organizations already standardized on Zoom who want simple summaries without additional costs. It's the economical choice for teams exclusively using Zoom, though its value diminishes for organizations needing cross-platform support or deeper integrations with project management and CRM tools to meaningfully advance their work.
+
+## Bluedot vs Zoom AI: What do users say?
+
+Bluedot is an AI meeting recorder and note-taker available as a Chrome extension that works across Google Meet, Zoom, Microsoft Teams, and other platforms without requiring a meeting bot. Users consistently praise its transcription accuracy, with many claiming it's "the most accurate" AI notetaker they've tried. The tool's discreet background recording is appreciated since no bot needs to be invited, allowing it to work even when users aren't meeting hosts. Bluedot offers strong integration capabilities with popular apps like Slack, Notion, Google Drive, HubSpot, and Salesforce, automatically updating meeting notes. However, the free version is extremely limited with only 5 lifetime meetings, and paid plans range from $18/month for the Basic tier to $40/month for Business features. While it supports 100+ transcription languages and offers desktop apps, there's currently no mobile app support.
+
+Zoom AI, on the other hand, provides built-in AI features for Zoom's platform, generating meeting summaries and action items at the end of calls. Users can ask the AI questions during meetings like "What did I miss?" and receive immediate answers. The seamless integration within the Zoom ecosystem means no additional setup is required if you're already using Zoom. Summaries and action items are generated almost instantly after meetings conclude. While it's included at no extra cost for paid Zoom subscribers, it doesn't work for meetings on other platforms, and free Zoom users are constrained by the 40-minute meeting limit. Some users find certain features less robust than dedicated tools, with limited control over which meetings to record or summarize, and occasional difficulties sharing AI notes outside of Zoom.
+
+For more detailed reviews and information, readers can check out [Zoom AI Companion Review](https://www.meetjamie.ai/blog/zoom-ai-companion-review), [Reddit discussions about Zoom AI](https://www.reddit.com/r/Zoom/comments/1g29cog/using_zooms_ai_companion_to_record_and_summarize/), [Bluedot Reviews on G2](https://www.g2.com/products/bluedot-bluedot/reviews), and [user experiences with Bluedot on Reddit](https://www.reddit.com/r/electricvehicles/comments/18mw5zo/anyone_else_here_use_the_bluedot_app/).
+
+## FAQs 
+• Would Bluedot work for in-person meetings? What about Zoom AI?
+Yes, Bluedot works for in-person meetings as it can capture any meeting on your device without requiring a bot to join calls. In contrast, Zoom AI does not work for in-person meetings as it only works for virtual Zoom calls and cannot independently capture in-person audio.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Bluedot does not require a meeting bot. It's provided via a Chrome extension with "no meeting bot needed" and users appreciate that it "doesn't require inviting a bot" which allows for "discreet background recording" even when you're not the meeting host. For Zoom AI, no explicit mention is made about requiring a meeting bot in the provided context.
+
+• What do users say about the quality of transcriptions?
+Users widely praise Bluedot for its transcription accuracy, with marketing and early users often noting it as "the most accurate" AI notetaker they've tried. The context doesn't provide specific user feedback about Zoom AI's transcription quality.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
