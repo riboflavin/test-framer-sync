@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Read.ai vs Zoom AI for meeting automation
-description: Comprehensive comparison of Read.ai and Zoom AI meeting assistants, including transcription quality, action item tracking, meeting summaries, topic segmentation, and key features like platform compatibility, in-person support, and integrations.
+description: A comprehensive comparison of Read.ai and Zoom AI meeting assistants, exploring features, pricing, platform compatibility, and user reviews to help teams choose the right meeting automation tool.
 ---
 
 # Read.ai vs Zoom AI for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Read.ai and Zoom AI
 Read.ai is an AI meeting assistant that transcribes and analyzes meetings across platforms like Zoom, Teams, and Meet. It generates real-time transcriptions and post-meeting reports containing key points, action items, and metrics such as speaking time, sentiment analysis, and attention scores. Beyond meetings, it can summarize Slack threads and emails, provides AI search across all meeting transcripts, and captures in-person meetings via its iOS app. It offers integrations with tools like HubSpot, Salesforce, Notion, and Slack.
 
 The service operates on a tiered pricing model: a free plan limited to 5 meeting transcripts monthly, a Pro plan at $19.75/user/month (annual) for unlimited meetings and advanced integrations, and Enterprise plans starting at $29.75/user/month with additional features like video playback. Read.ai works through web apps and browser extensions rather than a dedicated desktop client. It supports transcription in over 20 languages but currently offers mobile functionality only on iOS, not Android.
@@ -59,6 +42,24 @@ The tool only functions within Zoom meetings and isn't available for other platf
 Read.ai works best for teams using multiple meeting platforms who need advanced analytics and a searchable knowledge base. Organizations with distributed teams will benefit from its cross-platform support and in-person meeting capabilities, despite paying a premium for these features.
 
 Zoom AI is the logical choice for teams already invested in Zoom who need basic meeting summaries without additional costs. Small businesses with simple needs and budget constraints will appreciate its seamless integration, though they'll have to accept its limitations for non-Zoom meetings and lack of workflow automation.
+
+## Read.ai vs Zoom AI: What do users say?
+
+Read.ai receives mixed reviews from users. Many appreciate its comprehensive feature set that goes beyond basic transcription, offering engagement scores, speaker balance metrics, and "smart" summaries that capture questions and topics. Users value its support for 16+ languages, real-time translation, and workflow integrations with Slack, Notion, and Confluence. The iOS app for capturing in-person meetings is also praised. However, complaints focus on the limited free tier (only 5 meetings monthly), a potentially cluttered UI with a learning curve, privacy concerns when joining others' meetings, and relatively high pricing for full functionality, especially at the Enterprise level.
+
+Zoom AI Companion, being built directly into Zoom, offers seamless integration that requires minimal setup for existing Zoom users. Reviews highlight its ease of use, instant meeting summaries with action items, and cost-effectiveness (included with paid Zoom accounts). The main limitations noted are its restriction to the Zoom platform only, unavailability for free Zoom users, less mature features compared to dedicated meeting tools, and basic integration with Zoom Chat. Unlike Read.ai, it cannot capture in-person meetings and offers fewer third-party integrations.
+
+For more information, check out [Jamie AI's detailed review of Zoom AI Companion](https://www.meetjamie.ai/blog/zoom-ai-companion-review), [Reddit discussions about Zoom AI](https://www.reddit.com/r/Zoom/comments/1g29cog/using_zooms_ai_companion_to_record_and_summarize/), [user reviews of Read.ai on Trustpilot](https://www.trustpilot.com/review/read.ai), and [Microsoft AppSource ratings for Read AI](https://appsource.microsoft.com/en-us/product/office/WA200003896?tab=Reviews).
+
+## FAQs 
+• Would Read.ai work for in-person meetings? What about Zoom AI?
+Read.ai would work for in-person meetings as it has an iOS app that captures in-person/offline meetings with one tap. Zoom AI, on the other hand, only works for virtual Zoom calls and cannot independently capture in-person audio.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Read.ai does not require meeting bots – it records virtual meetings via cloud or extension, and offline audio via mobile app. The information doesn't specifically state whether Zoom AI requires a meeting bot.
+
+• What do users say about the quality of transcriptions?
+The provided context doesn't contain specific user feedback about the quality of transcriptions for either Read.ai or Zoom AI.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
