@@ -57,7 +57,7 @@ Granola can partially work for in-person meetings as the Mac app can capture in-
 Neither tool requires a meeting bot. Granola "listens to meetings without needing a bot in the call" and "works fully offline on Mac – records and transcribes locally (no internet or bot needed)." Similarly, Krisp "records & transcribes meetings locally via the Krisp app (no bot; works with any voice app)."
 
 • What do users say about the quality of transcriptions?
-For Krisp, users report that the summaries with key points and action items were "extremely accurate," requiring minimal edits. However, some users note that Krisp might occasionally distort the speaker's voice or clip words, especially with very loud noises, which "can affect transcription accuracy." The context doesn't provide specific user feedback about Granola's transcription quality.
+For Krisp, users report that the summaries with key points and action items were "extremely accurate," requiring minimal edits. However, some users note that Krisp might occasionally distort the speaker's voice or clip words, especially with very loud noises, which "can affect transcription accuracy." 
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
