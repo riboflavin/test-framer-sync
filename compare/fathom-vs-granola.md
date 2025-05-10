@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Fathom vs Granola for meeting automation
-description: A comprehensive comparison of Fathom and Granola AI meeting automation tools, covering transcripts, action items, summaries, and key features like ease-of-use, platform support, and integrations.
+description: Compare Fathom and Granola as AI meeting tools, examining features, pricing, and use cases for these meeting automation solutions.
 ---
 
 # Fathom vs Granola for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Fathom and Granola
 Fathom is an AI meeting notetaker that works with Zoom, Google Meet, and Teams. It records meetings, transcribes in real-time in 25+ languages, and generates different summary formats like bullet lists, action items, and detailed chronological summaries. The system identifies speakers, allows users to highlight key moments during calls, provides post-meeting overviews, and includes an "Ask Fathom" feature for querying meeting content. It's used primarily by sales reps and anyone wanting to focus on conversation rather than note-taking.
 
 The service offers a free plan with unlimited recordings and 5 AI-summarized meetings monthly, with paid tiers starting at $15/month for unlimited AI note-taking. Fathom works only with scheduled online meetings (not uploaded audio files or in-person meetings), has no mobile app, and requires a desktop application. It integrates with CRMs like HubSpot and Salesforce, plus Slack and Notion, and automatically generates summaries and action items that can be synced to other platforms.
@@ -54,6 +37,24 @@ The app operates locally, recording and transcribing meetings offline on Mac dev
 Fathom works best for teams heavily invested in Zoom or Teams who need a reliable way to capture meeting content with minimal setup. Sales teams particularly benefit from its CRM integrations, though they'll likely find the workflow automations too basic for complex sales processes. The generous free tier makes it accessible for individuals and small teams.
 
 Granola appeals to Mac users who attend meetings across multiple platforms and prefer a less intrusive note-taking solution. Its ability to work offline and capture any meeting without adding a bot makes it ideal for consultants or those attending sensitive client meetings. However, the lack of Windows support and limited integrations make it less suitable for enterprise environments where cross-platform functionality is essential.
+
+## Fathom vs Granola: What do users say?
+
+Fathom and Granola represent two different approaches to AI meeting assistance. Fathom, which integrates with Zoom, Google Meet, and Teams, receives praise for its generous free plan that allows unlimited recordings with full AI summaries for 5 meetings monthly. Users highlight its accurate transcriptions, intuitive interface, and responsive customer service. The platform automatically generates summaries, action items, and can push content to CRMs. However, some users note that advanced features require paid plans, there's no mobile app, and it can't process external audio files.
+
+Granola takes a different approach as an AI notepad that runs on Mac computers and listens to meetings without requiring a bot in the call. Users appreciate its "set and forget" functionality that allows them to focus on conversations while still getting quality notes afterward. Its clean interface draws comparisons to Apple Notes for simplicity. The main limitations include its Mac-only availability (though Windows support is reportedly coming), lack of a mobile app, and dependency on system audio capture.
+
+For more information about these AI meeting tools, you can check out [Fathom's review on The Business Dive](https://thebusinessdive.com/fathom-review), [user reviews of Fathom on Capterra](https://www.capterra.com/p/276054/Fathom/reviews/), [Granola's features on their website](https://granola.ai), or read [user experiences with Granola on G2](https://g2.com).
+
+## FAQs 
+• Would Fathom work for in-person meetings? What about Granola?
+Fathom does not work for in-person meetings as it "Cannot import external audio – only works for scheduled online meetings (Zoom, Google Meet, Teams)." Granola can partially support in-person meetings as the "Mac app can capture in-room audio locally," though it has no mobile app yet.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Fathom requires integrating with video conferencing platforms (Zoom, Google Meet, Teams). Granola explicitly "runs on your computer (currently Mac) and listens to meetings without needing a bot in the call" and has "no bot or plugin required."
+
+• What do users say about the quality of transcriptions?
+For Fathom, transcriptions are "praised as quick and accurate" according to user reviews. For Granola, there's no specific mention of transcription quality in the provided context.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
