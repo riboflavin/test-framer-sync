@@ -50,9 +50,6 @@ For more detailed information, readers can explore [tl;dv reviews on G2](https:/
 • Would tldv work for in-person meetings? What about Avoma?
 tldv does not work for in-person meetings (listed as "No" for "Good for in-person"). Avoma does work for in-person meetings through its mobile app, which can record offline/in-person meetings for later transcription.
 
-• What about meeting bots? Does either of these tools require a meeting bot?
-Based on the context provided, Avoma mentions that "the bot sometimes joins a meeting late" in the cons section, suggesting it uses a meeting bot. For tldv, the context mentions "AI agents for recording" which suggests some form of automated system, but doesn't explicitly mention a meeting bot requirement.
-
 • What do users say about the quality of transcriptions?
 For tldv, users note "accurate transcriptions" as one of the pros. For Avoma, users report that "transcriptions are ~95% accurate even with jargon or accents" and it is "highly rated for its accuracy and depth."
 
