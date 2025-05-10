@@ -61,7 +61,7 @@ Yes, Avoma works for in-person meetings. It has a mobile app that can record off
 Avoma has a meeting bot that joins calls, and some users report occasional issues where "the bot sometimes joins a meeting late." For Zoom AI, there's no mention of a separate meeting bot as the AI functionality appears to be built directly into the Zoom platform.
 
 • What do users say about the quality of transcriptions?
-Avoma's transcriptions are highly rated for accuracy - users report they are "~95% accurate even with jargon or accents." For Zoom AI, there are no specific mentions about transcription quality in the provided context.
+Avoma's transcriptions are highly rated for accuracy - users report they are "~95% accurate even with jargon or accents."
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
