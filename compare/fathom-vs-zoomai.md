@@ -50,11 +50,8 @@ For more detailed information, you can check out [My Honest Fathom Review After 
 • Would Fathom work for in-person meetings? What about Zoom AI?
 No, Fathom cannot be used for in-person meetings as it "Cannot import external audio – only works for scheduled online meetings (Zoom, Google Meet, Teams)." Similarly, Zoom AI also does not work for in-person meetings as it "Only works for virtual Zoom calls (cannot independently capture in-person audio)."
 
-• What about meeting bots? Does either of these tools require a meeting bot?
-There is no information in the provided context about either tool requiring meeting bots.
-
 • What do users say about the quality of transcriptions?
-For Fathom, transcriptions are "praised as quick and accurate" according to user reviews. For Zoom AI, there are no specific mentions about the quality of transcriptions in the provided context.
+For Fathom, transcriptions are "praised as quick and accurate" according to user reviews.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
