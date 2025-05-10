@@ -53,10 +53,10 @@ For more detailed reviews and information, readers can check out [Zoom AI Compan
 Yes, Bluedot works for in-person meetings as it can capture any meeting on your device without requiring a bot to join calls. In contrast, Zoom AI does not work for in-person meetings as it only works for virtual Zoom calls and cannot independently capture in-person audio.
 
 • What about meeting bots? Does either of these tools require a meeting bot?
-Bluedot does not require a meeting bot. It's provided via a Chrome extension with "no meeting bot needed" and users appreciate that it "doesn't require inviting a bot" which allows for "discreet background recording" even when you're not the meeting host. For Zoom AI, no explicit mention is made about requiring a meeting bot in the provided context.
+Bluedot does not require a meeting bot. It's provided via a Chrome extension with "no meeting bot needed" and users appreciate that it "doesn't require inviting a bot" which allows for "discreet background recording" even when you're not the meeting host. 
 
 • What do users say about the quality of transcriptions?
-Users widely praise Bluedot for its transcription accuracy, with marketing and early users often noting it as "the most accurate" AI notetaker they've tried. The context doesn't provide specific user feedback about Zoom AI's transcription quality.
+Users widely praise Bluedot for its transcription accuracy, with marketing and early users often noting it as "the most accurate" AI notetaker they've tried.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
