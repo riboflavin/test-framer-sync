@@ -59,7 +59,7 @@ Yes, both Bluedot and Read.ai work for in-person meetings. Bluedot can capture a
 Neither tool requires a meeting bot. Bluedot is specifically noted as being "bot-free" and works as a Chrome extension that quietly records in the background. Read.ai also operates without meeting bots, recording virtual meetings via cloud or extension, and offline audio via its mobile app.
 
 • What do users say about the quality of transcriptions?
-Bluedot is widely praised for its transcription accuracy, with marketing and early users often describing it as "the most accurate" AI notetaker they've tried. For Read.ai, there isn't specific information in the provided context about user feedback on transcription quality.
+Bluedot is widely praised for its transcription accuracy, with marketing and early users often describing it as "the most accurate" AI notetaker they've tried.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
