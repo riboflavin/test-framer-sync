@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Granola vs Zoom AI for meeting automation
-description: 
+description: A detailed comparison of Granola and Zoom AI as meeting automation tools, examining their features, pricing, platform compatibility, and user feedback.
 ---
 
 # Granola vs Zoom AI for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Granola and Zoom AI
 Granola is a Mac-based AI notepad for meetings that captures system audio without requiring a meeting bot. Users jot minimal notes during calls, and upon meeting completion, Granola generates structured notes with key takeaways and next steps. It works with all meeting platforms by capturing system audio, offers customizable templates for different meeting types, and includes an AI assistant for answering questions or generating follow-up content.
 
 The tool runs completely on the user's device, records and transcribes locally, and supports about 16 languages. After a free trial of 25 meetings, pricing starts at $18/month for individuals, with business ($14/user/month) and enterprise ($35/user/month) plans available. Current limitations include Mac-only support (Windows version pending), no mobile apps yet, and limited integrations beyond calendar sync and Notion export.
@@ -60,6 +43,24 @@ The tool only functions for virtual Zoom meetings and cannot capture in-person c
 Granola appears best suited for users who participate in meetings across multiple platforms and need a standalone tool that works regardless of meeting software. The product's strength lies in its platform-agnostic approach and offline functionality, making it valuable for consultants, freelancers, and teams using varied communication channels.
 
 Zoom AI naturally fits organizations heavily invested in Zoom's ecosystem who want a zero-setup solution included with their existing subscription. Its in-platform experience benefits teams already standardized on Zoom who need basic AI assistance without learning a new tool, though users requiring cross-platform support or deeper integrations will find its capabilities limited.
+
+## Granola vs Zoom AI: What do users say?
+
+Granola AI serves as an AI notepad for meetings, running on Mac computers and capturing system audio without requiring a bot in the call. Users can jot brief notes during meetings, and Granola produces enhanced, structured summaries afterward with key takeaways and next steps. Reviews highlight its "set and forget" functionality that allows users to focus on conversations while still getting quality notes. The clean, simple interface reminds users of Apple Notes, and the customizable templates deliver well-organized summaries formatted to user preferences. Limitations include its Mac-only availability (as of 2024), lack of a mobile app, and reliance on device audio capture. Pricing begins with 25 free meetings, followed by plans starting at $18/month for individuals.
+
+Zoom AI functions as a built-in feature for Zoom's platform, automatically generating meeting summaries and action items after calls. It allows participants to ask questions during meetings and assists with composing emails and documents. Users appreciate its seamless integration within the Zoom ecosystem, eliminating the need for separate apps. The AI generates summaries almost instantly after meetings, and it's included at no extra cost for paid Zoom accounts. However, it only works with Zoom meetings, not other platforms, and some users find certain features immature compared to dedicated note-taking tools. The service is included free with Zoom Pro plans (starting around $15/month per user).
+
+For more information about these AI note-taking solutions, check out [Zoom AI Companion Review](https://www.meetjamie.ai/blog/zoom-ai-companion-review), [Reddit discussions about Zoom AI](https://www.reddit.com/r/Zoom/comments/1g29cog/using_zooms_ai_companion_to_record_and_summarize/), and [Consumer Reports](https://www.consumerreports.org/health/cereals/great-tasting-granolas-without-all-the-fat-sugar-calories-a1188431093/) for product comparison insights.
+
+## FAQs 
+• Would Granola work for in-person meetings? What about Zoom AI?
+Granola works partially for in-person meetings - the Mac app can capture in-room audio locally. Zoom AI does not work for in-person meetings as it only functions for virtual Zoom calls and cannot independently capture in-person audio.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Granola does not require a meeting bot - it "listens to meetings without needing a bot in the call" and "works fully offline on Mac" for recording and transcribing locally. Zoom AI also doesn't require a separate bot as it's built into the Zoom platform itself.
+
+• What do users say about the quality of transcriptions?
+The provided context doesn't contain specific user feedback about the quality of transcriptions for either Granola or Zoom AI.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
