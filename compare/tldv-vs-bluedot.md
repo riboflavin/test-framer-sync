@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: tldv vs Bluedot for meeting automation
-description: A comprehensive comparison of tldv and Bluedot AI meeting automation tools, evaluating their features, pricing, language support, recording capabilities, and integration options.
+description: Compare tldv and Bluedot for meeting recording, transcription, and automation. Features, pricing, and user feedback for these AI meeting assistants.
 ---
 
 # tldv vs Bluedot for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding tldv and Bluedot
 tldv is a meeting tool that records, transcribes, and summarizes conversations across platforms like Zoom and Microsoft Teams. It timestamps important moments, creates highlights, and integrates with CRM systems. Through its AI agents, it automates the recording process, note-taking, and data entry into other business systems. The software works with over 30 languages and offers local recording capabilities via desktop applications for Windows and macOS.
 
 The service operates on a tiered pricing model with a free version and paid options at $18/month (Pro) and $59/month (Business). It requires internet connectivity to function properly and doesn't support in-person meetings. While it offers integrations with thousands of services including HubSpot, Notion, and Salesforce, it lacks native mobile applications. The desktop app handles the core functionality of capturing and processing meeting content.
@@ -58,6 +41,24 @@ The pricing structure starts with a limited free version (5 meetings total), the
 For teams prioritizing a generous free tier and simple meeting recording, tldv offers better value with its unlimited free recordings. Its straightforward functionality works well for organizations with occasional meeting recording needs who don't require extensive post-meeting workflow automation. Teams comfortable with having a bot present in meetings will find tldv's approach familiar and accessible.
 
 Bluedot better serves professionals who need discreet recording without bot presence, especially in client-facing or external meetings. Its superior language support and in-person recording capabilities make it more versatile for global teams or field work. However, serious users must commit to paid plans almost immediately, making it more appropriate for sales teams, researchers, and other roles where meeting intelligence directly impacts revenue outcomes.
+
+## tldv vs Bluedot: What do users say?
+
+Based on user reviews, tldv is praised for its accurate transcription capabilities, intuitive user interface, and generous free plan. Users appreciate its AI meeting recording, transcription, and summarization features, along with timestamps, highlights, and CRM integration capabilities. However, some reviews mention limitations in platform support, dependency on internet quality, and privacy concerns. The tool offers tiered pricing with Free, Pro ($18/month), and Business ($59/month) plans.
+
+Bluedot stands out for its exceptional transcription accuracy and discreet recording capability that doesn't require adding a bot to meetings. Users value its Chrome extension that works across major meeting platforms and its ability to automatically sync notes with popular tools like Salesforce, HubSpot, Notion, and Slack. The main drawbacks mentioned include its limited free tier (only 5 lifetime meetings), reliance on Chrome for optimal performance, and relatively steep pricing at higher tiers. Pricing ranges from a limited free plan to paid tiers starting at approximately $18/user/month.
+
+For more information about these tools, you can check out [Bluedot Reviews on G2](https://www.g2.com/products/bluedot-bluedot/reviews), [user discussions about Bluedot on Reddit](https://www.reddit.com/r/electricvehicles/comments/18mw5zo/anyone_else_here_use_the_bluedot_app/), [a comprehensive tl;dv review from a long-term user](https://thebusinessdive.com/tldv-review), and [tl;dv Reviews on G2](https://www.g2.com/products/tl-dv/reviews).
+
+## FAQs 
+• Would tldv work for in-person meetings? What about Bluedot?
+No, tldv is not good for in-person meetings according to the context. Bluedot, on the other hand, is good for in-person meetings as its bot-free recorder can capture any meeting on your device.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Bluedot explicitly doesn't require a meeting bot - it's described as having "no meeting bot needed" and "doesn't require inviting a bot," which means "no awkward bot presence in meetings." The information doesn't specifically state whether tldv requires a meeting bot, though it does mention "AI agents for recording."
+
+• What do users say about the quality of transcriptions?
+Users praise tldv for "accurate transcriptions" according to the Pros section. Bluedot is "widely praised for transcription accuracy" with users and marketing often noting it as "the most accurate" AI notetaker they've tried.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
