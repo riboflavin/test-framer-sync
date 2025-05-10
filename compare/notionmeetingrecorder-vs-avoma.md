@@ -58,7 +58,7 @@ Yes, both tools work for in-person meetings. Notion Meeting Recorder can capture
 Notion Meeting Recorder doesn't use a meeting bot - it relies on your device's audio, recording locally from your computer. Avoma does use a meeting bot approach, as some users mentioned the bot "sometimes joins a meeting late," suggesting it uses a bot that joins virtual meetings.
 
 • What do users say about the quality of transcriptions?
-For Avoma, users praise its transcription accuracy, noting it's "~95% accurate even with jargon or accents." For Notion Meeting Recorder, the context doesn't specifically mention transcription quality feedback, though it does mention that early users report "Notion's AI does a good job extracting key points from dense conversations."
+For Avoma, users praise its transcription accuracy, noting it's "~95% accurate even with jargon or accents." 
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
