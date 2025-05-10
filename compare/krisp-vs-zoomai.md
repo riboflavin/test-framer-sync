@@ -52,12 +52,6 @@ Krisp is an AI voice enhancement tool with robust noise cancellation capabilitie
 • Would Krisp work for in-person meetings? What about Zoom AI?
 Yes, Krisp would work for in-person meetings as it "captures any conversation (online or offline) using noise-canceling audio on your device." Zoom AI would not work for in-person meetings as it "only works for virtual Zoom calls (cannot independently capture in-person audio)."
 
-• What about meeting bots? Does either of these tools require a meeting bot?
-Krisp does not require a meeting bot as it "records & transcribes meetings locally via the Krisp app (no bot; works with any voice app)." The context doesn't specifically mention whether Zoom AI requires a meeting bot.
-
-• What do users say about the quality of transcriptions?
-The context doesn't provide specific user feedback about the quality of transcriptions for either tool. For Krisp, there's mention that audio quirks might "affect transcription accuracy" when trying to cancel very loud noises, but no direct feedback about transcription quality. For Zoom AI, there's no specific mention of transcription quality in the user reviews provided.
-
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
 * Automatically-identified and assigned action items
