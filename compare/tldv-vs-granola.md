@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: tldv vs Granola for meeting automation
-description: Compare tldv and Granola AI meeting automation tools for transcripts, action items, summaries, and platform support to find the best solution for your team.
+description: Compare tldv and Granola for meeting recording, transcription, and note-taking capabilities, exploring their features, pricing, platform support, and integration options.
 ---
 
 # tldv vs Granola for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding tldv and Granola
 Tldv is a meeting recording tool that captures, transcribes, and summarizes conversations. It creates searchable content with timestamps and highlights, while offering integration with CRM systems and other platforms. The service employs AI agents to handle recording, note-taking, and CRM logging tasks automatically across more than 30 languages.
 
 The platform is available through desktop applications for Windows and macOS with local recording capabilities for Zoom and Microsoft Teams. Tldv offers three pricing tiers: a free plan, Pro ($18/month), and Business ($59/month). It integrates with HubSpot, Notion, Salesforce, and thousands of other services, though it lacks native mobile apps and in-person recording capabilities.
@@ -58,6 +41,24 @@ Users get 25 free meetings before choosing between Individual ($18/month), Busin
 tldv is best suited for teams operating in cross-platform environments who need extensive integrations with their existing tools. Its generous free tier makes it accessible for smaller teams or individuals who primarily conduct online meetings and need reliable transcription across multiple languages, though they'll need to work around its lack of mobile support and limited in-person capabilities.
 
 Granola would appeal to Mac-centric individuals or smaller teams who prioritize simplicity and offline functionality over extensive integrations. Its focus on clean, customizable note templates and local audio capture makes it ideal for users who don't want meeting bots and prefer a "set and forget" approach to meeting documentation, though they'll need to accept its platform limitations and relatively basic integration options.
+
+## tldv vs Granola: What do users say?
+
+Users praise tldv for its accurate transcriptions, intuitive user interface, and generous free plan. The service offers AI meeting recording, transcription, summarization with timestamps and highlights, and extensive CRM integration capabilities. However, some users note limitations in platform support, dependency on internet quality, and occasional privacy concerns. Tldv offers tiered pricing with Free, Pro ($18/month), and Business ($59/month) plans.
+
+Granola, primarily a Mac-based AI notepad for meetings, receives positive reviews for its "set and forget" note-taking approach that allows users to focus on conversations. Users appreciate its clean interface and well-organized summaries that can be customized via templates. The tool works discreetly across all meeting platforms by capturing system audio without requiring a bot in the call. Limitations include its Mac-only availability (though Windows support is in development), lack of a mobile app, and relatively limited integrations compared to alternatives. Pricing starts with a 25-meeting free trial, followed by Individual ($18/month), Business ($14 per user/month), and Enterprise ($35+ per user/month) plans.
+
+For more information about these tools, check out [tldv's detailed review after 18 months of use](https://thebusinessdive.com/tldv-review), [user reviews of tldv on G2](https://www.g2.com/products/tl-dv/reviews), and [Granola's product details and features](https://granola.ai).
+
+## FAQs 
+• Would tldv work for in-person meetings? What about Granola?
+No, tldv is not good for in-person meetings according to the context. Granola has partial support for in-person meetings as the Mac app can capture in-room audio locally, though it doesn't have a mobile app yet (with Android/iOS noted as "coming soon").
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+tldv has AI agents for recording, note-taking, and CRM logging. Granola explicitly does not require a bot in the call - it "listens to meetings without needing a bot in the call" and "works discreetly with no meeting intrusion."
+
+• What do users say about the quality of transcriptions?
+For tldv, users mention "accurate transcriptions" as one of the pros. For Granola, the context doesn't specifically mention user opinions about transcription quality, though users do praise the quality of the notes it produces, saying it delivers "well-organized summaries."
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
