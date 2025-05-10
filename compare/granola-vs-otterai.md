@@ -60,10 +60,6 @@ Otter.ai: Yes. It can transcribe live in-person conversations via its app.
 Granola: No. Granola runs on your computer and listens to meetings without needing a bot in the call. It works fully offline on Mac – records and transcribes locally (no internet or bot needed).
 Otter.ai: Otter.ai integrates with Zoom, Teams, etc., via an assistant that can join meetings in real time.
 
-• What do users say about the quality of transcriptions?
-Granola: The context doesn't specifically mention user feedback about transcription quality.
-Otter.ai: Users note that transcripts can be overly verbose and lack structure. Accuracy can suffer with complex audio – some reviews mention mistakes in transcription or speaker identification.
-
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
 * Automatically-identified and assigned action items
