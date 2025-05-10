@@ -45,10 +45,10 @@ User reviews of tldv highlight its accurate transcriptions, intuitive user inter
 
 ## FAQs 
 • Would tldv work for in-person meetings? What about Fireflies.ai?
-No, tldv is not good for in-person meetings according to the context. Fireflies.ai does work for in-person meetings through its mobile app which can record in-person meetings and voice notes.
+Fireflies.ai does work for in-person meetings through its mobile app which can record in-person meetings and voice notes.
 
 • What about meeting bots? Does either of these tools require a meeting bot?
-Fireflies.ai uses a cloud-based AI meeting assistant called "Fred" that joins meetings as a bot participant to record, transcribe, and summarize discussions. The context doesn't explicitly state if tldv requires a meeting bot, but it mentions tldv has "AI agents for recording" and "local recording via desktop app for Zoom, Teams."
+Fireflies.ai uses a cloud-based AI meeting assistant called "Fred" that joins meetings as a bot participant to record, transcribe, and summarize discussions.
 
 • What do users say about the quality of transcriptions?
 Users say tldv provides "accurate transcriptions" according to the pros from user reviews. For Fireflies.ai, users report "good transcription quality, even in other languages like Dutch," though some mention that "transcription accuracy can dip with heavy accents or technical jargon" with "several G2 reviewers noted misidentified speakers or missed slang."
