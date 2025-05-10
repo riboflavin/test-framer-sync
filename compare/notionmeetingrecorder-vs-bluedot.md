@@ -55,7 +55,7 @@ Yes, both Notion Meeting Recorder and Bluedot work for in-person meetings. Notio
 Neither tool requires a meeting bot. Notion Meeting Recorder doesn't rely on an external meeting service integration - it records audio locally from your computer. Bluedot is specifically noted as being "bot-free" with "no awkward bot presence in meetings," allowing for discreet background recording even when you're not the host.
 
 • What do users say about the quality of transcriptions?
-For Bluedot, users widely praise its transcription accuracy - marketing and early users often note it as "the most accurate" AI notetaker they've tried. For Notion Meeting Recorder, the context doesn't specifically mention user feedback on transcription quality, though it notes that early users report Notion's AI "does a good job extracting key points from dense conversations."
+For Bluedot, users widely praise its transcription accuracy - marketing and early users often note it as "the most accurate" AI notetaker they've tried.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
