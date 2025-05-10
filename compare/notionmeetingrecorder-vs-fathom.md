@@ -60,11 +60,6 @@ Fathom does not work for in-person meetings. It cannot import external audio and
 • What about meeting bots? Does either of these tools require a meeting bot?
 Notion Meeting Recorder doesn't use a meeting bot. It records audio locally from your computer, capturing system output and microphone input directly without needing to insert a bot participant.
 
-The context doesn't explicitly state whether Fathom requires a meeting bot, though it mentions that Fathom integrates with and records meetings on supported platforms (Zoom, Google Meet, Teams).
-
-• What do users say about the quality of transcriptions?
-The context doesn't provide specific user feedback about Notion Meeting Recorder's transcription quality.
-
 For Fathom, transcriptions are praised by users as "quick and accurate" according to reviews.
 
 ## Another alternative: Circleback
