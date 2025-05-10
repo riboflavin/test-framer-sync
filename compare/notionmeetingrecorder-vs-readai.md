@@ -56,9 +56,6 @@ Yes, both tools work for in-person meetings. Notion Meeting Recorder can capture
 • What about meeting bots? Does either of these tools require a meeting bot?
 Neither tool requires a meeting bot. Notion Meeting Recorder doesn't rely on an external meeting service integration - it records audio locally from your computer. It captures system output and microphone input directly. Read.ai also doesn't use meeting bots - it records virtual meetings via cloud or extension, and offline audio via mobile app.
 
-• What do users say about the quality of transcriptions?
-The provided context doesn't contain specific feedback about the transcription quality for either tool. There are mentions that Notion's AI does a good job extracting key points from dense conversations, and that Read.ai's summaries are considered "smart," capturing questions asked and topics discussed, but no direct comments about transcription accuracy.
-
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
 * Automatically-identified and assigned action items
