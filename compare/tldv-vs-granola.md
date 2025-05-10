@@ -52,13 +52,13 @@ For more information about these tools, check out [tldv's detailed review after 
 
 ## FAQs 
 • Would tldv work for in-person meetings? What about Granola?
-No, tldv is not good for in-person meetings according to the context. Granola has partial support for in-person meetings as the Mac app can capture in-room audio locally, though it doesn't have a mobile app yet (with Android/iOS noted as "coming soon").
+Granola has partial support for in-person meetings as the Mac app can capture in-room audio locally, though it doesn't have a mobile app yet (with Android/iOS noted as "coming soon").
 
 • What about meeting bots? Does either of these tools require a meeting bot?
 tldv has AI agents for recording, note-taking, and CRM logging. Granola explicitly does not require a bot in the call - it "listens to meetings without needing a bot in the call" and "works discreetly with no meeting intrusion."
 
 • What do users say about the quality of transcriptions?
-For tldv, users mention "accurate transcriptions" as one of the pros. For Granola, the context doesn't specifically mention user opinions about transcription quality, though users do praise the quality of the notes it produces, saying it delivers "well-organized summaries."
+For tldv, users mention "accurate transcriptions" as one of the pros.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
