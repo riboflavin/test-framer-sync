@@ -54,7 +54,7 @@ Fathom does not work for in-person meetings as it "Cannot import external audio 
 Fathom requires integrating with video conferencing platforms (Zoom, Google Meet, Teams). Granola explicitly "runs on your computer (currently Mac) and listens to meetings without needing a bot in the call" and has "no bot or plugin required."
 
 • What do users say about the quality of transcriptions?
-For Fathom, transcriptions are "praised as quick and accurate" according to user reviews. For Granola, there's no specific mention of transcription quality in the provided context.
+For Fathom, transcriptions are "praised as quick and accurate" according to user reviews.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
