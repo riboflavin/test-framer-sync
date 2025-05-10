@@ -54,7 +54,7 @@ Fireflies.ai works for in-person meetings through its mobile app, which can reco
 Fireflies.ai requires a bot participant ("Fred") that joins meetings to record, transcribe, and summarize discussions across platforms like Zoom, Teams, etc. Granola does not require a meeting bot - it runs on your computer and listens to meetings directly without needing a bot in the call.
 
 • What do users say about the quality of transcriptions?
-For Fireflies.ai, users report good transcription quality, even in other languages like Dutch. However, some note that transcription accuracy can decrease with heavy accents or technical jargon, with reviewers mentioning misidentified speakers or missed slang. For Granola, there's no specific mention about transcription quality in the provided context.
+For Fireflies.ai, users report good transcription quality, even in other languages like Dutch. However, some note that transcription accuracy can decrease with heavy accents or technical jargon, with reviewers mentioning misidentified speakers or missed slang.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
