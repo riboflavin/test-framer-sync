@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Avoma vs Read.ai for meeting automation
-description: A detailed feature comparison between Avoma and Read.ai AI meeting assistants, covering transcription accuracy, action item tracking, meeting summaries, topic segmentation, and other key factors.
+description: A detailed comparison of Avoma and Read.ai as AI meeting assistants, examining their features, pricing, transcription quality, and use cases for recording, transcribing, and summarizing conversations.
 ---
 
 # Avoma vs Read.ai for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Avoma and Read.ai
 Avoma is an AI meeting assistant that records, transcribes, and summarizes conversations. It generates structured notes with identified topics and action items while supporting agenda templates, live collaboration, and CRM synchronization. Though primarily used by sales and customer success teams for automated call logging, it serves general meeting productivity needs with approximately 95% transcription accuracy even with technical jargon or accents.
 
 The platform operates on a tiered pricing model starting with a free plan limited to about 10 meetings monthly, with paid plans ranging from $19 to $129 per user monthly. Avoma integrates with various tools including Zoom, HubSpot, and Slack, and works for both online and in-person meetings through mobile apps. While offering good transcription quality and responsive support, some users find it overly complex for basic needs, occasionally experience technical delays, and consider higher-tier pricing expensive for smaller teams.
@@ -60,6 +43,22 @@ The platform offers three pricing tiers: a free plan limited to 5 meeting transc
 Avoma tends to work better for sales teams and organizations needing structured meeting documentation with basic automation. Its stronger free tier and complete mobile support make it more accessible for distributed teams that need reliable transcription without complex analytics. The platform's simplicity compared to Read.ai makes it a better fit for smaller organizations looking to reduce administrative overhead.
 
 Read.ai is more suited to larger enterprises concerned with meeting effectiveness and engagement analytics. Its sentiment analysis and speaker metrics appeal to teams focused on improving meeting quality and collaboration patterns. The platform's more robust enterprise features like video playback and searchable knowledge base make it valuable for organizations that treat meeting content as institutional knowledge, despite its more limited free tier and iOS-only mobile support.
+
+## Avoma vs Read.ai: What do users say?
+
+Avoma and Read.ai represent leading AI meeting assistant solutions with distinct strengths. Avoma serves as an all-in-one platform focused on recording, transcribing, and organizing meeting notes into structured topics and action items. Users praise its 95% transcription accuracy even with technical jargon and accents, time-saving capabilities, and strong integration ecosystem with tools like Zoom, HubSpot, and Slack. Some criticisms include it being potentially too complex for basic needs, occasional bugs, and premium pricing at higher tiers. Meanwhile, Read.ai positions itself as a meeting "copilot" that not only handles transcription but also analyzes engagement metrics and sentiment during calls. Its standout features include meeting quality insights, support for 16+ languages with real-time translation, and workflow integrations for Slack and documentation tools. Users have noted limitations in the free tier (only 5 meetings monthly), a sometimes complex UI, and potential privacy concerns when joining others' meetings. Both tools offer mobile capabilities for in-person meetings, local recording options, and extensive integrations, though neither provides dedicated desktop applications.
+
+For more information, check out [user reviews on Trustpilot](https://www.trustpilot.com/review/read.ai), [Microsoft AppSource ratings for Read.ai](https://appsource.microsoft.com/en-us/product/office/WA200003896?tab=Reviews), [Avoma customer feedback on HubSpot Ecosystem](https://ecosystem.hubspot.com/marketplace/apps/avoma/reviews), and [detailed G2 reviews of Avoma](https://www.g2.com/products/avoma/reviews).
+
+## FAQs 
+• Would Avoma work for in-person meetings? What about Read.ai?
+Yes, both Avoma and Read.ai work for in-person meetings. Avoma has a mobile app that records offline/in-person meetings for later transcription. Similarly, Read.ai has an iOS app that captures in-person/offline meetings with one tap.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Read.ai specifically notes that it does not use meeting bots - it "records virtual meetings via cloud or extension, and offline audio via mobile app." For Avoma, the context mentions that "the bot sometimes joins a meeting late" which suggests it does use a meeting bot for virtual meetings.
+
+• What do users say about the quality of transcriptions?
+For Avoma, users report that transcriptions are approximately 95% accurate even with jargon or accents. The context doesn't provide specific feedback about the quality of Read.ai's transcriptions.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
