@@ -53,7 +53,7 @@ Learn more about these AI meeting assistants here:
 Yes, both Avoma and Fireflies.ai work for in-person meetings. Avoma has a mobile app that records offline/in-person meetings for later transcription. Similarly, Fireflies.ai's mobile app can record in-person meetings and voice notes.
 
 • What about meeting bots? Does either of these tools require a meeting bot?
-Based on the provided context, Fireflies.ai uses a bot participant ("Fred") that joins meetings to record, transcribe, and summarize discussions. For Avoma, there's a mention that "the bot sometimes joins a meeting late," suggesting it also uses a meeting bot, though this is less explicitly stated in the context.
+Fireflies.ai uses a bot participant ("Fred") that joins meetings to record, transcribe, and summarize discussions. For Avoma, there's a mention that "the bot sometimes joins a meeting late," suggesting it also uses a meeting bot, though this is less explicitly stated.
 
 • What do users say about the quality of transcriptions?
 For Avoma, users report that transcriptions are approximately 95% accurate even with jargon or accents. For Fireflies.ai, users report good transcription quality, even in other languages like Dutch, though accuracy can decrease with heavy accents or technical jargon, with some reviewers noting misidentified speakers or missed slang.
