@@ -60,11 +60,6 @@ Zoom AI does not work for in-person meetings. It only works for virtual Zoom cal
 • What about meeting bots? Does either of these tools require a meeting bot?
 Notion Meeting Recorder doesn't require a meeting bot. Unlike some dedicated meeting tools, it doesn't have a live "bot" joining calls – it relies on your device's audio. It records audio locally from your computer.
 
-The context doesn't specifically mention whether Zoom AI requires a meeting bot, but it indicates that the AI works within the Zoom app itself rather than joining as a separate participant.
-
-• What do users say about the quality of transcriptions?
-The context doesn't provide specific user feedback about the quality of transcriptions for either tool. For Notion, users report that the AI "does a good job extracting key points from dense conversations" but this refers to the summarization rather than transcription quality specifically. For Zoom AI, there's no mention of transcription quality in the provided context.
-
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
 * Automatically-identified and assigned action items
