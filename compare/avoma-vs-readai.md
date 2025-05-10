@@ -55,10 +55,10 @@ For more information, check out [user reviews on Trustpilot](https://www.trustpi
 Yes, both Avoma and Read.ai work for in-person meetings. Avoma has a mobile app that records offline/in-person meetings for later transcription. Similarly, Read.ai has an iOS app that captures in-person/offline meetings with one tap.
 
 • What about meeting bots? Does either of these tools require a meeting bot?
-Read.ai specifically notes that it does not use meeting bots - it "records virtual meetings via cloud or extension, and offline audio via mobile app." For Avoma, the context mentions that "the bot sometimes joins a meeting late" which suggests it does use a meeting bot for virtual meetings.
+Read.ai specifically notes that it does not use meeting bots - it "records virtual meetings via cloud or extension, and offline audio via mobile app."
 
 • What do users say about the quality of transcriptions?
-For Avoma, users report that transcriptions are approximately 95% accurate even with jargon or accents. The context doesn't provide specific feedback about the quality of Read.ai's transcriptions.
+For Avoma, users report that transcriptions are approximately 95% accurate even with jargon or accents.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
