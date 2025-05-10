@@ -1,7 +1,7 @@
 ---
 type: comparison
 title: Avoma vs Krisp for meeting automation
-description: Comprehensive comparison of Avoma and Krisp AI meeting assistants, covering features, capabilities, pricing, and user feedback to help you choose the right meeting automation tool.
+description: Detailed comparison of Avoma and Krisp as AI meeting assistants, covering features, pricing, integrations, and use cases to help you choose the right meeting automation tool.
 ---
 
 # Avoma vs Krisp for meeting automation
@@ -41,15 +41,25 @@ Krisp works best for remote workers in noisy environments who need clear audio a
 
 ## Avoma vs Krisp: What do users say?
 
-Avoma user reviews highlight it as an all-in-one AI meeting assistant that excels at recording, transcribing, and summarizing meetings with approximately 95% accuracy, even with jargon or accents. Users particularly appreciate how it saves time on administrative tasks and allows them to focus on conversations instead of note-taking. The platform generates organized notes broken into topics and actionable insights, with strong integration capabilities across Zoom, HubSpot, Slack, and other tools. While support is responsive, some users find it to be more than a basic transcriber and potentially overkill for individual users. Minor bugs, occasional delays in joining meetings, and dense transcripts that can be difficult to skim quickly are noted downsides. Pricing ranges from a free limited plan to premium tiers that some small teams may find expensive.
+Based on user reviews, Avoma is highly regarded as an all-in-one AI meeting assistant, particularly praised for its transcription accuracy of around 95% even with technical jargon and accents. Users consistently highlight how Avoma saves them from administrative tasks, allowing them to focus on conversations rather than note-taking. The platform's organized notes broken into clear topics and action items, alongside strong integrations with tools like Zoom, HubSpot, and Slack, make it especially valuable for sales and customer success teams. While some users find it might be overkill for simple transcription needs and note its premium pricing for higher tiers, most appreciate its comprehensive feature set. The occasional bugs and dense transcripts are minor complaints compared to the time-saving benefits users experience.
 
-Krisp users consistently praise its exceptional noise cancellation abilities, noting that it "just works" to eliminate unwanted background sounds like dog barks, keyboard clicks, and other voices. The platform has evolved beyond noise removal to include meeting transcription and AI summaries that generate structured notes with key points and tasks. Users find these summaries "extremely accurate" with minimal editing needed. However, some report audio quirks where voices might occasionally be distorted or words clipped, especially when canceling very loud noises. Other concerns include the free plan's limited 60 minutes per day of noise cancellation, relatively high CPU usage, and pricing that some find steep if they only need one feature. Customer support receives mixed reviews with some mentioning slow response times.
+Krisp, originally known for its exceptional noise cancellation technology, has expanded to include meeting transcription and AI summaries. Users consistently praise how Krisp "just works" at removing background noises like dog barks, keyboard typing, and other voices, making calls more professional. The newly added AI note-taking features have been well-received, with users reporting that summaries with key points and action items are "extremely accurate" and require minimal editing. This combination of clear audio and automatic note-taking creates a unique value proposition. However, some users report occasional audio distortions when canceling very loud noises, which can affect transcription accuracy. Others mention the free plan's 60-minute daily limit as restrictive, and some find the Pro version pricing high if they only need one feature.
 
-Learn more:
-- https://www.g2.com/products/krisp/reviews 
-- https://www.trustpilot.com/review/krisp.ai
-- https://www.g2.com/products/avoma/reviews
-- https://ecosystem.hubspot.com/marketplace/apps/avoma/reviews
+To learn more about these tools:
+- [Avoma reviews on G2](https://www.g2.com/products/avoma/reviews) showcase detailed feedback from over 1,300 users with an impressive 4.6/5 rating.
+- [Avoma in the HubSpot Ecosystem](https://ecosystem.hubspot.com/marketplace/apps/avoma/reviews) features testimonials about how well it integrates with CRM workflows.
+- [Krisp user experiences on Trustpilot](https://www.trustpilot.com/review/krisp.ai) highlight how it "saves so much time" and helps users stay organized.
+- [Reddit discussions about Krisp](https://www.reddit.com/r/digitalnomad/comments/1ggviog/best_noise_cancellation_software_ive_been/) provide real-world usage scenarios from digital nomads and remote workers.
+
+## FAQs 
+• Would Avoma work for in-person meetings? What about Krisp?
+Yes, both Avoma and Krisp work for in-person meetings. Avoma has a mobile app that records offline/in-person meetings for later transcription. Krisp also captures any conversation (online or offline) using noise-canceling audio on your device.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Avoma seems to use a meeting bot, as some users report "the bot sometimes joins a meeting late" among the cons. Krisp explicitly does not use a bot - it "records & transcribes meetings locally via the Krisp app (no bot; works with any voice app)."
+
+• What do users say about the quality of transcriptions?
+Avoma's transcriptions are highly rated with about 95% accuracy even with jargon or accents according to user reviews. For Krisp, the information is less direct, but there are mentions that when Krisp tries to cancel very loud noises, it might distort the speaker's voice or clip words, which "can affect transcription accuracy."
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
