@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Otter.ai vs Read.ai for meeting automation
-description: A detailed comparison of Otter.ai and Read.ai meeting automation tools covering transcription, action items, summaries, and key features like ease-of-use, integrations, and language support.
+description: A detailed comparison of Otter.ai and Read.ai meeting automation tools, covering features, pricing, user feedback, and use cases to help you choose the right solution for your meeting transcription and analysis needs.
 ---
 
 # Otter.ai vs Read.ai for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Otter.ai and Read.ai
 Otter.ai is an AI note-taking tool that provides live transcription during meetings or from audio/video uploads. It identifies speakers, captures content from screens, generates automatic summaries, and works across business meetings, classes, and interviews. The service integrates with platforms like Zoom and Microsoft Teams through an assistant that can join meetings in real-time, and offers searchable, shareable transcripts with highlighting and commenting functionality.
 
 The platform operates on a tiered pricing model starting with a free plan offering 600 minutes monthly of transcription, while paid plans range from $10/month for Premium (6,000 minutes) to $20/user/month for Business with team features. While Otter can transcribe in-person conversations through its mobile apps and offers integrations with various platforms like Slack and Notion, users note limitations including transcription accuracy issues with complex audio, potential meeting management problems, and sometimes overly verbose output that lacks structure.
@@ -56,6 +39,24 @@ The service offers tiered pricing with a free plan allowing 5 meeting transcript
 Otter.ai suits individual professionals and small teams seeking a straightforward transcription tool with minimal learning curve. Its generous free tier and simplicity make it ideal for those who need basic meeting documentation without complex features. Educational users and journalists particularly benefit from its accessibility and focus on core transcription functionality.
 
 Read.ai targets enterprise teams requiring deeper meeting analytics and multilingual support. The platform's engagement metrics and sentiment analysis appeal to managers concerned with meeting effectiveness and team dynamics. Despite higher pricing, organizations managing global teams or requiring advanced reporting capabilities will find more value in Read.ai's comprehensive feature set.
+
+## Otter.ai vs Read.ai: What do users say?
+
+Otter.ai users highlight its ease of use for meeting transcription, with strong praise for its real-time note-taking capabilities during meetings and seamless integrations with platforms like Zoom and Teams. Many appreciate its ability to capture large amounts of meeting information and generate AI summaries of key themes. The generous free tier (600 minutes/month) is frequently mentioned as a benefit. However, users note that transcripts can be verbose and poorly structured, making it difficult to quickly find key information. Accuracy issues arise with complex audio, and some complain about the assistant joining unwanted meetings or sending spam calendar invites if not properly configured.
+
+Read.ai stands out as an AI meeting "copilot" that goes beyond transcription to analyze engagement and sentiment during meetings. Users value its rich feature set, including insights into meeting quality, speaker balance, and engagement scores. The tool supports 16+ languages with real-time translation capabilities, appealing to global teams. Integration with workflows (automatic summaries in Slack, syncing with Notion or Confluence) is another highlight. However, the free tier is limited to just 5 meetings per month, which some find too restrictive. Users mention that the UI can be complex or cluttered with a steeper learning curve, and some raise privacy concerns about joining others' meetings without consent.
+
+For more information on these tools, check out [Trustpilot reviews of Read.ai](https://www.trustpilot.com/review/read.ai), [Microsoft AppSource ratings](https://appsource.microsoft.com/en-us/product/office/WA200003896?tab=Reviews), [CNET's Otter.ai review](https://www.cnet.com/tech/services-and-software/otter-ai-review/), [Reddit discussions about Otter.ai for meeting minutes](https://www.reddit.com/r/ProductManagement/comments/1866ags/is_otterai_worth_it_for_meeting_minutes/), and [Trustpilot reviews of Otter.ai](https://www.trustpilot.com/review/otter.ai).
+
+## FAQs 
+• Would Otter.ai work for in-person meetings? What about Read.ai?
+Yes, both Otter.ai and Read.ai work for in-person meetings. Otter.ai can transcribe live in-person conversations via its app. Similarly, Read.ai has an iOS app that captures in-person/offline meetings with one tap.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Otter.ai integrates with platforms like Zoom and Teams via an assistant that can join meetings in real time. Read.ai doesn't require meeting bots - it records virtual meetings via cloud or extension, and offline audio via mobile app.
+
+• What do users say about the quality of transcriptions?
+For Otter.ai, users praise it as "extremely easy to use for transcribing and note-taking," but some mention that accuracy can suffer with complex audio, noting mistakes in transcription or speaker identification. Transcripts can also be "overly verbose and lack structure, making it hard to quickly find key takeaways." For Read.ai, users consider the summaries "smart," capturing questions asked and topics discussed, but the context doesn't specifically address transcription quality.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
