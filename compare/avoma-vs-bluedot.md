@@ -52,7 +52,7 @@ For more information about these AI meeting assistants, you can check out [Avoma
 Yes, both Avoma and Bluedot work for in-person meetings. Avoma has a mobile app that records offline/in-person meetings for later transcription. Bluedot's bot-free recorder can capture any meeting on your device.
 
 • What about meeting bots? Does either of these tools require a meeting bot?
-Bluedot specifically does not require a meeting bot - it's noted as "bot-free" and works "without inviting a bot," which means "no awkward bot presence in meetings." For Avoma, the context mentions that "the bot sometimes joins a meeting late," suggesting it does use a meeting bot for online meetings.
+Bluedot specifically does not require a meeting bot - it's noted as "bot-free" and works "without inviting a bot," which means "no awkward bot presence in meetings."
 
 • What do users say about the quality of transcriptions?
 For Avoma, users report transcriptions are "~95% accurate even with jargon or accents." For Bluedot, it's "widely praised for transcription accuracy" with marketing and early users often noting it as "the most accurate" AI notetaker they've tried.
