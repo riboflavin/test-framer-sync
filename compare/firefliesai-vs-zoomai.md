@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Fireflies.ai vs Zoom AI for meeting automation
-description: A comprehensive comparison of Fireflies.ai and Zoom AI meeting assistant tools, evaluating their transcription capabilities, action item tracking, meeting summaries, topic segmentation, and other key features.
+description: A detailed comparison of Fireflies.ai and Zoom AI meeting automation tools, covering features, pricing, cross-platform capabilities, and user reviews.
 ---
 
 # Fireflies.ai vs Zoom AI for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Fireflies.ai and Zoom AI
 Fireflies.ai is a cloud-based meeting assistant that joins calls across platforms like Zoom, Teams, and Google Meet to record, transcribe, and summarize discussions. It creates searchable transcripts with speaker labels, generates summaries with action items, and offers an AskFred chatbot to query meeting content. The system includes integrations with productivity tools like Slack, Asana, and CRM systems, and works for both virtual and in-person meetings through its mobile app. It supports transcription in over 100 languages and allows offline file uploads.
 
 The service operates on a tiered pricing model with a free plan offering limited credits, a Pro plan (~$10/user/month) providing unlimited audio recording and transcripts, and a Business plan (~$19/user/month) adding video recording and analytics. While the system generally produces accurate transcriptions, quality can decrease with heavy accents or technical jargon. Some users report that AI-generated summaries can be overly high-level, and the interface has been described as cluttered by some reviewers.
@@ -60,6 +43,20 @@ The service comes included at no extra cost for paid Zoom subscribers but isn't 
 Fireflies.ai serves teams that use multiple meeting platforms and need to centralize meeting content across tools. It's a better fit for organizations that prioritize flexibility and integration with project management systems, especially those with international teams needing broad language support. The free tier makes it accessible for smaller teams to try before committing.
 
 Zoom AI is the logical choice for companies already standardized on Zoom who want a zero-setup solution with no additional cost. It's ideal for teams seeking simplicity over extensive features and who rarely conduct meetings outside the Zoom ecosystem. The tool works best in environments where meeting documentation needs are straightforward and don't require complex integrations.
+
+## Fireflies.ai vs Zoom AI: What do users say?
+
+User reviews of Fireflies.ai highlight its strengths as a versatile AI meeting assistant that works across multiple platforms. Many users praise its ease of setup, accurate transcription capabilities (even in multiple languages), and quick delivery of meeting summaries and action items. The mobile app and free tier make it accessible, while integrations with project management and CRM tools enhance team workflows. However, some reviewers note limitations like occasionally high-level summaries that miss nuances, decreased transcription accuracy with accents or technical jargon, and feature restrictions on the free plan. On the other hand, Zoom AI receives positive feedback for its seamless integration within the Zoom platform, requiring minimal setup for existing users. Reviewers appreciate that it's included at no extra cost for paid Zoom accounts and generates instant meeting summaries. The main drawbacks include its limitation to the Zoom platform, unavailability for free Zoom users, relatively basic features compared to dedicated tools, and occasional difficulties sharing AI notes outside of Zoom. For more detailed insights, check out [Zoom AI Companion Review by Jamie AI](https://www.meetjamie.ai/blog/zoom-ai-companion-review), [Reddit discussion on Zoom's AI Companion](https://www.reddit.com/r/Zoom/comments/1g29cog/using_zooms_ai_companion_to_record_and_summarize/), [Reddit review of Fireflies.ai](https://www.reddit.com/r/AIToolTesting/comments/1g55mmv/fireflies_ai_review_the_good_the_bad_and_the/), and [The Business Dive's Fireflies AI Review](https://thebusinessdive.com/fireflies-ai-review).
+
+## FAQs 
+• Would Fireflies.ai work for in-person meetings? What about Zoom AI?
+Yes, Fireflies.ai works for in-person meetings through its mobile app, which can record in-person meetings and voice notes. In contrast, Zoom AI only works for virtual Zoom calls and cannot independently capture in-person audio.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Fireflies.ai works by sending a bot participant ("Fred") that joins meetings to record, transcribe, and summarize discussions across various platforms like Zoom, Microsoft Teams, Google Meet, and Webex. Zoom AI doesn't require a separate meeting bot as it's built directly into the Zoom platform.
+
+• What do users say about the quality of transcriptions?
+For Fireflies.ai, users report good transcription quality, even in other languages like Dutch. However, some note that transcription accuracy can dip with heavy accents or technical jargon, with several reviewers mentioning misidentified speakers or missed slang. For Zoom AI, the context doesn't specifically mention user feedback regarding transcription quality.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
