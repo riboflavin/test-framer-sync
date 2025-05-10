@@ -59,9 +59,6 @@ Granola works partially for in-person meetings - the Mac app can capture in-room
 • What about meeting bots? Does either of these tools require a meeting bot?
 Granola does not require a meeting bot - it "listens to meetings without needing a bot in the call" and "works fully offline on Mac" for recording and transcribing locally. Zoom AI also doesn't require a separate bot as it's built into the Zoom platform itself.
 
-• What do users say about the quality of transcriptions?
-The provided context doesn't contain specific user feedback about the quality of transcriptions for either Granola or Zoom AI.
-
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
 * Automatically-identified and assigned action items
