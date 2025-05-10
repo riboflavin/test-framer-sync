@@ -50,13 +50,10 @@ For more information about these tools, check out [The Business Dive's review of
 
 ## FAQs 
 • Would Notion Meeting Recorder work for in-person meetings? What about TLDV?
-Yes, Notion Meeting Recorder works for in-person meetings by using your device's microphone. It can capture face-to-face discussions when you set your phone or laptop in a conference room. TLDV is not designed for in-person meetings according to the context.
+Yes, Notion Meeting Recorder works for in-person meetings by using your device's microphone. It can capture face-to-face discussions when you set your phone or laptop in a conference room.
 
 • What about meeting bots? Does either of these tools require a meeting bot?
-Notion Meeting Recorder doesn't require a meeting bot - it records audio locally from your computer using system output and microphone input directly. TLDV uses AI agents for recording, note-taking, and CRM logging, but there's no specific mention of requiring a meeting bot in the context.
-
-• What do users say about the quality of transcriptions?
-For Notion Meeting Recorder, there are no specific user comments about transcription quality in the provided context. For TLDV, users praise its "accurate transcriptions" as one of the pros mentioned in user reviews.
+Notion Meeting Recorder doesn't require a meeting bot - it records audio locally from your computer using system output and microphone input directly.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
