@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: tldv vs Krisp for meeting automation
-description: A detailed comparison of tldv and Krisp AI meeting automation tools, evaluating their transcription, action items, summaries, and other key features.
+description: Compare tldv and Krisp for meeting recording, transcription, and automation features. Detailed breakdown of pricing, features, and user reviews to help choose the right meeting tool.
 ---
 
 # tldv vs Krisp for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding tldv and Krisp
 tldv is a meeting tool that records, transcribes, and summarizes conversations. It attaches timestamps to content, allows highlighting of important segments, and integrates with CRM systems. The software employs AI agents to handle recording, note-taking, and CRM logging tasks, supporting over 30 languages through its Windows and macOS desktop applications.
 
 The platform offers tiered pricing with a free plan, Pro at $18/month, and Business at $59/month. While it provides local recording capabilities for Zoom and Microsoft Teams, it lacks native mobile apps and in-person recording functionality. The system integrates with HubSpot, Notion, Salesforce, and thousands of other services, though its performance depends on internet connection quality and it faces platform support limitations.
@@ -55,6 +38,20 @@ The service offers a free plan with 60 minutes of daily noise cancellation and 2
 tldv works best for teams already deep in the CRM ecosystem who need meeting insights integrated with their existing tools. The higher price point makes sense for sales teams and customer success managers who need to capture and analyze customer conversations at scale, though they'll need good internet connections.
 
 Krisp fits individual professionals working in noisy environments who value clear communication and basic meeting records. Its noise cancellation technology gives it a distinctive advantage for remote workers in distracting settings, though both tools fall short in truly making meetings actionable through robust integration and automation systems.
+
+## tldv vs Krisp: What do users say?
+
+Users praise tldv for its accurate transcriptions, intuitive interface, and generous free plan, though some note limitations in platform support and express privacy concerns. The service offers AI meeting recording, transcription, summarization, and integrates with numerous platforms including HubSpot, Notion, and Salesforce. Meanwhile, Krisp receives high marks for its exceptional noise removal capabilities that "just work" to eliminate unwanted background sounds during calls. Recent additions of meeting transcription and AI summaries have been well-received, with users appreciating the accurate meeting notes with key points and action items. Some users report occasional audio distortion issues, limited free plan minutes, and high CPU usage. Both tools support multiple languages and offer desktop applications, though neither provides robust mobile app support. For more information, you can check [The Business Dive's review of tldv](https://thebusinessdive.com/tldv-review) that details its feature-rich free plan, [G2's collection of tldv reviews](https://www.g2.com/products/tl-dv/reviews) highlighting its accurate transcriptions, [Trustpilot reviews of Krisp](https://www.trustpilot.com/review/krisp.ai) where users mention how it saves time and helps organization, and [Reddit discussions about Krisp](https://www.reddit.com/r/digitalnomad/comments/1ggviog/best_noise_cancellation_software_ive_been/) where users share their experiences with the service.
+
+## FAQs 
+• Would tldv work for in-person meetings? What about Krisp?
+No, tldv is not good for in-person meetings according to the context. Krisp, on the other hand, is good for in-person meetings and can capture any conversation (online or offline) using noise-canceling audio on your device.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Based on the context, neither tool explicitly requires a meeting bot. Tldv uses AI agents for recording, note-taking, and CRM logging, while Krisp records and transcribes meetings locally via the Krisp app without needing a bot.
+
+• What do users say about the quality of transcriptions?
+Users report that tldv provides "accurate transcriptions" according to the pros from user reviews. For Krisp, there are mixed reports on transcription quality - while some users found the AI summaries with key points "extremely accurate," others mentioned that audio quirks like distorting the speaker's voice or clipping words "can affect transcription accuracy."
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
