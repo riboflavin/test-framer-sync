@@ -1,7 +1,7 @@
 ---
 type: comparison
 title: Avoma vs Fathom for meeting automation
-description: A detailed comparison of Avoma and Fathom AI meeting assistants, covering features, capabilities, pricing, and user feedback to help you choose the right meeting automation tool.
+description: Comprehensive comparison of Avoma and Fathom AI meeting assistants, covering features, pricing, transcription quality, and use cases for both online and in-person meetings.
 ---
 
 # Avoma vs Fathom for meeting automation
@@ -45,21 +45,21 @@ Fathom fits users who primarily conduct online meetings and prefer simplicity ov
 
 ## Avoma vs Fathom: What do users say?
 
-Avoma and Fathom are both AI meeting assistants that help users record, transcribe, and summarize meetings, but they have distinct strengths and focus areas based on user reviews.
+Avoma and Fathom are both AI meeting assistants that offer transcription, recording, and summarization features, but with notable differences. Avoma users praise its high transcription accuracy (~95% even with jargon), comprehensive CRM integrations, and ability to generate organized notes broken into topics. It's particularly valued by sales and customer success teams for automatically logging calls and follow-ups. Users appreciate the time saved on administrative tasks, though some find it can be overkill for simple needs. Occasional bugs include the bot joining meetings late and speaker identification misses. Avoma works for both online and in-person meetings through its mobile app and offers a free plan with limited meetings per month.
 
-Users praise Avoma for its high transcription accuracy (~95%), even with accents and technical jargon. It's particularly valued for its comprehensive approach, breaking down meetings into organized topics and action items. Sales and customer success teams appreciate its CRM synchronization capabilities with Salesforce and HubSpot. Users consistently highlight how Avoma saves time on administrative tasks, allowing them to focus on conversations rather than note-taking. The platform's strong integration ecosystem (Zoom, HubSpot, Slack) is frequently mentioned as a plus, and many reviewers note that customer support is responsive to feedback.
+Fathom users highlight its generous free plan, intuitive interface, and quick, accurate transcriptions. The tool integrates primarily with Zoom, Google Meet, and Teams, producing various AI summary styles seconds after meetings end. Users appreciate the "Ask Fathom" feature, which allows querying meeting content via AI. Unlike Avoma, Fathom doesn't support uploading external audio files for transcription or in-person meetings, and some users find the on-screen widgets distracting. Fathom requires a desktop app and doesn't offer a mobile option, while Avoma provides mobile apps but no dedicated desktop application.
 
-However, some users find Avoma's comprehensive platform to be overkill for simple needs. Occasional bugs are reported, such as the bot joining meetings late or misidentifying speakers. Some find the detailed transcripts dense to skim quickly, and pricing for higher tiers is considered premium, especially for small teams.
+Learn more about these meeting assistants at [Fathom Review on The Business Dive](https://thebusinessdive.com/fathom-review), [Fathom Verified Reviews on Capterra](https://www.capterra.com/p/276054/Fathom/reviews/), [Avoma Customer Reviews on HubSpot](https://ecosystem.hubspot.com/marketplace/apps/avoma/reviews), and [Avoma Reviews on G2](https://www.g2.com/products/avoma/reviews).
 
-Fathom, on the other hand, receives high marks for its generous free plan, which many users find more accessible than competitors'. Its transcriptions are described as quick and accurate, with AI-generated summaries appearing seconds after meetings end. Users particularly appreciate Fathom's intuitive, non-overwhelming interface and the ability to generate different summary formats. Like Avoma, it's praised as a time-saver that allows participants to be fully present in meetings.
+## FAQs 
+• Would Avoma work for in-person meetings? What about Fathom?
+Avoma works for in-person meetings - it has a mobile app that can record offline/in-person meetings for later transcription. Fathom does not work for in-person meetings - it only works for scheduled online meetings (Zoom, Google Meet, Teams) and cannot import external audio.
 
-The main drawbacks users note for Fathom include some advanced features being limited to paid plans, lack of external audio file upload capability (it only works with live meetings), and absence of a mobile app. Some users find the on-screen widgets distracting during calls, though these can be hidden.
+• What about meeting bots? Does either of these tools require a meeting bot?
+The context mentions that Avoma sometimes has a bot that joins meetings (with occasional reports of it joining late), suggesting it uses a meeting bot. For Fathom, there's no explicit mention of a meeting bot being required in the provided context.
 
-For those interested in learning more:
-- https://thebusinessdive.com/fathom-review
-- https://www.capterra.com/p/276054/Fathom/reviews/
-- https://ecosystem.hubspot.com/marketplace/apps/avoma/reviews
-- https://www.g2.com/products/avoma/reviews
+• What do users say about the quality of transcriptions?
+For Avoma, users report that transcriptions are approximately 95% accurate even with jargon or accents. For Fathom, users praise the transcriptions as being "quick and accurate," though no specific accuracy percentage is mentioned.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
