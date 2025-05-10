@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: tldv vs Read.ai for meeting automation
-description: A comprehensive comparison of tldv and Read.ai meeting automation tools, analyzing their transcription capabilities, action item tracking, meeting summaries, and other key features.
+description: Compare tldv and Read.ai for meeting recording, transcription, and analysis capabilities. Explore features, pricing, platform support, and user feedback to determine which meeting assistant tool best fits your team's needs.
 ---
 
 # tldv vs Read.ai for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding tldv and Read.ai
 tldv is a meeting assistant tool that records, transcribes, and summarizes meetings. It works with Zoom and Microsoft Teams through a desktop app for Windows and macOS, providing local recording capabilities. The system supports over 30 languages and offers AI-powered features including timestamps, highlights, and automated agents for note-taking and CRM data logging.
 
 The tool has three pricing tiers: a free plan, Pro at $18/month, and Business at $59/month. It integrates with productivity platforms including HubSpot, Notion, Salesforce, and thousands of other services. tldv does not support in-person meetings and lacks a native mobile app, requiring desktop or browser access. Its functionality depends on internet connection quality for optimal performance.
@@ -56,6 +39,20 @@ The service has a tiered pricing structure starting with a free plan (5 meetings
 tldv is better suited for teams deeply integrated with CRM systems who primarily conduct virtual meetings and value simplicity. Its desktop-first approach and straightforward interface make it accessible for organizations with minimal technical requirements, though they'll need to look elsewhere for in-person meeting support or mobile functionality.
 
 Read.ai appeals more to management teams concerned with meeting effectiveness metrics and teams working across languages or regions. Its analysis capabilities provide insight into team dynamics and meeting quality, making it valuable for organizations focused on improving communication patterns, though the limited free tier and higher learning curve may deter smaller teams or individual users.
+
+## tldv vs Read.ai: What do users say?
+
+User reviews of tldv highlight its accurate transcriptions, intuitive UI, and generous free plan, though some note limited platform support and privacy concerns. The service offers AI meeting recording, transcription, summarization, and integrates with numerous platforms including HubSpot and Salesforce. Pricing ranges from a free plan to Business ($59/month), with a desktop app available for Windows and macOS. Read.ai is positioned as an AI meeting "copilot" that goes beyond transcription to analyze engagement and sentiment during meetings. Users appreciate its rich feature set including meeting quality insights and integration capabilities, though some find the free tier too limited (only 5 meetings per month) and the UI potentially cluttered. Read.ai offers in-person meeting support via iOS app, supports 20+ languages, and provides robust integrations with tools like HubSpot and Notion. For more details, explore [tldv reviews on G2](https://www.g2.com/products/tl-dv/reviews) with 384 user ratings averaging 4.7/5, [The Business Dive's detailed tldv review](https://thebusinessdive.com/tldv-review) based on 18+ months of usage, [Read.ai reviews on Trustpilot](https://www.trustpilot.com/review/read.ai) where users discuss its meeting summarization capabilities, or check [Microsoft AppSource](https://appsource.microsoft.com/en-us/product/office/WA200003896?tab=Reviews) where Read.ai has 65 ratings averaging 3.8/5.
+
+## FAQs 
+• Would tldv work for in-person meetings? What about Read.ai?
+No, tldv is not good for in-person meetings. Read.ai does work for in-person meetings via its iOS app that can capture in-person/offline meetings with one tap.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Read.ai specifically mentions "No meeting bots" - it records virtual meetings via cloud or extension, and offline audio via mobile app. For tldv, the context doesn't explicitly mention meeting bots, but it notes AI agents for recording, note-taking, and CRM logging.
+
+• What do users say about the quality of transcriptions?
+Users mention that tldv has "accurate transcriptions" as one of its pros. For Read.ai, the context doesn't specifically mention user feedback about transcription quality.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
