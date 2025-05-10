@@ -50,11 +50,6 @@ Users of tldv commonly praise its accurate transcriptions, intuitive user interf
 For more information, readers can explore [The Business Dive's detailed tldv review](https://thebusinessdive.com/tldv-review) covering 18 months of usage, check out [G2's collection of tldv user reviews](https://www.g2.com/products/tl-dv/reviews) with ratings from hundreds of users, read [The Business Dive's Fathom review](https://thebusinessdive.com/fathom-review) based on 3+ months of experience, or browse [Capterra's verified Fathom reviews](https://www.capterra.com/p/276054/Fathom/reviews/) from nearly 800 users across various industries.
 
 ## FAQs 
-• Would tldv work for in-person meetings? What about Fathom?
-Both tldv and Fathom are not designed for in-person meetings. Both products are marked "No" for "Good for in-person" in the context provided.
-
-• What about meeting bots? Does either of these tools require a meeting bot?
-The context doesn't specifically mention meeting bots as requirements for either tldv or Fathom. tldv mentions "AI agents for recording, note-taking, CRM logging" under its automation engine, while Fathom has auto-recording capabilities, but neither explicitly requires meeting bots.
 
 • What do users say about the quality of transcriptions?
 For tldv, users mention "Accurate transcriptions" as one of the pros in user reviews.
