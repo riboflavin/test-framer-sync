@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Fathom vs Read.ai for meeting automation
-description: A detailed comparison of Fathom and Read.ai AI meeting automation tools, examining transcription quality, action item capture, meeting summaries, and additional features like ease-of-use, security, and integration capabilities.
+description: A detailed comparison of Fathom and Read.ai, two AI meeting assistants, covering their features, pricing, integrations, and user feedback to help you choose the right meeting automation tool.
 ---
 
 # Fathom vs Read.ai for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Fathom and Read.ai
 Fathom is an AI meeting notetaker that works with Zoom, Google Meet, and Teams. It records meetings, transcribes in real-time (supporting 25+ languages), and generates multiple styles of summaries including bullet lists, action items, and detailed chronological recaps. The system identifies speakers, allows highlighting of key moments, and offers post-meeting features like "Ask Fathom" for querying meeting content. It's commonly used by sales teams for call recaps and by people who want to focus on conversations rather than note-taking.
 
 The service offers a free plan with unlimited recording but AI summaries for only 5 meetings monthly. Paid tiers range from $15/month for individuals to $29/user/month for teams with advanced integrations. Fathom works only with scheduled online meetings (no external audio imports), requires a desktop app, and lacks a mobile application. It integrates with CRMs like HubSpot and Salesforce, and can push meeting data to tools like Slack and Notion.
@@ -52,6 +35,22 @@ The service operates on a tiered pricing model: a free plan with 5 meeting trans
 Fathom appears best suited for individual professionals and small teams who prioritize simplicity and straightforward meeting capture. Its generous free tier and clean interface make it accessible for those new to AI note-taking, while sales teams benefit from its CRM integrations. However, users with complex post-meeting workflows may find its limited integration ecosystem restricting.
 
 Read.ai caters more to enterprise teams seeking analytical insights beyond basic transcription. The engagement metrics and extensive integration options benefit larger organizations tracking meeting effectiveness and wanting deeper connections to their existing tech stack. Despite a more complex interface and higher price point, it offers valuable capabilities for those managing in-person and remote meetings across distributed teams.
+
+## Fathom vs Read.ai: What do users say?
+
+Fathom users consistently praise its generous free plan, which offers unlimited meeting recordings with full AI summaries for 5 meetings monthly. Many highlight its accurate transcriptions, intuitive interface, and the ability to generate summaries in different formats seconds after meetings end. Users appreciate how Fathom allows them to be fully present in meetings without worrying about note-taking. The main limitations mentioned include the lack of external audio file uploading (it only works with scheduled online meetings), no mobile app, and some advanced features being limited to paid plans. In contrast, Read.ai stands out for its comprehensive analytics that measure engagement, sentiment, and speaker balance. Users value its ability to integrate with numerous platforms and its support for 20+ languages with real-time translation. However, some find Read.ai's free tier too restrictive at only 5 meetings per month, and others mention its interface can be complex compared to competitors. Read.ai offers unique features like in-person meeting recording via its iOS app and robust integrations with tools like HubSpot, Salesforce, and Notion.
+
+To learn more about these tools, check out [detailed Fathom user reviews on The Business Dive](https://thebusinessdive.com/fathom-review), [773 verified Fathom reviews on Capterra](https://www.capterra.com/p/276054/Fathom/reviews/), [Read.ai reviews on Trustpilot](https://www.trustpilot.com/review/read.ai), and [Read.ai ratings in the Microsoft AppSource](https://appsource.microsoft.com/en-us/product/office/WA200003896?tab=Reviews).
+
+## FAQs 
+• Would Fathom work for in-person meetings? What about Read.ai?
+No, Fathom does not work for in-person meetings as it "Cannot import external audio – only works for scheduled online meetings (Zoom, Google Meet, Teams)." In contrast, Read.ai does work for in-person meetings through its "iOS app captures in-person/offline meetings with one tap."
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Read.ai specifically states "No meeting bots – records virtual meetings via cloud or extension, and offline audio via mobile app." For Fathom, there is no explicit mention of meeting bots in the provided context.
+
+• What do users say about the quality of transcriptions?
+For Fathom, transcriptions are "praised as quick and accurate" according to user reviews. For Read.ai, there are no specific mentions about the quality of transcriptions in the provided context.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
