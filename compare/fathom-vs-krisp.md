@@ -50,7 +50,7 @@ For more information about these tools, check out [Fathom user reviews on The Bu
 No, Fathom cannot work for in-person meetings as it "Cannot import external audio – only works for scheduled online meetings (Zoom, Google Meet, Teams)." Krisp, on the other hand, can work for in-person meetings as it "Captures any conversation (online or offline) using noise-canceling audio on your device."
 
 • What about meeting bots? Does either of these tools require a meeting bot?
-Based on the context, Krisp specifically "Records & transcribes meetings locally via the Krisp app (no bot; works with any voice app)." The information doesn't explicitly state whether Fathom requires a meeting bot, though it mentions it works through a desktop app that auto-records meetings on supported platforms.
+Krisp specifically "Records & transcribes meetings locally via the Krisp app (no bot; works with any voice app)." The information doesn't explicitly state whether Fathom requires a meeting bot, though it mentions it works through a desktop app that auto-records meetings on supported platforms.
 
 • What do users say about the quality of transcriptions?
 For Fathom, users praise the transcriptions as "quick and accurate." For Krisp, the reviews are more mixed - while some users found the AI note-taking and summaries "extremely accurate," others note that Krisp "might distort the speaker's voice or clip words, especially if trying to cancel very loud noises – this can affect transcription accuracy."
