@@ -61,8 +61,6 @@ Fireflies.ai uses a bot participant ("Fred") that joins meetings to record, tran
 • What do users say about the quality of transcriptions?
 For Fireflies.ai, users report good transcription quality, even in other languages like Dutch. However, some reviewers noted that transcription accuracy can decrease with heavy accents or technical jargon, with occasional issues like misidentified speakers or missed slang.
 
-For Read.ai, there aren't specific comments about transcription quality in the provided context.
-
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
 * Automatically-identified and assigned action items
