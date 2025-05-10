@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Krisp vs Zoom AI for meeting automation
-description: Compare Krisp and Zoom AI meeting automation tools based on transcripts, action items, summaries, topic segmentation, and other key features.
+description: Compare Krisp's cross-platform noise cancellation and meeting tools with Zoom's built-in AI assistant for meeting summaries, transcription, and automation features.
 ---
 
 # Krisp vs Zoom AI for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Krisp and Zoom AI
 Krisp is a voice enhancement tool that functions as an audio filter, removing background noises like dog barks, keyboard clicks, and echo from microphone or speaker output across communication apps. It has expanded beyond noise cancellation to include meeting recording, transcription in 90+ languages, and AI-generated summaries with key points and action items. The software works with any voice application through a desktop app for Windows and Mac.
 
 The service offers a free plan with 60 minutes daily of noise cancellation and two meeting summaries, while paid tiers (starting at $8/month) provide unlimited usage. Krisp works for both online and offline conversations, recording locally without requiring a bot. It includes calendar integration for one-click recording and HubSpot CRM integration, though some users report occasional audio distortion, high CPU usage, and mixed experiences with customer support.
@@ -60,6 +43,20 @@ The tool only works within Zoom meetings and cannot capture in-person conversati
 Krisp is best suited for users who participate in meetings across multiple platforms and work in noisy environments. Its cross-platform functionality and superior noise cancellation make it valuable for remote workers, freelancers, and professionals who need flexibility across communication tools. The ability to capture in-person conversations also makes it useful for those who alternate between virtual and physical meetings.
 
 Zoom AI makes the most sense for organizations already heavily invested in the Zoom ecosystem who primarily conduct meetings on that platform. Teams looking for the simplest solution with no additional app to install will appreciate its seamless integration, and budget-conscious organizations benefit from getting AI features at no extra cost beyond their existing Zoom subscription. However, both tools would better serve users with deeper integrations into productivity workflows.
+
+## Krisp vs Zoom AI: What do users say?
+
+Krisp is an AI voice enhancement tool with robust noise cancellation capabilities that remove background sounds like dog barks, keyboard clatter, and echo from audio in real-time. It functions across communication apps as an audio filter and has expanded to include meeting transcription and AI-generated summaries with key points and action items. Users consistently praise Krisp's effective noise removal and ease of use, describing it as a workflow essential that "just works." The AI note-taking feature has been well-received for its accuracy. However, some users report occasional audio distortion, voice clipping with extremely loud noises, high CPU usage, and consider the pricing somewhat steep. The free plan offers 60 minutes of noise cancellation and two meeting summaries daily, while paid plans start at around $8/month for unlimited features. Krisp works for both online and offline conversations, records locally, integrates with calendars and HubSpot CRM, and supports 90+ languages, but is currently desktop-only. In contrast, Zoom AI is built directly into the Zoom platform for paid subscribers at no extra cost, automatically generating meeting summaries and action items after calls. It allows participants to ask questions during meetings and assists with composing emails and documents. The seamless integration within Zoom is appreciated, though it only works with Zoom meetings, limiting its utility for users of other platforms. Some users find certain features less developed compared to dedicated tools, with limited control over which meetings to record and basic integration with Zoom Chat. For more information, readers can check out [detailed Krisp reviews on Trustpilot](https://www.trustpilot.com/review/krisp.ai), [user discussions about Krisp on Reddit](https://www.reddit.com/r/digitalnomad/comments/1ggviog/best_noise_cancellation_software_ive_been/), [comprehensive Zoom AI Companion reviews](https://www.meetjamie.ai/blog/zoom-ai-companion-review), and [Reddit discussions about using Zoom's AI for meeting summaries](https://www.reddit.com/r/Zoom/comments/1g29cog/using_zooms_ai_companion_to_record_and_summarize/).
+
+## FAQs 
+• Would Krisp work for in-person meetings? What about Zoom AI?
+Yes, Krisp would work for in-person meetings as it "captures any conversation (online or offline) using noise-canceling audio on your device." Zoom AI would not work for in-person meetings as it "only works for virtual Zoom calls (cannot independently capture in-person audio)."
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Krisp does not require a meeting bot as it "records & transcribes meetings locally via the Krisp app (no bot; works with any voice app)." The context doesn't specifically mention whether Zoom AI requires a meeting bot.
+
+• What do users say about the quality of transcriptions?
+The context doesn't provide specific user feedback about the quality of transcriptions for either tool. For Krisp, there's mention that audio quirks might "affect transcription accuracy" when trying to cancel very loud noises, but no direct feedback about transcription quality. For Zoom AI, there's no specific mention of transcription quality in the user reviews provided.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
