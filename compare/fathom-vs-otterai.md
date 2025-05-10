@@ -51,7 +51,7 @@ User reviews for Fathom highlight its generous free plan and highly accurate tra
 No, Fathom does not work for in-person meetings. It only works for scheduled online meetings (Zoom, Google Meet, Teams) and cannot import external audio. Otter.ai does work for in-person meetings as it can transcribe live in-person conversations via its app.
 
 • What about meeting bots? Does either of these tools require a meeting bot?
-Otter.ai uses an assistant that can join meetings in real time. The context mentions that this assistant "can spam calendar invites or join unwanted meetings if not configured." Fathom doesn't specifically mention requiring a meeting bot - it uses a desktop app that auto-records meetings on supported platforms.
+Otter.ai uses an assistant that can join meetings in real time.
 
 • What do users say about the quality of transcriptions?
 For Fathom, transcriptions are praised as "quick and accurate" and the AI-generated summaries appear just seconds after meetings. For Otter.ai, the reviews are mixed - while it captures a large amount of meeting info, "accuracy can suffer with complex audio" with some reviews noting "mistakes in transcription or speaker ID."
