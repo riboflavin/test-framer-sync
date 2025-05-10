@@ -60,9 +60,6 @@ Read.ai: Yes. It has an iOS app that captures in-person/offline meetings with on
 Granola: No meeting bot required. Granola runs on your computer and listens to meetings without needing a bot in the call. It works fully offline on Mac – records and transcribes locally.
 Read.ai: No meeting bots required. Read.ai records virtual meetings via cloud or extension, and offline audio via mobile app.
 
-• What do users say about the quality of transcriptions?
-The provided context doesn't contain specific user feedback about the quality of transcriptions for either Granola or Read.ai.
-
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
 * Automatically-identified and assigned action items
