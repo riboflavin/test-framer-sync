@@ -50,7 +50,7 @@ User reviews reveal Avoma and Otter.ai have distinct strengths and limitations a
 Yes, both Avoma and Otter.ai work for in-person meetings. Avoma has a mobile app that records offline/in-person meetings for later transcription. Similarly, Otter.ai can transcribe live in-person conversations via its app.
 
 • What about meeting bots? Does either of these tools require a meeting bot?
-Both platforms use meeting bots. Avoma's context mentions "the bot sometimes joins a meeting late" as a minor issue in the cons section. Otter.ai uses "OtterPilot" as an assistant that can join meetings in real time, and some users complain that "the assistant can spam calendar invites or join unwanted meetings if not configured."
+Both platforms use meeting bots. Otter.ai uses "OtterPilot" as an assistant that can join meetings in real time, and some users complain that "the assistant can spam calendar invites or join unwanted meetings if not configured."
 
 • What do users say about the quality of transcriptions?
 For Avoma, users report transcriptions are approximately 95% accurate even with jargon or accents. For Otter.ai, reviews are more mixed - while many find it extremely easy to use for transcribing, some reviews note that accuracy can suffer with complex audio, with mistakes in transcription or speaker identification. Some users also mention that Otter.ai transcripts can be overly verbose and lack structure.
