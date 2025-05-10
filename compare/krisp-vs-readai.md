@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Krisp vs Read.ai for meeting automation
-description: A comprehensive comparison of Krisp and Read.ai meeting automation tools, analyzing their transcription capabilities, action item tracking, meeting summaries, and additional features like ease-of-use, integrations, and pricing.
+description: Compare Krisp and Read.ai for meeting automation, including features, pricing, user feedback, and use cases to determine which tool best fits your needs.
 ---
 
 # Krisp vs Read.ai for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Krisp and Read.ai
 Krisp is an audio enhancement tool that filters out background noise and echo from both microphone and speaker audio in real-time across communication platforms. It expanded functionality to include meeting recording, transcription and AI-generated summaries with key points and action items. The software works as an audio layer that integrates with virtually all communication apps, making it suitable for remote workers, call centers, and anyone needing clearer calls or meeting documentation.
 
 The application offers tiered pricing with a free version providing 60 minutes of noise cancellation and 2 meeting summaries daily. Paid plans start at $8/month for unlimited noise cancellation and meeting features, with business plans ($15/user/month) adding administrative controls and SSO. Krisp runs on Windows and Mac desktops, supports 90+ languages, and integrates with calendars and HubSpot CRM, though it lacks a mobile app and can sometimes cause high CPU usage or occasional audio distortion.
@@ -53,6 +36,26 @@ The platform supports over 20 languages and provides various integration options
 Krisp makes more sense for individual users who prioritize audio quality in noisy environments or need basic meeting transcription at a lower price point. The noise cancellation technology works across all communication apps without requiring special integration, making it ideal for remote workers, call center staff, or anyone who takes calls from less-than-ideal acoustic settings.
 
 Read.ai better serves teams that need deeper meeting insights and already use integrated platforms like Zoom, Slack, or various CRMs. Though more expensive, it provides richer data on meeting engagement and more robust documentation options, making it valuable for sales teams, customer success departments, or managers who want to analyze team communication patterns across their organization.
+
+## Krisp vs Read.ai: What do users say?
+
+Krisp and Read.ai are both AI-powered meeting assistants with distinct strengths. Krisp began as a noise cancellation tool that expanded into meeting transcription and summaries. Users consistently praise Krisp's ability to eliminate background noise effectively, making it ideal for remote workers and call centers. Its AI note-taking feature generates accurate summaries with key points and action items. However, some users report occasional audio distortion issues, limited free usage (60 minutes daily), high CPU consumption, and mixed customer support experiences. Krisp offers a free tier with limited features, with paid plans starting at $8/month for unlimited usage.
+
+Read.ai positions itself as a meeting "copilot" with comprehensive features beyond basic transcription. It analyzes engagement metrics and sentiment during meetings, providing real-time transcription visible to all participants. After meetings, it generates reports with speaking time distribution, sentiment analysis, and attention scores. Users appreciate its engagement analytics, smart summaries, and multilingual support (16+ languages with real-time translation). However, the free tier is restrictive (only 5 meetings monthly), some find the interface cluttered, and privacy concerns exist regarding consent when joining others' meetings. Read.ai's paid plans range from $19.75 to $40 per user/month.
+
+For more information, check out [Krisp reviews on Trustpilot](https://www.trustpilot.com/review/krisp.ai) showing a 4.1/5 rating from 373 users, [Reddit discussions about Krisp](https://www.reddit.com/r/digitalnomad/comments/1ggviog/best_noise_cancellation_software_ive_been/) where users share their experiences, [Read.ai on Trustpilot](https://www.trustpilot.com/review/read.ai) with a 1.8/5 rating from 58 reviews, and [Read.ai in Microsoft AppSource](https://appsource.microsoft.com/en-us/product/office/WA200003896?tab=Reviews) where it has a 3.8/5 rating from 65 users.
+
+## FAQs 
+• Would Krisp work for in-person meetings? What about Read.ai?
+Both Krisp and Read.ai work for in-person meetings. Krisp captures any conversation (online or offline) using noise-canceling audio on your device. Read.ai has an iOS app that captures in-person/offline meetings with one tap.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Neither tool requires meeting bots. Krisp records and transcribes meetings locally via the Krisp app, working with any voice app. Read.ai records virtual meetings via cloud or extension, and offline audio via mobile app.
+
+• What do users say about the quality of transcriptions?
+For Krisp, users note that the AI note-taking provides "extremely accurate" summaries with key points and action items that require minimal edits. However, some report that audio quirks might occasionally distort the speaker's voice or clip words, which can affect transcription accuracy.
+
+For Read.ai, users consider the summaries "smart," capturing questions asked and topics discussed effectively.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
