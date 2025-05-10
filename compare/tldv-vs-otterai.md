@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: tldv vs Otter.ai for meeting automation
-description: Detailed comparison of tldv and Otter.ai meeting intelligence tools, including transcription capabilities, action item capture, meeting summaries, and integration features, with Circleback presented as an alternative solution.
+description: Compare tldv and Otter.ai meeting intelligence tools - features, pricing, language support, and user experiences to find the best solution for recording, transcribing, and summarizing your meetings.
 ---
 
 # tldv vs Otter.ai for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding tldv and Otter.ai
 Tldv is a meeting intelligence tool that records, transcribes, and summarizes conversations. It supports over 30 languages and offers timestamped highlights, CRM integration, and AI agents that handle recording, note-taking, and CRM logging. The platform works through a desktop app for Windows and macOS that integrates with Zoom and Microsoft Teams, plus connects with HubSpot, Notion, Salesforce, and thousands of other services.
 
 The service follows a tiered pricing model with a free plan, Pro tier at $18 monthly, and Business tier at $59 monthly. Tldv doesn't support in-person meetings but does offer local recording capabilities through its desktop application. The platform lacks a native mobile app and requires internet connectivity, which can affect performance. Some users have expressed privacy concerns about the service.
@@ -54,6 +37,20 @@ The service offers a free plan with 600 minutes of transcription monthly, with p
 Tldv works best for teams already embedded in CRM workflows who primarily conduct remote meetings and need multi-language support. Its desktop-first approach and extensive language options make it suitable for international businesses, though its higher price point and lack of mobile support limit its appeal for on-the-go professionals or teams with in-person interactions.
 
 Otter.ai offers better value for individuals, students, journalists, and teams that frequently conduct in-person meetings or need mobile functionality. Its lower price point and ability to capture live conversations make it more versatile for varied environments, but organizations requiring extensive language support or deep workflow integrations will find its capabilities insufficient for comprehensive meeting management.
+
+## tldv vs Otter.ai: What do users say?
+
+User reviews of tldv and Otter.ai highlight distinctive strengths and limitations of each platform. tldv receives praise for its accurate transcriptions, intuitive user interface, and generous free plan, while users note limitations in platform support, dependence on internet quality, and some privacy concerns. The service offers local recording via desktop apps for Zoom and Teams, integrates with major platforms like HubSpot and Notion, and supports over 30 languages. Otter.ai users appreciate its ease of use for transcription and note-taking, real-time transcript generation, and time-saving meeting summaries. However, reviewers criticize Otter's sometimes verbose transcripts that lack structure, accuracy issues with complex audio, and problems with its meeting assistant sending unwanted calendar invites. Otter works well for in-person conversations through its mobile apps, while tldv lacks native mobile support. For those interested in learning more about these services, check out [Otter AI Review on CNET](https://www.cnet.com/tech/services-and-software/otter-ai-review/), [Reddit discussion on Otter.ai](https://www.reddit.com/r/ProductManagement/comments/1866ags/is_otterai_worth_it_for_meeting_minutes/), [Otter.ai Trustpilot reviews](https://www.trustpilot.com/review/otter.ai), [Comprehensive tl;dv review](https://thebusinessdive.com/tldv-review), and [tl;dv G2 reviews](https://www.g2.com/products/tl-dv/reviews).
+
+## FAQs 
+• Would tldv work for in-person meetings? What about Otter.ai?
+No, tldv is not good for in-person meetings according to the context. Otter.ai, however, can transcribe live in-person conversations via its app.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Otter.ai utilizes an assistant (OtterPilot) that can join meetings in real time. Tldv has AI agents for recording, note-taking, and CRM logging, suggesting some form of automation that can join meetings.
+
+• What do users say about the quality of transcriptions?
+For tldv, users praise "accurate transcriptions" as a pro. For Otter.ai, reviews are mixed - users appreciate having real-time transcripts, but some reviews note that "accuracy can suffer with complex audio" with "mistakes in transcription or speaker ID."
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
