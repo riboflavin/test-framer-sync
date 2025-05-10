@@ -58,9 +58,6 @@ Read.ai would work for in-person meetings as it has an iOS app that captures in-
 • What about meeting bots? Does either of these tools require a meeting bot?
 Read.ai does not require meeting bots – it records virtual meetings via cloud or extension, and offline audio via mobile app. The information doesn't specifically state whether Zoom AI requires a meeting bot.
 
-• What do users say about the quality of transcriptions?
-The provided context doesn't contain specific user feedback about the quality of transcriptions for either Read.ai or Zoom AI.
-
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
 * Automatically-identified and assigned action items
