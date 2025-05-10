@@ -59,7 +59,7 @@ Yes, Avoma can work for in-person meetings via its mobile app, which records off
 Avoma likely uses a bot joining the meeting as there's a mention in the cons section that "the bot sometimes joins a meeting late." Granola explicitly doesn't require a meeting bot - it "listens to meetings without needing a bot in the call" and "works discreetly with no meeting intrusion," running on your computer and capturing system audio.
 
 • What do users say about the quality of transcriptions?
-For Avoma, users report that transcriptions are approximately 95% accurate even with jargon or accents. No specific user feedback about Granola's transcription quality is mentioned in the provided context.
+For Avoma, users report that transcriptions are approximately 95% accurate even with jargon or accents.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
