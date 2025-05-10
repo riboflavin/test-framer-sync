@@ -55,9 +55,6 @@ Learn more about these meeting assistants at [Fathom Review on The Business Dive
 • Would Avoma work for in-person meetings? What about Fathom?
 Avoma works for in-person meetings - it has a mobile app that can record offline/in-person meetings for later transcription. Fathom does not work for in-person meetings - it only works for scheduled online meetings (Zoom, Google Meet, Teams) and cannot import external audio.
 
-• What about meeting bots? Does either of these tools require a meeting bot?
-The context mentions that Avoma sometimes has a bot that joins meetings (with occasional reports of it joining late), suggesting it uses a meeting bot. For Fathom, there's no explicit mention of a meeting bot being required in the provided context.
-
 • What do users say about the quality of transcriptions?
 For Avoma, users report that transcriptions are approximately 95% accurate even with jargon or accents. For Fathom, users praise the transcriptions as being "quick and accurate," though no specific accuracy percentage is mentioned.
 
