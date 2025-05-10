@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Avoma vs Fireflies.ai for meeting automation
-description: A detailed comparison of features and functionality between Avoma and Fireflies.ai AI meeting automation tools, including transcription quality, action item tracking, meeting summaries, and other key factors.
+description: Compare Avoma and Fireflies.ai AI meeting assistants for recording, transcribing, and summarizing meetings, with feature breakdowns, pricing, and user feedback to help choose the right tool.
 ---
 
 # Avoma vs Fireflies.ai for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Avoma and Fireflies.ai
 Avoma is an AI meeting assistant that records, transcribes, and summarizes meetings. It breaks notes into organized topics like pain points and next steps, then generates actionable insights from conversations. The platform includes agenda templates, live note collaboration, and CRM integration with Salesforce and HubSpot. It works across both online and offline meetings through its mobile app, and offers transcription in over 20 languages with reported 95% accuracy even with jargon.
 
 The system operates via a web-based platform with iOS and Android mobile apps but no desktop application. It includes automation for note-taking, follow-up emails, and CRM data entry. Pricing ranges from a limited free plan (approximately 10 meetings monthly) to paid tiers from $19 to $129 per user monthly. While comprehensive for sales and customer success teams, some users find it excessive for simple transcription needs, occasionally experience minor bugs with meeting joins, and note that higher pricing tiers can be expensive for small teams.
@@ -55,6 +38,25 @@ The service operates on a tiered pricing model with a free forever plan offering
 Avoma suits larger sales and customer success teams that need deeper workflow automation and structured note organization. The platform's higher price point reflects its comprehensive feature set, though smaller teams might find it excessive for basic transcription needs.
 
 Fireflies.ai works better for individuals and teams seeking a straightforward, affordable transcription tool across multiple platforms. Its broader language support and lower entry price make it accessible, but organizations requiring robust automation capabilities should consider its limitations in driving follow-through on meeting outcomes.
+
+## Avoma vs Fireflies.ai: What do users say?
+
+User reviews of Avoma highlight it as a comprehensive AI meeting assistant that records, transcribes, and summarizes meetings with approximately 95% accuracy, even handling jargon and accents. Users particularly appreciate how it saves time on administrative tasks, allowing them to focus on conversations rather than note-taking. Avoma's strong integration ecosystem with tools like Zoom, HubSpot, and Slack enhances workflows, while its responsive support team addresses user feedback. Some downsides mentioned include that it can be overkill for individual users with simple needs, occasional bugs or delays with the bot joining meetings, and dense transcripts that can be difficult to skim quickly. Higher-tier pricing may also be prohibitive for smaller teams.
+
+Fireflies.ai receives praise for its simplicity and time-saving capabilities. Users report good transcription quality (even in languages beyond English) and appreciate how it delivers summaries and action items within minutes after calls. The tool works across multiple meeting platforms and offers helpful integrations with project management and CRM tools. However, some users desire more nuanced summaries, as Fireflies tends to generate high-level overviews that occasionally miss original phrasing or tone. Transcription accuracy can decrease with heavy accents or technical jargon, and some users find the interface cluttered or dislike the frequency of email notifications.
+
+Learn more about these AI meeting assistants here:
+[Fireflies.ai review on Reddit](https://www.reddit.com/r/AIToolTesting/comments/1g55mmv/fireflies_ai_review_the_good_the_bad_and_the/), [Comprehensive Fireflies.ai review](https://thebusinessdive.com/fireflies-ai-review), [Avoma customer reviews on HubSpot](https://ecosystem.hubspot.com/marketplace/apps/avoma/reviews), and [Avoma reviews on G2](https://www.g2.com/products/avoma/reviews).
+
+## FAQs 
+• Would Avoma work for in-person meetings? What about Fireflies.ai?
+Yes, both Avoma and Fireflies.ai work for in-person meetings. Avoma has a mobile app that records offline/in-person meetings for later transcription. Similarly, Fireflies.ai's mobile app can record in-person meetings and voice notes.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Based on the provided context, Fireflies.ai uses a bot participant ("Fred") that joins meetings to record, transcribe, and summarize discussions. For Avoma, there's a mention that "the bot sometimes joins a meeting late," suggesting it also uses a meeting bot, though this is less explicitly stated in the context.
+
+• What do users say about the quality of transcriptions?
+For Avoma, users report that transcriptions are approximately 95% accurate even with jargon or accents. For Fireflies.ai, users report good transcription quality, even in other languages like Dutch, though accuracy can decrease with heavy accents or technical jargon, with some reviewers noting misidentified speakers or missed slang.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
