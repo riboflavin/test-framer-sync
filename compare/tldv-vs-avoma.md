@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: tldv vs Avoma for meeting automation
-description: Comparing tldv and Avoma AI meeting automation tools for transcription, action items, summaries, and topic segmentation, with pricing and feature analysis.
+description: Compare tldv and Avoma meeting productivity tools that record, transcribe, and summarize conversations, with details on pricing, features, integrations, and user reviews.
 ---
 
 # tldv vs Avoma for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding tldv and Avoma
 Tldv is a meeting productivity tool that records, transcribes, and summarizes conversations across video conferencing platforms. It provides timestamps, highlights, and CRM integration capabilities, with AI agents handling recording, note-taking, and CRM logging functions. The system supports over 30 languages and offers local recording through desktop applications for Zoom and Microsoft Teams.
 
 The service operates with a tiered pricing model: a free tier and paid options at $18/month (Pro) and $59/month (Business). It offers desktop applications for Windows and macOS but lacks a native mobile app. Tldv connects with HubSpot, Notion, Salesforce and claims integration with 5,000+ other services. The platform requires internet connectivity for optimal performance and has limited support for in-person meetings.
@@ -56,6 +39,22 @@ The service is structured across multiple tiers: a free plan limited to about 10
 tldv is better suited for individual professionals and small teams seeking a straightforward, cost-effective meeting assistant with desktop functionality. Its simpler approach and lower price point make it accessible for those who prioritize basic transcription and note-taking without needing complex features or mobile capabilities.
 
 Avoma caters to sales teams and customer-facing departments in mid-sized organizations that require more comprehensive meeting documentation. Its ability to handle in-person meetings through mobile apps and deeper CRM integration makes it valuable for companies tracking customer interactions, though the premium pricing reflects this enterprise focus.
+
+## tldv vs Avoma: What do users say?
+
+User reviews indicate that tldv offers accurate transcriptions and AI meeting features with an intuitive interface and generous free plan, though it has limited platform support and some privacy concerns. Pricing ranges from Free to Business ($59/mo), with support for 30+ languages and integrations with many platforms. Avoma is praised for its 95% accurate transcriptions even with jargon or accents, comprehensive meeting assistance features, and strong integration ecosystem. Users appreciate how it saves time on administrative tasks, though some find it potentially overkill for simple needs and note occasional bugs or delays. Avoma's pricing spans from a free plan to Enterprise ($129/user/month), with support for 20+ languages and mobile apps for iOS and Android.
+
+For more detailed information, readers can explore [tl;dv reviews on G2](https://www.g2.com/products/tl-dv/reviews) showing a 4.7/5 rating from 384 users, [an honest tl;dv review after 18+ months of use](https://thebusinessdive.com/tldv-review), [Avoma reviews on G2](https://www.g2.com/products/avoma/reviews) with a 4.6/5 rating from over 1,300 users, and [Avoma customer reviews in the HubSpot Ecosystem](https://ecosystem.hubspot.com/marketplace/apps/avoma/reviews).
+
+## FAQs 
+• Would tldv work for in-person meetings? What about Avoma?
+tldv does not work for in-person meetings (listed as "No" for "Good for in-person"). Avoma does work for in-person meetings through its mobile app, which can record offline/in-person meetings for later transcription.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Based on the context provided, Avoma mentions that "the bot sometimes joins a meeting late" in the cons section, suggesting it uses a meeting bot. For tldv, the context mentions "AI agents for recording" which suggests some form of automated system, but doesn't explicitly mention a meeting bot requirement.
+
+• What do users say about the quality of transcriptions?
+For tldv, users note "accurate transcriptions" as one of the pros. For Avoma, users report that "transcriptions are ~95% accurate even with jargon or accents" and it is "highly rated for its accuracy and depth."
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
