@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Fireflies.ai vs Granola for meeting automation
-description: A comprehensive comparison of AI meeting automation tools Fireflies.ai and Granola, evaluating their transcription capabilities, action item tracking, meeting summaries, and other key features.
+description: Compare Fireflies.ai's cloud-based meeting assistant with Granola's local Mac app for meeting notes, transcription, and summaries - features, pricing, and user reviews.
 ---
 
 # Fireflies.ai vs Granola for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Fireflies.ai and Granola
 Fireflies.ai is an AI meeting assistant that joins calls as a participant to record and transcribe conversations across platforms like Zoom, Teams, and Google Meet. The system provides searchable transcripts with speaker identification, generates summaries with action items, and offers an AskFred chatbot for querying meeting content. It integrates with tools like Slack, Asana, and CRM systems to facilitate follow-ups, and can be used for team knowledge sharing, sales call analysis, and personal note-taking.
 
 The service offers multiple tiers: a free plan with limited credits, a Pro plan (~$10/user/month) with unlimited audio recording, and a Business plan (~$19/user/month) adding video recording and analytics. Fireflies supports over 100 languages, works for in-person meetings via a mobile app, and allows local recording. While it offers good transcription accuracy, users note it sometimes struggles with accents and technical jargon, and some find the AI summaries too high-level or the interface cluttered.
@@ -54,6 +37,24 @@ The tool works offline on Mac with local recording and transcription in about 16
 Fireflies.ai suits teams that need cross-platform compatibility and broader integration with business tools. Its bot-based approach works well for organizations with strict compliance requirements or those needing to capture meetings across varied environments without relying on individual devices.
 
 Granola fits privacy-conscious Mac users who prefer local processing and a distraction-free experience during meetings. Its offline functionality and minimalist interface make it ideal for individual professionals who value simplicity and discreet note-taking, though they'll need to accept limited integrations and platform support.
+
+## Fireflies.ai vs Granola: What do users say?
+
+User reviews of Fireflies.ai highlight its ease of use and time-saving capabilities, with many praising its accurate transcription quality even in languages like Dutch. The AI assistant joins meetings across platforms like Zoom and Teams, delivering summaries and action items within minutes after calls. While users appreciate the mobile app and integrations with project management tools, some desire more nuanced summaries and note that transcription accuracy can dip with heavy accents or technical jargon. The free tier offers limited features, with paid plans starting at around $10/user/month.
+
+Granola, an AI notepad for Mac, receives praise for its "set and forget" note-taking that allows users to focus on conversations. The clean interface reminds users of Apple Notes, and the app produces well-organized summaries that can be tailored via templates. Since it runs locally on your computer without requiring a bot in meetings, users appreciate its discreet operation. Limitations include Mac-only availability (Windows support is frequently requested), no mobile app yet, and potential issues when audio isn't played through the system. Pricing starts with a 25-meeting free trial, followed by plans beginning at $18/month for individuals.
+
+For more information, check out [Fireflies AI review on Reddit](https://www.reddit.com/r/AIToolTesting/comments/1g55mmv/fireflies_ai_review_the_good_the_bad_and_the/), [The Business Dive's Fireflies AI review](https://thebusinessdive.com/fireflies-ai-review), and comparisons like [Otter.ai vs. Fireflies.ai on Reddit](https://www.reddit.com/r/ChatGPT/comments/16h6ybm/otterai_vs_firefliesai/).
+
+## FAQs 
+• Would Fireflies.ai work for in-person meetings? What about Granola?
+Fireflies.ai works for in-person meetings through its mobile app, which can record in-person meetings and voice notes. Granola partially supports in-person meetings as the Mac app can capture in-room audio locally, but it has no mobile app yet (Android/iOS are "coming soon").
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Fireflies.ai requires a bot participant ("Fred") that joins meetings to record, transcribe, and summarize discussions across platforms like Zoom, Teams, etc. Granola does not require a meeting bot - it runs on your computer and listens to meetings directly without needing a bot in the call.
+
+• What do users say about the quality of transcriptions?
+For Fireflies.ai, users report good transcription quality, even in other languages like Dutch. However, some note that transcription accuracy can decrease with heavy accents or technical jargon, with reviewers mentioning misidentified speakers or missed slang. For Granola, there's no specific mention about transcription quality in the provided context.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
