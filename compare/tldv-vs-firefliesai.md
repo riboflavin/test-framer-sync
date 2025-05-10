@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: tldv vs Fireflies.ai for meeting automation
-description: Comprehensive comparison of tldv and Fireflies.ai AI meeting automation tools, evaluating transcription quality, action item extraction, meeting summaries, and critical features like platform support, integrations, and pricing.
+description: A detailed comparison of tldv and Fireflies.ai meeting automation tools, including features, pricing, platform support, and user feedback.
 ---
 
 # tldv vs Fireflies.ai for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding tldv and Fireflies.ai
 tldv is a meeting recording tool that captures audio, transcribes conversations, and generates AI summaries with timestamps and highlights. It offers local recording via desktop apps for Zoom and Teams, with support for over 30 languages. The platform integrates with business software including HubSpot, Notion, Salesforce, and thousands of other services, and deploys AI agents to automate recording, note-taking, and CRM data entry.
 
 The service operates on a tiered pricing model with a free plan, Pro tier ($18/month), and Business tier ($59/month). It has desktop applications for Windows and macOS but lacks native mobile apps. The platform works for remote meetings but not in-person gatherings. Some limitations include restricted platform support, dependency on internet connection quality, and potential privacy issues reported by users.
@@ -55,6 +38,20 @@ The service operates on a tiered pricing model with a free plan offering limited
 tldv is better suited for teams that primarily use Zoom or Teams and require deeper CRM integration within a desktop-focused workflow. Its higher price point reflects more comprehensive AI agent capabilities and business features, making it appropriate for sales teams and enterprises with established meeting processes who don't need mobile access or in-person recording.
 
 Fireflies.ai works better for mobile professionals, distributed teams using various meeting platforms, and those requiring in-person recording capabilities. Its more affordable pricing and broader platform support make it accessible for smaller teams and individuals, though the lack of a desktop app and more limited integration depth may frustrate power users looking to fully automate their meeting workflows.
+
+## tldv vs Fireflies.ai: What do users say?
+
+User reviews of tldv highlight its accurate transcriptions, intuitive user interface, and generous free plan. However, some users note limited platform support, dependence on internet quality, and privacy concerns. The tool offers local recording via desktop apps for Zoom and Teams, integrates with services like HubSpot and Notion, and supports over 30 languages. Fireflies.ai receives praise for its ease of use, accurate transcription quality (even for languages like Dutch), and quick delivery of meeting summaries with action items. Users appreciate its mobile app and extensive platform compatibility. On the downside, some reviewers mention that Fireflies' summaries can be too high-level, transcription accuracy decreases with heavy accents or technical jargon, and the free plan limits advanced features. For more detailed insights, readers can check out [Fireflies AI Review on Reddit](https://www.reddit.com/r/AIToolTesting/comments/1g55mmv/fireflies_ai_review_the_good_the_bad_and_the/), [Fireflies AI Review from The Business Dive](https://thebusinessdive.com/fireflies-ai-review), [An 18-Month tl;dv Review](https://thebusinessdive.com/tldv-review), and [tl;dv Reviews on G2](https://www.g2.com/products/tl-dv/reviews).
+
+## FAQs 
+• Would tldv work for in-person meetings? What about Fireflies.ai?
+No, tldv is not good for in-person meetings according to the context. Fireflies.ai does work for in-person meetings through its mobile app which can record in-person meetings and voice notes.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Fireflies.ai uses a cloud-based AI meeting assistant called "Fred" that joins meetings as a bot participant to record, transcribe, and summarize discussions. The context doesn't explicitly state if tldv requires a meeting bot, but it mentions tldv has "AI agents for recording" and "local recording via desktop app for Zoom, Teams."
+
+• What do users say about the quality of transcriptions?
+Users say tldv provides "accurate transcriptions" according to the pros from user reviews. For Fireflies.ai, users report "good transcription quality, even in other languages like Dutch," though some mention that "transcription accuracy can dip with heavy accents or technical jargon" with "several G2 reviewers noted misidentified speakers or missed slang."
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
