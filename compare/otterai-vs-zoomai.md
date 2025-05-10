@@ -55,10 +55,10 @@ For more information, readers can check out [Zoom AI Companion Review: My Honest
 Yes, Otter.ai can transcribe live in-person conversations via its app. Zoom AI cannot be used for in-person meetings as it only works for virtual Zoom calls and cannot independently capture in-person audio.
 
 • What about meeting bots? Does either of these tools require a meeting bot?
-Otter.ai integrates with Zoom, Teams, etc., via an assistant that can join meetings in real time. The context mentions that the Otter assistant can spam calendar invites or join unwanted meetings if not configured properly. There's no specific mention of Zoom AI requiring a meeting bot as it's built directly into the Zoom platform.
+Otter.ai integrates with Zoom, Teams, etc., via an assistant that can join meetings in real time. 
 
 • What do users say about the quality of transcriptions?
-For Otter.ai, users note that accuracy can suffer with complex audio, with some reviews mentioning mistakes in transcription or speaker identification. Transcripts can also be overly verbose and lack structure. For Zoom AI, there are no specific mentions about transcription quality in the provided context.
+For Otter.ai, users note that accuracy can suffer with complex audio, with some reviews mentioning mistakes in transcription or speaker identification. Transcripts can also be overly verbose and lack structure. 
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
