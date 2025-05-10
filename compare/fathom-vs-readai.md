@@ -47,7 +47,7 @@ To learn more about these tools, check out [detailed Fathom user reviews on The 
 No, Fathom does not work for in-person meetings as it "Cannot import external audio – only works for scheduled online meetings (Zoom, Google Meet, Teams)." In contrast, Read.ai does work for in-person meetings through its "iOS app captures in-person/offline meetings with one tap."
 
 • What about meeting bots? Does either of these tools require a meeting bot?
-Read.ai specifically states "No meeting bots – records virtual meetings via cloud or extension, and offline audio via mobile app." For Fathom, there is no explicit mention of meeting bots in the provided context.
+Read.ai specifically states "No meeting bots – records virtual meetings via cloud or extension, and offline audio via mobile app." 
 
 • What do users say about the quality of transcriptions?
 For Fathom, transcriptions are "praised as quick and accurate" according to user reviews. For Read.ai, there are no specific mentions about the quality of transcriptions in the provided context.
