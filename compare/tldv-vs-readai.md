@@ -48,12 +48,6 @@ User reviews of tldv highlight its accurate transcriptions, intuitive UI, and ge
 • Would tldv work for in-person meetings? What about Read.ai?
 No, tldv is not good for in-person meetings. Read.ai does work for in-person meetings via its iOS app that can capture in-person/offline meetings with one tap.
 
-• What about meeting bots? Does either of these tools require a meeting bot?
-Read.ai specifically mentions "No meeting bots" - it records virtual meetings via cloud or extension, and offline audio via mobile app. For tldv, the context doesn't explicitly mention meeting bots, but it notes AI agents for recording, note-taking, and CRM logging.
-
-• What do users say about the quality of transcriptions?
-Users mention that tldv has "accurate transcriptions" as one of its pros. For Read.ai, the context doesn't specifically mention user feedback about transcription quality.
-
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
 * Automatically-identified and assigned action items
