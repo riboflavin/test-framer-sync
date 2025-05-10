@@ -1,28 +1,11 @@
 ---
 type: comparison
 title: Fireflies.ai vs Otter.ai for meeting automation
-description: Detailed comparison of Fireflies.ai and Otter.ai's AI meeting automation features, including transcription quality, action item tracking, meeting summaries, and integration capabilities.
+description: Comprehensive comparison of Fireflies.ai and Otter.ai for meeting recording, transcription, and automation, covering features, pricing, language support, and user feedback.
 ---
 
 # Fireflies.ai vs Otter.ai for meeting automation
 
-Here's what you should look for in an AI meeting automation tool:  
-* Transcripts that create a word-for-word record of the meeting. For example, a one-hour product development meeting generates a searchable document containing every feature discussion, technical requirement, and team decision.
-* [Action items](/releases/add-action-items-to-meetings) are pulled directly from the conversation. When someone says "John will update the wireframes by Friday," the AI automatically creates a tracked task with the assignee and deadline.
-* Meeting summaries distill hour-long conversations into 2-3 paragraphs. A 45-minute sprint planning meeting becomes a concise overview of sprint goals, resource allocation, and key decisions.
-* Topic segmentation breaks discussions into labeled sections. A client call covering multiple projects is automatically divided into sections like "Website Redesign," "Q1 Marketing Campaign," and "Budget Review."
-
-## Other key features
-In addition to the quality of these deliverables, we'll want to look at a number of other key factors:
-* Ease-of-use: does it have a simple, intuitive setup that works for non-technical users?
-* In-person meeting support: can it transcribe audio from live recordings or uploaded files, not just virtual calls?
-* Security and privacy: how is customer data handled on the platform?
-* Integrations: can it connect with your existing stack, like HubSpot, Notion, or Slack?
-* Functionality: does it go beyond transcriptions and actually help you take action?
-* Languages: can it transcribe and summarize meetings in different languages?
-* Desktop and mobile apps: can you access it on Windows, Mac, iOS, and Android for on-the-go meetings?
-
-## Understanding Fireflies.ai and Otter.ai
 Fireflies.ai is a cloud-based AI meeting assistant that joins video conferences as a participant to record, transcribe, and summarize discussions. The system works across major platforms like Zoom, Teams, and Google Meet, providing transcripts with speaker labels and AI-generated summaries of key points and action items. Users can search transcripts by keyword, query meeting content with the AskFred chatbot, and connect to workflow tools like Slack, Asana, and CRM systems. It offers mobile app support and can handle in-person meetings and voice notes.
 
 The service operates on a tiered pricing model with a free plan offering limited credits, a Pro plan (~$10/user/month) for unlimited audio recording, and a Business plan (~$19/user/month) that adds video recording and analytics. Fireflies transcribes in over 100 languages and offers numerous integrations, though it lacks a dedicated desktop app. Users report good transcription quality across languages but note that accuracy can decrease with heavy accents or technical jargon, and some find the AI summaries too high-level.
@@ -59,6 +42,26 @@ The service offers tiered pricing starting with a free plan allowing 600 minutes
 Fireflies.ai tends to work better for multinational teams needing language support across diverse meeting contexts. The tool's strengths in supporting numerous languages and basic CRM integrations make it suitable for sales teams and global organizations that require simple meeting capture across different communication platforms.
 
 Otter.ai is more appropriate for English-speaking users who need real-time transcription and the ability to interact with transcripts during meetings. Its OtterPilot feature offers slightly more robust automation for teams that primarily use English and need basic follow-up mechanisms, though both tools ultimately fall short on transforming meeting content into truly actionable workflows.
+
+## Fireflies.ai vs Otter.ai: What do users say?
+
+User reviews of Fireflies.ai highlight its ease of use and strong transcription quality, with many praising its ability to accurately capture meeting content even in multiple languages. Users appreciate the quick delivery of summaries and action items, which streamlines follow-ups. The integration capabilities with project management and CRM tools are frequently mentioned as beneficial for team workflows. However, some reviewers note that summaries can be too high-level, missing nuance or original phrasing. Transcription accuracy diminishes with heavy accents or technical jargon, and some users find the interface cluttered or receive too many notifications. The free plan's limitations on advanced features are also a common complaint.
+
+Otter.ai receives positive feedback for its intuitive interface and real-time transcription capabilities. Users value the ability to highlight or comment during meetings and appreciate the time-saving aspect of automatic note generation. The generous free tier is also mentioned favorably. However, many reviewers point out that transcripts can be excessively verbose and poorly structured, making it difficult to quickly identify key information. Accuracy issues are reported with complex audio, and some users complain about the assistant joining unwanted meetings or sending too many calendar invites. The 40-minute cap on free Zoom meetings is a frequently cited limitation.
+
+For more information about these AI meeting assistants, readers can check out [CNET's review of Otter.ai](https://www.cnet.com/tech/services-and-software/otter-ai-review/), [Reddit discussions about Otter.ai's effectiveness](https://www.reddit.com/r/ProductManagement/comments/1866ags/is_otterai_worth_it_for_meeting_minutes/), [Trustpilot reviews of Otter.ai](https://www.trustpilot.com/review/otter.ai), [user experience with Fireflies.ai on Reddit](https://www.reddit.com/r/AIToolTesting/comments/1g55mmv/fireflies_ai_review_the_good_the_bad_and_the/), and [The Business Dive's comprehensive review of Fireflies.ai](https://thebusinessdive.com/fireflies-ai-review).
+
+## FAQs 
+• Would Fireflies.ai work for in-person meetings? What about Otter.ai?
+Yes, both Fireflies.ai and Otter.ai work for in-person meetings. Fireflies.ai has a mobile app that can record in-person meetings and voice notes. Similarly, Otter.ai can transcribe live in-person conversations via its app.
+
+• What about meeting bots? Does either of these tools require a meeting bot?
+Fireflies.ai works by sending a bot participant ("Fred") that joins meetings to record, transcribe, and summarize discussions across platforms like Zoom, Microsoft Teams, Google Meet, and Webex. Otter.ai also has an assistant that can join meetings in real time for Zoom, Teams, etc.
+
+• What do users say about the quality of transcriptions?
+For Fireflies.ai, users report good transcription quality, even in other languages like Dutch, though accuracy can dip with heavy accents or technical jargon, with some reviewers noting misidentified speakers or missed slang.
+
+For Otter.ai, users mention that transcripts can be overly verbose and lack structure. Some reviews note mistakes in transcription or speaker identification, especially with complex audio.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
