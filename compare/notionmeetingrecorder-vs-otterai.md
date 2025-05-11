@@ -60,8 +60,6 @@ Notion Meeting Recorder doesn't use a meeting bot - it relies on your device's a
 Otter.ai, on the other hand, does offer an assistant that can join meetings in real time via integrations with Zoom, Teams, etc. This is mentioned as "OtterPilot" which can join meetings.
 
 • What do users say about the quality of transcriptions?
-For Notion Meeting Recorder, the context doesn't specifically address transcription quality feedback. Early users report that "Notion's AI does a good job extracting key points from dense conversations."
-
 For Otter.ai, users note that "accuracy can suffer with complex audio" with "some reviews noting mistakes in transcription or speaker ID." The transcripts can also be "overly verbose and lack structure, making it hard to quickly find key takeaways."
 
 ## Another alternative: Circleback
