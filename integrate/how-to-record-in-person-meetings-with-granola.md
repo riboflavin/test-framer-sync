@@ -4,9 +4,7 @@ title: Recording in-person meetings with Granola - Practical solutions
 description: Learn practical strategies for optimizing Granola to capture in-person meetings despite challenges with speaker identification. Discover device placement tips, naming techniques, iPhone app advantages, and post-meeting review strategies.
 ---
 
-Recording in-person meetings with Granola – Workarounds
-
-## Summary
+# Recording in-person meetings with Granola – Workarounds
 
 While Granola excels at capturing virtual meetings, in-person gatherings present unique challenges because all voices arrive through a single microphone input, complicating speaker identification. This article details pragmatic approaches to optimize Granola for face-to-face meetings, including strategic device placement, encouraging explicit name usage during discussions, leveraging the iPhone app's superior audio capabilities, and employing thoughtful post-meeting review techniques. With these adjustments, Granola can effectively document in-person conversations despite its design orientation toward virtual meetings.
 
