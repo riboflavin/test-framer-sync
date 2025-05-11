@@ -4,9 +4,7 @@ title: How to Transcribe an Earnings Call
 description: Learn why transcribing earnings calls is valuable, how to prepare, methods for creating accurate transcripts manually or with AI tools, and best practices for handling financial information.
 ---
 
-How to Transcribe an Earnings Call
-
-## Summary
+# How to Transcribe an Earnings Call
 
 Transcribing earnings calls creates a permanent, searchable record of important financial information. This article explains why transcription is valuable, how to prepare for it, and various methods to create accurate transcripts—both manually and using AI tools. It also covers common challenges, best practices, and where to find existing transcripts if you don't want to create them yourself.
 
