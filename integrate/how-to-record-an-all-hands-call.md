@@ -4,9 +4,7 @@ title: How to record an all-hands call
 description: A comprehensive guide to recording all-hands meetings effectively, covering preparation, tools, process, and best practices to ensure your recordings are accessible and useful for your entire team.
 ---
 
-How to record an all-hands call
-
-## Summary
+# How to record an all-hands call
 
 This guide explains how to record all-hands meetings effectively. It covers why recording matters, necessary preparation steps, tool selection, recording process, and best practices. Recording all-hands calls creates a reference for absent team members, documents important decisions, helps new hires, and allows participants to focus on the meeting rather than note-taking. The article provides practical advice for before, during, and after recording to ensure your all-hands recordings are useful and accessible.
 
