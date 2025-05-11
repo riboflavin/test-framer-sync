@@ -4,9 +4,7 @@ title: Recording in-person meetings with Krisp – Workarounds
 description: Learn how to use Krisp for recording in-person meetings with three effective workarounds: creating a virtual bridge, using your laptop as a meeting observer, or connecting dedicated audio hardware.
 ---
 
-Recording in-person meetings with Krisp – Workarounds
-
-## Summary
+# Recording in-person meetings with Krisp – Workarounds
 
 This article explains techniques for using Krisp to record in-person meetings, despite the tool being primarily designed for virtual conferencing. It presents three main approaches: creating a virtual bridge through a conferencing app, using your laptop as a meeting observer, or connecting dedicated audio hardware. The article covers implementation steps for each method, best practices, post-meeting processing, limitations, and privacy considerations.
 
