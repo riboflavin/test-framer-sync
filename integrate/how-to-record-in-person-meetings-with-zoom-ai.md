@@ -6,8 +6,6 @@ description: Learn practical methods for using Zoom to record face-to-face meeti
 
 # Recording in-person meetings with Zoom – Workarounds
 
-## Executive summary
-
 This article explains how to use Zoom to record in-person meetings despite the platform being primarily designed for virtual interactions. It outlines three methods for recording face-to-face conversations: using a mobile device, laptop, or dedicated audio equipment. The article details the requirements for accessing Zoom's Smart Recording features, which provide AI-powered organization tools like automatic chapter creation, highlights, and action item extraction. Practical applications in medical, business, and educational settings are discussed, along with important legal considerations about consent and privacy.
 
 ## The in-person meeting challenge
