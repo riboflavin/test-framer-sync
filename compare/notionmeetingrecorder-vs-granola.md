@@ -52,9 +52,6 @@ Yes, Notion Meeting Recorder works for in-person meetings as it can "capture in-
 • What about meeting bots? Does either of these tools require a meeting bot?
 Neither tool requires a meeting bot. Notion Meeting Recorder "doesn't have a live 'bot' joining calls – it relies on your device's audio" and uses a "local recording approach (rather than inserting a bot participant)." Similarly, Granola "listens to meetings without needing a bot in the call" and works "discreetly with no meeting intrusion."
 
-• What do users say about the quality of transcriptions?
-The context doesn't provide specific user comments about the quality of transcriptions for either tool. The context mentions that early Notion users report "Notion's AI does a good job extracting key points from dense conversations," but doesn't directly address transcription quality. For Granola, the context mentions users love the "set and forget" note-taking and that it delivers "well-organized summaries," but doesn't specifically comment on transcription quality.
-
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
 * Automatically-identified and assigned action items
