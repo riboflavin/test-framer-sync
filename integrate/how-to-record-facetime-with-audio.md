@@ -4,7 +4,7 @@ title: How to record FaceTime with audio
 description: Learn practical methods to record FaceTime calls with audio from all participants despite Apple's privacy restrictions, including external devices, third-party apps, and built-in tool workarounds.
 ---
 
-How to record FaceTime with audio
+# How to record FaceTime with audio
 
 ## Summary
 
