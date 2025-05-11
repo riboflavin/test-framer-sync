@@ -4,9 +4,7 @@ title: Recording in-person meetings with Avoma – Workarounds
 description: Learn three practical workarounds for recording in-person meetings with Avoma, including setting up a conference bridge, uploading pre-recorded files, and implementing hybrid approaches for larger meetings.
 ---
 
-Recording in-person meetings with Avoma – Workarounds
-
-## Summary
+# Recording in-person meetings with Avoma – Workarounds
 
 Avoma is designed primarily for digital communication platforms rather than in-person conversations. This article outlines three practical workarounds for using Avoma with in-person meetings: setting up a conference call bridge, uploading pre-recorded meeting files, and implementing a hybrid approach for larger meetings. It also provides guidance on optimizing audio quality, managing speaker identification after recording, and maintaining compliance with recording laws.
 
