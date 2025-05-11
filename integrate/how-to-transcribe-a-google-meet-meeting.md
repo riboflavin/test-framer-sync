@@ -4,9 +4,7 @@ title: How to transcribe a Google Meet meeting
 description: Learn how to use Google Meet's transcription feature to automatically convert your meetings into text, including availability requirements, step-by-step setup instructions, and tips for getting the most accurate results.
 ---
 
-How to transcribe a Google Meet meeting
-
-## Summary
+# How to transcribe a Google Meet meeting
 
 Google Meet's transcription feature turns your spoken words into text during meetings, making it easier to capture important information without taking manual notes. This article explains who can use this feature, how to enable it, and tips for getting the most accurate transcriptions. We'll also look at how tools like Circleback can enhance your meeting documentation beyond basic transcription, helping you track action items and key decisions.
 
