@@ -58,7 +58,7 @@ To learn more about these tools, check out [Fireflies AI review on Reddit](https
 
 • Regarding meeting bots: Notion Meeting Recorder does not require a meeting bot - it records audio locally from your computer or device directly. In contrast, Fireflies.ai uses a bot participant ("Fred") that joins meetings to record, transcribe, and summarize discussions across platforms like Zoom, Microsoft Teams, and Google Meet.
 
-• On transcription quality: For Notion, there aren't specific mentions about transcription quality in the provided context. For Fireflies.ai, users report good transcription quality overall, including in other languages like Dutch. However, some users note that transcription accuracy can decrease with heavy accents or technical jargon, with several reviewers mentioning misidentified speakers or missed slang.
+• On transcription quality: For Fireflies.ai, users report good transcription quality overall, including in other languages like Dutch. However, some users note that transcription accuracy can decrease with heavy accents or technical jargon, with several reviewers mentioning misidentified speakers or missed slang.
 
 ## Another alternative: Circleback
 Circleback provides best-in-class AI-powered meeting notes and automations. We support over 100 languages and automatic participant identification in both in-person and online meetings.
