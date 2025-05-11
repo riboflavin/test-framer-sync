@@ -1,6 +1,6 @@
 ---
 type: how-to
-title: Recording Earnings Calls: A Complete Guide to Capturing and Analyzing Financial Discussions
+title: Recording Earnings Calls – A Complete Guide to Capturing and Analyzing Financial Discussions
 description: Learn why and how to record earnings calls for deeper financial analysis, including step-by-step recording methods, AI-powered insights, and organizing your recordings for maximum value.
 ---
 
