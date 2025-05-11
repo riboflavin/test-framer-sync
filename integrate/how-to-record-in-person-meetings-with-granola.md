@@ -1,99 +1,89 @@
 ---
 type: how-to
-title: Recording in-person meetings with Granola – workarounds
-description: Learn how to effectively use Granola for in-person meetings despite speaker identification limitations, with setup optimization tips, strategic techniques, and iPhone app advantages.
+title: Recording in-person meetings with Granola - Practical solutions
+description: Learn practical strategies for optimizing Granola to capture in-person meetings despite challenges with speaker identification. Discover device placement tips, naming techniques, iPhone app advantages, and post-meeting review strategies.
 ---
 
-# Recording in-person meetings with Granola – workarounds
+Recording in-person meetings with Granola – Workarounds
 
-Granola primarily serves virtual meetings and faces a key limitation with in-person meetings: all participants register as a single speaker since everyone's voice enters through one microphone. Despite this constraint, you can still produce valuable meeting records by optimizing your setup, using strategic techniques, and employing the iPhone app which offers better speaker identification. This guide covers practical workarounds and methods to maximize Granola's utility for face-to-face discussions.
+## Summary
+
+While Granola excels at capturing virtual meetings, in-person gatherings present unique challenges because all voices arrive through a single microphone input, complicating speaker identification. This article details pragmatic approaches to optimize Granola for face-to-face meetings, including strategic device placement, encouraging explicit name usage during discussions, leveraging the iPhone app's superior audio capabilities, and employing thoughtful post-meeting review techniques. With these adjustments, Granola can effectively document in-person conversations despite its design orientation toward virtual meetings.
 
 ## Understanding Granola's in-person meeting limitations
 
-Granola works by using your device's system audio and microphone to differentiate between speakers. In an in-person meeting, this creates a fundamental limitation: the app registers all participants as a single speaker since everyone's voice comes through your microphone rather than as separate audio streams.
+Granola primarily captures audio through your device's microphone and system audio. For virtual meetings, this works seamlessly - distinguishing between your voice and others on the call. However, during in-person gatherings, all voices come through your microphone as a single audio source, creating some limitations.
 
-Despite this limitation, Granola can still produce valuable meeting notes with some adjustments to your approach.
+Speaker identification becomes less reliable as everyone is captured through one input. The transcript registers all participants as a single speaker. Distance from your device's microphone can affect audio quality and transcription accuracy.
 
-## Optimizing your setup for in-person recording
+Despite these challenges, Granola can still be a powerful tool for in-person meetings with the right approach.
 
-To maximize Granola's effectiveness during in-person meetings:
+## Key workarounds for in-person meetings
 
-### Device positioning
-Place your device centrally on the meeting table where it can clearly capture everyone's voices. For larger meetings, position it closer to quiet speakers or move it as needed when different people are speaking.
+### Use names actively during conversations
 
-### Microphone quality
-Your device's microphone quality directly affects transcription accuracy. For large meeting rooms, an external microphone with wider pickup range can dramatically improve audio capture.
+One of the simplest yet most effective strategies is to encourage everyone to use names during discussions. For example: "Maria, what do you think about the timeline for the project launch?" or "I agree with what John just mentioned about the budget constraints."
 
-### Room acoustics
-Choose quieter meeting locations when possible. Close windows to reduce outdoor noise. In rooms with hard surfaces that create echoes, position yourself and your device to maximize clarity.
+By explicitly stating names, you're manually tagging speakers in the conversation, which helps Granola's processing algorithms better identify who said what. This significantly improves the quality of your enhanced notes after the meeting.
 
-## Using Granola for in-person meetings: Step-by-step
+### Optimal device placement
 
-1. **Create a meeting entry**
-   Ensure meetings are in your calendar with attendee information, or create a new note manually for impromptu meetings.
+The position of your device during meetings greatly impacts transcription quality. Place your device in the center of the meeting table when possible. Ensure your microphone isn't obstructed by papers, coffee cups, or other items. For larger meetings, consider using an external microphone with better pickup range. Test the placement before important meetings to confirm everyone's voice is being captured.
 
-2. **Open Granola before starting**
-   Launch Granola and open the appropriate meeting note a few minutes early.
+For instance, in a conference room with 8 participants, you might need to move your laptop to different positions around the table depending on who's speaking most actively.
 
-3. **Start transcription manually**
-   For calendar events, transcription begins at the scheduled start time. For impromptu meetings, it begins when you open the notes.
+### Leverage the iPhone app advantage
 
-4. **Check your transcription**
-   Periodically check the live transcript by clicking the "dancing bars" icon to confirm audio capture.
+Granola's iPhone app features enhanced speaker identification for in-person meetings. The app is optimized for capturing multiple voices in physical spaces. Mobile device microphones are often designed to capture sound from various directions. Keep your iPhone unlocked with the Granola app open during the meeting and position the phone centrally with the microphone unobstructed.
 
-5. **Use name attribution during the meeting**
-   Instead of asking "What do you think?", say "Sarah, what do you think about this approach?"
+A product manager might bring both their laptop (for taking notes) and their iPhone (positioned in the center of the table for better audio capture) to a client meeting.
 
-6. **Take strategic notes**
-   Add contextual notes to highlight key points, decisions, or action items.
+### Create structure with manual note-taking
 
-7. **Query during the meeting as needed**
-   Use the Cmd+J shortcut to review earlier statements or catch up on missed points.
+While Granola captures the conversation, be strategic with your manual notes. Note speaker changes: "Alex speaking now about marketing budget." Add contextual markers: "Response to Sarah's proposal about timeline." Highlight key points with speaker attribution: "Maria's concern: Q3 resource allocation." Document non-verbal elements: "[Team reviewing dashboard on projector]."
 
-## iPhone option for better results
+These manual notations serve as guideposts for Granola's AI when processing and enhancing your notes.
 
-The iPhone app offers enhanced speaker identification for in-person meetings:
+### Calendar integration for context
 
-1. Place your iPhone in the center of the meeting table
-2. Ensure it remains unlocked during the meeting
-3. Keep the app in the foreground
+Always create calendar entries for in-person meetings with complete attendee list with email addresses, descriptive meeting title and agenda, and location details.
 
-## Working around speaker identification issues
+When Granola connects to your calendar event, it uses this information to provide context for the transcription and note enhancement. For example, a calendar entry titled "Product Roadmap Planning with Engineering Team" with all attendees listed gives Granola crucial context about who might be speaking.
 
-Employ these strategies to enhance transcript clarity:
+### Impromptu meeting mode
 
-### Manual speaker notation
-Annotate who is speaking during key moments: "[Marketing Director]: We need to increase our Q4 budget by 15%."
+For unscheduled in-person discussions, open Granola as soon as the conversation begins. Select "Impromptu Meeting" option. Begin manual note-taking while Granola transcribes. Label the meeting with descriptive titles afterward for easier reference.
 
-### Post-meeting clarification
-After the meeting, review the transcript and add speaker identifications.
+This approach works well for spontaneous hallway conversations that evolve into meaningful discussions worth documenting.
 
-### Use meeting structure
-Note which topics were addressed by which speakers in your meeting notes.
+## Enhanced post-meeting processing strategies
 
-### Name-based follow-ups
-Be explicit: "John will deliver the market research by Friday" rather than "You'll get that to us by Friday."
+After your in-person meeting concludes, you can maximize the value of your notes through several approaches.
 
-## Maximizing Granola's AI enhancement
+### Review and enhance immediately
 
-To improve AI-generated documentation:
+Don't wait to review your notes. While the conversation is fresh in your memory, scan through the transcript to identify any major speaker attribution errors. Add clarifying comments where speaker identification was ambiguous. Fill in any sections where audio quality might have affected transcription. Highlight the most significant insights that might need emphasis.
 
-### Add context in your notes
-Include background information and participant relationships.
+### Utilizing Granola's post-processing tools
 
-### Clarify ambiguities immediately
-Add clarifying notes right away rather than trying to decipher the transcript later.
+Granola offers several tools to improve your notes after an in-person meeting. Use the "zoom in" function to examine detailed sections of the transcript. Employ the "Ask Granola" feature with specific queries like: "What did Maria say about the project timeline?", "Summarize Alex's concerns about the budget", or "What action items did we agree upon?"
 
-### Use templates
-Leverage customizable templates for consistent note format regardless of the meeting environment.
+These targeted questions can help extract structured information even from a transcript with imperfect speaker identification.
 
-## Example scenario: Product team weekly sync
+### Exporting and sharing notes
 
-For a product team's in-person sync:
+When sharing meeting notes with attendees, export the enhanced notes rather than the raw transcript. Add a brief introduction explaining how the notes were captured. Invite participants to suggest corrections if their contributions were misattributed. Consider sharing in a collaborative platform where others can comment or clarify.
 
-1. Create a calendar event with all attendees listed
-2. Position your device centrally
-3. Start with: "Weekly Product Sync with Alex, Priya, Devon, and Jordan"
-4. Prompt speakers by name: "Priya, can you update us on the user testing results?"
-5. Manually add speaker attributions for critical decisions
-6. Verbally summarize key points: "So to recap what Jordan just shared..."
+## Special considerations for different meeting types
+
+### Small group discussions (2-4 people)
+
+In intimate settings, Granola typically performs well with minimal adjustments. Position your device centrally, maintain consistent speaking volumes, use names naturally in conversation, and consider using iPhone app for optimal results.
+
+### Larger meetings and workshops
+
+For meetings with 5+ participants, request participants speak one at a time when possible. Position yourself (with your device) near the center of activity. Consider using both desktop and iPhone apps simultaneously for redundancy. Take more active manual notes with speaker identifications.
+
+### Panel discussions and presentations
+
+When recording more structured formats, position your device closer to the presenters/panelists if possible. Note speaker transitions in your manual notes. Add context about visual elements being discussed. Create section breaks in your notes for different presentation segments.
