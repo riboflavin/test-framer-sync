@@ -6,8 +6,6 @@ description: Discover practical solutions for recording, transcribing, and integ
 
 # Recording in-person meetings with Notion – Workarounds
 
-## Summary
-
 This article addresses the challenge of documenting in-person meetings in Notion. Most teams need a way to record conversations, generate transcripts, and integrate this information into their Notion workspaces. The article covers several approaches, from mobile recording apps like Tactiq and Fireflies to third-party services like Claap and Otter.ai. It also explains budget-friendly options using Notion AI and automation solutions through Zapier or custom API integrations. The piece concludes with best practices for recording meetings and suggestions for building a comprehensive meeting system in Notion.
 
 ## The challenge of in-person meeting documentation
