@@ -1,82 +1,57 @@
 ---
 type: how-to
-title: Recording in-person meetings with Zoom AI – workarounds
-description: Learn how to use Zoom AI to capture, transcribe, and analyze in-person meetings by starting a solo meeting on your mobile device, providing you with AI-generated transcripts, highlights, chapters, and action items.
+title: Recording in-person meetings with Zoom – Workarounds
+description: Learn practical methods for using Zoom to record face-to-face meetings while leveraging AI-powered Smart Recording features to organize conversations, create chapters, and extract action items - with important ethical and legal considerations.
 ---
 
-# Recording in-person meetings with Zoom AI – workarounds
+# Recording in-person meetings with Zoom – Workarounds
 
-This article explains how to use Zoom AI to record and analyze in-person meetings by starting a solo Zoom meeting on your mobile device during real-world conversations. The method provides transcripts, highlights, smart chapters, and action items from in-person discussions. The technique requires a Zoom Workplace Pro account or higher with Smart Recording enabled, and always requires consent from all participants.
+## Executive summary
 
-## Why use Zoom AI for in-person meetings?
+This article explains how to use Zoom to record in-person meetings despite the platform being primarily designed for virtual interactions. It outlines three methods for recording face-to-face conversations: using a mobile device, laptop, or dedicated audio equipment. The article details the requirements for accessing Zoom's Smart Recording features, which provide AI-powered organization tools like automatic chapter creation, highlights, and action item extraction. Practical applications in medical, business, and educational settings are discussed, along with important legal considerations about consent and privacy.
 
-In-person meetings often contain critical information that's easy to miss. When a neurologist rapidly presents treatment options or a business meeting covers essential details, capturing everything accurately becomes crucial.
+## The in-person meeting challenge
 
-## The workaround method
+While Zoom excels at recording virtual meetings, many important conversations still happen face-to-face. Medical appointments, business meetings with multiple stakeholders, educational discussions, and legal consultations all benefit from accurate recording. 
 
-The technique is straightforward: start a solo Zoom meeting on your phone during an in-person meeting, activate recording, and let Zoom AI generate summaries, transcripts, and insights afterward.
+Consider this scenario: a man visits a neurologist alone and returns confused about treatment options the doctor had explained rapidly. This highlights a perfect use case for recording in-person conversations with organizational tools to help process complex information.
 
-## What you'll need
+## Using Zoom's AI features for meeting recording
 
-- Zoom Workplace Pro account or higher
-- Cloud recording enabled
-- Audio transcript feature enabled
-- Smart Recording with AI Companion enabled
-- A smartphone or tablet
-- Permission from all participants
+Zoom's Smart Recording transforms simple video captures into organized, searchable content. When enabled, it automatically divides recordings into chapters for easier navigation, creates highlights of important discussion points, generates next steps from the conversation, and provides analytics on conversation patterns. These features prove especially valuable for lengthy discussions or technical meetings where detail preservation matters.
 
-## Setting up Smart Recording
+## Setting up Zoom for in-person recording
 
-1. Sign in to the Zoom web portal
-2. Navigate to Settings
-3. Click the AI Companion tab
-4. Toggle on "Smart Recording with AI Companion"
-5. Select desired features (highlights, chapters, next steps, meeting coaching)
-6. Save settings
+### Method 1: Mobile device setup
 
-## How to record an in-person meeting
+Open the Zoom app on your smartphone or tablet before the meeting. Click "New Meeting" (you'll be the only participant). Position your device where it can clearly capture audio and video if desired. Tap "Record" and select "Record to the Cloud." After the meeting, end the session and wait for the cloud recording to process.
 
-1. Ensure your device is charged with Zoom installed
-2. Obtain explicit permission from all participants
-3. Start a solo meeting on your device
-4. Position your device centrally to capture audio clearly
-5. Tap "Record" and select "Record to the Cloud"
-6. Conduct your meeting normally
-7. Stop recording and end the meeting when finished
+### Method 2: Laptop setup
 
-## Accessing your Smart Recording
+Bring a laptop to the meeting and position it to capture participants. Launch Zoom and start a new meeting as the host. Ensure your microphone is configured to capture room audio. Click "Record" and select cloud recording. If presenting materials, share your screen to capture both conversation and visual content.
 
-1. Sign in to Zoom web portal
-2. Navigate to "Recordings & Transcripts"
-3. Click on your meeting recording
-4. Click the video thumbnail
+### Method 3: Dedicated audio device
 
-## Available features
+For situations where video isn't necessary, connect a quality microphone to your device. Launch a meeting with just yourself, choose audio-only recording to minimize file size, and position the microphone centrally to capture all participants.
 
-### Recording highlights
-The system identifies important segments automatically. You can edit highlights, add new ones, remove existing ones, and save selected highlights as a separate clip.
+## Requirements for Zoom Smart Recording
 
-### Smart chapters
-The recording gets divided into logical sections with timestamps. You can edit chapter titles, split chapters, adjust timeframes, and copy the chapter overview.
-
-### Next steps
-The system identifies action items mentioned toward the meeting's end. These can be edited and shared.
-
-### Meeting analytics
-If enabled, you'll receive insights about communication patterns including talk speed, talk-listen ratio, monologue duration, and filler word usage.
+To access Zoom's AI features, you need a licensed user account on Zoom Workplace Pro (or higher tier), cloud recording enabled, audio transcript creation enabled, and Smart Recording with AI Companion enabled. This is configured through the Zoom web portal under Settings > AI Companion.
 
 ## Practical applications
 
-This approach works well for:
-- Medical appointments
-- Business meetings
-- Educational settings
-- Legal consultations
-- Client meetings
+In medical appointments, you can create a new Zoom meeting on your phone before entering, position it to capture the conversation, and afterward review the AI-generated summary to ensure understanding. A patient visiting a cardiologist, for example, would receive an organized transcript with highlighted key points like medication instructions without taking frantic notes.
+
+For in-person business discussions, set up a laptop at the conference table, use Smart Recording to automatically generate meeting minutes, and leverage the "next steps" feature to track action items.
+
+In educational settings, position a device to record sessions, utilize smart chapters to organize different topics, and review highlights to focus on key concepts.
 
 ## Important considerations
 
-- Always obtain permission before recording
-- Position your device for optimal audio capture
-- This requires a paid Zoom account with specific features
-- Be mindful of cloud storage capacity
+Always inform all participants that you're recording and get their permission. Recording laws vary by location—some states require all-party consent. Be mindful of sensitive information being recorded and ensure recordings containing personal information are securely stored.
+
+For optimal recording quality, test your setup beforehand, consider room acoustics and background noise, position microphones centrally, ensure sufficient battery life, and check available cloud storage space.
+
+## Accessing and managing recordings
+
+After processing, sign in to the Zoom web portal, navigate to "Recordings & Transcripts," and select the Cloud Recordings tab. From there, you can access video playback, audio transcript, smart chapters, recording highlights, and next steps. These elements can be edited for accuracy before sharing.
