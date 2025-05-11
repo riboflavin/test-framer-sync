@@ -1,92 +1,47 @@
 ---
 type: how-to
-title: Recording in-person meetings with Avoma – workarounds
-description: Learn how to adapt Avoma for in-person meetings using parallel conference calls or separate recordings, with tips for optimizing audio quality and maintaining speaker identification.
+title: Recording in-person meetings with Avoma – Workarounds
+description: Learn three practical workarounds for recording in-person meetings with Avoma, including setting up a conference bridge, uploading pre-recorded files, and implementing hybrid approaches for larger meetings.
 ---
 
-# Recording in-person meetings with Avoma – workarounds
+Recording in-person meetings with Avoma – Workarounds
 
-Avoma is designed for digital meetings but can be adapted for in-person recording using two main workarounds: running a parallel conference call during your in-person meeting, or recording the meeting separately and uploading it afterward. Both methods have limitations around speaker identification and audio quality but can effectively capture meeting content for transcription and analysis.
+## Summary
 
-## Understanding Avoma's in-person meeting limitations
+Avoma is designed primarily for digital communication platforms rather than in-person conversations. This article outlines three practical workarounds for using Avoma with in-person meetings: setting up a conference call bridge, uploading pre-recorded meeting files, and implementing a hybrid approach for larger meetings. It also provides guidance on optimizing audio quality, managing speaker identification after recording, and maintaining compliance with recording laws.
 
-Avoma primarily works with video conferencing software and phone dialers, not in-person meetings. Its core functionality targets digital communication where speaker identification is straightforward. You can still use Avoma for in-person meetings through alternative approaches.
+## Understanding Avoma's limitations with in-person meetings
 
-## Method 1: Setting up a conference call during in-person meetings
+Avoma was primarily designed to integrate with digital communication platforms rather than capture in-person conversations. The platform doesn't offer direct support for recording meetings where participants are physically present in the same room. However, this doesn't mean you can't leverage Avoma's features for your in-person discussions—you'll just need to implement one of the workarounds described below.
 
-The simplest workaround is running a conference call alongside your in-person meeting.
+## Option 1: Setting up a conference call bridge
 
-**Implementation steps:**
+One of the most straightforward solutions is to set up a virtual conference call that runs during your in-person meeting. You can schedule a meeting using your preferred video conferencing tool, connect it to Avoma through your calendar integration, and join the virtual call from a laptop or mobile device during your in-person meeting. Place the device in a central location to capture audio from all participants and proceed with your meeting as normal while the call records.
 
-1. Schedule a meeting via your regular conferencing tool
-2. Configure Avoma to record this meeting
-3. Keep the call active on a device with a microphone during your in-person meeting
-4. Position the device centrally to maximize audio capture
+When using this method, you'll encounter two primary limitations. First, speaker identification issues will arise since only one microphone is capturing all voices in the room, meaning Avoma will only identify the host as the speaker. The AI cannot distinguish between different people speaking in the same physical space. Second, audio quality challenges will occur as participants sitting farther from the microphone may not be clearly captured. This affects transcription accuracy, AI note quality, and keyword detection.
 
-**Limitations:**
+## Option 2: Upload pre-recorded meeting files
 
-- Speaker identification will be minimal - Avoma typically recognizes only the call host
-- Audio quality depends on microphone placement and room acoustics
-- Participants far from the device may not be clearly recorded
+If you have access to separate recording equipment, you can capture your in-person meeting and then upload it to Avoma afterward. Avoma supports various file formats including MP4, AVI, MKV, MP3, and WAV.
 
-**Example scenario:** 
-A team places a laptop running a Zoom call in the center of their conference table. The resulting transcript will show most dialogue attributed to "Host" rather than specific individuals.
+The process involves recording your meeting using a dedicated recording device, smartphone, or video camera, ensuring the recording is saved in one of Avoma's supported formats, and then uploading it through your Avoma account. This method allows you to capture potentially higher quality audio using specialized equipment, which can significantly improve the transcription and analysis results.
 
-## Method 2: Upload recordings after the meeting
+## Option 3: Hybrid approach for larger meetings
 
-This approach lets you focus entirely on your meeting without managing a parallel call.
+For larger meetings where audio quality is especially important, a hybrid approach might be most effective. This involves setting up a conference call as in Option 1, having remote participants join normally, and using a high-quality conference room system with multiple microphones and speaker tracking capability for in-person attendees. Connect this system to the virtual meeting and ensure Avoma is set to record.
 
-**Steps:**
+This approach works well for scenarios like quarterly business reviews where some participants are remote and others are in a conference room. The conference room system provides better audio pickup for in-person participants, while still allowing Avoma to capture the entire conversation.
 
-1. Record your meeting using dedicated audio equipment
-2. Save the recording in an Avoma-supported format (mp4, avi, mkv, mp3, wav)
-3. Upload the recording to Avoma after the meeting
-4. Process to generate transcription and AI notes
+## Optimizing audio quality for better results
 
-**Considerations:**
+Regardless of which method you choose, optimizing audio quality will significantly improve your results with Avoma. Position the recording device or microphone centrally, ask participants to speak clearly and at a reasonable volume, minimize background noise, consider using external microphones when possible, test your setup beforehand for important meetings, and if possible, have key speakers sit closer to the microphone.
 
-- Requires separate recording equipment setup
-- Recording isn't immediately available in Avoma
-- Speaker identification remains challenging
+## Managing speaker identification post-recording
 
-**Example scenario:**
-A product manager records a focus group with a quality omnidirectional microphone, then uploads the file to Avoma for transcription and analysis of key feedback points.
+Since Avoma cannot automatically distinguish between multiple speakers in an in-person recording, you'll need to manage this manually. After the meeting is processed in Avoma, you can navigate to the transcript and use Avoma's speaker editing features to manually identify different speakers. Look for natural breaks in conversation or topic changes to help identify speaker transitions, add speaker names to the appropriate sections of the transcript, and save your changes to improve the usefulness of the transcript.
 
-## Optimizing your in-person recording quality
+While this requires additional work, it makes the final transcript much more valuable, especially for important meetings where attributing comments to specific individuals is necessary.
 
-**Audio Environment Considerations:**
-- Use quiet locations with minimal background noise
-- Close windows and doors to reduce environmental sounds
-- Turn off noisy equipment when possible
-- Ask participants to speak clearly
+## Compliance considerations
 
-**Microphone Placement Strategies:**
-- Position recording devices centrally
-- For larger groups, use multiple strategically placed devices
-- Test audio quality before starting
-- Manage speaking volumes based on proximity to microphones
-
-**Enhancing Speaker Identification:**
-- Have facilitators verbally identify speakers
-- Ask participants to state their names before speaking
-- Manually edit speaker names in the transcript later
-
-## Creating a hybrid approach for optimal results
-
-For meetings with both in-person and remote participants:
-
-1. Set up proper video conferencing equipment in your meeting room
-2. Gather in-person attendees around a quality microphone
-3. Connect remote participants via your standard platform
-4. Record the session with Avoma as you would a virtual meeting
-
-This captures remote participants clearly while also recording in-room discussion.
-
-## Compliance and consent considerations
-
-When recording meetings:
-
-- Inform all participants that recording is happening
-- Obtain appropriate consent per your jurisdiction
-- Consider displaying a visible recording notice
-- Follow organizational recording policies
+When recording in-person meetings, be mindful of applicable recording consent laws, which vary by location. Inform all participants that the meeting is being recorded, obtain explicit consent from everyone present, establish recording as a standard practice with advance notice for recurring meetings, follow your organization's policies regarding meeting recordings, and consider adding a note in meeting invitations about recording.
