@@ -4,10 +4,6 @@ title: How to transcribe a YouTube video
 description: Learn five methods to convert YouTube videos into text, including built-in features, third-party websites, AI tools, ChatGPT cleanup, and command-line options.
 ---
 
-How to transcribe a YouTube video
-
-## Summary
-
 This article explains how to convert spoken content from YouTube videos into written text. It covers five main methods: using YouTube's built-in transcript feature, third-party websites, AI tools, ChatGPT for cleanup, and command-line tools. The article also discusses practical applications, tips for better results, and privacy considerations. Transcription helps with accessibility, content repurposing, and creating searchable records of information.
 
 ## Why transcribe YouTube videos
