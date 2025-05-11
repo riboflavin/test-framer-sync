@@ -4,9 +4,7 @@ title: Recording in-person meetings with Fathom – Workarounds
 description: Learn practical methods for using Fathom to capture and summarize in-person meetings through virtual bridges, audio-only recording, hybrid setups, and post-meeting voice notes.
 ---
 
-Recording in-person meetings with Fathom – Workarounds
-
-## Summary
+# Recording in-person meetings with Fathom – Workarounds
 
 This article outlines practical methods for using Fathom, a virtual meeting assistant, to capture and summarize in-person meetings. It covers four main approaches: creating a virtual bridge via video conferencing platforms, capturing audio-only meetings, implementing a hybrid meeting setup, and recording post-meeting voice notes. The article also addresses best practices for audio quality, privacy considerations, and how to maximize Fathom's features once content is captured.
 
