@@ -1,71 +1,119 @@
 ---
 type: how-to
 title: Recording in-person meetings with Fathom – Workarounds
-description: Learn practical methods for using Fathom to capture and summarize in-person meetings through virtual bridges, audio-only recording, hybrid setups, and post-meeting voice notes.
+description: Learn practical workarounds to use Fathom AI notetaker for in-person meetings, including virtual bridge methods, hybrid approaches, audio-only solutions, and best practices for optimal results.
 ---
 
 # Recording in-person meetings with Fathom – Workarounds
 
-This article outlines practical methods for using Fathom, a virtual meeting assistant, to capture and summarize in-person meetings. It covers four main approaches: creating a virtual bridge via video conferencing platforms, capturing audio-only meetings, implementing a hybrid meeting setup, and recording post-meeting voice notes. The article also addresses best practices for audio quality, privacy considerations, and how to maximize Fathom's features once content is captured.
+# Using Fathom for in-person meetings
 
-## Understanding Fathom's capabilities
+Fathom is an AI notetaker designed for virtual meetings that records and transcribes video meetings, generates quick summaries, creates shareable video clips, and offers an interactive AI assistant for searching meeting content. While Fathom doesn't have a built-in solution for in-person meetings, there are several practical workarounds to extend its capabilities to face-to-face gatherings.
 
-Fathom transforms virtual meetings through automatic transcription and summarization of discussions. It delivers AI-generated meeting summaries within 30 seconds of conclusion, enables sharing video clips instead of text notes, integrates with productivity tools, supports multiple languages with translation capabilities, and provides an AI assistant for interacting with recordings.
+## Understanding Fathom's core capabilities
 
-The tool typically saves users about 20 minutes per meeting. For regular meeting participants, this adds up to roughly 1.5 weeks annually.
+Fathom works primarily as an AI notetaker for virtual meetings. It offers automatic recording and transcription of video meetings, AI-generated meeting summaries available within 30 seconds, the ability to create and share video clips of key moments, and an interactive AI assistant for searching meeting content. It integrates with CRMs and other productivity tools, and supports multiple languages with translation capabilities.
 
-## Workarounds for in-person meetings
+Fathom doesn't have a native solution for in-person meetings, which is why you need workarounds.
 
-### 1. Create a virtual bridge
+## Workaround 1: The virtual bridge method
 
-The simplest approach is creating a virtual meeting that runs during your in-person conversation.
+The most straightforward approach to using Fathom for in-person meetings is to create a virtual bridge.
 
-Set up a meeting on your preferred platform (Zoom, Google Meet, or Microsoft Teams) on your laptop. Position your device to capture participants if visual recording matters, and ensure your microphone can pick up everyone clearly. Join the meeting with Fathom enabled and let it run throughout your discussion.
+**How it works:**
+1. Set up a laptop or tablet with a video conferencing tool (Zoom, Google Meet, or Microsoft Teams)
+2. Position the device to capture the room's participants
+3. Start a meeting with just yourself as the host
+4. Activate Fathom to join the virtual meeting
+5. Ensure the device's microphone can pick up the room's conversation
 
-A marketing team meeting in a conference room could position a laptop at one end of the table running a virtual meeting with Fathom enabled. The laptop would capture the brainstorming session, with Fathom providing a transcript and summary afterward.
+**Practical Example:**
+Sarah, a project manager at a design firm, has weekly in-person team meetings. She sets up her laptop on the conference table, starts a Zoom meeting, and enables Fathom. The laptop's camera captures the team members seated around the table, while its microphone records their discussion. After the meeting, Sarah has access to Fathom's AI summary and searchable transcript, which she shares with team members who couldn't attend.
 
-### 2. Audio-only capture
+**Considerations:**
+- Room acoustics may impact audio quality
+- Proper microphone placement is crucial
+- External microphones may improve audio capture in larger rooms
+- Test the setup before important meetings
 
-When video isn't necessary, focusing solely on audio can be less intrusive.
+## Workaround 2: The hybrid meeting approach
 
-Start a virtual meeting on your device with video disabled. Position your device centrally for optimal audio pickup, possibly using an external microphone for better sound quality. Enable Fathom for this audio-only meeting.
+This method works particularly well for situations where some team members are remote.
 
-During client consultations, a financial advisor could discreetly place their phone on the table running a meeting with Fathom enabled. This allows complete focus on the client while ensuring all details about financial goals are captured for later reference.
+**How it works:**
+1. Set up a standard hybrid meeting with remote participants joining via video conference
+2. Ensure in-room participants are visible on camera
+3. Use good quality conference room audio equipment
+4. Have Fathom join the meeting as it would normally
+5. Conduct the meeting as usual with both in-person and remote attendees
 
-### 3. Hybrid meeting approach
+**Practical Example:**
+Marcus leads a marketing team with members in multiple offices. During their quarterly planning session, five team members gather in the main conference room while three join remotely via Microsoft Teams. Marcus uses the room's professional audio/video setup to ensure remote participants can see and hear everyone clearly. Fathom joins the meeting automatically, capturing the entire discussion regardless of whether contributions come from in-room or remote participants.
 
-For larger gatherings or meetings with some remote participants, a hybrid approach works well.
+**Considerations:**
+- Conference room audio systems generally provide better sound quality
+- Ensure all in-room participants are visible on camera
+- Test the setup to confirm Fathom can accurately identify different speakers
 
-Set up your meeting room with standard video conferencing equipment. Have in-person attendees gather around the conference room setup while remote participants join via your usual platform. Enable Fathom to capture the entire session.
+## Workaround 3: The audio-only method
 
-A product team with distributed members could host quarterly planning with some members in the office and others joining remotely. The conference room setup would allow Fathom to capture both in-person and remote contributions.
+When video isn't necessary or practical, you can still use Fathom's transcription capabilities.
 
-### 4. Post-meeting voice notes
+**How it works:**
+1. Start a video meeting on your device without using the camera
+2. Place the device centrally to capture audio
+3. Activate Fathom to join the meeting
+4. Proceed with your in-person discussion
 
-For informal meetings when setting up a virtual meeting isn't practical, create a summary immediately afterward.
+**Practical Example:**
+Alex, a consultant, meets with clients in their offices frequently. During one particular strategy session, he places his tablet in the center of the table, starts a Google Meet without video, and enables Fathom. The tablet captures the audio of the two-hour brainstorming session. Afterward, Alex has a complete transcript and AI summary of all the ideas discussed, saving him hours of manual note-taking and ensuring nothing was missed.
 
-After your in-person meeting, start a quick solo virtual meeting. Verbally summarize the key points, decisions, and action items. Let Fathom capture and process this summary, then share the AI-generated notes with participants.
+**Considerations:**
+- Without video, Fathom may have more difficulty distinguishing between speakers
+- Consider introducing participants by name when they first speak
+- Higher-quality external microphones may improve transcription accuracy
 
-Following a casual coffee meeting with a potential partner, a founder could spend five minutes recording a summary using Fathom. This provides a structured record without disrupting the natural conversation flow.
+## Workaround 4: The recording device integration
 
-## Best practices for in-person recording
+For meetings where laptops or tablets might be distracting, consider using a dedicated recording device.
 
-### Optimize audio quality
+**How it works:**
+1. Use a high-quality audio recorder to capture the in-person meeting
+2. After the meeting, play back the recording in a video meeting with Fathom
+3. Let Fathom process the playback as if it were a live meeting
 
-Clear audio is crucial for Fathom's effectiveness. Position your device centrally when possible and consider using an omnidirectional external microphone for larger groups. Test your setup before important meetings. Ask participants to speak clearly and avoid talking over each other. Minimize background noise by closing windows and doors.
+**Practical Example:**
+Tanya, an executive coach, prefers to keep technology minimal during her coaching sessions. She uses a small professional audio recorder during her in-person sessions. After each session, she starts a Zoom meeting on her computer, plays back the recording, and has Fathom join to transcribe and summarize the coaching conversation. This provides her with searchable notes and action items while maintaining a distraction-free environment during the actual session.
 
-### Address privacy and consent
+**Considerations:**
+- This method requires additional time for playback
+- Audio quality is critical for accurate transcription
+- Test different playback methods to find what works best with Fathom
 
-Recording in-person conversations requires proper privacy considerations. Always inform all participants that the meeting is being recorded and obtain explicit consent. Explain how the recording will be used and who will have access. Be aware of local laws regarding audio recording. For formal or sensitive meetings, consider having written consent forms.
+## Best practices for all workarounds
 
-### Enhance the experience
+Regardless of which method you choose, these best practices will help optimize your experience:
 
-Bring a charger or power bank to maintain device power. Consider using a dedicated device just for recording. Select meeting locations with good acoustics. Have speakers state their names before speaking to help with identification. Designate someone to monitor the virtual meeting to mark highlights in Fathom.
+1. **Test your setup before critical meetings:** Run a trial with colleagues to ensure audio quality is sufficient for Fathom to produce accurate transcriptions.
 
-## Limitations to consider
+2. **Consider room acoustics:** Minimize background noise and echoes. Smaller rooms with soft furnishings typically produce better audio.
 
-These workarounds have limitations. Audio quality might not match purpose-built recording equipment. Speaker identification may be less accurate in groups. Visual cues and body language won't be captured effectively. Creating virtual meetings for in-person conversations adds complexity. Battery life and internet connectivity can affect longer meetings.
+3. **Use external microphones when possible:** For larger meetings, conference microphones or omnidirectional mics can dramatically improve audio capture.
 
-## Leveraging Fathom's features after capture
+4. **Speak clearly and avoid talking over others:** This helps Fathom accurately transcribe and attribute statements to the correct speakers.
 
-Once your in-person meeting is recorded, you can use Fathom's features: review the AI-generated summary, search the transcript for specific topics, share clips of important moments, ask the AI assistant questions about meeting content, export action items to task management systems, and integrate notes with your CRM.
+5. **Introduce key topics verbally:** Stating the current agenda item or discussion topic helps create better structure in Fathom's summaries.
+
+6. **Review and edit summaries:** While Fathom's AI is powerful, reviewing its output for any misinterpretations is always good practice.
+
+## Limitations and considerations
+
+While these workarounds can be effective, it's important to acknowledge certain limitations:
+
+- **Audio quality challenges:** In-person recording typically won't match the clarity of direct digital audio in virtual meetings.
+
+- **Speaker identification:** Fathom may struggle to correctly identify who is speaking without clear visual cues.
+
+- **Legal considerations:** Always inform attendees that the meeting is being recorded and get appropriate consent.
+
+- **Technical setup time:** These workarounds require additional setup compared to Fathom's integration with virtual meetings.
