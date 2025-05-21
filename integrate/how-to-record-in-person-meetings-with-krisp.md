@@ -1,67 +1,57 @@
 ---
 type: how-to
 title: Recording in-person meetings with Krisp – Workarounds
-description: Learn how to use Krisp for recording in-person meetings with three effective workarounds – creating a virtual bridge, using your laptop as a meeting observer, or connecting dedicated audio hardware.
+description: Learn three practical methods to adapt Krisp AI meeting recording software for in-person meetings, including audio bridge setup, hybrid meeting approach, and smartphone extension method.
 ---
 
 # Recording in-person meetings with Krisp – Workarounds
 
-This article explains techniques for using Krisp to record in-person meetings, despite the tool being primarily designed for virtual conferencing. It presents three main approaches: creating a virtual bridge through a conferencing app, using your laptop as a meeting observer, or connecting dedicated audio hardware. The article covers implementation steps for each method, best practices, post-meeting processing, limitations, and privacy considerations.
+Krisp is an AI meeting recording software that works with any conferencing app. While designed for virtual meetings, you can adapt it for in-person meetings with some straightforward approaches. This article explains three practical methods to record your in-person discussions using Krisp, along with optimization tips and best practices.
+
+## Understanding Krisp's capabilities
+
+Krisp offers automatic recordings with synchronized playback, highly accurate AI transcriptions, meeting summaries, action item generation, and flexible sharing options. These features make it useful for virtual meetings, but they can be adapted for face-to-face scenarios too.
 
 ## Why record in-person meetings?
 
-Recording in-person meetings creates an accurate record of discussions and decisions. It allows absent team members to catch up, provides material for detailed notes, ensures accountability for action items, and serves as a reference for future meetings on similar topics.
+Recording in-person meetings creates a reliable record of discussions and decisions. It lets attendees be fully present without extensive note-taking, provides clarity on commitments, enables knowledge sharing with absent team members, and serves as valuable material for training and onboarding.
 
-## Understanding Krisp's primary design
+## Workaround 1: Using Krisp as an audio bridge
 
-Krisp is an AI meeting assistant designed for virtual meetings on platforms like Zoom, Microsoft Teams, and Google Meet. It offers AI noise cancellation, meeting transcription, AI-powered summarization, and secure cloud storage. While not directly supporting in-person meeting recording, creative approaches can adapt Krisp's capabilities for face-to-face conversations.
+You can use Krisp as a bridge between your physical environment and a virtual meeting space.
 
-## Workaround 1: Create a virtual bridge
+Set up a solo meeting in your conferencing app, make sure both Krisp Microphone and Krisp Speaker are selected, place your device in the center of the meeting table, and start recording. Conduct a quick sound check to ensure all voices are being captured.
 
-You can transform your in-person meeting into a format Krisp processes by creating a virtual bridge.
+For example, a product manager might place her laptop in the center of a conference table during a brainstorming session. Krisp captures the entire conversation, providing a transcript and recording she can share afterward.
 
-Set up a meeting in your preferred conferencing app. Connect a conference microphone or use your laptop's built-in mic to capture room audio. Configure Krisp Microphone and Krisp Speaker as your audio devices in the app. Join the virtual meeting alone or have participants join with audio muted. Start recording through Krisp and conduct your meeting normally.
+## Workaround 2: The hybrid meeting approach
 
-This approach works well for small to medium rooms where a single microphone captures everyone clearly.
+For situations with both in-person and remote attendees, use a hybrid setup.
 
-## Workaround 2: The laptop as observer method
+Create a meeting invitation for everyone, use a conference room system with good audio pickup, make sure the meeting host has Krisp configured, start recording at the beginning, and share the recording link after the meeting.
 
-This simpler approach treats your laptop as a meeting participant that observes and records.
+A marketing director might lead a quarterly planning session using a conference room system connected to his Krisp-enabled laptop. The system captures both in-room voices and remote participants for a complete record.
 
-Place your laptop in the center of the meeting table. Start a new meeting in any conferencing platform. Configure Krisp as both microphone and speaker. Start Krisp's recording feature and conduct your meeting, speaking clearly to ensure all participants are captured.
+## Workaround 3: The smartphone extension method
 
-A product manager could place their laptop at the center of a design review, with Krisp capturing the entire conversation for absent team members.
+For informal or mobile meetings, your smartphone can extend Krisp's capabilities.
 
-## Workaround 3: Dedicated audio hardware connection
+Install a conferencing app on your smartphone, make sure Krisp is set up on your computer, join the meeting from both devices, position your phone to capture all voices, mute your computer microphone, and record via Krisp on your computer.
 
-For higher audio quality, connect dedicated audio equipment to your computer.
+A consultant conducting walking meetings with clients might join a meeting from both his laptop (left at a desk with Krisp recording) and his smartphone (carried during the walk).
 
-You'll need a conference room microphone (preferably omnidirectional), an audio interface or adapter for computer connection, and a laptop with Krisp installed.
+## Optimizing your in-person recording experience
 
-Link your conference microphone to your laptop via the audio interface. Set the external microphone as your input device. Create a meeting in your conferencing app. Configure Krisp as your audio processor. Start recording and check audio levels before your actual meeting begins.
+For best results, choose rooms with minimal echo, ensure all participants are within microphone range, minimize background noise, and position devices centrally.
 
-This setup serves larger conference rooms or situations where audio clarity is critical, such as board meetings or client presentations.
+Always inform participants that you're recording. Encourage clear speech without overlapping talk. Silence notifications on all devices, and ask people to state their name before making major points.
 
-## Best practices for in-person meeting recording
+After the meeting, review the transcript, generate a summary, extract action items, share selectively, and download important recordings for archiving.
 
-Always test your setup before the actual meeting. Inform participants that the meeting is being recorded. Position microphones strategically to capture all speakers. Ask participants to speak one at a time and project their voices. Have participants identify themselves before speaking. Consider a system for indicating when someone wants to speak.
+## Storage and security considerations
 
-## Post-meeting processing
+Krisp provides 5GB of storage space. All recordings are encrypted and stored in the cloud. You can control who views recordings through sharing features. Consider establishing guidelines for how long to keep recordings.
 
-After recording, find your transcript and recording on the My Meetings page. Review the AI-generated transcript for accuracy. Use Krisp's AI to create meeting summaries. Identify and assign tasks from the discussion. Distribute relevant information to all stakeholders.
+## Best practices for recording in-person meetings
 
-Krisp provides 5GB of secure, encrypted cloud storage for recordings.
-
-## Potential limitations
-
-Room acoustics and participant distance affect audio quality. Krisp may struggle to identify different speakers in a room. In-person meetings often have more ambient noise than online meetings. These workarounds require additional preparation time.
-
-## Example scenario: Quarterly planning meeting
-
-During a quarterly planning meeting with department heads, the marketing director could place a laptop in the center of the table, create a Zoom meeting configured with Krisp, start recording before discussions begin, conduct the planning session normally, then use Krisp to generate a detailed summary with action items, and share the recording, transcript, and summary with all department members.
-
-This ensures everyone stays aligned on quarterly goals, even those who couldn't attend.
-
-## Privacy and legal considerations
-
-Always inform participants that the meeting is being recorded. Comply with local recording laws, which vary by location. Establish clear guidelines about sharing recordings. Ensure recordings are stored securely.
+Test your setup before important meetings. Consider having a backup recording method for crucial discussions. Create a standard procedure for different meeting types. Be transparent about any limitations of your setup. Always get consent before recording conversations.
